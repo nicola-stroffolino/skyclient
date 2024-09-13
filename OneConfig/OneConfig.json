@@ -1,0 +1,21 @@
+{
+  "currentProfile": "Default Profile",
+  "autoUpdate": true,
+  "updateChannel": 0,
+  "favoriteMods": [],
+  "favoriteColors": [],
+  "recentColors": [
+    {
+      "hsba": [
+        0,
+        0,
+        0,
+        96
+      ],
+      "dataBit": -1
+    }
+  ],
+  "australia": false,
+  "enabled": true,
+  "canToggle": true
+}

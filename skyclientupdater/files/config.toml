@@ -1,0 +1,5 @@
+
+[general]
+	enable_skyclient_beta = false
+	show_button_on_settings_menu = true
+

@@ -1,0 +1,14 @@
+
+[general]
+	cleaner_enchantment_glint = true
+	2d_items = false
+	better_2d_items = true
+	spiderfrog_old_animations_item_usage_punching = true
+
+	[general.1]
+		"15+_armor_enchantment_glint" = true
+		7_item_switching = true
+		"7_mixces_item_/_block_positions" = true
+		7_third_person_blockhit_rendering = true
+		7_first_person_carpet_position = false
+

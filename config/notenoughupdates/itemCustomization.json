@@ -1,0 +1,72 @@
+{
+  "itemData": {
+    "6f1ec0b7-8396-493c-bc1a-fd2a790ebb42": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": true,
+      "enchantGlintValue": true,
+      "customGlintColour": "0:255:17:255:0",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING"
+    },
+    "06e346f6-5554-4d78-9a4b-8ae245b9d32e": {
+      "customName": "§eFarming #1",
+      "customNamePrefix": "§5",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING"
+    },
+    "5affd234-f6ef-4cc2-a8b2-93dc8538e41a": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": true,
+      "enchantGlintValue": true,
+      "customGlintColour": "0:255:12:255:0",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING"
+    },
+    "11dd898c-9625-4014-aa70-ca3fea524285": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:255:255:212:0",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING"
+    },
+    "f1966866-1c57-4059-9d22-c1afbc05a70d": {
+      "customName": "§dF*cking waste of inventory space",
+      "customNamePrefix": "§6",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING"
+    },
+    "1f9e650f-fd00-4075-bbcc-b23e52ed10a7": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": true,
+      "enchantGlintValue": true,
+      "customGlintColour": "0:255:0:255:14",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING"
+    },
+    "2261bcca-95e0-4c14-b049-32d1ce6c02cd": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": true,
+      "enchantGlintValue": true,
+      "customGlintColour": "0:255:0:255:27",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING"
+    },
+    "4d436304-32ad-4b7c-85dd-038ac137e72d": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:skull",
+      "customItem": "skull"
+    }
+  }
+}

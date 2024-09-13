@@ -1,0 +1,36 @@
+
+[bossbar]
+	bossbar_scale = 1.0
+	toggle_bossbar = true
+	toggle_shadow = true
+	toggle_bar = true
+	bossbar_x_offset = 0
+	bossbar_y_offset = 0
+	toggle_text = true
+
+[scoreboard]
+	scoreboard_background_color = "80,0,0,0"
+	toggle_scoreboard_text_shadow = true
+	toggle_background = true
+	toggle_scoreboard_border = false
+	scoreboard_border_color = "255,0,0,0"
+	toggle_scoreboard = true
+	toggle_score_points = false
+	scoreboard_title_background_color = "96,0,0,0"
+	scoreboard_x_offset = 0
+	scoreboard_border_width_amount = 2
+	scoreboard_scale = 1.0
+	scoreboard_y_offset = 0
+
+[action_bar]
+	background_padding_amount = 2
+	round_background = false
+	action_bar_x_offset = 0
+	action_bar_y_offset = 0
+	background_color = "128,0,0,0"
+	action_bar_shadow = true
+	action_bar_background = false
+	action_bar_scale = 1.0
+	rounded_background_radius_amount = 6
+	action_bar = true
+

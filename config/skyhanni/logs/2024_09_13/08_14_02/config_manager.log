@@ -1,0 +1,53 @@
+08:14:19 Trying to load config from config\skyhanni\config.json
+08:14:19 load-config-now
+08:14:19 Loaded config from file
+08:14:19 Trying to load sacks from config\skyhanni\sacks.json
+08:14:19 load-sacks-now
+08:14:19 Loaded sacks from file
+08:14:19 Trying to load friends from config\skyhanni\friends.json
+08:14:19 load-friends-now
+08:14:19 Loaded friends from file
+08:14:19 Trying to load known_features from config\skyhanni\known_features.json
+08:14:19 load-known_features-now
+08:14:19 Loaded known_features from file
+08:14:19 Trying to load jacob_contests from config\skyhanni\jacob_contests.json
+08:14:19 load-jacob_contests-now
+08:14:19 Loaded jacob_contests from file
+08:14:19 Trying to load visual_words from config\skyhanni\visual_words.json
+08:14:19 Setting visual_words to be blank as it did not exist. It will be saved once something is written to it
+08:15:19 saveConfig: auto-save-60s
+08:15:19 Saving config file
+08:15:54 saveConfig: Updated known feature flags
+08:15:54 Saving known_features file
+08:16:19 saveConfig: auto-save-60s
+08:16:19 Saving config file
+08:17:19 saveConfig: auto-save-60s
+08:17:19 Saving config file
+08:18:19 saveConfig: auto-save-60s
+08:18:19 Saving config file
+08:19:19 saveConfig: auto-save-60s
+08:19:19 Saving config file
+08:20:19 saveConfig: auto-save-60s
+08:20:19 Saving config file
+08:21:19 saveConfig: auto-save-60s
+08:21:19 Saving config file
+08:22:19 saveConfig: auto-save-60s
+08:22:19 Saving config file
+08:23:19 saveConfig: auto-save-60s
+08:23:19 Saving config file
+08:24:19 saveConfig: auto-save-60s
+08:24:19 Saving config file
+08:25:19 saveConfig: auto-save-60s
+08:25:19 Saving config file
+08:26:19 saveConfig: auto-save-60s
+08:26:19 Saving config file
+08:27:19 saveConfig: auto-save-60s
+08:27:19 Saving config file
+08:28:19 saveConfig: auto-save-60s
+08:28:19 Saving config file
+08:29:19 saveConfig: auto-save-60s
+08:29:19 Saving config file
+08:30:19 saveConfig: auto-save-60s
+08:30:19 Saving config file
+08:31:16 saveConfig: shutdown-hook
+08:31:16 Saving config file

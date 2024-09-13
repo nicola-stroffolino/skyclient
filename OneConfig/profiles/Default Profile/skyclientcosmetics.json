@@ -1,0 +1,14 @@
+{
+  "customMainMenu": true,
+  "showTags": true,
+  "shortenTags": false,
+  "rpcLineTwo": "SBE bad",
+  "rpcLineOne": "%player% is very cool",
+  "rpcImgText": "SkyClient is cool",
+  "rpc": true,
+  "joinMessage": false,
+  "hasWipedOutPSS": false,
+  "hasWipedOutReplayModAutoRecording": false,
+  "enabled": true,
+  "canToggle": true
+}

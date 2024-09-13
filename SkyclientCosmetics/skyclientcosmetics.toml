@@ -1,0 +1,24 @@
+
+[main]
+	custom_main_menu = true
+
+	[main.discord_rich_presence]
+		discord_rpc_img_text = "SkyClient is cool"
+		discord_rpc = true
+		discord_rpc_first_line = "%player% is very cool"
+		discord_rpc_second_line = "SBE bad"
+		sbe_sucks_mode = false
+
+	[main.hypixel]
+		hypixel_api_key = "76aabe20-3c96-4638-8aae-bf372c24603b"
+
+	[main.tags]
+		show_custom_tags = true
+		shorten_custom_tags = false
+		tags_in_display_names = false
+
+[misc]
+
+	[misc.chat]
+		first_time_message = false
+

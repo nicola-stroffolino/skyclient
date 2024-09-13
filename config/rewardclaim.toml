@@ -1,0 +1,6 @@
+
+[general]
+	show_double_click_confirmation = true
+	show_confirmation = true
+	checking_timer = 3000
+

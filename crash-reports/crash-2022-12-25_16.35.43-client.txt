@@ -1,0 +1,231 @@
+---- Minecraft Crash Report ----
+***Skytils detected Mixins in this crash***
+Mixin registrant mixin.crashpatch.json, class cc.woverflow.crashpatch.mixin.MixinMinecraft, transformed net.minecraft.client.Minecraft.handler$zml000$run
+
+WARNING: coremods are present:
+  SkyblockAddonsLoadingPlugin (SkyblockAddons-1.7.0-for-MC-1.8.9.jar)
+  FMLLoadingPlugin (Scrollable Tooltips-1.4 (1.8.9).jar)
+  ModTweaker (Patcher-1.8.5 (1.8.9).jar)
+  PatcherTweaker (Patcher-1.8.5 (1.8.9).jar)
+  Skytils On Top (Skytils-1.3.0.jar)
+  AsmHelperLoadingPlugin (ctjs-2.1.5-1.8.9.jar)
+Contact their authors BEFORE contacting forge
+
+// Hey, that tickles! Hehehe!
+
+Time: 25/12/22 16.35
+Description: Unexpected error
+
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at io.github.moulberry.notenoughupdates.overlays.TimersOverlay.update(TimersOverlay.java:365)
+	at io.github.moulberry.notenoughupdates.overlays.TextTabOverlay.tick(TextTabOverlay.java:45)
+	at io.github.moulberry.notenoughupdates.listener.NEUEventListener.onTick(NEUEventListener.java:184)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_43_NEUEventListener_onTick_ClientTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:49)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreClientTick(FMLCommonHandler.java:331)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1624)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1024)
+	at net.minecraft.client.Minecraft.handler$zml000$run(Minecraft.java:12227)
+	at net.minecraft.client.Minecraft.run(Minecraft.java)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124)
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:168)
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:114)
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:187)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:110)
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53)
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26)
+	at cc.woverflow.onecore.tweaker.OneCoreTweaker.<init>(OneCoreTweaker.java:16)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at java.lang.Class.newInstance(Class.java:442)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at io.github.moulberry.notenoughupdates.overlays.TimersOverlay.update(TimersOverlay.java:365)
+	at io.github.moulberry.notenoughupdates.overlays.TextTabOverlay.tick(TextTabOverlay.java:45)
+	at io.github.moulberry.notenoughupdates.listener.NEUEventListener.onTick(NEUEventListener.java:184)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_43_NEUEventListener_onTick_ClientTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:49)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreClientTick(FMLCommonHandler.java:331)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 33 total; [EntityPlayerSP['HotBaconWasTaken'/1121, l='MpServer', x=-68,70, y=123,00, z=2,81], EntityOtherPlayerMP['Uvet'/873, l='MpServer', x=-35,69, y=119,50, z=-0,09], EntityOtherPlayerMP['TobyLaLaLa'/997, l='MpServer', x=12,69, y=60,00, z=99,69], EntityOtherPlayerMP['Vaggus'/762, l='MpServer', x=-57,69, y=123,00, z=-2,97], EntityOtherPlayerMP['Legends_uZa'/1122, l='MpServer', x=-68,72, y=136,35, z=2,78], EntityOtherPlayerMP['TerminatorBers'/909, l='MpServer', x=-68,00, y=123,00, z=1,06], EntityOtherPlayerMP['17vuplvw9e'/4, l='MpServer', x=-36,50, y=119,00, z=10,50], EntityOtherPlayerMP['mr5ll137sj'/1, l='MpServer', x=-63,50, y=121,00, z=5,50], EntityOtherPlayerMP['1lqrf3k0yh'/2, l='MpServer', x=-63,50, y=121,00, z=-6,50], EntityOtherPlayerMP['m5q6p2d080'/3, l='MpServer', x=-68,50, y=123,00, z=0,50], EntityOtherPlayerMP['JaxobToast'/1209, l='MpServer', x=-62,84, y=121,00, z=-4,69], EntityOtherPlayerMP['Underhyler'/1231, l='MpServer', x=-69,63, y=131,00, z=-6,50], EntityOtherPlayerMP['SharkUWU_'/1240, l='MpServer', x=-24,59, y=120,50, z=46,69], EntityOtherPlayerMP['G8Face'/1246, l='MpServer', x=-50,84, y=131,03, z=-6,34], EntityOtherPlayerMP['James0101'/1284, l='MpServer', x=-65,28, y=121,00, z=-3,22], EntityOtherPlayerMP['summernight6763'/1285, l='MpServer', x=-59,00, y=121,02, z=1,53], EntityOtherPlayerMP['roee123'/1348, l='MpServer', x=-50,56, y=119,00, z=2,88], EntityOtherPlayerMP['lord_apple'/1388, l='MpServer', x=-66,69, y=121,50, z=2,22], EntityOtherPlayerMP['Nightmasu'/1415, l='MpServer', x=-71,69, y=132,50, z=2,69], EntityOtherPlayerMP['Ciyxs'/1432, l='MpServer', x=-67,72, y=122,50, z=1,44], EntityOtherPlayerMP['IClayMoreI'/1514, l='MpServer', x=-68,13, y=123,00, z=0,50], EntityOtherPlayerMP['Vorks'/1540, l='MpServer', x=-62,75, y=121,00, z=7,13], EntityOtherPlayerMP['BlueMate24'/1566, l='MpServer', x=-67,16, y=121,50, z=0,88], EntityOtherPlayerMP['Jessheim'/1575, l='MpServer', x=-67,22, y=121,50, z=0,47], EntityOtherPlayerMP['ArmadilloMining'/1581, l='MpServer', x=-53,50, y=119,00, z=-2,88], EntityOtherPlayerMP['gamethunder'/1585, l='MpServer', x=-68,34, y=123,00, z=3,38], EntityOtherPlayerMP['prokiller1st'/1594, l='MpServer', x=-62,44, y=121,00, z=5,22], EntityOtherPlayerMP['NotOdko'/1665, l='MpServer', x=-42,50, y=119,00, z=1,50], EntityOtherPlayerMP['NBY_Nooby'/1691, l='MpServer', x=-30,50, y=121,00, z=0,50], EntityOtherPlayerMP['Bridge_Player_'/1695, l='MpServer', x=-28,50, y=121,00, z=0,50], EntityOtherPlayerMP['Moinsen86'/1704, l='MpServer', x=-28,50, y=121,00, z=0,50], EntityOtherPlayerMP['franchinoSte'/1708, l='MpServer', x=-30,50, y=121,00, z=0,50], EntityOtherPlayerMP['TheSliceXmortis'/1716, l='MpServer', x=-30,50, y=121,00, z=0,50]]
+	Chunk stats: MultiplayerChunkCache: 225, 225
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: -31,00,121,00,0,00 - World: (-31,121,0), Chunk: (at 1,7,0 in -2,0; contains blocks -32,0,0 to -17,255,15), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 96162102 game time, 667040 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Forced entities: 234 total; [EntityOtherPlayerMP['mr5ll137sj'/1, l='MpServer', x=-63,50, y=121,00, z=5,50], EntityOtherPlayerMP['1lqrf3k0yh'/2, l='MpServer', x=-63,50, y=121,00, z=-6,50], EntityOtherPlayerMP['m5q6p2d080'/3, l='MpServer', x=-68,50, y=123,00, z=0,50], EntityOtherPlayerMP['17vuplvw9e'/4, l='MpServer', x=-36,50, y=119,00, z=10,50], EntityOtherPlayerMP['Vorks'/1540, l='MpServer', x=-62,75, y=121,00, z=7,13], EntityOtherPlayerMP['bedoggzi'/1495, l='MpServer', x=-67,68, y=122,26, z=2,13], EntityOtherPlayerMP['PegioWasFound_'/1650, l='MpServer', x=20,97, y=125,00, z=0,50], EntityOtherPlayerMP['RedstoneHaxor'/1310, l='MpServer', x=-69,59, y=123,00, z=0,50], EntityOtherPlayerMP['SharkUWU_'/1240, l='MpServer', x=-24,59, y=120,50, z=46,69], EntityOtherPlayerMP['BlueMate24'/1566, l='MpServer', x=-67,16, y=121,50, z=0,88], EntityOtherPlayerMP['mr5ll137sj'/1, l='MpServer', x=-63,50, y=121,00, z=5,50], EntityOtherPlayerMP['17vuplvw9e'/4, l='MpServer', x=-36,50, y=119,00, z=10,50], EntityOtherPlayerMP['TheSliceXmortis'/1716, l='MpServer', x=-30,50, y=121,00, z=0,50], EntityOtherPlayerMP['BlueMate24'/1566, l='MpServer', x=-67,16, y=121,50, z=0,88], EntityOtherPlayerMP['Jessheim'/1575, l='MpServer', x=-67,22, y=121,50, z=0,47], EntityOtherPlayerMP['m5q6p2d080'/3, l='MpServer', x=-68,50, y=123,00, z=0,50], EntityOtherPlayerMP['ArmadilloMining'/1581, l='MpServer', x=-53,50, y=119,00, z=-2,88], EntityOtherPlayerMP['j0yzk4mlzh'/5, l='MpServer', x=-20,63, y=120,00, z=-13,50], EntityOtherPlayerMP['1lqrf3k0yh'/2, l='MpServer', x=-63,50, y=121,00, z=-6,50], EntityArmorStand['Armor Stand'/48, l='MpServer', x=-138,50, y=44,53, z=-0,50], EntityArmorStand['Armor Stand'/49, l='MpServer', x=-54,50, y=80,53, z=-9,50], EntityOtherPlayerMP['gamethunder'/1585, l='MpServer', x=-68,34, y=123,00, z=3,38], EntityArmorStand['Armor Stand'/50, l='MpServer', x=-3,50, y=19,53, z=-16,50], EntityArmorStand['Armor Stand'/51, l='MpServer', x=1,50, y=132,53, z=75,50], EntityArmorStand['Armor Stand'/52, l='MpServer', x=17,50, y=122,53, z=-57,50], EntityArmorStand['Armor Stand'/53, l='MpServer', x=10,50, y=162,53, z=-9,50], EntityOtherPlayerMP['Juccyy'/1603, l='MpServer', x=-67,69, y=122,00, z=0,50], EntityArmorStand['Armor Stand'/58, l='MpServer', x=-17,50, y=91,06, z=-18,50], EntityOtherPlayerMP['SirMax04'/1373, l='MpServer', x=-57,41, y=121,00, z=22,34], EntityOtherPlayerMP['prokiller1st'/1594, l='MpServer', x=-62,44, y=121,00, z=5,22], EntityArmorStand['Armor Stand'/59, l='MpServer', x=-17,50, y=90,69, z=-18,50], EntityArmorStand['Armor Stand'/60, l='MpServer', x=-17,50, y=90,25, z=-18,50], EntityArmorStand['Armor Stand'/61, l='MpServer', x=-17,50, y=89,88, z=-18,50], EntityArmorStand['Armor Stand'/62, l='MpServer', x=-17,50, y=89,50, z=-18,50], EntityArmorStand['Armor Stand'/63, l='MpServer', x=-17,50, y=89,13, z=-18,50], EntityArmorStand['Armor Stand'/64, l='MpServer', x=-17,50, y=88,75, z=-18,50], EntityArmorStand['Armor Stand'/65, l='MpServer', x=-17,50, y=88,38, z=-18,50], EntityArmorStand['Armor Stand'/66, l='MpServer', x=-17,50, y=88,00, z=-18,50], EntityArmorStand['Armor Stand'/67, l='MpServer', x=-17,50, y=87,66, z=-18,50], EntityOtherPlayerMP['j0yzk4mlzh'/5, l='MpServer', x=-20,63, y=120,00, z=-13,50], EntityArmorStand['Armor Stand'/68, l='MpServer', x=-17,50, y=87,28, z=-18,50], EntityArmorStand['Armor Stand'/69, l='MpServer', x=-17,50, y=86,91, z=-18,50], EntityArmorStand['Armor Stand'/70, l='MpServer', x=-17,50, y=86,47, z=-18,50], EntityArmorStand['Armor Stand'/71, l='MpServer', x=-17,50, y=86,00, z=-18,50], EntityArmorStand['Armor Stand'/72, l='MpServer', x=-17,50, y=85,63, z=-18,50], EntityOtherPlayerMP['DeathMan853'/1448, l='MpServer', x=-70,78, y=123,00, z=-0,25], EntityArmorStand['Armor Stand'/73, l='MpServer', x=-36,50, y=119,00, z=10,50], EntityArmorStand['Armor Stand'/74, l='MpServer', x=-36,50, y=118,75, z=10,50], EntityArmorStand['§b§nClick to toggle!'/75, l='MpServer', x=-18,50, y=86,47, z=-22,50], EntityArmorStand['§a§lWith Return'/76, l='MpServer', x=-18,50, y=86,00, z=-22,50], EntityArmorStand['§7No Return'/77, l='MpServer', x=-18,50, y=85,63, z=-22,50], EntityArmorStand['Armor Stand'/78, l='MpServer', x=-15,50, y=91,06, z=-24,50], EntityOtherPlayerMP['Iamabot_'/1191, l='MpServer', x=-61,03, y=121,00, z=-0,75], EntityArmorStand['Armor Stand'/79, l='MpServer', x=-15,50, y=90,69, z=-24,50], EntityArmorStand['Armor Stand'/80, l='MpServer', x=-15,50, y=90,25, z=-24,50], EntityOtherPlayerMP['ZayanIsCool'/1270, l='MpServer', x=-46,51, y=119,19, z=-8,41], EntityArmorStand['Armor Stand'/81, l='MpServer', x=-15,50, y=89,88, z=-24,50], EntityArmorStand['Armor Stand'/82, l='MpServer', x=-15,50, y=89,50, z=-24,50], EntityArmorStand['Armor Stand'/83, l='MpServer', x=-15,50, y=89,13, z=-24,50], EntityArmorStand['Armor Stand'/84, l='MpServer', x=-15,50, y=88,75, z=-24,50], EntityArmorStand['Armor Stand'/85, l='MpServer', x=-15,50, y=88,38, z=-24,50], EntityOtherPlayerMP['Vinod_Gamer'/1292, l='MpServer', x=20,19, y=125,00, z=1,17], EntityArmorStand['Armor Stand'/86, l='MpServer', x=-15,50, y=88,00, z=-24,50], EntityArmorStand['Armor Stand'/87, l='MpServer', x=-15,50, y=87,66, z=-24,50], EntityArmorStand['Armor Stand'/88, l='MpServer', x=-15,50, y=87,28, z=-24,50], EntityOtherPlayerMP['Surajbha'/1411, l='MpServer', x=-49,56, y=119,00, z=0,50], EntityArmorStand['Armor Stand'/89, l='MpServer', x=-15,50, y=86,91, z=-24,50], EntityArmorStand['Armor Stand'/90, l='MpServer', x=-15,50, y=86,47, z=-24,50], EntityArmorStand['Armor Stand'/91, l='MpServer', x=-15,50, y=86,00, z=-24,50], EntityArmorStand['Armor Stand'/92, l='MpServer', x=-15,50, y=85,63, z=-24,50], EntityArmorStand['Armor Stand'/93, l='MpServer', x=-20,59, y=120,00, z=-13,50], EntityArmorStand['Armor Stand'/94, l='MpServer', x=-20,59, y=119,75, z=-13,50], EntityArmorStand['Armor Stand'/95, l='MpServer', x=-22,50, y=91,06, z=-15,50], EntityOtherPlayerMP['G8Face'/1246, l='MpServer', x=-50,84, y=131,03, z=-6,34], EntityArmorStand['Armor Stand'/96, l='MpServer', x=-22,50, y=90,69, z=-15,50], EntityArmorStand['Armor Stand'/97, l='MpServer', x=-22,50, y=90,25, z=-15,50], EntityArmorStand['Armor Stand'/98, l='MpServer', x=-22,50, y=89,88, z=-15,50], EntityOtherPlayerMP['Legends_uZa'/1122, l='MpServer', x=-68,72, y=136,35, z=2,78], EntityArmorStand['Armor Stand'/99, l='MpServer', x=-22,50, y=89,50, z=-15,50], EntityArmorStand['Armor Stand'/100, l='MpServer', x=-22,50, y=89,13, z=-15,50], EntityArmorStand['Armor Stand'/101, l='MpServer', x=-22,50, y=88,75, z=-15,50], EntityArmorStand['Armor Stand'/102, l='MpServer', x=-22,50, y=88,38, z=-15,50], EntityOtherPlayerMP['Clutch_Moi'/1491, l='MpServer', x=-32,34, y=120,53, z=0,50], EntityArmorStand['Armor Stand'/103, l='MpServer', x=-22,50, y=88,00, z=-15,50], EntityArmorStand['Armor Stand'/104, l='MpServer', x=-22,50, y=87,66, z=-15,50], EntityArmorStand['Armor Stand'/105, l='MpServer', x=-22,50, y=87,28, z=-15,50], EntityArmorStand['Armor Stand'/106, l='MpServer', x=-22,50, y=86,91, z=-15,50], EntityArmorStand['Armor Stand'/107, l='MpServer', x=-22,50, y=86,47, z=-15,50], EntityArmorStand['Armor Stand'/108, l='MpServer', x=-22,50, y=86,00, z=-15,50], EntityArmorStand['Armor Stand'/109, l='MpServer', x=-22,50, y=85,63, z=-15,50], EntityArmorStand['Armor Stand'/1133, l='MpServer', x=5,50, y=9,63, z=-2,50], EntityArmorStand['Armor Stand'/1134, l='MpServer', x=5,50, y=9,38, z=-2,50], EntityArmorStand['§cOphelia'/114, l='MpServer', x=-63,50, y=121,00, z=-6,50], EntityArmorStand['§e§lSHOP'/115, l='MpServer', x=-63,50, y=120,75, z=-6,50], EntityArmorStand['§cMalik'/116, l='MpServer', x=-63,50, y=121,00, z=5,50], EntityArmorStand['§e§lBLACKSMITH'/117, l='MpServer', x=-63,50, y=120,75, z=5,50], EntityOtherPlayerMP['Mambunio'/1155, l='MpServer', x=-68,97, y=123,00, z=-1,69], EntityArmorStand['§cMort'/126, l='MpServer', x=-68,50, y=123,00, z=0,50], EntityArmorStand['§e§lGATE KEEPER'/127, l='MpServer', x=-68,50, y=122,75, z=0,50], EntityArmorStand['§c§lNOT COMING SOON'/128, l='MpServer', x=-61,50, y=119,63, z=-20,50], EntityArmorStand['§c§lNOT COMING SOON'/129, l='MpServer', x=-61,50, y=119,63, z=21,50], EntityOtherPlayerMP['NotOdko'/1665, l='MpServer', x=-42,50, y=119,00, z=1,50], EntityOtherPlayerMP['_PARR0T'/1508, l='MpServer', x=-63,84, y=121,00, z=4,97], EntityOtherPlayerMP['Proazza'/1379, l='MpServer', x=-45,09, y=119,50, z=6,31], EntityOtherPlayerMP['Ninjaa_'/1195, l='MpServer', x=-67,69, y=122,00, z=0,72], EntityOtherPlayerMP['prokiller1st'/1594, l='MpServer', x=-62,44, y=121,00, z=5,22], EntityOtherPlayerMP['RoninRobin08'/1654, l='MpServer', x=-67,69, y=122,00, z=0,75], EntityOtherPlayerMP['SenpaiPhil'/1145, l='MpServer', x=-60,34, y=121,00, z=-1,09], EntityOtherPlayerMP['Nightmasu'/1415, l='MpServer', x=-71,69, y=132,50, z=2,69], EntityOtherPlayerMP['NBY_Nooby'/1691, l='MpServer', x=-30,50, y=121,00, z=0,50], EntityOtherPlayerMP['Bridge_Player_'/1695, l='MpServer', x=-28,50, y=121,00, z=0,50], EntityOtherPlayerMP['Enetic'/1315, l='MpServer', x=-28,56, y=120,50, z=7,16], EntityOtherPlayerMP['roee123'/1348, l='MpServer', x=-50,56, y=119,00, z=2,88], EntityOtherPlayerMP['Moinsen86'/1704, l='MpServer', x=-28,50, y=121,00, z=0,50], EntityOtherPlayerMP['CrashSuperset91'/1358, l='MpServer', x=-28,48, y=121,45, z=31,83], EntityOtherPlayerMP['franchinoSte'/1708, l='MpServer', x=-30,50, y=121,00, z=0,50], EntityOtherPlayerMP['Janob444'/1174, l='MpServer', x=-58,00, y=121,00, z=-1,41], EntityOtherPlayerMP['TheSliceXmortis'/1716, l='MpServer', x=-30,50, y=121,00, z=0,50], EntityOtherPlayerMP['JaxobToast'/1209, l='MpServer', x=-62,84, y=121,00, z=-4,69], EntityOtherPlayerMP['IClayMoreI'/1514, l='MpServer', x=-68,13, y=123,00, z=0,50], EntityArrow['Arrow'/1726, l='MpServer', x=-27,88, y=121,50, z=-3,38], EntityArrow['Arrow'/1731, l='MpServer', x=-26,88, y=122,84, z=3,38], EntityOtherPlayerMP['SirP0TAT0'/1159, l='MpServer', x=-67,69, y=122,00, z=0,59], EntityArrow['Arrow'/1732, l='MpServer', x=-27,09, y=122,44, z=3,41], EntityArrow['Arrow'/1733, l='MpServer', x=-26,53, y=122,44, z=3,31], EntityWither['Wither'/1734, l='MpServer', x=-66,00, y=123,00, z=-3,50], EntityArmorStand['Armor Stand'/1735, l='MpServer', x=-54,59, y=119,31, z=0,75], EntityFireworkRocket['entity.FireworksRocketEntity.name'/1736, l='MpServer', x=-53,81, y=118,69, z=0,69], EntityOtherPlayerMP['Perfect_GigaChad'/1282, l='MpServer', x=-47,00, y=119,00, z=3,44], EntityOtherPlayerMP['j0yzk4mlzh'/5, l='MpServer', x=-20,63, y=120,00, z=-13,50], EntityOtherPlayerMP['Underhyler'/1231, l='MpServer', x=-69,63, y=131,00, z=-6,50], EntityWither['§fObjective: §eComplete The Race in 50s'/-1235, l='MpServer', x=-66,69, y=112,03, z=-28,25], EntityOtherPlayerMP['vaporprince510'/1254, l='MpServer', x=13,69, y=125,00, z=-4,84], EntityOtherPlayerMP['Yveus'/1676, l='MpServer', x=-71,21, y=123,00, z=-1,32], EntityOtherPlayerMP['Mattelanchen'/1683, l='MpServer', x=-30,50, y=121,00, z=0,50], EntityOtherPlayerMP['SharkUWU_'/1240, l='MpServer', x=-24,59, y=120,50, z=46,69], EntityOtherPlayerMP['vinntec'/1562, l='MpServer', x=-37,50, y=126,00, z=5,50], EntityOtherPlayerMP['G8Face'/1246, l='MpServer', x=-50,84, y=131,03, z=-6,34], EntityOtherPlayerMP['Newton20'/1178, l='MpServer', x=-68,84, y=123,00, z=-0,25], EntityOtherPlayerMP['AcidicOnionas'/1553, l='MpServer', x=17,69, y=125,06, z=-10,03], EntityArmorStand['Armor Stand'/228, l='MpServer', x=17,50, y=123,94, z=0,50], EntityArmorStand['Armor Stand'/229, l='MpServer', x=17,50, y=123,56, z=0,50], EntityOtherPlayerMP['SoullyFTW'/1419, l='MpServer', x=-59,38, y=121,00, z=-0,88], EntityArmorStand['Armor Stand'/1266, l='MpServer', x=-19,50, y=84,63, z=0,50], EntityArmorStand['Armor Stand'/1267, l='MpServer', x=-19,50, y=84,38, z=0,50], EntityOtherPlayerMP['heliuminhailer54'/1304, l='MpServer', x=-58,59, y=121,00, z=-0,59], EntityOtherPlayerMP['Vaggus'/762, l='MpServer', x=-57,69, y=123,00, z=-2,97], EntityOtherPlayerMP['BasedOpinion'/1367, l='MpServer', x=-51,34, y=119,00, z=0,56], EntityOtherPlayerMP['Harryb0'/1164, l='MpServer', x=-68,34, y=123,00, z=1,47], EntityOtherPlayerMP['James0101'/1284, l='MpServer', x=-65,28, y=121,00, z=-3,22], EntityOtherPlayerMP['summernight6763'/1285, l='MpServer', x=-59,00, y=121,02, z=1,53], EntityOtherPlayerMP['StammTheMan1927'/1125, l='MpServer', x=-67,25, y=122,00, z=0,50], EntityOtherPlayerMP['twoex'/1455, l='MpServer', x=-67,69, y=122,00, z=0,88], EntityOtherPlayerMP['Shadow_fox2004'/1258, l='MpServer', x=-67,94, y=122,50, z=-0,59], EntityOtherPlayerMP['Oh_No_Im_Stuck'/1426, l='MpServer', x=-60,56, y=121,00, z=-2,50], EntityOtherPlayerMP['Moinsen86'/1704, l='MpServer', x=-28,50, y=121,00, z=0,50], EntityOtherPlayerMP['lord_apple'/1388, l='MpServer', x=-66,69, y=121,50, z=2,22], EntityOtherPlayerMP['gamethunder'/1585, l='MpServer', x=-68,34, y=123,00, z=3,38], EntityOtherPlayerMP['CosmicsBoogaloo'/1700, l='MpServer', x=-28,50, y=121,00, z=0,50], EntityOtherPlayerMP['Bridge_Player_'/1695, l='MpServer', x=-28,50, y=121,00, z=0,50], EntityOtherPlayerMP['Matin2000'/1139, l='MpServer', x=-29,72, y=121,06, z=4,41], EntityOtherPlayerMP['NBY_Nooby'/1691, l='MpServer', x=-30,50, y=121,00, z=0,50], EntityOtherPlayerMP['Kakashi6969420'/1135, l='MpServer', x=-71,53, y=123,00, z=-0,13], EntityOtherPlayerMP['Jessheim'/1575, l='MpServer', x=-67,22, y=121,50, z=0,47], EntityOtherPlayerMP['lol3456k'/1622, l='MpServer', x=-67,84, y=122,50, z=-1,56], EntityOtherPlayerMP['FoxyGamer2346'/1621, l='MpServer', x=-30,50, y=121,00, z=0,50], EntityOtherPlayerMP['Gertoxq'/1384, l='MpServer', x=-64,09, y=121,00, z=-2,31], EntityOtherPlayerMP['roee123'/1348, l='MpServer', x=-50,56, y=119,00, z=2,88], EntityOtherPlayerMP['Gamefreak05'/407, l='MpServer', x=-53,27, y=119,44, z=0,92], EntityOtherPlayerMP['CountrygamerLP'/1098, l='MpServer', x=-31,63, y=126,66, z=-0,47], EntityOtherPlayerMP['ArmadilloMining'/1581, l='MpServer', x=-53,50, y=119,00, z=-2,88], EntityOtherPlayerMP['TobyLaLaLa'/997, l='MpServer', x=12,69, y=60,00, z=99,69], EntityOtherPlayerMP['bwayden1'/1090, l='MpServer', x=-0,38, y=125,00, z=-3,69], EntityOtherPlayerMP['zxchqry'/1182, l='MpServer', x=-52,84, y=120,00, z=1,59], EntityOtherPlayerMP['franchinoSte'/1708, l='MpServer', x=-30,50, y=121,00, z=0,50], EntityOtherPlayerMP['TcCrimson'/981, l='MpServer', x=-37,59, y=119,00, z=1,59], EntityOtherPlayerMP['Uvet'/873, l='MpServer', x=-35,69, y=119,50, z=-0,09], EntityOtherPlayerMP['lord_apple'/1388, l='MpServer', x=-66,69, y=121,50, z=2,22], EntityOtherPlayerMP['Creepenator'/1549, l='MpServer', x=-69,50, y=128,63, z=3,50], EntityOtherPlayerMP['Uvet'/873, l='MpServer', x=-35,69, y=119,50, z=-0,09], EntityOtherPlayerMP['mint_BLT'/1116, l='MpServer', x=-45,41, y=119,00, z=3,00], EntityOtherPlayerMP['GoluckyAttic667'/1108, l='MpServer', x=-70,56, y=123,00, z=-0,06], EntityOtherPlayerMP['gravitaay'/964, l='MpServer', x=-56,53, y=120,50, z=-2,47], EntityPlayerSP['HotBaconWasTaken'/1121, l='MpServer', x=-68,70, y=123,00, z=2,81], EntityOtherPlayerMP['choupachups'/1617, l='MpServer', x=-63,56, y=121,00, z=-0,03], EntityOtherPlayerMP['DiamondMasterHQ'/880, l='MpServer', x=-34,25, y=119,00, z=30,63], EntityOtherPlayerMP['Mercurypvpcraft'/1236, l='MpServer', x=20,63, y=125,00, z=-1,50], EntityOtherPlayerMP['DampSteak'/1022, l='MpServer', x=-68,69, y=123,00, z=-2,69], EntityOtherPlayerMP['Voortuin'/917, l='MpServer', x=-67,69, y=122,00, z=0,66], EntityOtherPlayerMP['Hesham_RXT_YT'/1297, l='MpServer', x=5,50, y=125,00, z=-1,47], EntityOtherPlayerMP['Nightwolf_real'/1220, l='MpServer', x=-57,00, y=121,00, z=-1,53], EntityOtherPlayerMP['Swifthy_'/1399, l='MpServer', x=-62,34, y=121,00, z=4,25], EntityOtherPlayerMP['LifeBound'/1215, l='MpServer', x=-23,50, y=186,25, z=0,50], EntityOtherPlayerMP['TerminatorBers'/909, l='MpServer', x=-68,00, y=123,00, z=1,06], EntityOtherPlayerMP['Nightmasu'/1415, l='MpServer', x=-71,69, y=132,50, z=2,69], EntityOtherPlayerMP['8O68'/946, l='MpServer', x=-59,47, y=121,00, z=3,09], EntityOtherPlayerMP['mattex777'/767, l='MpServer', x=-68,22, y=122,50, z=-0,34], EntityOtherPlayerMP['Lizard4Dayz'/1262, l='MpServer', x=-70,47, y=123,00, z=0,50], EntityOtherPlayerMP['TerminatorBers'/909, l='MpServer', x=-68,00, y=123,00, z=1,06], EntityOtherPlayerMP['LenaIRL'/1047, l='MpServer', x=-67,69, y=122,00, z=0,50], EntityOtherPlayerMP['RNGLord'/1043, l='MpServer', x=-68,38, y=123,00, z=2,28], EntityOtherPlayerMP['LacksAnyIq'/1150, l='MpServer', x=-69,03, y=123,00, z=-0,88], EntityOtherPlayerMP['summernight6763'/1285, l='MpServer', x=-59,00, y=121,02, z=1,53], EntityOtherPlayerMP['James0101'/1284, l='MpServer', x=-65,28, y=121,00, z=-3,22], EntityOtherPlayerMP['345ms'/1395, l='MpServer', x=-63,97, y=121,00, z=-4,69], EntityOtherPlayerMP['egirlnwoahh'/1478, l='MpServer', x=-46,03, y=119,00, z=-3,00], EntityOtherPlayerMP['PokemanJB'/1186, l='MpServer', x=-68,13, y=122,50, z=-0,47], EntityOtherPlayerMP['Ciyxs'/1432, l='MpServer', x=-67,72, y=122,50, z=1,44], EntityOtherPlayerMP['Legends_uZa'/1122, l='MpServer', x=-68,72, y=136,35, z=2,78], EntityWither['Wither'/1436, l='MpServer', x=-65,27, y=121,50, z=2,43], EntityOtherPlayerMP['AndrewXXI'/1444, l='MpServer', x=-51,50, y=127,00, z=1,50], EntityOtherPlayerMP['JaxobToast'/1209, l='MpServer', x=-62,84, y=121,00, z=-4,69], EntityOtherPlayerMP['Arv1tX'/1104, l='MpServer', x=-44,50, y=119,00, z=0,50], EntityOtherPlayerMP['Zitic'/1094, l='MpServer', x=-31,38, y=119,00, z=-26,75], EntityOtherPlayerMP['Vaggus'/762, l='MpServer', x=-57,69, y=123,00, z=-2,97], EntityOtherPlayerMP['Ciyxs'/1432, l='MpServer', x=-67,72, y=122,50, z=1,44], EntityOtherPlayerMP['hirasshoi'/690, l='MpServer', x=-26,56, y=125,63, z=5,56], EntityOtherPlayerMP['kjds'/1168, l='MpServer', x=-40,41, y=119,00, z=0,91], EntityOtherPlayerMP['ClariS_325'/1112, l='MpServer', x=-51,06, y=119,00, z=2,38], EntityOtherPlayerMP['NotOdko'/1665, l='MpServer', x=-42,50, y=119,00, z=1,50], EntityOtherPlayerMP['ZarcortG15'/1439, l='MpServer', x=-69,84, y=123,00, z=1,31], EntityOtherPlayerMP['PoketRider'/1521, l='MpServer', x=-30,50, y=121,00, z=0,50], EntityArmorStand['Armor Stand'/976, l='MpServer', x=-18,50, y=86,00, z=4,50], EntityArmorStand['Armor Stand'/977, l='MpServer', x=-18,50, y=85,75, z=4,50], EntityOtherPlayerMP['Piotrek015'/1487, l='MpServer', x=-67,56, y=122,00, z=0,53], EntityOtherPlayerMP['Underhyler'/1231, l='MpServer', x=-69,63, y=131,00, z=-6,50], EntityOtherPlayerMP['Vorks'/1540, l='MpServer', x=-62,75, y=121,00, z=7,13], EntityOtherPlayerMP['Moshpit'/1557, l='MpServer', x=-67,84, y=122,50, z=-0,50], EntityOtherPlayerMP['TobyLaLaLa'/997, l='MpServer', x=12,69, y=60,00, z=99,69], EntityOtherPlayerMP['IClayMoreI'/1514, l='MpServer', x=-68,13, y=123,00, z=0,50], EntityOtherPlayerMP['Reeely'/1530, l='MpServer', x=-67,56, y=122,00, z=-0,03], EntityOtherPlayerMP['AcidicOnionas'/1661, l='MpServer', x=-71,69, y=123,00, z=2,69], EntityOtherPlayerMP['fireball67_'/1326, l='MpServer', x=-36,56, y=119,00, z=-2,16], EntityOtherPlayerMP['Gasaper'/1228, l='MpServer', x=19,97, y=125,00, z=0,50]]
+	Retry entities: 0 total; []
+	Server brand: Hypixel BungeeCord (1.3.9) <- vanilla
+	Server type: Non-integrated multiplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:402)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2536)
+	at net.minecraft.client.Minecraft.handler$zml000$run(Minecraft.java:12238)
+	at net.minecraft.client.Minecraft.run(Minecraft.java)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124)
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:168)
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:114)
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:187)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:110)
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53)
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26)
+	at cc.woverflow.onecore.tweaker.OneCoreTweaker.<init>(OneCoreTweaker.java:16)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at java.lang.Class.newInstance(Class.java:442)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	ChatTriggers modules: [Module{name=BeaconBeam,version=1.0.0}, Module{name=guimanager,version=0.1.7}, Module{name=mappings,version=0.0.2}, Module{name=PromiseV2,version=1.0.4}, Module{name=soopyAddonsData,version=0.0.1}, Module{name=soopyApis,version=0.1.17}, Module{name=SoopyV2,version=2.1.196}, Module{name=BetterMap,version=1.0.11}]
+	Minecraft Version: 1.8.9
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 835889232 bytes (797 MB) / 2617245696 bytes (2496 MB) up to 4294967296 bytes (4096 MB)
+	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 11, tcache: 89, allocated: 13, tallocated: 95
+	FML: MCP 9.19 Powered by Forge 11.15.1.2318 Optifine OptiFine_1.8.9_HD_U_M6_pre2 32 mods loaded, 32 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                          | Version      | Source                                |
+	| ------ | --------------------------- | ------------ | ------------------------------------- |
+	| UCHIJA | mcp                         | 9.19         | minecraft.jar                         |
+	| UCHIJA | FML                         | 8.0.99.99    | forge-1.8.9-11.15.1.2318-1.8.9.jar    |
+	| UCHIJA | Forge                       | 11.15.1.2318 | forge-1.8.9-11.15.1.2318-1.8.9.jar    |
+	| UCHIJA | essential                   | 1.0.0        | Essential (forge_1.8.9).jar           |
+	| UCHIJA | skinlayers3d                | 1.2.0        | 3dSkinLayers-forge-mc1.8.9-1.2.0.jar  |
+	| UCHIJA | waveycapes                  | 1.2.0        | waveycapes-forge-mc1.8.9-1.2.0.jar    |
+	| UCHIJA | onecore                     | 1.3.4        | OneCore.jar                           |
+	| UCHIJA | betterchat                  | 1.5          | betterchat-1.5.jar                    |
+	| UCHIJA | chatting                    | 1.4.1        | Chatting-1.4.1.jar                    |
+	| UCHIJA | craftify                    | 1.0.0        | Craftify-1.8.9-1.5.0-forge.jar        |
+	| UCHIJA | crashpatch                  | 1.4.0        | CrashPatch-1.4.0.jar                  |
+	| UCHIJA | chattriggers                | 2.1.5        | ctjs-2.1.5-1.8.9.jar                  |
+	| UCHIJA | dungeonrooms                | 3.3.2        | Dungeon_Rooms-3.3.2.jar               |
+	| UCHIJA | hypixel_auto_complete       | 1.1.0        | Hypixel Autocomplete-1.1 (1.8.9).jar  |
+	| UCHIJA | notenoughupdates            | 2.1.0-REL    | NotEnoughUpdates-2.1.1-pre-1.jar      |
+	| UCHIJA | sk1er_old_animations        | 0.2.0        | OldAnimations_1.0.0_-_beta_10.1.jar   |
+	| UCHIJA | optibye                     | 1.0.0        | Optibye-1.0.0-dep.jar                 |
+	| UCHIJA | overflowanimations          | 1.1.0        | OverflowAnimations-1.1.0.jar          |
+	| UCHIJA | patcher                     | 1.8.5        | Patcher-1.8.5 (1.8.9).jar             |
+	| UCHIJA | reportplus                  | 1.0.0        | ReportPlus-1.0.0.jar                  |
+	| UCHIJA | gravyrewardclaim            | 1.0.4        | RewardClaim-1.0.5.jar                 |
+	| UCHIJA | scathapro                   | 1.2.1.1      | Scatha-Pro_v1.2.1.1.jar               |
+	| UCHIJA | text_overflow_scroll        | 1.4.0        | Scrollable Tooltips-1.4 (1.8.9).jar   |
+	| UCHIJA | simpletogglesprint          | 2.2.0        | SimpleToggleSprint-2.2.0.jar          |
+	| UCHIJA | skyblockaddons              | 1.7.0        | SkyblockAddons-1.7.0-for-MC-1.8.9.jar |
+	| UCHIJA | skyblockclientupdater       | 1.3.2        | SkyblockClient-Updater-1.3.2.jar      |
+	| UCHIJA | skyclientcosmetics          | 1.1.12       | SkyClientCosmetics-1.1.12.jar         |
+	| UCHIJA | skytils                     | 1.3.0        | Skytils-1.3.0.jar                     |
+	| UCHIJA | smooth-scrolling-everywhere | 1.2          | smooth-scrolling-everywhere-1.2.jar   |
+	| UCHIJA | soopyv2forge                | 1.1          | soopyv2forge-1.1.jar                  |
+	| UCHIJA | vanillahud                  | 1.1.1        | VanillaHUD-1.1.1.jar                  |
+	| UCHIJA | worldedit                   | 6.1.1        | worldedit-forge-mc1.8.9-6.1.1.jar     |
+
+	Loaded coremods (and transformers): 
+SkyblockAddonsLoadingPlugin (SkyblockAddons-1.7.0-for-MC-1.8.9.jar)
+  codes.biscuit.skyblockaddons.tweaker.SkyblockAddonsTransformer
+FMLLoadingPlugin (Scrollable Tooltips-1.4 (1.8.9).jar)
+  club.sk1er.mods.scrollabletooltips.forge.ClassTransformer
+ModTweaker (Patcher-1.8.5 (1.8.9).jar)
+  club.sk1er.patcher.tweaker.other.ModClassTransformer
+PatcherTweaker (Patcher-1.8.5 (1.8.9).jar)
+  club.sk1er.patcher.tweaker.ClassTransformer
+Skytils On Top (Skytils-1.3.0.jar)
+  gg.skytils.skytilsmod.asm.SkytilsTransformer
+AsmHelperLoadingPlugin (ctjs-2.1.5-1.8.9.jar)
+  com.chattriggers.ctjs.launch.plugin.CTJSTransformer
+	Skytils Debug Info: {HasBetterFPS=false, BetterFPS Version=NONE, Disabled Start Checks=false}
+	Launched Version: 1.8.9-forge1.8.9-11.15.1.2318-1.8.9
+	LWJGL: 2.9.4
+	OpenGL: Radeon RX 580 Series GL version 4.6.0 Compatibility Profile Context 22.11.2.221130, ATI Technologies Inc.
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: Mob Packet 1.8.9 1.4.zip, DwarvenAssets v1.1.zip, ! §fp§dri§bsm §8[§f16§3x§8], §b§lFurfSky §f§lReborn §8§lOVERLAY.zip
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	CPU: 12x AMD Ryzen 5 5500 
+	Client Crashes Since Restart: 53
+	Integrated Server Crashes Since Restart: 0
+	OptiFine Version: OptiFine_1.8.9_HD_U_M6_pre2
+	OptiFine Build: 20211101-204933
+	Render Distance Chunks: 8
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 Compatibility Profile Context 22.11.2.221130
+	OpenGlRenderer: Radeon RX 580 Series
+	OpenGlVendor: ATI Technologies Inc.
+	CpuCount: 12
