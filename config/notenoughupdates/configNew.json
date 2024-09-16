@@ -739,25 +739,24 @@
     "customTodos": [],
     "profileSpecific": {
       "Pineapple": {
-        "godPotionDuration": 4320000,
+        "godPotionDuration": 3120000,
         "puzzlerCompleted": 1725402754384,
         "firstCakeAte": 1726396992489,
         "fetchurCompleted": 1724364065725,
         "commissionsCompleted": 0,
         "lastFreeRiftInfusionApplied": 1726427900308,
         "experimentsCompleted": 1726496471635,
-        "cookieBuffRemaining": 1727609118578,
+        "cookieBuffRemaining": 1727609118477,
         "forgeItems": [
           {
-            "itemName": "Sapphire-Polished Drill Engine",
-            "finishTime": 1726505646216,
-            "status": 2,
+            "finishTime": 0,
+            "status": 0,
             "forgeID": 0,
-            "fromScoreBoard": false
+            "fromScoreBoard": true
           },
           {
             "itemName": "Mithril-Plated Drill Engine",
-            "finishTime": 1726518920216,
+            "finishTime": 1726518921497,
             "status": 2,
             "forgeID": 1,
             "fromScoreBoard": false
@@ -1567,11 +1566,11 @@
       "DynaMITES Vinyl"
     ],
     "previousBazaarSearches": [
+      "Jacob\u0027s Ticket",
       "Titanic Experience Bottle",
       "Glossy Gemstone",
       "Gold Essence",
-      "✎ Fine Sapphire Gemstone",
-      "✧ Flawless Topaz Gemstone"
+      "✎ Fine Sapphire Gemstone"
     ],
     "previousProfileSearches": [
       "jorjfloyd",

@@ -39,9 +39,9 @@
         "maxLevel": 200,
         "expRequiredForNextLevel": 1886700,
         "expRequiredForMaxLevel": 210255680,
-        "expInCurrentLevel": 1590252.0,
-        "expTotal": 1.59018224E8,
-        "percentageToNextLevel": 0.8428749
+        "expInCurrentLevel": 1591372.0,
+        "expTotal": 1.59019344E8,
+        "percentageToNextLevel": 0.8434685
       },
       "petXpType": "combat",
       "petItem": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
@@ -135,9 +135,9 @@
         "maxLevel": 100,
         "expRequiredForNextLevel": 1886700,
         "expRequiredForMaxLevel": 25353230,
-        "expInCurrentLevel": 3.75086E7,
-        "expTotal": 6.2861832E7,
-        "percentageToNextLevel": 19.880531
+        "expInCurrentLevel": 3.7539992E7,
+        "expTotal": 6.2893224E7,
+        "percentageToNextLevel": 19.897171
       },
       "petXpType": "farming",
       "petItem": "GREEN_BANDANA",
@@ -642,7 +642,7 @@
     }
   },
   "selectedPet": 2,
-  "selectedPet2": 13,
+  "selectedPet2": 8,
   "tamingLevel": 53,
   "beastMultiplier": 3.0
 }

@@ -4017,26 +4017,26 @@
             "chocolateFactory": {
               "currentRabbits": 123,
               "maxRabbits": 184,
-              "currentChocolate": 4168181,
-              "chocolateThisPrestige": 6639907046,
-              "chocolateAllTime": 22980760130,
-              "rawChocPerSecond": 4830,
+              "currentChocolate": 101046286,
+              "chocolateThisPrestige": 6811470013,
+              "chocolateAllTime": 23152323097,
+              "rawChocPerSecond": 4837,
               "chocolateMultiplier": 2.829,
               "rawChocolateMultiplier": 2.729,
               "timeTowerLevel": 1,
               "currentTimeTowerEnds": 0,
-              "nextTimeTower": 1726510201756,
-              "currentTimeTowerUses": 1,
+              "nextTimeTower": 1726510202281,
+              "currentTimeTowerUses": 0,
               "timeTowerCooldown": 8,
               "maxTimeTowerUses": 3,
               "hasMuRabbit": false,
-              "bestUpgradeAvailableAt": 1726497777240,
-              "bestUpgradeCost": 42584503,
-              "lastDataSave": 1726494965756,
+              "bestUpgradeAvailableAt": 1726514460457,
+              "bestUpgradeCost": 190000000,
+              "lastDataSave": 1726507757282,
               "positionChange": {
-                "lastTime": 1726494953732,
-                "lastPosition": 135578,
-                "lastLeaderboard": "#135,578 §7Top §a3.39%"
+                "lastTime": 1726505114733,
+                "lastPosition": 135147,
+                "lastLeaderboard": "#135,147 §7Top §a3.38%"
               },
               "rabbitCounts": {
                 "Almond Amaretto": 1,
@@ -4302,9 +4302,9 @@
               }
             },
             "bits": {
-              "bits": 18731,
-              "bitsAvailable": 2289,
-              "boosterCookieExpiryTime": 1727609118083
+              "bits": 13037,
+              "bitsAvailable": 1533,
+              "boosterCookieExpiryTime": 1727609117775
             },
             "minions": {
               "27.5:99.0:31.5": {
@@ -4522,14 +4522,14 @@
               "cropCounter": {
                 "WHEAT": 15329620,
                 "COCOA_BEANS": 3068590,
-                "PUMPKIN": 737905,
+                "PUMPKIN": 739505,
                 "MELON": 19571069,
-                "SUGAR_CANE": 1857050,
-                "CACTUS": 1538470,
-                "MUSHROOM": 359862,
+                "SUGAR_CANE": 1861210,
+                "CACTUS": 1539910,
+                "MUSHROOM": 361142,
                 "NETHER_WART": 8179079,
-                "POTATO": 2262400,
-                "CARROT": 4071825
+                "POTATO": 2264000,
+                "CARROT": 4072785
               },
               "cropUpgrades": {
                 "WHEAT": 5,
@@ -4597,10 +4597,10 @@
                   }
                 }
               },
-              "informedAboutLowMatter": 1726423105905,
+              "informedAboutLowMatter": 1726508406141,
               "informedAboutLowFuel": 1725835508740,
               "visitorInterval": 660000,
-              "nextSixthVisitorArrival": -1400,
+              "nextSixthVisitorArrival": 0,
               "armorDropTracker": {
                 "drops": {
                   "SQUASH": 16,
@@ -4630,7 +4630,7 @@
               "uniqueVisitors": 63,
               "visitorDrops": {
                 "acceptedVisitors": 300,
-                "deniedVisitors": 403,
+                "deniedVisitors": 408,
                 "visitorRarities": [
                   201,
                   49,
@@ -4938,8 +4938,8 @@
                 "cakeExpiring": 1726569780875,
                 "carrolyn": {},
                 "farmingItems": {
-                  "ELEPHANT": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnN1tMdmwgMTAwXSDCpzZFbGVwaGFudCIsIm5idHRhZyI6IntTa3VsbE93bmVyOntJZDpcIjg4YjcwYWIzLTNiYTgtNDc2OC04Njk2LTNiODI3OTI1M2FjN1wiLGh5cGl4ZWxQb3B1bGF0ZWQ6MWIsUHJvcGVydGllczp7dGV4dHVyZXM6WzA6e1ZhbHVlOlwiZXlKMFpYaDBkWEpsY3lJNmV5SlRTMGxPSWpwN0luVnliQ0k2SW1oMGRIQTZMeTkwWlhoMGRYSmxjeTV0YVc1bFkzSmhablF1Ym1WMEwzUmxlSFIxY21Vdk56QTNNV0UzTm1ZMk5qbGtZalZsWkRaa016SmlORGhpWWpKa1ltRTFOV1ExTXpFM1pEZG1ORFV5TWpWallqTXlOamRsWXpRek5XTm1ZVFV4TkNKOWZYMD1cIn1dfSxOYW1lOlwiwqc4OGI3MGFiMy0zYmE4LTQ3NjgtODY5Ni0zYjgyNzkyNTNhYzdcIn0sZGlzcGxheTp7TG9yZTpbMDpcIsKnOEZhcm1pbmcgUGV0XCIsMTpcIlwiLDI6XCLCpzdIZWFsdGg6IMKnYSsxMDBcIiwzOlwiwqc3SW50ZWxsaWdlbmNlOiDCp2ErNzVcIiw0Olwiwqc3RmFybWluZyBGb3J0dW5lOiDCp2ErNDhcIiw1OlwiXCIsNjpcIsKnNlN0b21wXCIsNzpcIsKnN8KnN0dhaW4gwqdhMjDinYggRGVmZW5zZSDCpzdmb3IgZXZlcnkgMTAwIMKnZuKcplwiLDg6XCLCp2ZTcGVlZMKnNy5cIiw5OlwiXCIsMTA6XCLCpzZXYWxraW5nIEZvcnRyZXNzXCIsMTE6XCLCpzfCpzdHYWluIMKnYzHinaQgSGVhbHRoIMKnN2ZvciBldmVyeSAxMCDCp2HinYhcIiwxMjpcIsKnYURlZmVuc2XCpzcuXCIsMTM6XCJcIiwxNDpcIsKnNlRydW5rIEVmZmljaWVuY3lcIiwxNTpcIsKnN8KnN0dyYW50cyDCpzYrMTUw4piYIEZhcm1pbmcgRm9ydHVuZcKnNyxcIiwxNjpcIsKnN3doaWNoIGluY3JlYXNlcyB5b3VyIGNoYW5jZSBmb3JcIiwxNzpcIsKnN211bHRpcGxlIGRyb3BzLlwiLDE4OlwiXCIsMTk6XCLCpzZIZWxkIEl0ZW06IMKnNUdyZWVuIEJhbmRhbmFcIiwyMDpcIsKnN0dyYW50cyDCpzYrNOKYmCBGYXJtaW5nIEZvcnR1bmUgwqc3Zm9yXCIsMjE6XCLCpzdlYWNoIG9mIHlvdXIgR2FyZGVuIExldmVscy5cIiwyMjpcIlwiLDIzOlwiwqdiwqdsTUFYIExFVkVMXCIsMjQ6XCLCpzjilrggNjIsODYxLDgzMiBYUFwiLDI1OlwiXCIsMjY6XCLCpzfCp2VMZWZ0LWNsaWNrIHRvIHN1bW1vbiFcIiwyNzpcIsKnN8KnZVNoaWZ0IExlZnQtY2xpY2sgdG8gdG9nZ2xlIGFzIGZhdm9yaXRlIVwiLDI4OlwiwqdlUmlnaHQtY2xpY2sgdG8gY29udmVydCB0byBhbiBpdGVtIVwiXSxOYW1lOlwiwqc3W0x2bCAxMDBdIMKnNkVsZXBoYW50XCJ9LEV4dHJhQXR0cmlidXRlczp7cGV0SW5mbzpcIntcXFwidHlwZVxcXCI6XFxcIkVMRVBIQU5UXFxcIixcXFwiYWN0aXZlXFxcIjpmYWxzZSxcXFwiZXhwXFxcIjo2LjI4NjE4MzI0OTU5NTEwM0U3LFxcXCJ0aWVyXFxcIjpcXFwiTEVHRU5EQVJZXFxcIixcXFwiaGlkZUluZm9cXFwiOmZhbHNlLFxcXCJoZWxkSXRlbVxcXCI6XFxcIkdSRUVOX0JBTkRBTkFcXFwiLFxcXCJjYW5keVVzZWRcXFwiOjAsXFxcInV1aWRcXFwiOlxcXCI1ZDE0Y2FiYy02NmM5LTQ5ZDMtYTMwMC04MzYyNjQ3ZjlmYmFcXFwiLFxcXCJ1bmlxdWVJZFxcXCI6XFxcIjc3YWU3Mjc2LWY1MDctNGIxNy04ZDkyLTcyMjljMGYwM2Q1NlxcXCIsXFxcImhpZGVSaWdodENsaWNrXFxcIjpmYWxzZSxcXFwibm9Nb3ZlXFxcIjpmYWxzZX1cIixpZDpcIlBFVFwiLHV1aWQ6XCI1ZDE0Y2FiYy02NmM5LTQ5ZDMtYTMwMC04MzYyNjQ3ZjlmYmFcIn19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
-                  "RABBIT": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnN1tMdmwgMTAwXSDCpzZSYWJiaXQiLCJuYnR0YWciOiJ7U2t1bGxPd25lcjp7SWQ6XCI1ZDY3Njc3My1lMmIxLTQ3Y2EtYjU5Yy01YzlhNTVlMWQ4MjJcIixoeXBpeGVsUG9wdWxhdGVkOjFiLFByb3BlcnRpZXM6e3RleHR1cmVzOlswOntWYWx1ZTpcImV5SjBaWGgwZFhKbGN5STZleUpUUzBsT0lqcDdJblZ5YkNJNkltaDBkSEE2THk5MFpYaDBkWEpsY3k1dGFXNWxZM0poWm5RdWJtVjBMM1JsZUhSMWNtVXZNVEUzWW1abVl6RTVOekpoWTJRM1pqTmlOR0U0WmpRellqVmlObU0zTlRNME5qazFZamhtWkRZeU5qYzNaVEF6TURaaU1qZ3pNVFUzTkdJaWZYMTlcIn1dfSxOYW1lOlwiwqc1ZDY3Njc3My1lMmIxLTQ3Y2EtYjU5Yy01YzlhNTVlMWQ4MjJcIn0sZGlzcGxheTp7TG9yZTpbMDpcIsKnOEZhcm1pbmcgUGV0XCIsMTpcIlwiLDI6XCLCpzdIZWFsdGg6IMKnYSsxMDBcIiwzOlwiwqc3U3BlZWQ6IMKnYSsyMFwiLDQ6XCJcIiw1Olwiwqc2SGFwcHkgRmVldFwiLDY6XCLCpzfCpzdKdW1wIHBvdGlvbnMgYWxzbyBnaXZlIMKnYSs1MCDCpzdzcGVlZFwiLDc6XCJcIiw4Olwiwqc2RmFybWluZyBXaXNkb20gQm9vc3RcIiw5Olwiwqc3wqc3wqc3R3JhbnRzIMKnMyszMOKYryBGYXJtaW5nIFdpc2RvbcKnNy5cIiwxMDpcIlwiLDExOlwiwqc2RWZmaWNpZW50IEZhcm1pbmdcIiwxMjpcIsKnN8KnN0Zhcm1pbmcgbWluaW9ucyB3b3JrIMKnYTMwJSDCpzdmYXN0ZXJcIiwxMzpcIsKnN3doaWxlIG9uIHlvdXIgaXNsYW5kXCIsMTQ6XCJcIiwxNTpcIsKnNkhlbGQgSXRlbTogwqc5RmFybWluZyBFeHAgQm9vc3RcIiwxNjpcIsKnN0dpdmVzIMKnYSs0MCUgwqc3cGV0IGV4cCBmb3IgRmFybWluZy5cIiwxNzpcIlwiLDE4OlwiwqdiwqdsTUFYIExFVkVMXCIsMTk6XCLCpzjilrggMzgsMDc0LDI5NSBYUFwiLDIwOlwiXCIsMjE6XCLCpzfCp2VMZWZ0LWNsaWNrIHRvIHN1bW1vbiFcIiwyMjpcIsKnN8KnZVNoaWZ0IExlZnQtY2xpY2sgdG8gdG9nZ2xlIGFzIGZhdm9yaXRlIVwiLDIzOlwiwqdlUmlnaHQtY2xpY2sgdG8gY29udmVydCB0byBhbiBpdGVtIVwiXSxOYW1lOlwiwqc3W0x2bCAxMDBdIMKnNlJhYmJpdFwifSxFeHRyYUF0dHJpYnV0ZXM6e3BldEluZm86XCJ7XFxcInR5cGVcXFwiOlxcXCJSQUJCSVRcXFwiLFxcXCJhY3RpdmVcXFwiOmZhbHNlLFxcXCJleHBcXFwiOjMuODA3NDI5NTA0MzcxODkyRTcsXFxcInRpZXJcXFwiOlxcXCJMRUdFTkRBUllcXFwiLFxcXCJoaWRlSW5mb1xcXCI6ZmFsc2UsXFxcImhlbGRJdGVtXFxcIjpcXFwiUEVUX0lURU1fRkFSTUlOR19TS0lMTF9CT09TVF9SQVJFXFxcIixcXFwiY2FuZHlVc2VkXFxcIjowLFxcXCJ1dWlkXFxcIjpcXFwiZWFkMzIzYjYtZTQ0NC00N2Q2LTllYTItMGU1NTNmNjY5NzRiXFxcIixcXFwidW5pcXVlSWRcXFwiOlxcXCIxNjM1MzQzZS0yNWUxLTRiOTctYjMzOS1jNWVmMzg5OTJmNmZcXFwiLFxcXCJoaWRlUmlnaHRDbGlja1xcXCI6ZmFsc2UsXFxcIm5vTW92ZVxcXCI6ZmFsc2V9XCIsaWQ6XCJQRVRcIix1dWlkOlwiZWFkMzIzYjYtZTQ0NC00N2Q2LTllYTItMGU1NTNmNjY5NzRiXCJ9fSIsImRhbWFnZSI6MywiaW50ZXJuYWxuYW1lIjoiXyJ9",
+                  "ELEPHANT": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnN1tMdmwgMTAwXSDCpzZFbGVwaGFudCIsIm5idHRhZyI6IntTa3VsbE93bmVyOntJZDpcIjdlZmJlYjAwLWYwNjItNDYzMC04Mjk5LTVkODFiNWM0YWE2YlwiLGh5cGl4ZWxQb3B1bGF0ZWQ6MWIsUHJvcGVydGllczp7dGV4dHVyZXM6WzA6e1ZhbHVlOlwiZXlKMFpYaDBkWEpsY3lJNmV5SlRTMGxPSWpwN0luVnliQ0k2SW1oMGRIQTZMeTkwWlhoMGRYSmxjeTV0YVc1bFkzSmhablF1Ym1WMEwzUmxlSFIxY21Vdk56QTNNV0UzTm1ZMk5qbGtZalZsWkRaa016SmlORGhpWWpKa1ltRTFOV1ExTXpFM1pEZG1ORFV5TWpWallqTXlOamRsWXpRek5XTm1ZVFV4TkNKOWZYMD1cIn1dfSxOYW1lOlwiwqc3ZWZiZWIwMC1mMDYyLTQ2MzAtODI5OS01ZDgxYjVjNGFhNmJcIn0sZGlzcGxheTp7TG9yZTpbMDpcIsKnOEZhcm1pbmcgUGV0XCIsMTpcIlwiLDI6XCLCpzdIZWFsdGg6IMKnYSsxMDBcIiwzOlwiwqc3SW50ZWxsaWdlbmNlOiDCp2ErNzVcIiw0Olwiwqc3RmFybWluZyBGb3J0dW5lOiDCp2ErNDhcIiw1OlwiXCIsNjpcIsKnNlN0b21wXCIsNzpcIsKnN8KnN0dhaW4gwqdhMjDinYggRGVmZW5zZSDCpzdmb3IgZXZlcnkgMTAwIMKnZuKcplwiLDg6XCLCp2ZTcGVlZMKnNy5cIiw5OlwiXCIsMTA6XCLCpzZXYWxraW5nIEZvcnRyZXNzXCIsMTE6XCLCpzfCpzdHYWluIMKnYzHinaQgSGVhbHRoIMKnN2ZvciBldmVyeSAxMCDCp2HinYhcIiwxMjpcIsKnYURlZmVuc2XCpzcuXCIsMTM6XCJcIiwxNDpcIsKnNlRydW5rIEVmZmljaWVuY3lcIiwxNTpcIsKnN8KnN0dyYW50cyDCpzYrMTUw4piYIEZhcm1pbmcgRm9ydHVuZcKnNyxcIiwxNjpcIsKnN3doaWNoIGluY3JlYXNlcyB5b3VyIGNoYW5jZSBmb3JcIiwxNzpcIsKnN211bHRpcGxlIGRyb3BzLlwiLDE4OlwiXCIsMTk6XCLCpzZIZWxkIEl0ZW06IMKnNUdyZWVuIEJhbmRhbmFcIiwyMDpcIsKnN0dyYW50cyDCpzYrNOKYmCBGYXJtaW5nIEZvcnR1bmUgwqc3Zm9yXCIsMjE6XCLCpzdlYWNoIG9mIHlvdXIgR2FyZGVuIExldmVscy5cIiwyMjpcIlwiLDIzOlwiwqdiwqdsTUFYIExFVkVMXCIsMjQ6XCLCpzjilrggNjIsODkzLDIyNCBYUFwiLDI1OlwiXCIsMjY6XCLCpzfCp2VMZWZ0LWNsaWNrIHRvIHN1bW1vbiFcIiwyNzpcIsKnN8KnZVNoaWZ0IExlZnQtY2xpY2sgdG8gdG9nZ2xlIGFzIGZhdm9yaXRlIVwiLDI4OlwiwqdlUmlnaHQtY2xpY2sgdG8gY29udmVydCB0byBhbiBpdGVtIVwiXSxOYW1lOlwiwqc3W0x2bCAxMDBdIMKnNkVsZXBoYW50XCJ9LEV4dHJhQXR0cmlidXRlczp7cGV0SW5mbzpcIntcXFwidHlwZVxcXCI6XFxcIkVMRVBIQU5UXFxcIixcXFwiYWN0aXZlXFxcIjpmYWxzZSxcXFwiZXhwXFxcIjo2LjI4OTMyMjQ0MjM5NTFFNyxcXFwidGllclxcXCI6XFxcIkxFR0VOREFSWVxcXCIsXFxcImhpZGVJbmZvXFxcIjpmYWxzZSxcXFwiaGVsZEl0ZW1cXFwiOlxcXCJHUkVFTl9CQU5EQU5BXFxcIixcXFwiY2FuZHlVc2VkXFxcIjowLFxcXCJ1dWlkXFxcIjpcXFwiNWQxNGNhYmMtNjZjOS00OWQzLWEzMDAtODM2MjY0N2Y5ZmJhXFxcIixcXFwidW5pcXVlSWRcXFwiOlxcXCI3N2FlNzI3Ni1mNTA3LTRiMTctOGQ5Mi03MjI5YzBmMDNkNTZcXFwiLFxcXCJoaWRlUmlnaHRDbGlja1xcXCI6ZmFsc2UsXFxcIm5vTW92ZVxcXCI6ZmFsc2V9XCIsaWQ6XCJQRVRcIix1dWlkOlwiNWQxNGNhYmMtNjZjOS00OWQzLWEzMDAtODM2MjY0N2Y5ZmJhXCJ9fSIsImRhbWFnZSI6MywiaW50ZXJuYWxuYW1lIjoiXyJ9",
+                  "RABBIT": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnN1tMdmwgMTAwXSDCpzZSYWJiaXQiLCJuYnR0YWciOiJ7U2t1bGxPd25lcjp7SWQ6XCIzZDQ4NWExOS01MWIzLTRkMzYtODcwYS05MDRjNDAyNjY4ZjZcIixoeXBpeGVsUG9wdWxhdGVkOjFiLFByb3BlcnRpZXM6e3RleHR1cmVzOlswOntWYWx1ZTpcImV5SjBaWGgwZFhKbGN5STZleUpUUzBsT0lqcDdJblZ5YkNJNkltaDBkSEE2THk5MFpYaDBkWEpsY3k1dGFXNWxZM0poWm5RdWJtVjBMM1JsZUhSMWNtVXZNVEUzWW1abVl6RTVOekpoWTJRM1pqTmlOR0U0WmpRellqVmlObU0zTlRNME5qazFZamhtWkRZeU5qYzNaVEF6TURaaU1qZ3pNVFUzTkdJaWZYMTlcIn1dfSxOYW1lOlwiwqczZDQ4NWExOS01MWIzLTRkMzYtODcwYS05MDRjNDAyNjY4ZjZcIn0sZGlzcGxheTp7TG9yZTpbMDpcIsKnOEZhcm1pbmcgUGV0XCIsMTpcIlwiLDI6XCLCpzdIZWFsdGg6IMKnYSsxMDBcIiwzOlwiwqc3U3BlZWQ6IMKnYSsyMFwiLDQ6XCJcIiw1Olwiwqc2SGFwcHkgRmVldFwiLDY6XCLCpzfCpzdKdW1wIHBvdGlvbnMgYWxzbyBnaXZlIMKnYSs1MCDCpzdzcGVlZFwiLDc6XCJcIiw4Olwiwqc2RmFybWluZyBXaXNkb20gQm9vc3RcIiw5Olwiwqc3wqc3wqc3R3JhbnRzIMKnMyszMOKYryBGYXJtaW5nIFdpc2RvbcKnNy5cIiwxMDpcIlwiLDExOlwiwqc2RWZmaWNpZW50IEZhcm1pbmdcIiwxMjpcIsKnN8KnN0Zhcm1pbmcgbWluaW9ucyB3b3JrIMKnYTMwJSDCpzdmYXN0ZXJcIiwxMzpcIsKnN3doaWxlIG9uIHlvdXIgaXNsYW5kXCIsMTQ6XCJcIiwxNTpcIsKnNkhlbGQgSXRlbTogwqc5RmFybWluZyBFeHAgQm9vc3RcIiwxNjpcIsKnN0dpdmVzIMKnYSs0MCUgwqc3cGV0IGV4cCBmb3IgRmFybWluZy5cIiwxNzpcIlwiLDE4OlwiwqdiwqdsTUFYIExFVkVMXCIsMTk6XCLCpzjilrggMzgsMDc0LDI5NSBYUFwiLDIwOlwiXCIsMjE6XCLCpzfCp2VMZWZ0LWNsaWNrIHRvIHN1bW1vbiFcIiwyMjpcIsKnN8KnZVNoaWZ0IExlZnQtY2xpY2sgdG8gdG9nZ2xlIGFzIGZhdm9yaXRlIVwiLDIzOlwiwqdlUmlnaHQtY2xpY2sgdG8gY29udmVydCB0byBhbiBpdGVtIVwiXSxOYW1lOlwiwqc3W0x2bCAxMDBdIMKnNlJhYmJpdFwifSxFeHRyYUF0dHJpYnV0ZXM6e3BldEluZm86XCJ7XFxcInR5cGVcXFwiOlxcXCJSQUJCSVRcXFwiLFxcXCJhY3RpdmVcXFwiOmZhbHNlLFxcXCJleHBcXFwiOjMuODA3NDI5NTA0MzcxODkyRTcsXFxcInRpZXJcXFwiOlxcXCJMRUdFTkRBUllcXFwiLFxcXCJoaWRlSW5mb1xcXCI6ZmFsc2UsXFxcImhlbGRJdGVtXFxcIjpcXFwiUEVUX0lURU1fRkFSTUlOR19TS0lMTF9CT09TVF9SQVJFXFxcIixcXFwiY2FuZHlVc2VkXFxcIjowLFxcXCJ1dWlkXFxcIjpcXFwiZWFkMzIzYjYtZTQ0NC00N2Q2LTllYTItMGU1NTNmNjY5NzRiXFxcIixcXFwidW5pcXVlSWRcXFwiOlxcXCIxNjM1MzQzZS0yNWUxLTRiOTctYjMzOS1jNWVmMzg5OTJmNmZcXFwiLFxcXCJoaWRlUmlnaHRDbGlja1xcXCI6ZmFsc2UsXFxcIm5vTW92ZVxcXCI6ZmFsc2V9XCIsaWQ6XCJQRVRcIix1dWlkOlwiZWFkMzIzYjYtZTQ0NC00N2Q2LTllYTItMGU1NTNmNjY5NzRiXCJ9fSIsImRhbWFnZSI6MywiaW50ZXJuYWxuYW1lIjoiXyJ9",
                   "NECKLACE": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnOVJvb3RlZCBMb3R1cyBOZWNrbGFjZSIsIm5idHRhZyI6IntIaWRlRmxhZ3M6MjU0LFNrdWxsT3duZXI6e0lkOlwiYzhkYzU2YjUtYTk5ZS0zYWRhLWE3YjgtODgxMjQzNmE4OWRkXCIsUHJvcGVydGllczp7dGV4dHVyZXM6WzA6e1ZhbHVlOlwiZXdvZ0lDSjBhVzFsYzNSaGJYQWlJRG9nTVRZMk1qVXdNamd4TVRBeU1pd0tJQ0FpY0hKdlptbHNaVWxrSWlBNklDSXpPVFZrWlRKbFlqVmpOalUwWm1Sa09XUTJOREF3WTJKaE5tTm1OakZoTnlJc0NpQWdJbkJ5YjJacGJHVk9ZVzFsSWlBNklDSnpjR0Z5WlhOMFpYWmxJaXdLSUNBaWMybG5ibUYwZFhKbFVtVnhkV2x5WldRaUlEb2dkSEoxWlN3S0lDQWlkR1Y0ZEhWeVpYTWlJRG9nZXdvZ0lDQWdJbE5MU1U0aUlEb2dld29nSUNBZ0lDQWlkWEpzSWlBNklDSm9kSFJ3T2k4dmRHVjRkSFZ5WlhNdWJXbHVaV055WVdaMExtNWxkQzkwWlhoMGRYSmxMMkZrT0ROaFlUSTFZekV4WVdObVkyVTNORFF5Wm1Zd01USTVabVEzTUdKaU5ESmpZVEJrWlRZelltRXlNVEUxTVRZNU9UWTJZMk16TlRGbU1UY3hObUlpQ2lBZ0lDQjlDaUFnZlFwOVwifV19fSxkaXNwbGF5OntMb3JlOlswOlwiwqc3SGVhbHRoOiDCp2ErMTggwqc5KCs4KVwiLDE6XCLCpzdGYXJtaW5nIEZvcnR1bmU6IMKnYSsxNyDCpzkoKzEyKVwiLDI6XCJcIiwzOlwiwqc2UGllY2UgQm9udXM6IFNhbGVzcGVyc29uXCIsNDpcIsKnN0NvbXBsZXRlIMKnYUdhcmRlbiBWaXNpdG9yIE9mZmVycyDCpzd0b1wiLDU6XCLCpzdnYWluIMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcuXCIsNjpcIlwiLDc6XCLCpzdQaWVjZSBCb251czogwqc2KznimJhcIiw4Olwiwqc3TmV4dCBVcGdyYWRlOiDCpzYrMTDimJggwqc4KMKnYTQxN8KnNy/Cp2M1MDDCpzgpXCIsOTpcIlwiLDEwOlwiwqc5wqdsUkFSRSBORUNLTEFDRVwiXSxOYW1lOlwiwqc5Um9vdGVkIExvdHVzIE5lY2tsYWNlXCJ9LEV4dHJhQXR0cmlidXRlczp7bW9kaWZpZXI6XCJyb290ZWRcIixpZDpcIkxPVFVTX05FQ0tMQUNFXCIsdXVpZDpcIjg1ODFjMzNhLTZlZjYtNGZiOS1iZWZmLWQxNWQ1NjYzNDNkNVwiLHRpbWVzdGFtcDoxNjc2NDg2NTgwMDAwTH19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
                   "CLOAK": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnOVJvb3RlZCBMb3R1cyBDbG9hayIsIm5idHRhZyI6IntIaWRlRmxhZ3M6MjU0LFNrdWxsT3duZXI6e0lkOlwiZWI4YmFkMWYtY2Q0Mi0zNTlhLWI2ZDItYmY1NjM5MjhjYzI2XCIsUHJvcGVydGllczp7dGV4dHVyZXM6WzA6e1ZhbHVlOlwiZXdvZ0lDSjBhVzFsYzNSaGJYQWlJRG9nTVRZMk1qVXdNamd6TURZMk5Dd0tJQ0FpY0hKdlptbHNaVWxrSWlBNklDSmlOVE01TlRreU1qTXdZMkkwTW1FME9XWTVZVFJsWW1ZeE5tUmxPVFl3WWlJc0NpQWdJbkJ5YjJacGJHVk9ZVzFsSWlBNklDSnRZWEpwWVc1aFptRm5JaXdLSUNBaWMybG5ibUYwZFhKbFVtVnhkV2x5WldRaUlEb2dkSEoxWlN3S0lDQWlkR1Y0ZEhWeVpYTWlJRG9nZXdvZ0lDQWdJbE5MU1U0aUlEb2dld29nSUNBZ0lDQWlkWEpzSWlBNklDSm9kSFJ3T2k4dmRHVjRkSFZ5WlhNdWJXbHVaV055WVdaMExtNWxkQzkwWlhoMGRYSmxMMlZsTkRCa056YzJNbVF5WWpkaFpXUTFaRGt5TldReE4yWTNZak5qTVRRMU1XVTNNRGxqTWpVek4yRTFOVFEyWWpGalpUWmxNR1E0WldVeU56VTNaRFFpQ2lBZ0lDQjlDaUFnZlFwOVwifV19fSxkaXNwbGF5OntMb3JlOlswOlwiwqc3SGVhbHRoOiDCp2ErMTggwqc5KCs4KVwiLDE6XCLCpzdGYXJtaW5nIEZvcnR1bmU6IMKnYSsxNyDCpzkoKzEyKVwiLDI6XCJcIiwzOlwiwqc2UGllY2UgQm9udXM6IFNhbGVzcGVyc29uXCIsNDpcIsKnN0NvbXBsZXRlIMKnYUdhcmRlbiBWaXNpdG9yIE9mZmVycyDCpzd0b1wiLDU6XCLCpzdnYWluIMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcuXCIsNjpcIlwiLDc6XCLCpzdQaWVjZSBCb251czogwqc2KznimJhcIiw4Olwiwqc3TmV4dCBVcGdyYWRlOiDCpzYrMTDimJggwqc4KMKnYTQxN8KnNy/Cp2M1MDDCpzgpXCIsOTpcIlwiLDEwOlwiwqc5wqdsUkFSRSBDTE9BS1wiXSxOYW1lOlwiwqc5Um9vdGVkIExvdHVzIENsb2FrXCJ9LEV4dHJhQXR0cmlidXRlczp7bW9kaWZpZXI6XCJyb290ZWRcIixpZDpcIkxPVFVTX0NMT0FLXCIsdXVpZDpcImI2NDZlNjk5LWM1ZjUtNDdhMC04ZTE5LTMyYjA5YzEyN2Y2ZFwiLHRpbWVzdGFtcDoxNjc2NTgwNjAwMDAwTH19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
                   "BELT": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnOVJvb3RlZCBMb3R1cyBCZWx0IiwibmJ0dGFnIjoie0hpZGVGbGFnczoyNTQsU2t1bGxPd25lcjp7SWQ6XCIyMjI3NTY3Zi0wNDg3LTM2ZjctOGVmOS1iMTY3NzU1NzY5Y2RcIixQcm9wZXJ0aWVzOnt0ZXh0dXJlczpbMDp7VmFsdWU6XCJld29nSUNKMGFXMWxjM1JoYlhBaUlEb2dNVFkyTWpVd01qZzBOVFF5Tml3S0lDQWljSEp2Wm1sc1pVbGtJaUE2SUNKbU1UZGtPV0psWm1NMk5HTTBZekE0T0RWaFlXVTNOV1EwWWpoaU5XRTBOQ0lzQ2lBZ0luQnliMlpwYkdWT1lXMWxJaUE2SUNKVGFYSkNZVzVrWlhKemJtRjBZMmdpTEFvZ0lDSnphV2R1WVhSMWNtVlNaWEYxYVhKbFpDSWdPaUIwY25WbExBb2dJQ0owWlhoMGRYSmxjeUlnT2lCN0NpQWdJQ0FpVTB0SlRpSWdPaUI3Q2lBZ0lDQWdJQ0oxY213aUlEb2dJbWgwZEhBNkx5OTBaWGgwZFhKbGN5NXRhVzVsWTNKaFpuUXVibVYwTDNSbGVIUjFjbVV2TkdObE9HUXhPV0l3TVRZelpERmxZV1JrWlRVMk16TTNOek01TkdJd05XUmxOak0wTWpkak5tVXpaamhoT1RRNVpUQmtabUV6TW1KaU1qQmtOMll5WkNJS0lDQWdJSDBLSUNCOUNuMFwifV19fSxkaXNwbGF5OntMb3JlOlswOlwiwqc3SGVhbHRoOiDCp2ErMTggwqc5KCs4KVwiLDE6XCLCpzdGYXJtaW5nIEZvcnR1bmU6IMKnYSsxNyDCpzkoKzEyKVwiLDI6XCJcIiwzOlwiwqc2UGllY2UgQm9udXM6IFNhbGVzcGVyc29uXCIsNDpcIsKnN0NvbXBsZXRlIMKnYUdhcmRlbiBWaXNpdG9yIE9mZmVycyDCpzd0b1wiLDU6XCLCpzdnYWluIMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcuXCIsNjpcIlwiLDc6XCLCpzdQaWVjZSBCb251czogwqc2KznimJhcIiw4Olwiwqc3TmV4dCBVcGdyYWRlOiDCpzYrMTDimJggwqc4KMKnYTQxN8KnNy/Cp2M1MDDCpzgpXCIsOTpcIlwiLDEwOlwiwqc5wqdsUkFSRSBCRUxUXCJdLE5hbWU6XCLCpzlSb290ZWQgTG90dXMgQmVsdFwifSxFeHRyYUF0dHJpYnV0ZXM6e21vZGlmaWVyOlwicm9vdGVkXCIsaWQ6XCJMT1RVU19CRUxUXCIsdXVpZDpcImVjNDc2OWYyLTc1YjAtNGExZC04MDZmLWNjZDFhYzBjYTAwNFwiLHRpbWVzdGFtcDoxNjc2NDg2NTgwMDAwTH19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
@@ -5597,14 +5597,14 @@
               },
               "FARMING": {
                 "level": 60,
-                "totalXp": 56525420,
-                "currentXp": 56525420,
+                "totalXp": 56545340,
+                "currentXp": 56545340,
                 "currentXpMax": 0,
                 "overflowLevel": 66,
-                "overflowCurrentXp": 1925420,
-                "overflowTotalXp": 56525420,
+                "overflowCurrentXp": 1945340,
+                "overflowTotalXp": 56545340,
                 "overflowCurrentXpMax": 11200000,
-                "lastGain": "3.5",
+                "lastGain": "2,490",
                 "customGoalLevel": 0
               },
               "MINING": {
@@ -5880,8 +5880,7 @@
                   "locked": false,
                   "favorite": false
                 }
-              },
-              "currentSlot": 1
+              }
             },
             "hoppityEventStats": {
               "371": {

@@ -3081,3 +3081,438 @@ Available: [Ljava/awt/image/BufferedImage;, I, I, I, Ljava/awt/image/BufferedIma
 [18:41:03] [Thread-613/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
 [18:41:06] [Client thread/ERROR]: Signature is missing from textures payload
 [18:41:12] [Client thread/INFO]: [CHAT] §r§8[§r§717§r§8] §r§7MM31§7§r§7: anybody wanna get glacite helmet or chestplate for leggings or boots? (im giving the chest or helmet)§r
+[18:41:23] [Client thread/INFO]: [CHAT] §r§7Warping...§r§7 (2)§r
+[18:41:23] [Client thread/INFO]: [CHAT] §7Sending to server mini191CD...§r
+[18:41:23] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[18:41:23] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini191CD', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[18:41:23] [Client thread/INFO]: [SkyblockAddons/NetworkListener] ClientboundLocationPacket{serverName='mini191CD', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[18:41:23] [Client thread/INFO]: [CHAT] §r§8 §r§8 §r§1 §r§3 §r§3 §r§7 §r§8 §r
+[18:41:23] [Client thread/ERROR]: [Shaders] OpenGL error: 1281 (Invalid value), program: none, at: pre beginRender
+[18:41:23] [Client thread/INFO]: [CHAT] §eOpenGL Error§f: 1281 (Invalid value)§r§7 (2)§r
+[18:41:24] [Client thread/ERROR]: [Shaders] OpenGL error: 1281 (Invalid value), program: gbuffers_textured (none), at: pre-useProgram
+[18:41:24] [Thread-626/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[18:41:24] [Thread-633/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[18:41:27] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §ePineapple§r§7 (3)§r
+[18:41:27] [Client thread/INFO]: [CHAT] §r§8Profile ID: cbcbcaaa-4182-4d77-bab6-b1345770fa92§r§7 (3)§r
+[18:41:31] [Client thread/ERROR]: Signature is missing from textures payload
+[18:41:51] [Client thread/ERROR]: Signature is missing from textures payload
+[18:42:12] [Thread-684/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[18:45:04] [Client thread/INFO]: [CHAT] §r§7Warping you to your SkyBlock island...§r
+[18:45:04] [Client thread/INFO]: [CHAT] §7Sending to server mini199U...§r
+[18:45:04] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[18:45:05] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini199U', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[18:45:05] [Client thread/INFO]: [SkyblockAddons/NetworkListener] ClientboundLocationPacket{serverName='mini199U', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[18:45:05] [Client thread/INFO]: [CHAT] §r§8 §r§8 §r§1 §r§3 §r§3 §r§7 §r§8 §r
+[18:45:06] [SkyblockAddons - #19/INFO]: [SkyblockAddons/PetCacheManager] Saving pet cache...
+[18:45:06] [SkyblockAddons - #19/INFO]: [SkyblockAddons/PetCacheManager] Pet cache saved!
+[18:45:06] [SkyblockAddons - #19/INFO]: [SkyblockAddons/PetCacheManager] Saving pet cache...
+[18:45:06] [SkyblockAddons - #19/INFO]: [SkyblockAddons/PetCacheManager] Pet cache saved!
+[18:45:08] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §ePineapple§r
+[18:45:08] [Client thread/INFO]: [CHAT] §r§8Profile ID: cbcbcaaa-4182-4d77-bab6-b1345770fa92§r
+[18:45:08] [Client thread/INFO]: [CHAT] §r§aYou summoned your §r§6Rabbit§r§a!§r
+[18:45:08] [SkyblockAddons - #19/INFO]: [SkyblockAddons/PetCacheManager] Saving pet cache...
+[18:45:08] [SkyblockAddons - #19/INFO]: [SkyblockAddons/PetCacheManager] Pet cache saved!
+[18:45:13] [Client thread/INFO]: [CHAT] §rUnknown command. Type "/help" for help. ('cf\')§r
+[18:45:14] [Client thread/INFO]: [com.Hileb.teampotato.redirectionor.RedirectionorTransformer:transform:42]: Redirect at.hannibal2.skyhanni.features.inventory.chocolatefactory.ChocolateAmount
+[18:45:16] [Client thread/INFO]: [CHAT] §r§5Rabbit Daddy §r§7has been promoted to §r§7[164§r§7] §r§5Manager§r§7!§r
+[18:45:17] [Client thread/INFO]: [CHAT] §r§5Rabbit Sis §r§7has been promoted to §r§7[170§r§7] §r§5Manager§r§7!§r
+[18:45:32] [Client thread/INFO]: [CHAT] §r§d§lTIME TOWER! §r§7Your §r§6Chocolate Factory §r§7production has increased by §r§6+0.1x §r§7for §r§a1h§r§7!§r
+[18:46:46] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:46:50] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:46:53] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:46:55] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:47:16] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:47:20] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:47:23] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:47:24] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:47:27] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:49:17] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:49:19] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:49:22] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:51:59] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:52:17] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:52:20] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:56:30] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[18:57:44] [WebSocketConnectReadThread-2070/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 38m 12.802s
+[18:57:44] [Client thread/INFO]: Authenticating to Mojang as HotBaconWasTaken (e35e1563-c0a7-4696-9908-dc57289a69c1)
+[18:57:44] [DefaultDispatcher-worker-6/INFO]: Connecting to Essential Connection Manager...
+[18:57:45] [WebSocketConnectReadThread-2872/INFO]: Connected to Essential Connection Manager.
+[19:00:40] [WebSocketConnectReadThread-2872/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 2m 55.855s
+[19:00:40] [Client thread/INFO]: Authenticating to Mojang as HotBaconWasTaken (e35e1563-c0a7-4696-9908-dc57289a69c1)
+[19:00:41] [DefaultDispatcher-worker-9/INFO]: Connecting to Essential Connection Manager...
+[19:00:41] [WebSocketConnectReadThread-2908/INFO]: Connected to Essential Connection Manager.
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[19:04:33] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[19:08:25] [WebSocketConnectReadThread-2908/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 7m 43.849s
+[19:08:25] [Client thread/INFO]: Authenticating to Mojang as HotBaconWasTaken (e35e1563-c0a7-4696-9908-dc57289a69c1)
+[19:08:25] [DefaultDispatcher-worker-9/INFO]: Connecting to Essential Connection Manager...
+[19:08:26] [WebSocketConnectReadThread-2950/INFO]: Connected to Essential Connection Manager.
+[19:09:49] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[19:09:54] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[19:11:13] [Client thread/INFO]: [CHAT] §e[SkyHanni] You have gained §b350 §eBits.§r
+[19:13:23] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[19:13:27] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[19:13:30] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[19:15:28] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[19:15:31] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[19:16:50] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[19:16:52] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[19:17:29] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[19:28:04] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$6:35]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@49a1cf9b
+[19:29:35] [Client thread/INFO]: [CHAT] §r§7Warping...§r
+[19:29:35] [Client thread/INFO]: [CHAT] §7Sending to server mini13AC...§r
+[19:29:35] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[19:29:35] [Client thread/INFO]: [CHAT] §r§8 §r§8 §r§1 §r§3 §r§3 §r§7 §r§8 §r
+[19:29:35] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini13AC', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[19:29:35] [Client thread/INFO]: [SkyblockAddons/NetworkListener] ClientboundLocationPacket{serverName='mini13AC', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[19:29:36] [Thread-742/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:29:36] [Thread-761/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:29:38] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §ePineapple§r
+[19:29:38] [Client thread/INFO]: [CHAT] §r§8Profile ID: cbcbcaaa-4182-4d77-bab6-b1345770fa92§r
+[19:29:39] [Client thread/INFO]: [CHAT] §r§7Warping...§r§7 (2)§r
+[19:29:39] [Client thread/INFO]: [CHAT] §7Sending to server mini67AN...§r
+[19:29:39] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[19:29:39] [Client thread/INFO]: [CHAT] §r§8 §r§8 §r§1 §r§3 §r§3 §r§7 §r§8 §r
+[19:29:39] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini67AN', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[19:29:39] [Client thread/INFO]: [SkyblockAddons/NetworkListener] ClientboundLocationPacket{serverName='mini67AN', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[19:29:41] [Client thread/INFO]: [CHAT] §r§cThere are blocks in the way!§r
+[19:29:42] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §ePineapple§r§7 (2)§r
+[19:29:42] [Client thread/INFO]: [CHAT] §r§8Profile ID: cbcbcaaa-4182-4d77-bab6-b1345770fa92§r§7 (2)§r
+[19:29:44] [Client thread/INFO]: [com.Hileb.teampotato.redirectionor.RedirectionorTransformer:transform:42]: Redirect gg.skytils.skytilsmod.features.impl.protectitems.strategy.ItemProtectStrategy$ProtectType
+[19:29:50] [Client thread/INFO]: [CHAT] §r§cThere are blocks in the way!§r§7 (2)§r
+[19:29:52] [Client thread/INFO]: [com.Hileb.teampotato.redirectionor.RedirectionorTransformer:transform:42]: Redirect codes.biscuit.skyblockaddons.shader.ShaderLoader$ShaderType
+[19:30:12] [Thread-809/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:30:14] [Thread-133/ERROR]: Error in class 'SourceLWJGL OpenAL'
+[19:30:14] [Thread-133/ERROR]: Channel null in method 'stop'
+[19:30:17] [Client thread/ERROR]: Signature is missing from textures payload
+[19:30:32] [Client thread/INFO]: [CHAT] §r§c§lRAFFLE CLOSING! §r§7in 10 seconds§r
+[19:31:03] [Client thread/INFO]: [CHAT] §r§a§l????????????????????????????????????????????????????????????????§r
+[19:31:03] [Client thread/INFO]: [CHAT] §r§f                              §r§6§lRAFFLE ENDED!§r
+[19:31:03] [Client thread/INFO]: [CHAT] §r§f                             §r§7Active Mining Event§r
+[19:31:03] [Client thread/INFO]: [CHAT] §r§f                          §r§cYou didn't participate...§r
+[19:31:03] [Client thread/INFO]: [CHAT] §r§a§l????????????????????????????????????????????????????????????????§r
+[19:31:10] [Client thread/INFO]: [CHAT] §r§7Warping...§r
+[19:31:10] [Client thread/INFO]: [CHAT] §7Sending to server mini30CK...§r
+[19:31:10] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[19:31:10] [Client thread/INFO]: [CHAT] §r§8 §r§8 §r§1 §r§3 §r§3 §r§7 §r§8 §r
+[19:31:10] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini30CK', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[19:31:10] [Client thread/INFO]: [SkyblockAddons/NetworkListener] ClientboundLocationPacket{serverName='mini30CK', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[19:31:11] [Client thread/ERROR]: [Shaders] OpenGL error: 1281 (Invalid value), program: gbuffers_textured (none), at: pre-useProgram
+[19:31:11] [Client thread/INFO]: [CHAT] §eOpenGL Error§f: 1281 (Invalid value)§r
+[19:31:11] [Thread-832/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:31:11] [Thread-834/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:31:11] [Thread-837/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:31:13] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §ePineapple§r
+[19:31:13] [Client thread/INFO]: [CHAT] §r§8Profile ID: cbcbcaaa-4182-4d77-bab6-b1345770fa92§r
+[19:31:16] [Client thread/ERROR]: Signature is missing from textures payload
+[19:31:18] [Thread-866/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:31:58] [Thread-881/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:32:36] [Client thread/INFO]: [com.Hileb.teampotato.redirectionor.RedirectionorTransformer:transform:42]: Redirect at.hannibal2.skyhanni.features.fame.UpgradeReminder$UpgradeType
+[19:33:58] [Client thread/INFO]: [CHAT] §r§aYou bought §r§cAbiphone Contacts Trio§r§a!§r
+[19:34:36] [Client thread/INFO]: [CHAT] §r§7Warping...§r
+[19:34:36] [Client thread/INFO]: [CHAT] §7Sending to server mini258A...§r
+[19:34:37] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[19:34:37] [Client thread/INFO]: [CHAT] §r§8 §r§8 §r§1 §r§3 §r§3 §r§7 §r§8 §r
+[19:34:37] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini258A', serverType='SKYBLOCK', lobbyName='null', mode='mining_1', map='Gold Mine'} VersionedPacket{version=1}
+[19:34:37] [Client thread/INFO]: [SkyblockAddons/NetworkListener] ClientboundLocationPacket{serverName='mini258A', serverType='SKYBLOCK', lobbyName='null', mode='mining_1', map='Gold Mine'} VersionedPacket{version=1}
+[19:34:37] [Client thread/ERROR]: [Shaders] OpenGL error: 1281 (Invalid value), program: none, at: pre beginRender
+[19:34:37] [Client thread/INFO]: [CHAT] §eOpenGL Error§f: 1281 (Invalid value)§r
+[19:34:37] [Client thread/ERROR]: [Shaders] OpenGL error: 1281 (Invalid value), program: gbuffers_textured (none), at: pre-useProgram
+[19:34:40] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §ePineapple§r
+[19:34:40] [Client thread/INFO]: [CHAT] §r§8Profile ID: cbcbcaaa-4182-4d77-bab6-b1345770fa92§r
+[19:34:45] [Client thread/INFO]: [CHAT] §r§aYou've §r§a§oelevated §r§ayour Abiphone contacts limit by §r§b+3§r§a!§r
+[19:34:49] [Client thread/INFO]: [CHAT] §r§b? Rusty §r§fhas been added to your Abiphone's contacts!§r
+[19:34:49] [Client thread/INFO]: [CHAT] §e[SkyHanni] §b+10 SkyBlock XP §7(Rusty§7)§b (84/100)§r
+[19:35:00] [Client thread/INFO]: [CHAT] §r§bNew day! §r§eYour §r§2Sky Mall §r§ebuff changed!§r
+[19:35:00] [Client thread/INFO]: [CHAT] §r§eNew buff§r§r§r: §r§fGain §r§a+15% §r§fmore Powder while mining.§r
+[19:35:04] [Client thread/INFO]: [CHAT] §r§7Warping...§r§7 (2)§r
+[19:35:05] [Client thread/INFO]: [CHAT] §7Sending to server mini1011K...§r
+[19:35:05] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[19:35:05] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini1011K', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[19:35:05] [Client thread/INFO]: [SkyblockAddons/NetworkListener] ClientboundLocationPacket{serverName='mini1011K', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[19:35:05] [Client thread/INFO]: [CHAT] §r§8 §r§8 §r§1 §r§3 §r§3 §r§7 §r§8 §r
+[19:35:05] [Client thread/ERROR]: [Shaders] OpenGL error: 1281 (Invalid value), program: none, at: pre beginRender
+[19:35:05] [Client thread/INFO]: [CHAT] §eOpenGL Error§f: 1281 (Invalid value)§r§7 (2)§r
+[19:35:06] [Client thread/INFO]: [com.Hileb.teampotato.redirectionor.RedirectionorTransformer:transform:42]: Redirect at.hannibal2.skyhanni.features.garden.composter.ComposterDisplay$DataType
+[19:35:06] [Client thread/INFO]: [CHAT] §e[SkyHanni] §cYour Organic Matter is low!§r
+[19:35:06] [Client thread/INFO]: [CHAT] §e[SkyHanni] §aTom §eis visiting your garden!§r
+[19:35:06] [Client thread/INFO]: [CHAT] §e[SkyHanni] §aMason §eis visiting your garden!§r
+[19:35:06] [Client thread/INFO]: [CHAT] §e[SkyHanni] §aLynn §eis visiting your garden!§r
+[19:35:06] [Client thread/INFO]: [CHAT] §e[SkyHanni] §aRyu §eis visiting your garden!§r
+[19:35:06] [Client thread/INFO]: [CHAT] §e[SkyHanni] §aGuy §eis visiting your garden!§r
+[19:35:07] [Client thread/INFO]: [CHAT] §6§lGROSS! §7While you were offline, §6Pests §7spawned in §aPlots §r§b1§r§7, §r§b8§r§7, §r§b5§r§7, §r§b19§r§7, §r§b20§r§7, §r§b14§r§7 and §r§b3§r§r§7!§r
+[19:35:07] [Client thread/INFO]: [CHAT] §r§7Your §r§6? Farming Fortune §r§7has been reduced by §r§475%§r§7!§r
+[19:35:07] [Client thread/INFO]: [CHAT] §r§7Click on a plots name in chat to teleport to it!§r
+[19:35:08] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §ePineapple§r§7 (2)§r
+[19:35:08] [Client thread/INFO]: [CHAT] §r§8Profile ID: cbcbcaaa-4182-4d77-bab6-b1345770fa92§r§7 (2)§r
+[19:35:31] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage4.
+[19:35:31] [SkyblockAddons - #29/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values...
+[19:35:31] [SkyblockAddons - #29/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent values saved!
+[19:35:31] [SkyblockAddons - #29/INFO]: [SkyblockAddons/PetCacheManager] Saving pet cache...
+[19:35:31] [SkyblockAddons - #29/INFO]: [SkyblockAddons/PetCacheManager] Pet cache saved!
+[19:35:31] [SkyblockAddons - #29/INFO]: [SkyblockAddons/PetCacheManager] Saving pet cache...
+[19:35:31] [SkyblockAddons - #29/INFO]: [SkyblockAddons/PetCacheManager] Pet cache saved!
+[19:35:33] [Client thread/INFO]: [CHAT] §r§aYou summoned your §r§6Elephant§r§a!§r
+[19:35:33] [SkyblockAddons - #29/INFO]: [SkyblockAddons/PetCacheManager] Saving pet cache...
+[19:35:33] [SkyblockAddons - #29/INFO]: [SkyblockAddons/PetCacheManager] Pet cache saved!
+[19:35:34] [Client thread/INFO]: [com.Hileb.teampotato.redirectionor.RedirectionorTransformer:transform:42]: Redirect at.hannibal2.skyhanni.utils.SkyBlockItemModifierUtils$GemstoneSlotType
+[19:35:34] [Client thread/INFO]: [com.Hileb.teampotato.redirectionor.RedirectionorTransformer:transform:42]: Redirect at.hannibal2.skyhanni.utils.SkyBlockItemModifierUtils$GemstoneType
+[19:35:34] [Client thread/INFO]: [com.Hileb.teampotato.redirectionor.RedirectionorTransformer:transform:42]: Redirect at.hannibal2.skyhanni.utils.SkyBlockItemModifierUtils$GemstoneQuality
+[19:35:37] [Client thread/INFO]: [CHAT] §r§cThis ability is on cooldown for 1s.§r
+[19:35:42] [Client thread/ERROR]: Signature is missing from textures payload
+[19:35:45] [Client thread/INFO]: SoundSystem shutting down...
+[19:35:45] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[19:35:45] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:35:45] [Thread-934/INFO]: Initializing LWJGL OpenAL
+[19:35:45] [Thread-934/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:35:45] [Thread-934/INFO]: OpenAL initialized.
+[19:35:46] [Sound Library Loader/INFO]: Sound engine started
+[19:35:53] [Client thread/INFO]: [CHAT] §r§eYou received §a6x Enchanted Carrot §efor killing a §6Cricket§e!§r
+[19:35:54] [Client thread/INFO]: [CHAT] §e[SkyHanni] You have gained §b7 §eBits.§r
+[19:35:58] [Client thread/INFO]: [CHAT] §r§cThere are blocks in the way!§r
+[19:35:59] [Client thread/INFO]: [CHAT] §6[Sacks] §r§a+6§r§e items§r§e.§r§8 (Last 5s.)§r
+[19:36:00] [Client thread/INFO]: [CHAT] §r§cThere are blocks in the way!§r§7 (2)§r
+[19:36:00] [Client thread/INFO]: [CHAT] §r§cThere are blocks in the way!§r§7 (3)§r
+[19:36:03] [Client thread/INFO]: [CHAT] §r§eYou received §a7x Enchanted Sugar §efor killing a §6Mosquito§e!§r
+[19:36:04] [Client thread/INFO]: [CHAT] §e[SkyHanni] You have gained §b7 §eBits.§r§7 (2)§r
+[19:36:08] [Client thread/INFO]: [CHAT] §6[Sacks] §r§a+7§r§e items§r§e.§r§8 (Last 5s.)§r
+[19:36:16] [Client thread/INFO]: [CHAT] §r§eYou received §a8x Enchanted Red Mushroom §efor killing a §6Slug§e!§r
+[19:36:19] [Client thread/INFO]: [CHAT] §e[SkyHanni] You have gained §b7 §eBits.§r§7 (3)§r
+[19:36:21] [Client thread/INFO]: [CHAT] §6[Sacks] §r§a+8§r§e items§r§e.§r§8 (Last 5s.)§r
+[19:36:24] [Client thread/INFO]: [CHAT] §r§cThis ability is on cooldown for 1s.§r§7 (2)§r
+[19:36:30] [Client thread/INFO]: [CHAT] §r§eYou received §a9x Enchanted Cactus Green §efor killing a §6Mite§e!§r
+[19:36:31] [Client thread/INFO]: [CHAT] §e[SkyHanni] You have gained §b7 §eBits.§r§7 (4)§r
+[19:36:35] [Client thread/INFO]: [CHAT] §r§cThis ability is on cooldown for 1s.§r§7 (3)§r
+[19:36:35] [Client thread/INFO]: [CHAT] §6[Sacks] §r§a+9§r§e items§r§e.§r§8 (Last 5s.)§r
+[19:36:39] [Client thread/INFO]: [CHAT] §r§aYour Garden is no longer infested and your §r§6? Farming Fortune §r§ahas returned to normal!§r
+[19:36:39] [Client thread/INFO]: [CHAT] §r§eYou received §a10x Enchanted Potato §efor killing a §6Locust§e!§r
+[19:36:40] [Client thread/INFO]: [CHAT] §e[SkyHanni] You have gained §b7 §eBits.§r§7 (5)§r
+[19:36:45] [Client thread/INFO]: [CHAT] §6[Sacks] §r§a+10§r§e items§r§e.§r§8 (Last 5s.)§r
+[19:36:50] [Client thread/INFO]: [CHAT] §r§eYou received §a9x Enchanted Sugar §efor killing a §6Mosquito§e!§r
+[19:36:50] [Client thread/INFO]: [CHAT] §e[SkyHanni] You have gained §b7 §eBits.§r§7 (6)§r
+[19:36:55] [Client thread/INFO]: [CHAT] §6[Sacks] §r§a+9§r§e items§r§e.§r§8 (Last 5s.)§r
+[19:36:56] [Client thread/INFO]: [CHAT] §r§eYou received §a10x Enchanted Pumpkin §efor killing a §6Rat§e!§r
+[19:36:56] [Client thread/INFO]: [CHAT] §e[SkyHanni] You have gained §b7 §eBits.§r§7 (7)§r
+[19:37:01] [Client thread/INFO]: [CHAT] §6[Sacks] §r§a+10§r§e items§r§e.§r§8 (Last 5s.)§r
+[19:37:02] [Client thread/INFO]: [CHAT] §r§cThis ability is on cooldown for 1s.§r§7 (4)§r
+[19:37:08] [Client thread/INFO]: [CHAT] §r§eYou received §a10x Enchanted Sugar §efor killing a §6Mosquito§e!§r
+[19:37:09] [Client thread/INFO]: [CHAT] §e[SkyHanni] You have gained §b7 §eBits.§r§7 (8)§r
+[19:37:11] [Client thread/INFO]: [CHAT] §r§aYou sold §r§aTasty Cheese§r§8 x1 §r§afor §r§6500 Coins§r§a!§r
+[19:37:13] [Client thread/INFO]: [CHAT] §6[Sacks] §r§a+10§r§e items§r§e.§r§8 (Last 5s.)§r
+[19:37:30] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage4.
+[19:37:30] [SkyblockAddons - #30/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values...
+[19:37:30] [SkyblockAddons - #30/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent values saved!
+[19:37:31] [SkyblockAddons - #30/INFO]: [SkyblockAddons/PetCacheManager] Saving pet cache...
+[19:37:31] [SkyblockAddons - #30/INFO]: [SkyblockAddons/PetCacheManager] Pet cache saved!
+[19:37:31] [SkyblockAddons - #30/INFO]: [SkyblockAddons/PetCacheManager] Saving pet cache...
+[19:37:31] [SkyblockAddons - #30/INFO]: [SkyblockAddons/PetCacheManager] Pet cache saved!
+[19:37:35] [Client thread/INFO]: [CHAT] §r§aYou summoned your §r§6Golden Dragon§r§a!§r
+[19:37:35] [SkyblockAddons - #30/INFO]: [SkyblockAddons/PetCacheManager] Saving pet cache...
+[19:37:35] [SkyblockAddons - #30/INFO]: [SkyblockAddons/PetCacheManager] Pet cache saved!
+[19:38:10] [Client thread/INFO]: [CHAT] §r§7Warping...§r
+[19:38:10] [Client thread/INFO]: [CHAT] §7Sending to server mini193BB...§r
+[19:38:10] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[19:38:10] [Client thread/INFO]: [CHAT] §r§8 §r§8 §r§1 §r§3 §r§3 §r§7 §r§8 §r
+[19:38:10] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini193BB', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[19:38:10] [Client thread/INFO]: [SkyblockAddons/NetworkListener] ClientboundLocationPacket{serverName='mini193BB', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[19:38:11] [Thread-951/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:38:13] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §ePineapple§r
+[19:38:13] [Client thread/INFO]: [CHAT] §r§8Profile ID: cbcbcaaa-4182-4d77-bab6-b1345770fa92§r
+[19:38:35] [Thread-987/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:38:53] [Client thread/INFO]: [CHAT] §r§cThere are blocks in the way!§r
+[19:39:18] [Client thread/ERROR]: Signature is missing from textures payload
+[19:39:22] [Client thread/ERROR]: Signature is missing from textures payload
+[19:39:26] [Client thread/INFO]: [CHAT] §r§cThere are blocks in the way!§r§7 (2)§r
+[19:39:26] [Client thread/INFO]: [CHAT] §r§cThere are blocks in the way!§r§7 (3)§r
+[19:39:33] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7The NPC slips you a piece of map with numbers written on it. Sadly they wrote it too small...§r
+[19:39:39] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7The NPC slips you a piece of map with numbers written on it. Sadly they wrote it too small...§r§7 (2)§r
+[19:39:40] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7The NPC slips you a piece of map with numbers written on it. Sadly they wrote it too small...§r§7 (3)§r
+[19:39:42] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7The NPC slips you a piece of map with numbers written on it. Sadly they wrote it too small...§r§7 (4)§r
+[19:39:42] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7The NPC slips you a piece of map with numbers written on it. Sadly they wrote it too small...§r§7 (5)§r
+[19:39:44] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7You cannot add this NPC as a contact...§r
+[19:39:47] [Client thread/INFO]: [CHAT] §e[NPC] §dElizabeth§f: §b? §f§r§fOh dear, I would add you as a contact, but I ran out of room on my Abiphone!§r
+[19:39:49] [Client thread/INFO]: [CHAT] §e[NPC] §dElizabeth§f: §b? §f§r§fIf you hand me an §cAbiphone Contacts Trio§f, I'll add you for sure!§r
+[19:39:49] [Client thread/INFO]: [CHAT] §r§a§l[GIVE ITEM] §r
+[19:39:55] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7You cannot add this NPC as a contact...§r§7 (2)§r
+[19:39:57] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7This NPC doesn't own an Abiphone...§r
+[19:40:01] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7You cannot add this NPC as a contact...§r§7 (3)§r
+[19:40:06] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7You cannot add this NPC as a contact...§r§7 (4)§r
+[19:40:10] [Client thread/INFO]: [CHAT] §r§c ? §r§7§r§7ESD_23§r§7 was killed by Crypt Ghoul§r§7§r§7.§r
+[19:40:29] [Client thread/INFO]: [CHAT] §e[NPC] Builder§f: §b? §f§r§fOh?§r
+[19:40:31] [Client thread/INFO]: [CHAT] §e[NPC] Builder§f: §b? §f§r§fYes... I could give you my contact... However, may I ask a favor in return?§r
+[19:40:33] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7This NPC doesn't own an Abiphone...§r§7 (2)§r
+[19:40:35] [Client thread/INFO]: [CHAT] §e[NPC] Builder§f: §b? §f§r§fFor a builder to not have a §6Builder's Wand §fis quite uncommon.§r
+[19:40:38] [Client thread/INFO]: [CHAT] §e[NPC] Builder§f: §b? §f§r§fIf you give me one I'll gladly give you my contact!§r
+[19:40:38] [Client thread/INFO]: [CHAT] §r§a§l[GIVE ITEM] §r
+[19:40:50] [Client thread/INFO]: [CHAT] §r§8[§r§723§r§8] §r§7blockcrafter1m§7§r§7: Your personality shines brighter than the sun.§r
+[19:40:56] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7You cannot add this NPC as a contact...§r§7 (5)§r
+[19:40:58] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7You cannot add this NPC as a contact...§r§7 (6)§r
+[19:41:00] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7You cannot add this NPC as a contact...§r§7 (7)§r
+[19:41:02] [Client thread/INFO]: [CHAT] §e[NPC] Liz§f: §rWelcome to the §bTrade Center§f!§r
+[19:41:04] [Client thread/INFO]: [CHAT] §e[NPC] Liz§f: §rSorry, but there's... not much to see here right now.§r
+[19:41:06] [Client thread/INFO]: [CHAT] §e[NPC] Liz§f: §rWe're friends of §6Diaz§f's, so we only really have stuff to do when she's elected as §6Mayor§f, haha.§r
+[19:41:08] [Client thread/INFO]: [CHAT] §e[NPC] Liz§f: §rTry dropping by when she's in office!§r
+[19:41:13] [Client thread/INFO]: [CHAT] §r§7[§r§b?§r§7] §r§7You cannot add this NPC as a contact...§r§7 (8)§r
+[19:41:20] [Client thread/INFO]: [CHAT] §e[NPC] Ozanne§f: §rDid you know that for the longest time...§r
+[19:41:21] [Client thread/INFO]: [CHAT] §e[NPC] Ozanne§f: §rThe Blacksmith would reforge your §aaccessories§r?§r
+[19:41:23] [Client thread/INFO]: [CHAT] §e[NPC] Ozanne§f: §r§cCrazy §rstuff!§r
+[19:41:24] [Client thread/INFO]: [CHAT] §e[NPC] Ozanne§f: §rIf you find §areforged accessories§r, I'll buy their reforges from you for §6coins§r!§r
+[19:41:34] [Client thread/INFO]: [CHAT] §e[SkyHanni] You have gained §b350 §eBits.§r
+[19:41:43] [Client thread/ERROR]: Signature is missing from textures payload
+[19:44:06] [Thread-1062/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:44:10] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: §b? §f§r§fHowdy!§r
+[19:44:11] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: §b? §f§r§fYou want my abithingy, eh?§r
+[19:44:13] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: §b? §f§r§fMa' always told me to worry of stuff I don't understand.§r
+[19:44:15] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: §b? §f§r§fI'm far from stupid, don't get me wrong, eh.§r
+[19:44:16] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: §b? §f§r§fI simply enjoy a more simple life, ye?§r
+[19:44:18] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: §b? §f§r§fYa sure can add my contact, against §aJacob's Ticket §8x10§f, eh?§r
+[19:44:18] [Client thread/INFO]: [CHAT] §r§a§l[GIVE ITEM] §r
+[19:44:27] [Thread-1066/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:44:31] [Client thread/INFO]: [CHAT] §r§8Withdrawing coins...§r
+[19:44:31] [Client thread/INFO]: [CHAT] §r§aYou have withdrawn §r§61M coins§r§a! You now have §r§6354M coins §r§ain your account!§r
+[19:44:42] [Client thread/INFO]: [CHAT] §r§6[Bazaar] §r§7Executing instant buy...§r
+[19:44:42] [Client thread/INFO]: [CHAT] §r§6[Bazaar] §r§7Bought §r§a10§r§7x §r§aJacob's Ticket §r§7for §r§6147,070 coins§r§7!§r
+[19:44:46] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: §b? §f§r§fYa won't call me too often, eh?§r
+[19:44:46] [Client thread/INFO]: [CHAT] §r§b? Jacob §r§fhas been added to your Abiphone's contacts!§r
+[19:44:46] [Client thread/INFO]: [CHAT] §e[SkyHanni] §b+10 SkyBlock XP §7(Jacob§7)§b (94/100)§r
+[19:44:51] [Client thread/INFO]: [CHAT] §e[NPC] Anita§f: §b? §f§r§fHi dear!§r
+[19:44:53] [Client thread/INFO]: [CHAT] §e[NPC] Anita§f: §b? §f§r§fI only share my contact with those who are on Jacob's contact list.§r
+[19:44:54] [Client thread/INFO]: [CHAT] §e[NPC] Anita§f: §b? §f§r§fOh and also, you need to have earned a §6§lGOLD§f medal in his contest if you want to be on MY list!§r
+[19:45:00] [Client thread/INFO]: [CHAT] §e[NPC] Anita§f: §b? §f§r§fSweet!§r
+[19:45:01] [Client thread/INFO]: [CHAT] §e[NPC] Anita§f: §b? §f§r§fIf I need any farming done back home, I'll be sure to call ya!§r
+[19:45:01] [Client thread/INFO]: [CHAT] §r§b? Anita §r§fhas been added to your Abiphone's contacts!§r
+[19:45:01] [Client thread/INFO]: [CHAT] §e[SkyHanni] §b+10 SkyBlock XP §7(Anita§7)§b (4/100)§r
+[19:45:03] [Client thread/INFO]: [CHAT] §r §r
+[19:45:03] [Client thread/INFO]: [CHAT] §r§f                          §r§3§lSKYBLOCK LEVEL UP§r
+[19:45:03] [Client thread/INFO]: [CHAT] §r§f                             §r§9Level §r§8285 ? §r§8[§r§9286§r§8]§r
+[19:45:03] [Client thread/INFO]: [CHAT] §r §r
+[19:45:03] [Client thread/INFO]: [CHAT] §r§f                                  §r§6§lREWARDS§r
+[19:45:03] [Client thread/INFO]: [CHAT] §r§f                                 §r§8+§r§a5 §r§c? Health§r
+[19:45:03] [Client thread/INFO]: [CHAT] §r §r
+[19:45:18] [Client thread/INFO]: [CHAT] §r§e? RING... §r
+[19:45:19] [Client thread/INFO]: [CHAT] §r§e? RING... RING... §r
+[19:45:20] [Client thread/INFO]: [CHAT] §r§e? RING... RING... RING... §r
+[19:45:21] [Client thread/INFO]: [CHAT] §e[NPC] §dTia the Fairy§f: §b? §f§r§fThe next relay is on the highest spike of §dThe End§f.§r
+[19:45:23] [Client thread/INFO]: [CHAT] §e[NPC] §dTia the Fairy§f: §b? §f§r§fIt's on the face which looks at the moon rising.§r
+[19:45:25] [Client thread/INFO]: [CHAT] §e[NPC] §dTia the Fairy§f: §b? §f§r§fOr the sun! If you're §othat §fkind of person...§r
+[19:45:26] [Client thread/INFO]: [CHAT] §r§7Warping...§r
+[19:45:26] [Client thread/INFO]: [CHAT] §7Sending to server mini62CP...§r
+[19:45:27] [Client thread/INFO]: [CHAT] §r§8 §r§8 §r§1 §r§3 §r§3 §r§7 §r§8 §r
+[19:45:27] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[19:45:27] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini62CP', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[19:45:27] [Client thread/INFO]: [SkyblockAddons/NetworkListener] ClientboundLocationPacket{serverName='mini62CP', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[19:45:28] [Thread-1076/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:45:30] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §ePineapple§r
+[19:45:30] [Client thread/INFO]: [CHAT] §r§8Profile ID: cbcbcaaa-4182-4d77-bab6-b1345770fa92§r
+[19:45:39] [Client thread/INFO]: [CHAT] §r§cThere are blocks in the way!§r
+[19:45:39] [Client thread/INFO]: [com.Hileb.teampotato.redirectionor.RedirectionorTransformer:transform:42]: Redirect codes.biscuit.skyblockaddons.features.EndstoneProtectorManager$Stage
+[19:45:39] [Client thread/INFO]: [SkyblockAddons/EndstoneProtectorManager] Endstone protector stage updated from null to STAGE_2. Your zealot kill count was N/A. This took -1135m -13s.
+[19:45:42] [Client thread/INFO]: [com.Hileb.teampotato.redirectionor.RedirectionorTransformer:transform:42]: Redirect at.hannibal2.skyhanni.deps.moulconfig.gui.HorizontalAlign
+[19:45:42] [Client thread/INFO]: [com.Hileb.teampotato.redirectionor.RedirectionorTransformer:transform:42]: Redirect at.hannibal2.skyhanni.deps.moulconfig.DescriptionRendereringBehaviour
+[19:46:03] [Client thread/INFO]: [CHAT] §r§e? RING... §r§7 (2)§r
+[19:46:05] [Client thread/INFO]: [CHAT] §r§e? RING... RING... §r§7 (2)§r
+[19:46:06] [Client thread/INFO]: [CHAT] §r§e? RING... RING... RING... §r§7 (2)§r
+[19:46:07] [Client thread/INFO]: [CHAT] §e[NPC] §dTia the Fairy§f: §b? §f§r§fThe next relay is on the highest spike of §dThe End§f.§r§7 (2)§r
+[19:46:08] [Client thread/INFO]: [CHAT] §e[NPC] §dTia the Fairy§f: §b? §f§r§fIt's on the face which looks at the moon rising.§r§7 (2)§r
+[19:46:10] [Client thread/INFO]: [CHAT] §e[NPC] §dTia the Fairy§f: §b? §f§r§fOr the sun! If you're §othat §fkind of person...§r§7 (2)§r
+[19:46:38] [Client thread/INFO]: [CHAT] §r§c ? §r§7§r§bThe16LetterLimit§r§7 was killed by Voidgloom Seraph§r§7§r§7.§r
+[19:46:43] [Client thread/INFO]: [CHAT] §r§c§lYou feel a tremor from beneath the earth!§r
+[19:46:46] [Client thread/INFO]: [CHAT] §r§7Warping...§r
+[19:46:47] [Client thread/INFO]: [CHAT] §7Sending to server mini61DM...§r
+[19:46:47] [Client thread/INFO]: [CHAT] §r§8 §r§8 §r§1 §r§3 §r§3 §r§7 §r§8 §r
+[19:46:47] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[19:46:47] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini61DM', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[19:46:47] [Client thread/INFO]: [SkyblockAddons/NetworkListener] ClientboundLocationPacket{serverName='mini61DM', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[19:46:47] [Client thread/ERROR]: [Shaders] OpenGL error: 1281 (Invalid value), program: gbuffers_textured (none), at: pre-useProgram
+[19:46:47] [Client thread/INFO]: [CHAT] §eOpenGL Error§f: 1281 (Invalid value)§r
+[19:46:50] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §ePineapple§r
+[19:46:50] [Client thread/INFO]: [CHAT] §r§8Profile ID: cbcbcaaa-4182-4d77-bab6-b1345770fa92§r
+[19:46:52] [Client thread/INFO]: [CHAT] §r§aYou retrieved your §r§9Fairy Armor §r§afrom the §r§3Museum§r§a!§r
+[19:46:52] [Client thread/INFO]: [CHAT] §r§7It still counts towards your §r§3Museum§r§7 progress, but not towards your §r§6total item value§r§7.§r
+[19:46:54] [SkyblockAddons - #34/INFO]: [SkyblockAddons/PetCacheManager] Saving pet cache...
+[19:46:54] [SkyblockAddons - #34/INFO]: [SkyblockAddons/PetCacheManager] Pet cache saved!
+[19:46:54] [SkyblockAddons - #34/INFO]: [SkyblockAddons/PetCacheManager] Saving pet cache...
+[19:46:54] [SkyblockAddons - #34/INFO]: [SkyblockAddons/PetCacheManager] Pet cache saved!
+[19:47:13] [Thread-1115/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:47:13] [Thread-1116/WARN]: [OptiFine] Error loading item model items/backbling//model: java.io.IOException: HTTP response: 404
+[19:47:19] [Client thread/INFO]: [CHAT] §r§7Warping...§r§7 (2)§r
+[19:47:19] [Client thread/INFO]: [CHAT] §7Sending to server mini193AK...§r
+[19:47:19] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[19:47:19] [Client thread/INFO]: [CHAT] §r§8 §r§8 §r§1 §r§3 §r§3 §r§7 §r§8 §r
+[19:47:19] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini193AK', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[19:47:19] [Client thread/INFO]: [SkyblockAddons/NetworkListener] ClientboundLocationPacket{serverName='mini193AK', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[19:47:22] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §ePineapple§r§7 (2)§r
+[19:47:22] [Client thread/INFO]: [CHAT] §r§8Profile ID: cbcbcaaa-4182-4d77-bab6-b1345770fa92§r§7 (2)§r
+[19:47:23] [Client thread/INFO]: [CHAT] §r§7Warping...§r§7 (3)§r
+[19:47:24] [Client thread/INFO]: [CHAT] §7Sending to server mini77CM...§r
+[19:47:24] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[19:47:24] [Client thread/INFO]: [CHAT] §r§8 §r§8 §r§1 §r§3 §r§3 §r§7 §r§8 §r
+[19:47:24] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini77CM', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[19:47:24] [Client thread/INFO]: [SkyblockAddons/NetworkListener] ClientboundLocationPacket{serverName='mini77CM', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[19:47:27] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §ePineapple§r§7 (3)§r
+[19:47:27] [Client thread/INFO]: [CHAT] §r§8Profile ID: cbcbcaaa-4182-4d77-bab6-b1345770fa92§r§7 (3)§r
+[19:47:28] [Client thread/INFO]: [CHAT] §r§cThere are blocks in the way!§r
+[19:47:44] [Netty Client IO #12/INFO]: [CHAT] §c[SkyHanni] Tia Relay Helper error: Too much background noise! Try turning off the music and then try again.§r
+[19:47:44] [Netty Client IO #12/INFO]: [CHAT] §e[SkyHanni] Click here to run /togglemusic§r
+[19:47:46] [Netty Client IO #12/INFO]: [CHAT] §c[SkyHanni] Tia Relay Helper error: Too much background noise! Try turning off the music and then try again.§r§7 (2)§r
+[19:47:46] [Netty Client IO #12/INFO]: [CHAT] §e[SkyHanni] Click here to run /togglemusic§r
+[19:47:50] [Netty Client IO #12/INFO]: [CHAT] §c[SkyHanni] Tia Relay Helper error: Too much background noise! Try turning off the music and then try again.§r§7 (3)§r
+[19:47:50] [Netty Client IO #12/INFO]: [CHAT] §e[SkyHanni] Click here to run /togglemusic§r
+[19:48:10] [Client thread/INFO]: [CHAT] §r§aYou completed the maintenance on the relay!§r
+[19:48:10] [Client thread/INFO]: [CHAT] §r§eYour §r§59f™ Operator Chip §r§ehas been upgraded!§r
+[19:48:12] [Client thread/ERROR]: [Shaders] OpenGL error: 1285 (Out of memory), program: gbuffers_textured (none), at: pre-useProgram
+[19:48:12] [Client thread/INFO]: [CHAT] §eOpenGL Error§f: 1285 (Out of memory)§r
+[19:48:14] [Client thread/INFO]: [CHAT] §r§e? RING... §r
+[19:48:15] [Client thread/INFO]: [CHAT] §r§e? RING... RING... §r
+[19:48:15] [Client thread/INFO]: [CHAT] §r§8[§r§e115§r§8] §r§7? §r§a[VIP§6+§a] KeremiReqt§f§r§f: spawning§r
+[19:48:16] [Client thread/INFO]: [CHAT] §r§e? RING... RING... RING... §r
+[19:48:17] [Client thread/ERROR]: [Shaders] OpenGL error: 1285 (Out of memory), program: gbuffers_textured (none), at: pre-useProgram
+[19:48:17] [Client thread/INFO]: [CHAT] §e[NPC] §dTia the Fairy§f: §b? §f§r§fYou need more contacts before you can deal with the next relay!§r
+[19:48:18] [Client thread/ERROR]: [Shaders] OpenGL error: 1285 (Out of memory), program: gbuffers_textured (none), at: pre-useProgram
+[19:48:19] [Client thread/ERROR]: [Shaders] OpenGL error: 1285 (Out of memory), program: gbuffers_textured (none), at: pre-useProgram
+[19:48:19] [Client thread/INFO]: [CHAT] §e[NPC] §dTia the Fairy§f: §b? §f§r§fDon't ask me why...§r
+[19:48:20] [Client thread/INFO]: [CHAT] §r§8[§r§a126§r§8] §r§a[VIP§6+§a] KiwiKreator§f§r§f: wait have you got coat§r
+[19:48:20] [Client thread/INFO]: [CHAT] §e[NPC] §dTia the Fairy§f: §b? §f§r§fI don't make the rules!§r
+[19:48:22] [Client thread/INFO]: [CHAT] §r§8[§r§e115§r§8] §r§7? §r§a[VIP§6+§a] KeremiReqt§f§r§f: spawned§r
+[19:48:26] [Client thread/INFO]: [CHAT] §r§8[§r§e115§r§8] §r§7? §r§a[VIP§6+§a] KeremiReqt§f§r§f: what coat§r

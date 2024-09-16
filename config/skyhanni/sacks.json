@@ -15,8 +15,8 @@
               "status": "ALRIGHT"
             },
             "ENCHANTED_CARROT": {
-              "amount": 3,
-              "lastChange": 0,
+              "amount": 9,
+              "lastChange": 6,
               "status": "ALRIGHT"
             },
             "ENCHANTED_COOKIE": {
@@ -35,8 +35,8 @@
               "status": "ALRIGHT"
             },
             "ENCHANTED_PUMPKIN": {
-              "amount": 44,
-              "lastChange": 0,
+              "amount": 54,
+              "lastChange": 10,
               "status": "ALRIGHT"
             },
             "ENCHANTED_MELON": {
@@ -45,8 +45,8 @@
               "status": "ALRIGHT"
             },
             "ENCHANTED_SUGAR": {
-              "amount": 3,
-              "lastChange": -9,
+              "amount": 29,
+              "lastChange": 10,
               "status": "ALRIGHT"
             },
             "ENCHANTED_SEEDS": {
@@ -65,8 +65,8 @@
               "status": "ALRIGHT"
             },
             "ENCHANTED_CACTUS_GREEN": {
-              "amount": 114,
-              "lastChange": 0,
+              "amount": 123,
+              "lastChange": 9,
               "status": "ALRIGHT"
             },
             "GLACITE": {
@@ -210,13 +210,13 @@
               "status": "ALRIGHT"
             },
             "ENCHANTED_POTATO": {
-              "amount": 17,
-              "lastChange": 0,
+              "amount": 27,
+              "lastChange": 10,
               "status": "ALRIGHT"
             },
             "ENCHANTED_RED_MUSHROOM": {
-              "amount": 11,
-              "lastChange": 0,
+              "amount": 19,
+              "lastChange": 8,
               "status": "ALRIGHT"
             },
             "PUMPKIN": {

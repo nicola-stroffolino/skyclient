@@ -5,7 +5,7 @@
     "petInfo": {
       "type": "GOLDEN_DRAGON",
       "active": true,
-      "exp": 1.5871403878861243E8,
+      "exp": 1.590191536650185E8,
       "tier": "LEGENDARY",
       "hideInfo": false,
       "heldItem": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
@@ -15,7 +15,7 @@
       "hideRightClick": false,
       "noMove": false
     },
-    "skullId": "8ffb106f-9c67-4151-9aff-f02ae2433fe5",
+    "skullId": "18939ef9-64f3-4d71-8d63-e8cb96f4a256",
     "textureURL": "2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116"
   },
   "petMap": {
@@ -62,7 +62,7 @@
       "petInfo": {
         "type": "GOLDEN_DRAGON",
         "active": true,
-        "exp": 1.5871403878861243E8,
+        "exp": 1.590191536650185E8,
         "tier": "LEGENDARY",
         "hideInfo": false,
         "heldItem": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
@@ -72,7 +72,7 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "8ffb106f-9c67-4151-9aff-f02ae2433fe5",
+      "skullId": "18939ef9-64f3-4d71-8d63-e8cb96f4a256",
       "textureURL": "2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116"
     },
     "13": {
@@ -174,7 +174,7 @@
       "petInfo": {
         "type": "ELEPHANT",
         "active": false,
-        "exp": 6.286183249595103E7,
+        "exp": 6.2893224423951E7,
         "tier": "LEGENDARY",
         "hideInfo": false,
         "heldItem": "GREEN_BANDANA",
@@ -184,7 +184,7 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "d4b70638-1687-4791-a099-f68561702e5c",
+      "skullId": "7efbeb00-f062-4630-8299-5d81b5c4aa6b",
       "textureURL": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514"
     },
     "21": {
@@ -239,7 +239,7 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "cfa842e5-7870-4c15-ae14-405928c67a32",
+      "skullId": "08f4cbb2-f1eb-485a-8dd9-1360e005dc37",
       "textureURL": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b"
     },
     "24": {
