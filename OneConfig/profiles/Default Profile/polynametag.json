@@ -7,7 +7,7 @@
   "paddingY": 0.0,
   "textType": 0,
   "info1": 0,
-  "showOwnNametag": true,
+  "showOwnNametag": false,
   "showInInventory": false,
   "background": true,
   "backgroundColor": {

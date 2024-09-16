@@ -1243,9 +1243,9 @@
             }
           },
           "position": {
-            "x": 442,
-            "y": 239,
-            "scale": 1.0,
+            "x": 421,
+            "y": 194,
+            "scale": 1.9000002,
             "center": false,
             "centerX": false,
             "centerY": true,
@@ -4015,28 +4015,28 @@
           "pineapple": {
             "currentPet": "§6Golden Dragon",
             "chocolateFactory": {
-              "currentRabbits": 51,
-              "maxRabbits": 178,
-              "currentChocolate": 34362299,
-              "chocolateThisPrestige": 3476907037,
-              "chocolateAllTime": 19817760121,
-              "rawChocPerSecond": 4271,
-              "chocolateMultiplier": 2.609,
-              "rawChocolateMultiplier": 2.509,
+              "currentRabbits": 123,
+              "maxRabbits": 184,
+              "currentChocolate": 4168181,
+              "chocolateThisPrestige": 6639907046,
+              "chocolateAllTime": 22980760130,
+              "rawChocPerSecond": 4830,
+              "chocolateMultiplier": 2.829,
+              "rawChocolateMultiplier": 2.729,
               "timeTowerLevel": 1,
               "currentTimeTowerEnds": 0,
-              "nextTimeTower": 1726256822226,
+              "nextTimeTower": 1726510201756,
               "currentTimeTowerUses": 1,
               "timeTowerCooldown": 8,
               "maxTimeTowerUses": 3,
               "hasMuRabbit": false,
-              "bestUpgradeAvailableAt": 1726231998622,
-              "bestUpgradeCost": 38511922,
-              "lastDataSave": 1726231626227,
+              "bestUpgradeAvailableAt": 1726497777240,
+              "bestUpgradeCost": 42584503,
+              "lastDataSave": 1726494965756,
               "positionChange": {
-                "lastTime": 1726231624179,
-                "lastPosition": 142592,
-                "lastLeaderboard": "#142,592 §7Top §a3.61%"
+                "lastTime": 1726494953732,
+                "lastPosition": 135578,
+                "lastLeaderboard": "#135,578 §7Top §a3.39%"
               },
               "rabbitCounts": {
                 "Almond Amaretto": 1,
@@ -4055,11 +4055,159 @@
                 "Raven": 1,
                 "Chewy": 1,
                 "Stewart": 1,
-                "Badger": 1,
+                "Badger": 2,
                 "Phantom": 1,
-                "Bud": 1
+                "Bud": 1,
+                "Blake": 1,
+                "Eastwood": 1,
+                "Una": 4,
+                "Bagel": 1,
+                "Barney": 1,
+                "Bruce": 1,
+                "Brutus": 1,
+                "Bubbles": 1,
+                "Buster": 2,
+                "Buttercream Blossom": 1,
+                "Cocoa Comet": 1,
+                "Dulce Drizzle": 1,
+                "Easter": 1,
+                "Espresso Eclair": 1,
+                "Fievel": 1,
+                "Fish the Rabbit": 1,
+                "Fudge Fountain": 1,
+                "Ginger Glaze": 1,
+                "Harley": 1,
+                "Harmony": 1,
+                "Honey Hazelnut": 1,
+                "Icing Ivy": 1,
+                "Jasmine Jello": 1,
+                "Jonah": 1,
+                "Kiwi Kiss": 1,
+                "Lavender Lemon": 1,
+                "Lone Ranger": 1,
+                "Maple Mirage": 1,
+                "Arachno": 1,
+                "Paddington": 1,
+                "Olivette": 1,
+                "Rambo": 1,
+                "Penny": 1,
+                "Dandelion": 1,
+                "Able": 1,
+                "Achilles": 1,
+                "Collin": 1,
+                "Seinfield": 1,
+                "Chase": 1,
+                "Demi": 1,
+                "Paddy": 1,
+                "Winston": 1,
+                "Kiera": 1,
+                "Chomper": 1,
+                "Suri": 1,
+                "Olympe": 1,
+                "Brie": 1,
+                "Bandit": 1,
+                "Gatsby": 1,
+                "Blossom": 1,
+                "Charmin": 1,
+                "Trix": 1,
+                "Prestige": 1,
+                "Draco": 1,
+                "Alpha": 1,
+                "George": 2,
+                "Reginald": 1,
+                "Ellie": 1,
+                "Jammer": 1,
+                "Delboy": 1,
+                "Oreo": 1,
+                "Alpine": 1,
+                "Cotton Puff": 2,
+                "Tagalong": 1,
+                "Humphrey": 1,
+                "Quentin": 1,
+                "Morris": 1,
+                "Onyx": 1,
+                "Natalie": 1,
+                "Ross": 1,
+                "Casper": 1,
+                "Jasper": 1,
+                "Domino": 1,
+                "Mandy": 1,
+                "Hopper": 1,
+                "Merlin": 1,
+                "Copper": 1,
+                "Asterix": 1,
+                "Frodo": 1,
+                "Spooky": 1,
+                "Uncle Buck": 1,
+                "Rosco": 1,
+                "Ressie": 1,
+                "Cottonball": 1,
+                "Basket": 1,
+                "Lotte": 1,
+                "Billy": 2,
+                "Dallas": 1,
+                "Spirit": 1,
+                "Augustus": 1,
+                "Baldwin": 1,
+                "Brooks": 1,
+                "Hershey": 1,
+                "Bibsy": 1,
+                "Mopsy": 1,
+                "Smokey": 1,
+                "Archie": 1
               },
-              "locationRabbitRequirements": {},
+              "locationRabbitRequirements": {
+                "Cave": {
+                  "locationName": "Deep Caverns",
+                  "loreFoundCount": 15,
+                  "requiredCount": 15
+                },
+                "Ember": {
+                  "locationName": "Crimson Isle",
+                  "loreFoundCount": 13,
+                  "requiredCount": 15
+                },
+                "Hubby": {
+                  "locationName": "Hub",
+                  "loreFoundCount": 5,
+                  "requiredCount": 15
+                },
+                "Jade": {
+                  "locationName": "Crystal Hollows",
+                  "loreFoundCount": 2,
+                  "requiredCount": 15
+                },
+                "Mimi": {
+                  "locationName": "Dwarven Mines",
+                  "loreFoundCount": 5,
+                  "requiredCount": 15
+                },
+                "Picky": {
+                  "locationName": "Gold Mine",
+                  "loreFoundCount": 0,
+                  "requiredCount": 15
+                },
+                "Stinky": {
+                  "locationName": "Farming Islands",
+                  "loreFoundCount": 0,
+                  "requiredCount": 15
+                },
+                "Webb": {
+                  "locationName": "Spider\u0027s Den",
+                  "loreFoundCount": 0,
+                  "requiredCount": 15
+                },
+                "Woody": {
+                  "locationName": "The Park",
+                  "loreFoundCount": 0,
+                  "requiredCount": 15
+                },
+                "Zea": {
+                  "locationName": "The End",
+                  "loreFoundCount": 0,
+                  "requiredCount": 15
+                }
+              },
               "collectedEggLocations": {
                 "DWARVEN_MINES": [
                   "87.0:193.0:-44.0",
@@ -4073,14 +4221,55 @@
                   "-375.0:121.0:-1009.0",
                   "-375.0:83.0:-709.0",
                   "-376.0:207.0:-809.0",
-                  "-62.0:107.0:-811.0"
+                  "-62.0:107.0:-811.0",
+                  "-295.0:93.0:-689.0",
+                  "-33.0:114.0:-937.0",
+                  "-376.0:63.0:-802.0",
+                  "-641.0:101.0:-822.0",
+                  "-289.0:127.0:-985.0",
+                  "-237.0:108.0:-605.0",
+                  "-270.0:83.0:-496.0",
+                  "-631.0:141.0:-926.0"
                 ],
                 "HUB": [
                   "-38.0:193.0:35.0",
                   "18.0:70.0:-77.0",
                   "-127.0:73.0:-126.0",
                   "-40.0:70.0:-74.0",
-                  "-7.0:70.0:188.0"
+                  "-7.0:70.0:188.0",
+                  "-38.0:70.0:-135.0",
+                  "-153.0:74.0:-40.0",
+                  "-1.0:144.0:51.0"
+                ],
+                "CRYSTAL_HOLLOWS": [
+                  "463.0:127.0:505.0",
+                  "553.0:100.0:489.0"
+                ],
+                "DEEP_CAVERNS": [
+                  "1.0:153.0:37.0",
+                  "-11.0:120.0:37.0",
+                  "56.0:151.0:23.0",
+                  "7.0:157.0:63.0",
+                  "-34.0:207.0:38.0",
+                  "20.0:68.0:43.0",
+                  "22.0:159.0:27.0",
+                  "38.0:12.0:20.0",
+                  "21.0:104.0:17.0",
+                  "24.0:156.0:-38.0",
+                  "4.0:148.0:88.0",
+                  "11.0:176.0:58.0",
+                  "31.0:12.0:13.0",
+                  "1.0:110.0:45.0",
+                  "46.0:38.0:22.0"
+                ],
+                "DUNGEON_HUB": [
+                  "-34.0:119.0:9.0",
+                  "-23.0:86.0:-3.0",
+                  "0.0:108.0:0.0",
+                  "16.0:125.0:3.0",
+                  "-18.0:87.0:-27.0",
+                  "-5.0:23.0:98.0",
+                  "-62.0:121.0:-7.0"
                 ]
               },
               "strayTracker": {
@@ -4095,7 +4284,7 @@
             },
             "maxwell": {
               "currentPower": "Sighted",
-              "magicalPower": 821,
+              "magicalPower": 824,
               "tunings": [
                 {
                   "value": "164",
@@ -4107,20 +4296,20 @@
               "favoritePowers": []
             },
             "arrows": {
-              "currentArrow": "ICY_ARROW",
+              "currentArrow": "ARROW",
               "arrowAmount": {
-                "ICY_ARROW": 2204
+                "ARROW": 1922
               }
             },
             "bits": {
-              "bits": 7345,
-              "bitsAvailable": 1015,
-              "boosterCookieExpiryTime": 1726572312844
+              "bits": 18731,
+              "bitsAvailable": 2289,
+              "boosterCookieExpiryTime": 1727609118083
             },
             "minions": {
               "27.5:99.0:31.5": {
                 "displayName": "Sheep Minion 12",
-                "lastClicked": 1726231711369
+                "lastClicked": 1726398617338
               },
               "27.5:99.0:37.5": {
                 "displayName": "Sheep Minion 12",
@@ -4232,7 +4421,7 @@
               }
             },
             "beaconPower": {
-              "beaconPowerExpiryTime": 1726259857478,
+              "beaconPowerExpiryTime": 1726606850400,
               "boostedStat": "§a+5 §c๑ Ability Damage"
             },
             "crimsonIsle": {
@@ -4241,19 +4430,20 @@
               "kuudraTiersDone": [],
               "trophyFishes": {
                 "blobfish": {
-                  "BRONZE": 407,
-                  "GOLD": 16,
-                  "SILVER": 145,
+                  "BRONZE": 537,
+                  "GOLD": 20,
+                  "SILVER": 182,
                   "DIAMOND": 1
                 },
                 "gusher": {
-                  "SILVER": 21,
-                  "BRONZE": 63,
-                  "GOLD": 3
+                  "SILVER": 30,
+                  "BRONZE": 98,
+                  "GOLD": 4,
+                  "DIAMOND": 1
                 },
                 "flyfish": {
-                  "SILVER": 3,
-                  "BRONZE": 10,
+                  "SILVER": 6,
+                  "BRONZE": 14,
                   "GOLD": 1
                 },
                 "obfuscatedfish1": {
@@ -4263,43 +4453,49 @@
                   "GOLD": 19
                 },
                 "goldenfish": {
-                  "BRONZE": 25,
-                  "SILVER": 10
+                  "BRONZE": 36,
+                  "SILVER": 11
                 },
                 "lavahorse": {
-                  "SILVER": 39,
-                  "BRONZE": 120,
-                  "GOLD": 2
+                  "SILVER": 55,
+                  "BRONZE": 155,
+                  "GOLD": 3
                 },
                 "volcanicstonefish": {
-                  "BRONZE": 4,
-                  "GOLD": 1
+                  "BRONZE": 14,
+                  "GOLD": 2,
+                  "SILVER": 3
                 },
                 "vanille": {
-                  "SILVER": 1
+                  "SILVER": 1,
+                  "BRONZE": 1
                 },
                 "obfuscatedfish2": {
-                  "BRONZE": 8,
-                  "SILVER": 1
+                  "BRONZE": 91,
+                  "SILVER": 33,
+                  "GOLD": 2
                 },
                 "slugfish": {
-                  "BRONZE": 1,
+                  "BRONZE": 3,
                   "SILVER": 1
                 },
                 "karatefish": {
-                  "SILVER": 1
+                  "SILVER": 2,
+                  "BRONZE": 1
                 },
                 "moldfin": {
-                  "BRONZE": 3
+                  "BRONZE": 10,
+                  "GOLD": 1,
+                  "SILVER": 4
                 },
                 "skeletonfish": {
                   "SILVER": 1,
                   "BRONZE": 1
                 },
                 "manaray": {
-                  "BRONZE": 47,
+                  "BRONZE": 70,
                   "GOLD": 1,
-                  "SILVER": 16
+                  "SILVER": 25
                 },
                 "soulfish": {
                   "BRONZE": 54,
@@ -4307,27 +4503,33 @@
                   "GOLD": 1
                 },
                 "obfuscatedfish3": {
-                  "BRONZE": 1
+                  "BRONZE": 34,
+                  "SILVER": 13
                 },
                 "sulphurskitter": {
-                  "SILVER": 1,
-                  "BRONZE": 1
+                  "SILVER": 5,
+                  "BRONZE": 15
+                },
+                "steaminghotflounder": {
+                  "BRONZE": 21,
+                  "SILVER": 4,
+                  "GOLD": 2
                 }
               }
             },
             "garden": {
-              "experience": 36096,
+              "experience": 36366,
               "cropCounter": {
-                "WHEAT": 15187660,
-                "COCOA_BEANS": 3041231,
-                "PUMPKIN": 731985,
-                "MELON": 19569469,
-                "SUGAR_CANE": 1852250,
-                "CACTUS": 1504370,
-                "MUSHROOM": 358262,
-                "NETHER_WART": 8177479,
-                "POTATO": 2260800,
-                "CARROT": 4049585
+                "WHEAT": 15329620,
+                "COCOA_BEANS": 3068590,
+                "PUMPKIN": 737905,
+                "MELON": 19571069,
+                "SUGAR_CANE": 1857050,
+                "CACTUS": 1538470,
+                "MUSHROOM": 359862,
+                "NETHER_WART": 8179079,
+                "POTATO": 2262400,
+                "CARROT": 4071825
               },
               "cropUpgrades": {
                 "WHEAT": 5,
@@ -4395,10 +4597,10 @@
                   }
                 }
               },
-              "informedAboutLowMatter": 1726246455026,
+              "informedAboutLowMatter": 1726423105905,
               "informedAboutLowFuel": 1725835508740,
               "visitorInterval": 660000,
-              "nextSixthVisitorArrival": -800,
+              "nextSixthVisitorArrival": -1400,
               "armorDropTracker": {
                 "drops": {
                   "SQUASH": 16,
@@ -4427,20 +4629,20 @@
               "composterCurrentFuelItem": "OIL_BARREL",
               "uniqueVisitors": 63,
               "visitorDrops": {
-                "acceptedVisitors": 294,
-                "deniedVisitors": 369,
+                "acceptedVisitors": 300,
+                "deniedVisitors": 403,
                 "visitorRarities": [
-                  198,
+                  201,
                   49,
-                  42,
+                  45,
                   5,
                   0
                 ],
-                "copper": 20570,
-                "farmingExp": 5754139,
-                "gardenExp": 7965,
-                "coinsSpent": 103719560,
-                "bits": 336,
+                "copper": 21526,
+                "farmingExp": 5864339,
+                "gardenExp": 8235,
+                "coinsSpent": 106659067,
+                "bits": 371,
                 "mithrilPowder": 7123,
                 "gemstonePowder": 7496,
                 "rewardsCount": {
@@ -4725,18 +4927,19 @@
                   "CLOAK": false,
                   "BELT": false,
                   "BRACELET": false,
-                  "BEE": false
+                  "BEE": false,
+                  "SLUG": false
                 },
                 "farmingLevel": 60,
-                "bestiary": 44.4,
+                "bestiary": 46.0,
                 "plotsUnlocked": 14,
                 "anitaUpgrade": 15,
                 "farmingStrength": 362,
-                "cakeExpiring": 1726381125765,
+                "cakeExpiring": 1726569780875,
                 "carrolyn": {},
                 "farmingItems": {
-                  "ELEPHANT": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnN1tMdmwgMTAwXSDCpzZFbGVwaGFudCIsIm5idHRhZyI6IntTa3VsbE93bmVyOntJZDpcImQ1YzE4NTQ3LTBlYzYtNDQ3Ni05ZTlhLWJiMTliYzgwMzY5NFwiLGh5cGl4ZWxQb3B1bGF0ZWQ6MWIsUHJvcGVydGllczp7dGV4dHVyZXM6WzA6e1ZhbHVlOlwiZXlKMFpYaDBkWEpsY3lJNmV5SlRTMGxPSWpwN0luVnliQ0k2SW1oMGRIQTZMeTkwWlhoMGRYSmxjeTV0YVc1bFkzSmhablF1Ym1WMEwzUmxlSFIxY21Vdk56QTNNV0UzTm1ZMk5qbGtZalZsWkRaa016SmlORGhpWWpKa1ltRTFOV1ExTXpFM1pEZG1ORFV5TWpWallqTXlOamRsWXpRek5XTm1ZVFV4TkNKOWZYMD1cIn1dfSxOYW1lOlwiwqdkNWMxODU0Ny0wZWM2LTQ0NzYtOWU5YS1iYjE5YmM4MDM2OTRcIn0sZGlzcGxheTp7TG9yZTpbMDpcIsKnOEZhcm1pbmcgUGV0XCIsMTpcIlwiLDI6XCLCpzdIZWFsdGg6IMKnYSsxMDBcIiwzOlwiwqc3SW50ZWxsaWdlbmNlOiDCp2ErNzVcIiw0Olwiwqc3RmFybWluZyBGb3J0dW5lOiDCp2ErNDhcIiw1OlwiXCIsNjpcIsKnNlN0b21wXCIsNzpcIsKnN8KnN0dhaW4gwqdhMjDinYggRGVmZW5zZSDCpzdmb3IgZXZlcnkgMTAwIMKnZuKcplwiLDg6XCLCp2ZTcGVlZMKnNy5cIiw5OlwiXCIsMTA6XCLCpzZXYWxraW5nIEZvcnRyZXNzXCIsMTE6XCLCpzfCpzdHYWluIMKnYzHinaQgSGVhbHRoIMKnN2ZvciBldmVyeSAxMCDCp2HinYhcIiwxMjpcIsKnYURlZmVuc2XCpzcuXCIsMTM6XCJcIiwxNDpcIsKnNlRydW5rIEVmZmljaWVuY3lcIiwxNTpcIsKnN8KnN0dyYW50cyDCpzYrMTUw4piYIEZhcm1pbmcgRm9ydHVuZcKnNyxcIiwxNjpcIsKnN3doaWNoIGluY3JlYXNlcyB5b3VyIGNoYW5jZSBmb3JcIiwxNzpcIsKnN211bHRpcGxlIGRyb3BzLlwiLDE4OlwiXCIsMTk6XCLCpzZIZWxkIEl0ZW06IMKnNUdyZWVuIEJhbmRhbmFcIiwyMDpcIsKnN0dyYW50cyDCpzYrNOKYmCBGYXJtaW5nIEZvcnR1bmUgwqc3Zm9yXCIsMjE6XCLCpzdlYWNoIG9mIHlvdXIgR2FyZGVuIExldmVscy5cIiwyMjpcIlwiLDIzOlwiwqdiwqdsTUFYIExFVkVMXCIsMjQ6XCLCpzjilrggNjIsNjY2LDA3NCBYUFwiLDI1OlwiXCIsMjY6XCLCpzfCp2VMZWZ0LWNsaWNrIHRvIHN1bW1vbiFcIiwyNzpcIsKnN8KnZVNoaWZ0IExlZnQtY2xpY2sgdG8gdG9nZ2xlIGFzIGZhdm9yaXRlIVwiLDI4OlwiwqdlUmlnaHQtY2xpY2sgdG8gY29udmVydCB0byBhbiBpdGVtIVwiXSxOYW1lOlwiwqc3W0x2bCAxMDBdIMKnNkVsZXBoYW50XCJ9LEV4dHJhQXR0cmlidXRlczp7cGV0SW5mbzpcIntcXFwidHlwZVxcXCI6XFxcIkVMRVBIQU5UXFxcIixcXFwiYWN0aXZlXFxcIjpmYWxzZSxcXFwiZXhwXFxcIjo2LjI2NjYwNzQ2MzkyMDNFNyxcXFwidGllclxcXCI6XFxcIkxFR0VOREFSWVxcXCIsXFxcImhpZGVJbmZvXFxcIjpmYWxzZSxcXFwiaGVsZEl0ZW1cXFwiOlxcXCJHUkVFTl9CQU5EQU5BXFxcIixcXFwiY2FuZHlVc2VkXFxcIjowLFxcXCJ1dWlkXFxcIjpcXFwiNWQxNGNhYmMtNjZjOS00OWQzLWEzMDAtODM2MjY0N2Y5ZmJhXFxcIixcXFwidW5pcXVlSWRcXFwiOlxcXCI3N2FlNzI3Ni1mNTA3LTRiMTctOGQ5Mi03MjI5YzBmMDNkNTZcXFwiLFxcXCJoaWRlUmlnaHRDbGlja1xcXCI6ZmFsc2UsXFxcIm5vTW92ZVxcXCI6ZmFsc2V9XCIsaWQ6XCJQRVRcIix1dWlkOlwiNWQxNGNhYmMtNjZjOS00OWQzLWEzMDAtODM2MjY0N2Y5ZmJhXCJ9fSIsImRhbWFnZSI6MywiaW50ZXJuYWxuYW1lIjoiXyJ9",
-                  "RABBIT": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnN1tMdmwgMTAwXSDCpzZSYWJiaXQiLCJuYnR0YWciOiJ7U2t1bGxPd25lcjp7SWQ6XCJhNGY5ZWUxMy03NzM5LTQxYmMtYmFlMS00ZDI4MDFlMzU2MWFcIixoeXBpeGVsUG9wdWxhdGVkOjFiLFByb3BlcnRpZXM6e3RleHR1cmVzOlswOntWYWx1ZTpcImV5SjBaWGgwZFhKbGN5STZleUpUUzBsT0lqcDdJblZ5YkNJNkltaDBkSEE2THk5MFpYaDBkWEpsY3k1dGFXNWxZM0poWm5RdWJtVjBMM1JsZUhSMWNtVXZNVEUzWW1abVl6RTVOekpoWTJRM1pqTmlOR0U0WmpRellqVmlObU0zTlRNME5qazFZamhtWkRZeU5qYzNaVEF6TURaaU1qZ3pNVFUzTkdJaWZYMTlcIn1dfSxOYW1lOlwiwqdhNGY5ZWUxMy03NzM5LTQxYmMtYmFlMS00ZDI4MDFlMzU2MWFcIn0sZGlzcGxheTp7TG9yZTpbMDpcIsKnOEZhcm1pbmcgUGV0XCIsMTpcIlwiLDI6XCLCpzdIZWFsdGg6IMKnYSsxMDBcIiwzOlwiwqc3U3BlZWQ6IMKnYSsyMFwiLDQ6XCJcIiw1Olwiwqc2SGFwcHkgRmVldFwiLDY6XCLCpzfCpzdKdW1wIHBvdGlvbnMgYWxzbyBnaXZlIMKnYSs1MCDCpzdzcGVlZFwiLDc6XCJcIiw4Olwiwqc2RmFybWluZyBXaXNkb20gQm9vc3RcIiw5Olwiwqc3wqc3wqc3R3JhbnRzIMKnMyszMOKYryBGYXJtaW5nIFdpc2RvbcKnNy5cIiwxMDpcIlwiLDExOlwiwqc2RWZmaWNpZW50IEZhcm1pbmdcIiwxMjpcIsKnN8KnN0Zhcm1pbmcgbWluaW9ucyB3b3JrIMKnYTMwJSDCpzdmYXN0ZXJcIiwxMzpcIsKnN3doaWxlIG9uIHlvdXIgaXNsYW5kXCIsMTQ6XCJcIiwxNTpcIsKnNkhlbGQgSXRlbTogwqc5RmFybWluZyBFeHAgQm9vc3RcIiwxNjpcIsKnN0dpdmVzIMKnYSs0MCUgwqc3cGV0IGV4cCBmb3IgRmFybWluZy5cIiwxNzpcIlwiLDE4OlwiwqdiwqdsTUFYIExFVkVMXCIsMTk6XCLCpzjilrggMzcsNjE5LDk1MCBYUFwiLDIwOlwiXCIsMjE6XCLCpzfCp2NDbGljayB0byBkZXNwYXduIVwiLDIyOlwiwqc3wqdlU2hpZnQgTGVmdC1jbGljayB0byB0b2dnbGUgYXMgZmF2b3JpdGUhXCIsMjM6XCLCp2VSaWdodC1jbGljayB0byBjb252ZXJ0IHRvIGFuIGl0ZW0hXCJdLE5hbWU6XCLCpzdbTHZsIDEwMF0gwqc2UmFiYml0XCJ9LEV4dHJhQXR0cmlidXRlczp7cGV0SW5mbzpcIntcXFwidHlwZVxcXCI6XFxcIlJBQkJJVFxcXCIsXFxcImFjdGl2ZVxcXCI6dHJ1ZSxcXFwiZXhwXFxcIjozLjc2MTk5NTA4NzYyNTMxMzZFNyxcXFwidGllclxcXCI6XFxcIkxFR0VOREFSWVxcXCIsXFxcImhpZGVJbmZvXFxcIjpmYWxzZSxcXFwiaGVsZEl0ZW1cXFwiOlxcXCJQRVRfSVRFTV9GQVJNSU5HX1NLSUxMX0JPT1NUX1JBUkVcXFwiLFxcXCJjYW5keVVzZWRcXFwiOjAsXFxcInV1aWRcXFwiOlxcXCJlYWQzMjNiNi1lNDQ0LTQ3ZDYtOWVhMi0wZTU1M2Y2Njk3NGJcXFwiLFxcXCJ1bmlxdWVJZFxcXCI6XFxcIjE2MzUzNDNlLTI1ZTEtNGI5Ny1iMzM5LWM1ZWYzODk5MmY2ZlxcXCIsXFxcImhpZGVSaWdodENsaWNrXFxcIjpmYWxzZSxcXFwibm9Nb3ZlXFxcIjpmYWxzZX1cIixpZDpcIlBFVFwiLHV1aWQ6XCJlYWQzMjNiNi1lNDQ0LTQ3ZDYtOWVhMi0wZTU1M2Y2Njk3NGJcIn19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
+                  "ELEPHANT": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnN1tMdmwgMTAwXSDCpzZFbGVwaGFudCIsIm5idHRhZyI6IntTa3VsbE93bmVyOntJZDpcIjg4YjcwYWIzLTNiYTgtNDc2OC04Njk2LTNiODI3OTI1M2FjN1wiLGh5cGl4ZWxQb3B1bGF0ZWQ6MWIsUHJvcGVydGllczp7dGV4dHVyZXM6WzA6e1ZhbHVlOlwiZXlKMFpYaDBkWEpsY3lJNmV5SlRTMGxPSWpwN0luVnliQ0k2SW1oMGRIQTZMeTkwWlhoMGRYSmxjeTV0YVc1bFkzSmhablF1Ym1WMEwzUmxlSFIxY21Vdk56QTNNV0UzTm1ZMk5qbGtZalZsWkRaa016SmlORGhpWWpKa1ltRTFOV1ExTXpFM1pEZG1ORFV5TWpWallqTXlOamRsWXpRek5XTm1ZVFV4TkNKOWZYMD1cIn1dfSxOYW1lOlwiwqc4OGI3MGFiMy0zYmE4LTQ3NjgtODY5Ni0zYjgyNzkyNTNhYzdcIn0sZGlzcGxheTp7TG9yZTpbMDpcIsKnOEZhcm1pbmcgUGV0XCIsMTpcIlwiLDI6XCLCpzdIZWFsdGg6IMKnYSsxMDBcIiwzOlwiwqc3SW50ZWxsaWdlbmNlOiDCp2ErNzVcIiw0Olwiwqc3RmFybWluZyBGb3J0dW5lOiDCp2ErNDhcIiw1OlwiXCIsNjpcIsKnNlN0b21wXCIsNzpcIsKnN8KnN0dhaW4gwqdhMjDinYggRGVmZW5zZSDCpzdmb3IgZXZlcnkgMTAwIMKnZuKcplwiLDg6XCLCp2ZTcGVlZMKnNy5cIiw5OlwiXCIsMTA6XCLCpzZXYWxraW5nIEZvcnRyZXNzXCIsMTE6XCLCpzfCpzdHYWluIMKnYzHinaQgSGVhbHRoIMKnN2ZvciBldmVyeSAxMCDCp2HinYhcIiwxMjpcIsKnYURlZmVuc2XCpzcuXCIsMTM6XCJcIiwxNDpcIsKnNlRydW5rIEVmZmljaWVuY3lcIiwxNTpcIsKnN8KnN0dyYW50cyDCpzYrMTUw4piYIEZhcm1pbmcgRm9ydHVuZcKnNyxcIiwxNjpcIsKnN3doaWNoIGluY3JlYXNlcyB5b3VyIGNoYW5jZSBmb3JcIiwxNzpcIsKnN211bHRpcGxlIGRyb3BzLlwiLDE4OlwiXCIsMTk6XCLCpzZIZWxkIEl0ZW06IMKnNUdyZWVuIEJhbmRhbmFcIiwyMDpcIsKnN0dyYW50cyDCpzYrNOKYmCBGYXJtaW5nIEZvcnR1bmUgwqc3Zm9yXCIsMjE6XCLCpzdlYWNoIG9mIHlvdXIgR2FyZGVuIExldmVscy5cIiwyMjpcIlwiLDIzOlwiwqdiwqdsTUFYIExFVkVMXCIsMjQ6XCLCpzjilrggNjIsODYxLDgzMiBYUFwiLDI1OlwiXCIsMjY6XCLCpzfCp2VMZWZ0LWNsaWNrIHRvIHN1bW1vbiFcIiwyNzpcIsKnN8KnZVNoaWZ0IExlZnQtY2xpY2sgdG8gdG9nZ2xlIGFzIGZhdm9yaXRlIVwiLDI4OlwiwqdlUmlnaHQtY2xpY2sgdG8gY29udmVydCB0byBhbiBpdGVtIVwiXSxOYW1lOlwiwqc3W0x2bCAxMDBdIMKnNkVsZXBoYW50XCJ9LEV4dHJhQXR0cmlidXRlczp7cGV0SW5mbzpcIntcXFwidHlwZVxcXCI6XFxcIkVMRVBIQU5UXFxcIixcXFwiYWN0aXZlXFxcIjpmYWxzZSxcXFwiZXhwXFxcIjo2LjI4NjE4MzI0OTU5NTEwM0U3LFxcXCJ0aWVyXFxcIjpcXFwiTEVHRU5EQVJZXFxcIixcXFwiaGlkZUluZm9cXFwiOmZhbHNlLFxcXCJoZWxkSXRlbVxcXCI6XFxcIkdSRUVOX0JBTkRBTkFcXFwiLFxcXCJjYW5keVVzZWRcXFwiOjAsXFxcInV1aWRcXFwiOlxcXCI1ZDE0Y2FiYy02NmM5LTQ5ZDMtYTMwMC04MzYyNjQ3ZjlmYmFcXFwiLFxcXCJ1bmlxdWVJZFxcXCI6XFxcIjc3YWU3Mjc2LWY1MDctNGIxNy04ZDkyLTcyMjljMGYwM2Q1NlxcXCIsXFxcImhpZGVSaWdodENsaWNrXFxcIjpmYWxzZSxcXFwibm9Nb3ZlXFxcIjpmYWxzZX1cIixpZDpcIlBFVFwiLHV1aWQ6XCI1ZDE0Y2FiYy02NmM5LTQ5ZDMtYTMwMC04MzYyNjQ3ZjlmYmFcIn19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
+                  "RABBIT": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnN1tMdmwgMTAwXSDCpzZSYWJiaXQiLCJuYnR0YWciOiJ7U2t1bGxPd25lcjp7SWQ6XCI1ZDY3Njc3My1lMmIxLTQ3Y2EtYjU5Yy01YzlhNTVlMWQ4MjJcIixoeXBpeGVsUG9wdWxhdGVkOjFiLFByb3BlcnRpZXM6e3RleHR1cmVzOlswOntWYWx1ZTpcImV5SjBaWGgwZFhKbGN5STZleUpUUzBsT0lqcDdJblZ5YkNJNkltaDBkSEE2THk5MFpYaDBkWEpsY3k1dGFXNWxZM0poWm5RdWJtVjBMM1JsZUhSMWNtVXZNVEUzWW1abVl6RTVOekpoWTJRM1pqTmlOR0U0WmpRellqVmlObU0zTlRNME5qazFZamhtWkRZeU5qYzNaVEF6TURaaU1qZ3pNVFUzTkdJaWZYMTlcIn1dfSxOYW1lOlwiwqc1ZDY3Njc3My1lMmIxLTQ3Y2EtYjU5Yy01YzlhNTVlMWQ4MjJcIn0sZGlzcGxheTp7TG9yZTpbMDpcIsKnOEZhcm1pbmcgUGV0XCIsMTpcIlwiLDI6XCLCpzdIZWFsdGg6IMKnYSsxMDBcIiwzOlwiwqc3U3BlZWQ6IMKnYSsyMFwiLDQ6XCJcIiw1Olwiwqc2SGFwcHkgRmVldFwiLDY6XCLCpzfCpzdKdW1wIHBvdGlvbnMgYWxzbyBnaXZlIMKnYSs1MCDCpzdzcGVlZFwiLDc6XCJcIiw4Olwiwqc2RmFybWluZyBXaXNkb20gQm9vc3RcIiw5Olwiwqc3wqc3wqc3R3JhbnRzIMKnMyszMOKYryBGYXJtaW5nIFdpc2RvbcKnNy5cIiwxMDpcIlwiLDExOlwiwqc2RWZmaWNpZW50IEZhcm1pbmdcIiwxMjpcIsKnN8KnN0Zhcm1pbmcgbWluaW9ucyB3b3JrIMKnYTMwJSDCpzdmYXN0ZXJcIiwxMzpcIsKnN3doaWxlIG9uIHlvdXIgaXNsYW5kXCIsMTQ6XCJcIiwxNTpcIsKnNkhlbGQgSXRlbTogwqc5RmFybWluZyBFeHAgQm9vc3RcIiwxNjpcIsKnN0dpdmVzIMKnYSs0MCUgwqc3cGV0IGV4cCBmb3IgRmFybWluZy5cIiwxNzpcIlwiLDE4OlwiwqdiwqdsTUFYIExFVkVMXCIsMTk6XCLCpzjilrggMzgsMDc0LDI5NSBYUFwiLDIwOlwiXCIsMjE6XCLCpzfCp2VMZWZ0LWNsaWNrIHRvIHN1bW1vbiFcIiwyMjpcIsKnN8KnZVNoaWZ0IExlZnQtY2xpY2sgdG8gdG9nZ2xlIGFzIGZhdm9yaXRlIVwiLDIzOlwiwqdlUmlnaHQtY2xpY2sgdG8gY29udmVydCB0byBhbiBpdGVtIVwiXSxOYW1lOlwiwqc3W0x2bCAxMDBdIMKnNlJhYmJpdFwifSxFeHRyYUF0dHJpYnV0ZXM6e3BldEluZm86XCJ7XFxcInR5cGVcXFwiOlxcXCJSQUJCSVRcXFwiLFxcXCJhY3RpdmVcXFwiOmZhbHNlLFxcXCJleHBcXFwiOjMuODA3NDI5NTA0MzcxODkyRTcsXFxcInRpZXJcXFwiOlxcXCJMRUdFTkRBUllcXFwiLFxcXCJoaWRlSW5mb1xcXCI6ZmFsc2UsXFxcImhlbGRJdGVtXFxcIjpcXFwiUEVUX0lURU1fRkFSTUlOR19TS0lMTF9CT09TVF9SQVJFXFxcIixcXFwiY2FuZHlVc2VkXFxcIjowLFxcXCJ1dWlkXFxcIjpcXFwiZWFkMzIzYjYtZTQ0NC00N2Q2LTllYTItMGU1NTNmNjY5NzRiXFxcIixcXFwidW5pcXVlSWRcXFwiOlxcXCIxNjM1MzQzZS0yNWUxLTRiOTctYjMzOS1jNWVmMzg5OTJmNmZcXFwiLFxcXCJoaWRlUmlnaHRDbGlja1xcXCI6ZmFsc2UsXFxcIm5vTW92ZVxcXCI6ZmFsc2V9XCIsaWQ6XCJQRVRcIix1dWlkOlwiZWFkMzIzYjYtZTQ0NC00N2Q2LTllYTItMGU1NTNmNjY5NzRiXCJ9fSIsImRhbWFnZSI6MywiaW50ZXJuYWxuYW1lIjoiXyJ9",
                   "NECKLACE": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnOVJvb3RlZCBMb3R1cyBOZWNrbGFjZSIsIm5idHRhZyI6IntIaWRlRmxhZ3M6MjU0LFNrdWxsT3duZXI6e0lkOlwiYzhkYzU2YjUtYTk5ZS0zYWRhLWE3YjgtODgxMjQzNmE4OWRkXCIsUHJvcGVydGllczp7dGV4dHVyZXM6WzA6e1ZhbHVlOlwiZXdvZ0lDSjBhVzFsYzNSaGJYQWlJRG9nTVRZMk1qVXdNamd4TVRBeU1pd0tJQ0FpY0hKdlptbHNaVWxrSWlBNklDSXpPVFZrWlRKbFlqVmpOalUwWm1Sa09XUTJOREF3WTJKaE5tTm1OakZoTnlJc0NpQWdJbkJ5YjJacGJHVk9ZVzFsSWlBNklDSnpjR0Z5WlhOMFpYWmxJaXdLSUNBaWMybG5ibUYwZFhKbFVtVnhkV2x5WldRaUlEb2dkSEoxWlN3S0lDQWlkR1Y0ZEhWeVpYTWlJRG9nZXdvZ0lDQWdJbE5MU1U0aUlEb2dld29nSUNBZ0lDQWlkWEpzSWlBNklDSm9kSFJ3T2k4dmRHVjRkSFZ5WlhNdWJXbHVaV055WVdaMExtNWxkQzkwWlhoMGRYSmxMMkZrT0ROaFlUSTFZekV4WVdObVkyVTNORFF5Wm1Zd01USTVabVEzTUdKaU5ESmpZVEJrWlRZelltRXlNVEUxTVRZNU9UWTJZMk16TlRGbU1UY3hObUlpQ2lBZ0lDQjlDaUFnZlFwOVwifV19fSxkaXNwbGF5OntMb3JlOlswOlwiwqc3SGVhbHRoOiDCp2ErMTggwqc5KCs4KVwiLDE6XCLCpzdGYXJtaW5nIEZvcnR1bmU6IMKnYSsxNyDCpzkoKzEyKVwiLDI6XCJcIiwzOlwiwqc2UGllY2UgQm9udXM6IFNhbGVzcGVyc29uXCIsNDpcIsKnN0NvbXBsZXRlIMKnYUdhcmRlbiBWaXNpdG9yIE9mZmVycyDCpzd0b1wiLDU6XCLCpzdnYWluIMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcuXCIsNjpcIlwiLDc6XCLCpzdQaWVjZSBCb251czogwqc2KznimJhcIiw4Olwiwqc3TmV4dCBVcGdyYWRlOiDCpzYrMTDimJggwqc4KMKnYTQxN8KnNy/Cp2M1MDDCpzgpXCIsOTpcIlwiLDEwOlwiwqc5wqdsUkFSRSBORUNLTEFDRVwiXSxOYW1lOlwiwqc5Um9vdGVkIExvdHVzIE5lY2tsYWNlXCJ9LEV4dHJhQXR0cmlidXRlczp7bW9kaWZpZXI6XCJyb290ZWRcIixpZDpcIkxPVFVTX05FQ0tMQUNFXCIsdXVpZDpcIjg1ODFjMzNhLTZlZjYtNGZiOS1iZWZmLWQxNWQ1NjYzNDNkNVwiLHRpbWVzdGFtcDoxNjc2NDg2NTgwMDAwTH19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
                   "CLOAK": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnOVJvb3RlZCBMb3R1cyBDbG9hayIsIm5idHRhZyI6IntIaWRlRmxhZ3M6MjU0LFNrdWxsT3duZXI6e0lkOlwiZWI4YmFkMWYtY2Q0Mi0zNTlhLWI2ZDItYmY1NjM5MjhjYzI2XCIsUHJvcGVydGllczp7dGV4dHVyZXM6WzA6e1ZhbHVlOlwiZXdvZ0lDSjBhVzFsYzNSaGJYQWlJRG9nTVRZMk1qVXdNamd6TURZMk5Dd0tJQ0FpY0hKdlptbHNaVWxrSWlBNklDSmlOVE01TlRreU1qTXdZMkkwTW1FME9XWTVZVFJsWW1ZeE5tUmxPVFl3WWlJc0NpQWdJbkJ5YjJacGJHVk9ZVzFsSWlBNklDSnRZWEpwWVc1aFptRm5JaXdLSUNBaWMybG5ibUYwZFhKbFVtVnhkV2x5WldRaUlEb2dkSEoxWlN3S0lDQWlkR1Y0ZEhWeVpYTWlJRG9nZXdvZ0lDQWdJbE5MU1U0aUlEb2dld29nSUNBZ0lDQWlkWEpzSWlBNklDSm9kSFJ3T2k4dmRHVjRkSFZ5WlhNdWJXbHVaV055WVdaMExtNWxkQzkwWlhoMGRYSmxMMlZsTkRCa056YzJNbVF5WWpkaFpXUTFaRGt5TldReE4yWTNZak5qTVRRMU1XVTNNRGxqTWpVek4yRTFOVFEyWWpGalpUWmxNR1E0WldVeU56VTNaRFFpQ2lBZ0lDQjlDaUFnZlFwOVwifV19fSxkaXNwbGF5OntMb3JlOlswOlwiwqc3SGVhbHRoOiDCp2ErMTggwqc5KCs4KVwiLDE6XCLCpzdGYXJtaW5nIEZvcnR1bmU6IMKnYSsxNyDCpzkoKzEyKVwiLDI6XCJcIiwzOlwiwqc2UGllY2UgQm9udXM6IFNhbGVzcGVyc29uXCIsNDpcIsKnN0NvbXBsZXRlIMKnYUdhcmRlbiBWaXNpdG9yIE9mZmVycyDCpzd0b1wiLDU6XCLCpzdnYWluIMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcuXCIsNjpcIlwiLDc6XCLCpzdQaWVjZSBCb251czogwqc2KznimJhcIiw4Olwiwqc3TmV4dCBVcGdyYWRlOiDCpzYrMTDimJggwqc4KMKnYTQxN8KnNy/Cp2M1MDDCpzgpXCIsOTpcIlwiLDEwOlwiwqc5wqdsUkFSRSBDTE9BS1wiXSxOYW1lOlwiwqc5Um9vdGVkIExvdHVzIENsb2FrXCJ9LEV4dHJhQXR0cmlidXRlczp7bW9kaWZpZXI6XCJyb290ZWRcIixpZDpcIkxPVFVTX0NMT0FLXCIsdXVpZDpcImI2NDZlNjk5LWM1ZjUtNDdhMC04ZTE5LTMyYjA5YzEyN2Y2ZFwiLHRpbWVzdGFtcDoxNjc2NTgwNjAwMDAwTH19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
                   "BELT": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnOVJvb3RlZCBMb3R1cyBCZWx0IiwibmJ0dGFnIjoie0hpZGVGbGFnczoyNTQsU2t1bGxPd25lcjp7SWQ6XCIyMjI3NTY3Zi0wNDg3LTM2ZjctOGVmOS1iMTY3NzU1NzY5Y2RcIixQcm9wZXJ0aWVzOnt0ZXh0dXJlczpbMDp7VmFsdWU6XCJld29nSUNKMGFXMWxjM1JoYlhBaUlEb2dNVFkyTWpVd01qZzBOVFF5Tml3S0lDQWljSEp2Wm1sc1pVbGtJaUE2SUNKbU1UZGtPV0psWm1NMk5HTTBZekE0T0RWaFlXVTNOV1EwWWpoaU5XRTBOQ0lzQ2lBZ0luQnliMlpwYkdWT1lXMWxJaUE2SUNKVGFYSkNZVzVrWlhKemJtRjBZMmdpTEFvZ0lDSnphV2R1WVhSMWNtVlNaWEYxYVhKbFpDSWdPaUIwY25WbExBb2dJQ0owWlhoMGRYSmxjeUlnT2lCN0NpQWdJQ0FpVTB0SlRpSWdPaUI3Q2lBZ0lDQWdJQ0oxY213aUlEb2dJbWgwZEhBNkx5OTBaWGgwZFhKbGN5NXRhVzVsWTNKaFpuUXVibVYwTDNSbGVIUjFjbVV2TkdObE9HUXhPV0l3TVRZelpERmxZV1JrWlRVMk16TTNOek01TkdJd05XUmxOak0wTWpkak5tVXpaamhoT1RRNVpUQmtabUV6TW1KaU1qQmtOMll5WkNJS0lDQWdJSDBLSUNCOUNuMFwifV19fSxkaXNwbGF5OntMb3JlOlswOlwiwqc3SGVhbHRoOiDCp2ErMTggwqc5KCs4KVwiLDE6XCLCpzdGYXJtaW5nIEZvcnR1bmU6IMKnYSsxNyDCpzkoKzEyKVwiLDI6XCJcIiwzOlwiwqc2UGllY2UgQm9udXM6IFNhbGVzcGVyc29uXCIsNDpcIsKnN0NvbXBsZXRlIMKnYUdhcmRlbiBWaXNpdG9yIE9mZmVycyDCpzd0b1wiLDU6XCLCpzdnYWluIMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcuXCIsNjpcIlwiLDc6XCLCpzdQaWVjZSBCb251czogwqc2KznimJhcIiw4Olwiwqc3TmV4dCBVcGdyYWRlOiDCpzYrMTDimJggwqc4KMKnYTQxN8KnNy/Cp2M1MDDCpzgpXCIsOTpcIlwiLDEwOlwiwqc5wqdsUkFSRSBCRUxUXCJdLE5hbWU6XCLCpzlSb290ZWQgTG90dXMgQmVsdFwifSxFeHRyYUF0dHJpYnV0ZXM6e21vZGlmaWVyOlwicm9vdGVkXCIsaWQ6XCJMT1RVU19CRUxUXCIsdXVpZDpcImVjNDc2OWYyLTc1YjAtNGExZC04MDZmLWNjZDFhYzBjYTAwNFwiLHRpbWVzdGFtcDoxNjc2NDg2NTgwMDAwTH19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
@@ -4752,9 +4955,10 @@
                   "NETHER_WART": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6ZGlhbW9uZF9ob2UiLCJkaXNwbGF5bmFtZSI6IsKnNkJsZXNzZWQgTmV3dG9uIE5ldGhlciBXYXJ0cyBIb2UiLCJuYnR0YWciOiJ7ZW5jaDpbXSxVbmJyZWFrYWJsZToxYixIaWRlRmxhZ3M6MjU0LGRpc3BsYXk6e0xvcmU6WzA6XCLCpzdTcGVlZDogwqdhKzE2IMKnOSgrMTYpXCIsMTpcIsKnN0Zhcm1pbmcgRm9ydHVuZTogwqdhKzEwNSDCpzkoKzE2KVwiLDI6XCLCpzdGYXJtaW5nIFdpc2RvbTogwqdhKzEyIMKnOSgrNSlcIiwzOlwiwqc3TmV0aGVyIFdhcnQgRm9ydHVuZTogwqdhKzE4NFwiLDQ6XCIgwqc4W8KnOOKYmMKnOF0gwqc4W8KnOOKYmMKnOF0gwqc4W8KnOOKYmMKnOF1cIiw1OlwiXCIsNjpcIsKnOUN1bHRpdmF0aW5nIFZJSSDCpzgzLDg5Niw3NThcIiw3Olwiwqc3R2FpbiDCpzMrN+KYryBGYXJtaW5nIFdpc2RvbSDCpzdhbmQgwqc2KzE04piYXCIsODpcIsKnNkZhcm1pbmcgRm9ydHVuZcKnNy5cIiw5Olwiwqc4NU0gY3JvcHMgdG8gdGllciB1cCFcIiwxMDpcIsKnOURlZGljYXRpb24gSUlJXCIsMTE6XCLCpzdHcmFudHMgwqc2MeKYmCBGYXJtaW5nIEZvcnR1bmUgwqc3Zm9yXCIsMTI6XCLCpzdjcm9wcywgbXVsdGlwbGllZCBieSB5b3VyIMKnYkdhcmRlblwiLDEzOlwiwqdiwqc3bWlsZXN0b25lIGZvciB0aGF0IGNyb3AuXCIsMTQ6XCLCpzlIYXJ2ZXN0aW5nIFZJXCIsMTU6XCLCpzdHcmFudHMgwqdhKzc1IMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcsIHdoaWNoXCIsMTY6XCLCpzdpbmNyZWFzZXMgeW91ciBjaGFuY2UgZm9yIG11bHRpcGxlXCIsMTc6XCLCpzdjcm9wcy5cIiwxODpcIsKnOVJlcGxlbmlzaCBJXCIsMTk6XCLCpzdVcG9uIGJyZWFraW5nIGNyb3BzLCBuZXRoZXIgd2FydCxcIiwyMDpcIsKnN29yIGNvY29hLCBhdXRvbWF0aWNhbGx5IHJlcGxhbnQgZnJvbVwiLDIxOlwiwqc3bWF0ZXJpYWxzIGluIHlvdXIgaW52ZW50b3J5LlwiLDIyOlwiwqc5VHVyYm8tV2FydHMgSUlJXCIsMjM6XCLCpzdHcmFudHMgwqc2KzE14piYIE5ldGhlciBXYXJ0IEZvcnR1bmXCpzcuXCIsMjQ6XCJcIiwyNTpcIsKnN0dhaW4gwqc2KzUw4piYIE5ldGhlciBXYXJ0IEZvcnR1bmUgwqc3YW5kXCIsMjY6XCLCpzfCpzMrOOKYryBGYXJtaW5nIFdpc2RvbSDCpzdmb3IgbmV0aGVyXCIsMjc6XCLCpzd3YXJ0cy5cIiwyODpcIlwiLDI5Olwiwqc3Q291bnRlcjogwqdlMTAsMjc4LDc3MyBOZXRoZXIgV2FydHNcIiwzMDpcIlwiLDMxOlwiwqc2TG9nYXJpdGhtaWMgQ291bnRlclwiLDMyOlwiwqc3R2FpbiDCpzYrMTbimJggTmV0aGVyIFdhcnQgRm9ydHVuZSDCpzdwZXJcIiwzMzpcIsKnN2RpZ2l0cyBvbiB0aGUgQ291bnRlciwgbWludXMgNCFcIiwzNDpcIsKnN1lvdSBoYXZlIMKnNis2NOKYmCBOZXRoZXIgV2FydCBGb3J0dW5lwqc3LlwiLDM1OlwiXCIsMzY6XCLCpzZDb2xsZWN0aW9uIEFuYWx5c2lzXCIsMzc6XCLCpzdHYWluIMKnNis44piYIE5ldGhlciBXYXJ0IEZvcnR1bmUgwqc3cGVyIGRpZ2l0c1wiLDM4Olwiwqc3b2YgeW91ciBjb2xsZWN0aW9uLCBtaW51cyA0IVwiLDM5Olwiwqc3WW91IGhhdmUgwqc2KzMy4piYIE5ldGhlciBXYXJ0IEZvcnR1bmXCpzcuXCIsNDA6XCJcIiw0MTpcIsKnN8KnOEJvbnVzIG5ldGhlciB3YXJ0cyBwZXJjZW50XCIsNDI6XCLCpzhpbmNyZWFzZXMgeW91ciBGYXJtaGFuZCBwZXJrJ3NcIiw0MzpcIsKnOGNoYW5jZXMuXCIsNDQ6XCJcIiw0NTpcIsKnOUJsZXNzZWQgQm9udXNcIiw0NjpcIsKnN0dyYW50cyDCpzYrMTbimJggRmFybWluZyBGb3J0dW5lIMKnN2FuZFwiLDQ3Olwiwqc3wqczKzXimK8gRmFybWluZyBXaXNkb23CpzcuXCIsNDg6XCJcIiw0OTpcIsKnNsKnbExFR0VOREFSWSBIT0VcIl0sTmFtZTpcIsKnNkJsZXNzZWQgTmV3dG9uIE5ldGhlciBXYXJ0cyBIb2VcIn0sRXh0cmFBdHRyaWJ1dGVzOntmYXJtZWRfY3VsdGl2YXRpbmc6Mzg5Njc1OCxtaW5lZF9jcm9wczoxMDI3ODc3M0wsbW9kaWZpZXI6XCJibGVzc2VkXCIsb3JpZ2luVGFnOlwiVEhFT1JFVElDQUxfSE9FX1dBUlRTXzJcIixpZDpcIlRIRU9SRVRJQ0FMX0hPRV9XQVJUU18zXCIsZW5jaGFudG1lbnRzOntoYXJ2ZXN0aW5nOjYsY3VsdGl2YXRpbmc6NyxkZWRpY2F0aW9uOjMsdGVsZWtpbmVzaXM6MSxyZXBsZW5pc2g6MSx0dXJib193YXJ0czozfSx1dWlkOlwiYzcyNWJlMmEtMjc5Ny00MWQ2LTkwY2EtY2YzNWE3N2JhYzNmXCIsdGltZXN0YW1wOjE2NDc2MDM4NDAwMDBMfX0iLCJkYW1hZ2UiOjAsImludGVybmFsbmFtZSI6Il8ifQ\u003d\u003d",
                   "CARROT": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6aXJvbl9ob2UiLCJkaXNwbGF5bmFtZSI6IsKnOUJsZXNzZWQgR2F1c3MgQ2Fycm90IEhvZSIsIm5idHRhZyI6IntlbmNoOltdLFVuYnJlYWthYmxlOjFiLEhpZGVGbGFnczoyNTQsZGlzcGxheTp7TG9yZTpbMDpcIsKnN1NwZWVkOiDCp2ErOSDCpzkoKzkpXCIsMTpcIsKnN0Zhcm1pbmcgRm9ydHVuZTogwqdhKzg3IMKnOSgrOSkgwqdkKCszKVwiLDI6XCLCpzdGYXJtaW5nIFdpc2RvbTogwqdhKzMgwqc5KCszKVwiLDM6XCLCpzdDYXJyb3QgRm9ydHVuZTogwqdhKzk4XCIsNDpcIiDCpzlbwqcy4piYwqc5XSDCpzhbwqc44piYwqc4XVwiLDU6XCJcIiw2Olwiwqc5SGFydmVzdGluZyBWSVwiLDc6XCLCpzdHcmFudHMgwqdhKzc1IMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcsIHdoaWNoXCIsODpcIsKnN2luY3JlYXNlcyB5b3VyIGNoYW5jZSBmb3IgbXVsdGlwbGVcIiw5Olwiwqc3Y3JvcHMuXCIsMTA6XCLCpzlSZXBsZW5pc2ggSVwiLDExOlwiwqc3VXBvbiBicmVha2luZyBjcm9wcywgbmV0aGVyIHdhcnQsXCIsMTI6XCLCpzdvciBjb2NvYSwgYXV0b21hdGljYWxseSByZXBsYW50IGZyb21cIiwxMzpcIsKnN21hdGVyaWFscyBpbiB5b3VyIGludmVudG9yeS5cIiwxNDpcIsKnOVR1cmJvLUNhcnJvdCBWXCIsMTU6XCLCpzdHcmFudHMgwqc2KzI14piYIENhcnJvdCBGb3J0dW5lwqc3LlwiLDE2Olwiwqc3UmVxdWlyZXMgwqdmU2lsdmVyIMKnN2luIGEgwqdhQ2Fycm90IENvbnRlc3TCpzchXCIsMTc6XCJcIiwxODpcIsKnN0dhaW4gwqc2KzI14piYIENhcnJvdCBGb3J0dW5lIMKnN2FuZCDCpzMrM+KYr1wiLDE5OlwiwqczRmFybWluZyBXaXNkb20gwqc3Zm9yIGNhcnJvdHMuXCIsMjA6XCJcIiwyMTpcIsKnN0NvdW50ZXI6IMKnZTMsODg1LDU2NiBDYXJyb3RzXCIsMjI6XCJcIiwyMzpcIsKnNkxvZ2FyaXRobWljIENvdW50ZXJcIiwyNDpcIsKnN0dhaW4gwqc2KzE24piYIENhcnJvdCBGb3J0dW5lIMKnN3BlciBkaWdpdHNcIiwyNTpcIsKnN29uIHRoZSBDb3VudGVyLCBtaW51cyA0IVwiLDI2Olwiwqc3WW91IGhhdmUgwqc2KzQ44piYIENhcnJvdCBGb3J0dW5lwqc3LlwiLDI3OlwiXCIsMjg6XCLCpzfCpzhCb251cyBjYXJyb3RzIHBlcmNlbnQgaW5jcmVhc2VzXCIsMjk6XCLCpzh5b3VyIEZhcm1oYW5kIHBlcmsncyBjaGFuY2VzLlwiLDMwOlwiXCIsMzE6XCLCp2VSZWFjaCAxME0gQ291bnRlciBmb3IgKzEgUmFyaXR5IVwiLDMyOlwiXCIsMzM6XCLCp2VSaWdodC1jbGljayB0byB2aWV3IHJlY2lwZXMhXCIsMzQ6XCJcIiwzNTpcIsKnOUJsZXNzZWQgQm9udXNcIiwzNjpcIsKnN0dyYW50cyDCpzYrOeKYmCBGYXJtaW5nIEZvcnR1bmUgwqc3YW5kXCIsMzc6XCLCpzfCpzMrM+KYryBGYXJtaW5nIFdpc2RvbcKnNy5cIiwzODpcIlwiLDM5Olwiwqc5wqdsUkFSRSBIT0VcIl0sTmFtZTpcIsKnOUJsZXNzZWQgR2F1c3MgQ2Fycm90IEhvZVwifSxFeHRyYUF0dHJpYnV0ZXM6e2dlbXM6e3VubG9ja2VkX3Nsb3RzOlswOlwiUEVSSURPVF8wXCJdLFBFUklET1RfMDpcIkZJTkVcIn0sbW9kaWZpZXI6XCJibGVzc2VkXCIsbWluZWRfY3JvcHM6Mzg4NTU2Nkwsb3JpZ2luVGFnOlwiVEhFT1JFVElDQUxfSE9FX0NBUlJPVF8xXCIsaWQ6XCJUSEVPUkVUSUNBTF9IT0VfQ0FSUk9UXzJcIixlbmNoYW50bWVudHM6e2hhcnZlc3Rpbmc6Nix0ZWxla2luZXNpczoxLHR1cmJvX2NhcnJvdDo1LHJlcGxlbmlzaDoxfSx1dWlkOlwiOWExNzVhNTgtYTkxZi00MGYyLWJjZjQtMWMwODM4Yzk0NjdiXCIsdGltZXN0YW1wOjE2NDc2MDM4NDAwMDBMfX0iLCJkYW1hZ2UiOjAsImludGVybmFsbmFtZSI6Il8ifQ\u003d\u003d",
                   "CACTUS": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6Z29sZGVuX2hvZSIsImRpc3BsYXluYW1lIjoiwqc1Qmxlc3NlZCBDYWN0dXMgS25pZmUiLCJuYnR0YWciOiJ7ZW5jaDpbXSxVbmJyZWFrYWJsZToxYixIaWRlRmxhZ3M6MjU0LGRpc3BsYXk6e0xvcmU6WzA6XCLCpzdTcGVlZDogwqdhKzEzIMKnOSgrMTMpXCIsMTpcIsKnN0Zhcm1pbmcgRm9ydHVuZTogwqdhKzk2IMKnOSgrMTMpIMKnZCgrOClcIiwyOlwiwqc3RmFybWluZyBXaXNkb206IMKnYSs0IMKnOSgrNClcIiwzOlwiwqc3Q2FjdHVzIEZvcnR1bmU6IMKnYSsyNVwiLDQ6XCIgwqc5W8KnMuKYmMKnOV0gwqc5W8KnMuKYmMKnOV1cIiw1OlwiXCIsNjpcIsKnOURlbGljYXRlIFZcIiw3Olwiwqc3QXZvaWRzIGJyZWFraW5nIHN0ZW1zIGFuZCBiYWJ5XCIsODpcIsKnN2Nyb3BzLlwiLDk6XCLCpzlIYXJ2ZXN0aW5nIFZJXCIsMTA6XCLCpzdHcmFudHMgwqdhKzc1IMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcsIHdoaWNoXCIsMTE6XCLCpzdpbmNyZWFzZXMgeW91ciBjaGFuY2UgZm9yIG11bHRpcGxlXCIsMTI6XCLCpzdjcm9wcy5cIiwxMzpcIsKnOVNtZWx0aW5nIFRvdWNoIElcIiwxNDpcIsKnN0F1dG9tYXRpY2FsbHkgc21lbHRzIGJyb2tlbiBibG9ja3NcIiwxNTpcIsKnN2ludG8gdGhlaXIgc21lbHRlZCBmb3JtLlwiLDE2Olwiwqc5VHVyYm8tQ2FjdGkgVlwiLDE3Olwiwqc3R3JhbnRzIMKnNisyNeKYmCBDYWN0dXMgRm9ydHVuZcKnNy5cIiwxODpcIsKnN1JlcXVpcmVzIMKnZlNpbHZlciDCpzdpbiBhIMKnYUNhY3R1cyBDb250ZXN0wqc3IVwiLDE5OlwiXCIsMjA6XCLCpzdTbGljZXMgdGhyb3VnaCDCp2FjYWN0dXPCpzcgaW5zdGFudGx5IVwiLDIxOlwiXCIsMjI6XCLCpzZBYmlsaXR5OiBTd2lmdCBTbGljZXIgXCIsMjM6XCLCpzdJbmNyZWFzZXMgeW91ciBzcGVlZCBjYXAgYnkgMTAwXCIsMjQ6XCLCpzd3aGlsZSBpbiB0aGUgwqdiR2FyZGVuwqc3LlwiLDI1OlwiXCIsMjY6XCLCpzlCbGVzc2VkIEJvbnVzXCIsMjc6XCLCpzdHcmFudHMgwqc2KzEz4piYIEZhcm1pbmcgRm9ydHVuZSDCpzdhbmRcIiwyODpcIsKnN8KnMys04pivIEZhcm1pbmcgV2lzZG9twqc3LlwiLDI5OlwiXCIsMzA6XCLCpzXCp2xFUElDIEhPRVwiXSxOYW1lOlwiwqc1Qmxlc3NlZCBDYWN0dXMgS25pZmVcIn0sRXh0cmFBdHRyaWJ1dGVzOntnZW1zOnt1bmxvY2tlZF9zbG90czpbMDpcIlBFUklET1RfMFwiLDE6XCJQRVJJRE9UXzFcIl0sUEVSSURPVF8xOlwiRklORVwiLFBFUklET1RfMDpcIkZJTkVcIn0sbW9kaWZpZXI6XCJibGVzc2VkXCIsaWQ6XCJDQUNUVVNfS05JRkVcIixlbmNoYW50bWVudHM6e2RlbGljYXRlOjUsc21lbHRpbmdfdG91Y2g6MSxoYXJ2ZXN0aW5nOjYsdHVyYm9fY2FjdHVzOjV9LHV1aWQ6XCJkNDBmNGEzYi05ZmI3LTRiNmItODRmNC04ZDFmMTkyYjlmYmFcIix0aW1lc3RhbXA6MTcyMzE1MTY5NTUyMUx9fSIsImRhbWFnZSI6MCwiaW50ZXJuYWxuYW1lIjoiXyJ9",
-                  "BEE": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnN1tMdmwgMV0gwqc2QmVlIiwibmJ0dGFnIjoie1NrdWxsT3duZXI6e0lkOlwiYjYzZmQyYTgtNTQ0Ny00ZGJiLWE4ZWUtYTIxN2UwY2M3ZTdiXCIsaHlwaXhlbFBvcHVsYXRlZDoxYixQcm9wZXJ0aWVzOnt0ZXh0dXJlczpbMDp7VmFsdWU6XCJleUowWlhoMGRYSmxjeUk2ZXlKVFMwbE9JanA3SW5WeWJDSTZJbWgwZEhBNkx5OTBaWGgwZFhKbGN5NXRhVzVsWTNKaFpuUXVibVYwTDNSbGVIUjFjbVV2TjJVNU5ERTVPRGRsT0RJMVlUSTBaV0UzWW1GaFptRmlPVGd4T1RNME5HSTJZekkwTjJNM05XTTFOR0UyT1RFNU9EZGpaREk1Tm1Kak1UWXpZekkyTXlKOWZYMD1cIn1dfSxOYW1lOlwiwqdiNjNmZDJhOC01NDQ3LTRkYmItYThlZS1hMjE3ZTBjYzdlN2JcIn0sZGlzcGxheTp7TG9yZTpbMDpcIsKnOEZhcm1pbmcgUGV0XCIsMTpcIlwiLDI6XCLCpzdTcGVlZDogwqdhKzAuMVwiLDM6XCLCpzdTdHJlbmd0aDogwqdjKzUuMjVcIiw0Olwiwqc3SW50ZWxsaWdlbmNlOiDCp2ErMC41XCIsNTpcIsKnN01pbmluZyBGb3J0dW5lOiDCp2ErMC4zXCIsNjpcIsKnN0Zhcm1pbmcgRm9ydHVuZTogwqdhKzAuM1wiLDc6XCLCpzdGb3JhZ2luZyBGb3J0dW5lOiDCp2ErMC4zXCIsODpcIlwiLDk6XCLCpzZIaXZlXCIsMTA6XCLCpzdGb3IgZWFjaCBwbGF5ZXIgd2l0aGluIMKnYTI1IMKnN2Jsb2NrczpcIiwxMTpcIiDCp2IrMS4wOeKcjiBJbnRlbGxpZ2VuY2VcIiwxMjpcIiDCp2MrMS4wN+KdgSBTdHJlbmd0aFwiLDEzOlwiIMKnYSsxLjA04p2IIERlZmVuc2VcIiwxNDpcIsKnOE1heCAxNSBwbGF5ZXJzXCIsMTU6XCJcIiwxNjpcIsKnNkJ1c3kgQnV6eiBCdXp6XCIsMTc6XCLCpzdHcmFudHMgwqdhKzAuMyDCpzdvZiBlYWNoIHRvIHlvdXIgcGV0OlwiLDE4Olwiwqc24piYIEZhcm1pbmcgRm9ydHVuZVwiLDE5Olwiwqc24piYIEZvcmFnaW5nIEZvcnR1bmVcIiwyMDpcIsKnNuKYmCBNaW5pbmcgRm9ydHVuZVwiLDIxOlwiXCIsMjI6XCLCpzZXZWFwb25pemVkIEhvbmV5XCIsMjM6XCLCpzfCpzdHYWluIMKnYTUuMiUgwqc3b2YgcmVjZWl2ZWQgZGFtYWdlIGFzIMKnNuKdpFwiLDI0Olwiwqc2QWJzb3JwdGlvbsKnNy5cIiwyNTpcIlwiLDI2Olwiwqc3UHJvZ3Jlc3MgdG8gTGV2ZWwgMjogwqdlMCVcIiwyNzpcIsKnZsKnbMKnbSAgICAgICAgICAgICAgICAgICAgICAgICDCp3IgwqdlMMKnNi/Cp2U2NjBcIiwyODpcIlwiLDI5Olwiwqc3wqdlTGVmdC1jbGljayB0byBzdW1tb24hXCIsMzA6XCLCpzfCp2VTaGlmdCBMZWZ0LWNsaWNrIHRvIHRvZ2dsZSBhcyBmYXZvcml0ZSFcIiwzMTpcIsKnZVJpZ2h0LWNsaWNrIHRvIGNvbnZlcnQgdG8gYW4gaXRlbSFcIl0sTmFtZTpcIsKnN1tMdmwgMV0gwqc2QmVlXCJ9LEV4dHJhQXR0cmlidXRlczp7cGV0SW5mbzpcIntcXFwidHlwZVxcXCI6XFxcIkJFRVxcXCIsXFxcImFjdGl2ZVxcXCI6ZmFsc2UsXFxcImV4cFxcXCI6MC4wLFxcXCJ0aWVyXFxcIjpcXFwiTEVHRU5EQVJZXFxcIixcXFwiaGlkZUluZm9cXFwiOmZhbHNlLFxcXCJjYW5keVVzZWRcXFwiOjAsXFxcInV1aWRcXFwiOlxcXCI4NGViYWZmOS01YzQxLTRhOTUtODkyMS03YTNlMzVlZWNmNjVcXFwiLFxcXCJ1bmlxdWVJZFxcXCI6XFxcIjkwNzY2MzU3LTdmMmYtNGY1My1hZjVkLWRjMGZmNjQ1ZjA3OFxcXCIsXFxcImhpZGVSaWdodENsaWNrXFxcIjpmYWxzZSxcXFwibm9Nb3ZlXFxcIjpmYWxzZX1cIixpZDpcIlBFVFwiLHV1aWQ6XCI4NGViYWZmOS01YzQxLTRhOTUtODkyMS03YTNlMzVlZWNmNjVcIn19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
+                  "BEE": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnN1tMdmwgMV0gwqc2QmVlIiwibmJ0dGFnIjoie1NrdWxsT3duZXI6e0lkOlwiMjExNGFiODEtOWJjYy00YjcwLTk5ZmMtZDhjOTM1YWQ2ZjFhXCIsaHlwaXhlbFBvcHVsYXRlZDoxYixQcm9wZXJ0aWVzOnt0ZXh0dXJlczpbMDp7VmFsdWU6XCJleUowWlhoMGRYSmxjeUk2ZXlKVFMwbE9JanA3SW5WeWJDSTZJbWgwZEhBNkx5OTBaWGgwZFhKbGN5NXRhVzVsWTNKaFpuUXVibVYwTDNSbGVIUjFjbVV2TjJVNU5ERTVPRGRsT0RJMVlUSTBaV0UzWW1GaFptRmlPVGd4T1RNME5HSTJZekkwTjJNM05XTTFOR0UyT1RFNU9EZGpaREk1Tm1Kak1UWXpZekkyTXlKOWZYMD1cIn1dfSxOYW1lOlwiwqcyMTE0YWI4MS05YmNjLTRiNzAtOTlmYy1kOGM5MzVhZDZmMWFcIn0sZGlzcGxheTp7TG9yZTpbMDpcIsKnOEZhcm1pbmcgUGV0XCIsMTpcIlwiLDI6XCLCpzdTcGVlZDogwqdhKzAuMVwiLDM6XCLCpzdTdHJlbmd0aDogwqdjKzUuMjVcIiw0Olwiwqc3SW50ZWxsaWdlbmNlOiDCp2ErMC41XCIsNTpcIsKnN01pbmluZyBGb3J0dW5lOiDCp2ErMC4zXCIsNjpcIsKnN0Zhcm1pbmcgRm9ydHVuZTogwqdhKzAuM1wiLDc6XCLCpzdGb3JhZ2luZyBGb3J0dW5lOiDCp2ErMC4zXCIsODpcIlwiLDk6XCLCpzZIaXZlXCIsMTA6XCLCpzdGb3IgZWFjaCBwbGF5ZXIgd2l0aGluIMKnYTI1IMKnN2Jsb2NrczpcIiwxMTpcIiDCp2IrMS4wOeKcjiBJbnRlbGxpZ2VuY2VcIiwxMjpcIiDCp2MrMS4wN+KdgSBTdHJlbmd0aFwiLDEzOlwiIMKnYSsxLjA04p2IIERlZmVuc2VcIiwxNDpcIsKnOE1heCAxNSBwbGF5ZXJzXCIsMTU6XCJcIiwxNjpcIsKnNkJ1c3kgQnV6eiBCdXp6XCIsMTc6XCLCpzdHcmFudHMgwqdhKzAuMyDCpzdvZiBlYWNoIHRvIHlvdXIgcGV0OlwiLDE4Olwiwqc24piYIEZhcm1pbmcgRm9ydHVuZVwiLDE5Olwiwqc24piYIEZvcmFnaW5nIEZvcnR1bmVcIiwyMDpcIsKnNuKYmCBNaW5pbmcgRm9ydHVuZVwiLDIxOlwiXCIsMjI6XCLCpzZXZWFwb25pemVkIEhvbmV5XCIsMjM6XCLCpzfCpzdHYWluIMKnYTUuMiUgwqc3b2YgcmVjZWl2ZWQgZGFtYWdlIGFzIMKnNuKdpFwiLDI0Olwiwqc2QWJzb3JwdGlvbsKnNy5cIiwyNTpcIlwiLDI2Olwiwqc3UHJvZ3Jlc3MgdG8gTGV2ZWwgMjogwqdlMCVcIiwyNzpcIsKnZsKnbMKnbSAgICAgICAgICAgICAgICAgICAgICAgICDCp3IgwqdlMMKnNi/Cp2U2NjBcIiwyODpcIlwiLDI5Olwiwqc3wqdlTGVmdC1jbGljayB0byBzdW1tb24hXCIsMzA6XCLCpzfCp2VTaGlmdCBMZWZ0LWNsaWNrIHRvIHRvZ2dsZSBhcyBmYXZvcml0ZSFcIiwzMTpcIsKnZVJpZ2h0LWNsaWNrIHRvIGNvbnZlcnQgdG8gYW4gaXRlbSFcIl0sTmFtZTpcIsKnN1tMdmwgMV0gwqc2QmVlXCJ9LEV4dHJhQXR0cmlidXRlczp7cGV0SW5mbzpcIntcXFwidHlwZVxcXCI6XFxcIkJFRVxcXCIsXFxcImFjdGl2ZVxcXCI6ZmFsc2UsXFxcImV4cFxcXCI6MC4wLFxcXCJ0aWVyXFxcIjpcXFwiTEVHRU5EQVJZXFxcIixcXFwiaGlkZUluZm9cXFwiOmZhbHNlLFxcXCJjYW5keVVzZWRcXFwiOjAsXFxcInV1aWRcXFwiOlxcXCI4NGViYWZmOS01YzQxLTRhOTUtODkyMS03YTNlMzVlZWNmNjVcXFwiLFxcXCJ1bmlxdWVJZFxcXCI6XFxcIjkwNzY2MzU3LTdmMmYtNGY1My1hZjVkLWRjMGZmNjQ1ZjA3OFxcXCIsXFxcImhpZGVSaWdodENsaWNrXFxcIjpmYWxzZSxcXFwibm9Nb3ZlXFxcIjpmYWxzZX1cIixpZDpcIlBFVFwiLHV1aWQ6XCI4NGViYWZmOS01YzQxLTRhOTUtODkyMS03YTNlMzVlZWNmNjVcIn19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
                   "SUGAR_CANE": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6ZGlhbW9uZF9ob2UiLCJkaXNwbGF5bmFtZSI6IsKnZEJsZXNzZWQgVHVyaW5nIFN1Z2FyIENhbmUgSG9lIiwibmJ0dGFnIjoie2VuY2g6W10sVW5icmVha2FibGU6MWIsSGlkZUZsYWdzOjI1NCxkaXNwbGF5OntMb3JlOlswOlwiwqc3U3BlZWQ6IMKnYSsyMCDCpzkoKzIwKVwiLDE6XCLCpzdGYXJtaW5nIEZvcnR1bmU6IMKnYSsxMTYgwqcyKCs1KSDCpzkoKzIwKVwiLDI6XCLCpzdGYXJtaW5nIFdpc2RvbTogwqdhKzE0IMKnOSgrNilcIiwzOlwiwqc3U3VnYXIgQ2FuZSBGb3J0dW5lOiDCp2ErMTcxXCIsNDpcIiDCpzhbwqc44piYwqc4XSDCpzhbwqc44piYwqc4XSDCpzhbwqc44piYwqc4XVwiLDU6XCJcIiw2Olwiwqc5Q3VsdGl2YXRpbmcgVklJSSDCpzg2LDk2Niw4MzhcIiw3Olwiwqc3R2FpbiDCpzMrOOKYryBGYXJtaW5nIFdpc2RvbSDCpzdhbmQgwqc2KzE24piYXCIsODpcIsKnNkZhcm1pbmcgRm9ydHVuZcKnNy5cIiw5Olwiwqc4MjBNIGNyb3BzIHRvIHRpZXIgdXAhXCIsMTA6XCLCpzlIYXJ2ZXN0aW5nIFZJXCIsMTE6XCLCpzdHcmFudHMgwqdhKzc1IMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcsIHdoaWNoXCIsMTI6XCLCpzdpbmNyZWFzZXMgeW91ciBjaGFuY2UgZm9yIG11bHRpcGxlXCIsMTM6XCLCpzdjcm9wcy5cIiwxNDpcIsKnOVR1cmJvLUNhbmUgVlwiLDE1Olwiwqc3R3JhbnRzIMKnNisyNeKYmCBTdWdhciBDYW5lIEZvcnR1bmXCpzcuXCIsMTY6XCLCpzdSZXF1aXJlcyDCp2ZTaWx2ZXIgwqc3aW4gYSDCp2FTdWdhciBDYW5lIENvbnRlc3TCpzchXCIsMTc6XCJcIiwxODpcIsKnN0dhaW4gwqc2KzUw4piYIFN1Z2FyIENhbmUgRm9ydHVuZSDCpzdhbmRcIiwxOTpcIsKnN8KnMysxMuKYryBGYXJtaW5nIFdpc2RvbSDCpzdmb3Igc3VnYXJcIiwyMDpcIsKnN2NhbmVzLlwiLDIxOlwiXCIsMjI6XCLCpzdDb3VudGVyOiDCp2UxNCw5NzIsODAzIFN1Z2FyIENhbmVzXCIsMjM6XCJcIiwyNDpcIsKnNkxvZ2FyaXRobWljIENvdW50ZXJcIiwyNTpcIsKnN0dhaW4gwqc2KzE24piYIFN1Z2FyIENhbmUgRm9ydHVuZSDCpzdwZXJcIiwyNjpcIsKnN2RpZ2l0cyBvbiB0aGUgQ291bnRlciwgbWludXMgNCFcIiwyNzpcIsKnN1lvdSBoYXZlIMKnNis2NOKYmCBTdWdhciBDYW5lIEZvcnR1bmXCpzcuXCIsMjg6XCJcIiwyOTpcIsKnNkNvbGxlY3Rpb24gQW5hbHlzaXNcIiwzMDpcIsKnN0dhaW4gwqc2KzjimJggU3VnYXIgQ2FuZSBGb3J0dW5lIMKnN3BlciBkaWdpdHNcIiwzMTpcIsKnN29mIHlvdXIgY29sbGVjdGlvbiwgbWludXMgNCFcIiwzMjpcIsKnN1lvdSBoYXZlIMKnNiszMuKYmCBTdWdhciBDYW5lIEZvcnR1bmXCpzcuXCIsMzM6XCJcIiwzNDpcIsKnN8KnOEJvbnVzIHN1Z2FyIGNhbmVzIHBlcmNlbnRcIiwzNTpcIsKnOGluY3JlYXNlcyB5b3VyIEZhcm1oYW5kIHBlcmsnc1wiLDM2Olwiwqc4Y2hhbmNlcy5cIiwzNzpcIlwiLDM4Olwiwqc5Qmxlc3NlZCBCb251c1wiLDM5Olwiwqc3R3JhbnRzIMKnNisyMOKYmCBGYXJtaW5nIEZvcnR1bmUgwqc3YW5kXCIsNDA6XCLCpzfCpzMrNuKYryBGYXJtaW5nIFdpc2RvbcKnNy5cIiw0MTpcIlwiLDQyOlwiwqdkwqdswqdrYcKnciDCp2TCp2zCp2TCp2xNWVRISUMgSE9FIMKnZMKnbMKna2FcIl0sTmFtZTpcIsKnZEJsZXNzZWQgVHVyaW5nIFN1Z2FyIENhbmUgSG9lXCJ9LEV4dHJhQXR0cmlidXRlczp7cmFyaXR5X3VwZ3JhZGVzOjEsZmFybWVkX2N1bHRpdmF0aW5nOjY5NjY4MzgsbWluZWRfY3JvcHM6MTQ5NzI4MDNMLG1vZGlmaWVyOlwiYmxlc3NlZFwiLG9yaWdpblRhZzpcIlRIRU9SRVRJQ0FMX0hPRV9DQU5FXzNcIixpZDpcIlRIRU9SRVRJQ0FMX0hPRV9DQU5FXzNcIixlbmNoYW50bWVudHM6e2hhcnZlc3Rpbmc6NixjdWx0aXZhdGluZzo4LHRlbGVraW5lc2lzOjEsdHVyYm9fY2FuZTo1fSxmYXJtaW5nX2Zvcl9kdW1taWVzX2NvdW50OjUsdXVpZDpcIjBhNDRhY2UxLWUzMDYtNGFkZS04NWU1LTgwNDNmYTQ2N2NkYlwiLGFudmlsX3VzZXM6Mix0aW1lc3RhbXA6MTY0NzYwMzg0MDAwMEx9fSIsImRhbWFnZSI6MCwiaW50ZXJuYWxuYW1lIjoiXyJ9",
-                  "POTATO": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6aXJvbl9ob2UiLCJkaXNwbGF5bmFtZSI6IsKnOUJsZXNzZWQgUHl0aGFnb3JlYW4gUG90YXRvIEhvZSIsIm5idHRhZyI6IntlbmNoOltdLFVuYnJlYWthYmxlOjFiLEhpZGVGbGFnczoyNTQsZGlzcGxheTp7TG9yZTpbMDpcIsKnN1NwZWVkOiDCp2ErOSDCpzkoKzkpXCIsMTpcIsKnN0Zhcm1pbmcgRm9ydHVuZTogwqdhKzg3IMKnOSgrOSkgwqdkKCszKVwiLDI6XCLCpzdGYXJtaW5nIFdpc2RvbTogwqdhKzMgwqc5KCszKVwiLDM6XCLCpzdQb3RhdG8gRm9ydHVuZTogwqdhKzEwN1wiLDQ6XCIgwqc5W8KnMuKYmMKnOV0gwqc4W8KnOOKYmMKnOF1cIiw1OlwiXCIsNjpcIsKnOURlZGljYXRpb24gSUlJXCIsNzpcIsKnN0dyYW50cyDCpzYx4piYIEZhcm1pbmcgRm9ydHVuZSDCpzdmb3JcIiw4Olwiwqc3Y3JvcHMsIG11bHRpcGxpZWQgYnkgeW91ciDCp2JHYXJkZW5cIiw5Olwiwqdiwqc3bWlsZXN0b25lIGZvciB0aGF0IGNyb3AuXCIsMTA6XCLCpzlIYXJ2ZXN0aW5nIFZJXCIsMTE6XCLCpzdHcmFudHMgwqdhKzc1IMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcsIHdoaWNoXCIsMTI6XCLCpzdpbmNyZWFzZXMgeW91ciBjaGFuY2UgZm9yIG11bHRpcGxlXCIsMTM6XCLCpzdjcm9wcy5cIiwxNDpcIsKnOVJlcGxlbmlzaCBJXCIsMTU6XCLCpzdVcG9uIGJyZWFraW5nIGNyb3BzLCBuZXRoZXIgd2FydCxcIiwxNjpcIsKnN29yIGNvY29hLCBhdXRvbWF0aWNhbGx5IHJlcGxhbnQgZnJvbVwiLDE3Olwiwqc3bWF0ZXJpYWxzIGluIHlvdXIgaW52ZW50b3J5LlwiLDE4Olwiwqc5VHVyYm8tUG90YXRvIFZcIiwxOTpcIsKnN0dyYW50cyDCpzYrMjXimJggUG90YXRvIEZvcnR1bmXCpzcuXCIsMjA6XCLCpzdSZXF1aXJlcyDCp2ZTaWx2ZXIgwqc3aW4gYSDCp2FQb3RhdG8gQ29udGVzdMKnNyFcIiwyMTpcIlwiLDIyOlwiwqc3R2FpbiDCpzYrMjXimJggUG90YXRvIEZvcnR1bmUgwqc3YW5kIMKnMysz4pivXCIsMjM6XCLCpzNGYXJtaW5nIFdpc2RvbSDCpzdmb3IgcG90YXRvZXMuXCIsMjQ6XCJcIiwyNTpcIsKnN0NvdW50ZXI6IMKnZTEsOTY1LDYwOSBQb3RhdG9lc1wiLDI2OlwiXCIsMjc6XCLCpzZMb2dhcml0aG1pYyBDb3VudGVyXCIsMjg6XCLCpzdHYWluIMKnNisxNuKYmCBQb3RhdG8gRm9ydHVuZSDCpzdwZXIgZGlnaXRzXCIsMjk6XCLCpzdvbiB0aGUgQ291bnRlciwgbWludXMgNCFcIiwzMDpcIsKnN1lvdSBoYXZlIMKnNis0OOKYmCBQb3RhdG8gRm9ydHVuZcKnNy5cIiwzMTpcIlwiLDMyOlwiwqc3wqc4Qm9udXMgcG90YXRvZXMgcGVyY2VudCBpbmNyZWFzZXNcIiwzMzpcIsKnOHlvdXIgRmFybWhhbmQgcGVyaydzIGNoYW5jZXMuXCIsMzQ6XCJcIiwzNTpcIsKnZVJlYWNoIDEwTSBDb3VudGVyIGZvciArMSBSYXJpdHkhXCIsMzY6XCJcIiwzNzpcIsKnZVJpZ2h0LWNsaWNrIHRvIHZpZXcgcmVjaXBlcyFcIiwzODpcIlwiLDM5Olwiwqc5Qmxlc3NlZCBCb251c1wiLDQwOlwiwqc3R3JhbnRzIMKnNis54piYIEZhcm1pbmcgRm9ydHVuZSDCpzdhbmRcIiw0MTpcIsKnN8KnMysz4pivIEZhcm1pbmcgV2lzZG9twqc3LlwiLDQyOlwiXCIsNDM6XCLCpznCp2xSQVJFIEhPRVwiXSxOYW1lOlwiwqc5Qmxlc3NlZCBQeXRoYWdvcmVhbiBQb3RhdG8gSG9lXCJ9LEV4dHJhQXR0cmlidXRlczp7Z2Vtczp7dW5sb2NrZWRfc2xvdHM6WzA6XCJQRVJJRE9UXzBcIl0sUEVSSURPVF8wOlwiRklORVwifSxtb2RpZmllcjpcImJsZXNzZWRcIixtaW5lZF9jcm9wczoxOTY1ODY5TCxpZDpcIlRIRU9SRVRJQ0FMX0hPRV9QT1RBVE9fMlwiLGVuY2hhbnRtZW50czp7aGFydmVzdGluZzo2LHR1cmJvX3BvdGF0bzo1LGRlZGljYXRpb246MyxyZXBsZW5pc2g6MX0sdXVpZDpcIjE4NzFlMGI1LTg3ZmQtNDA1MS1hZjk4LWJhZmJiY2RkNDMxYVwiLHRpbWVzdGFtcDoxNzI0MTg2MjM3MzI5TH19IiwiZGFtYWdlIjowLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d"
+                  "POTATO": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6aXJvbl9ob2UiLCJkaXNwbGF5bmFtZSI6IsKnOUJsZXNzZWQgUHl0aGFnb3JlYW4gUG90YXRvIEhvZSIsIm5idHRhZyI6IntlbmNoOltdLFVuYnJlYWthYmxlOjFiLEhpZGVGbGFnczoyNTQsZGlzcGxheTp7TG9yZTpbMDpcIsKnN1NwZWVkOiDCp2ErOSDCpzkoKzkpXCIsMTpcIsKnN0Zhcm1pbmcgRm9ydHVuZTogwqdhKzg3IMKnOSgrOSkgwqdkKCszKVwiLDI6XCLCpzdGYXJtaW5nIFdpc2RvbTogwqdhKzMgwqc5KCszKVwiLDM6XCLCpzdQb3RhdG8gRm9ydHVuZTogwqdhKzEwN1wiLDQ6XCIgwqc5W8KnMuKYmMKnOV0gwqc4W8KnOOKYmMKnOF1cIiw1OlwiXCIsNjpcIsKnOURlZGljYXRpb24gSUlJXCIsNzpcIsKnN0dyYW50cyDCpzYx4piYIEZhcm1pbmcgRm9ydHVuZSDCpzdmb3JcIiw4Olwiwqc3Y3JvcHMsIG11bHRpcGxpZWQgYnkgeW91ciDCp2JHYXJkZW5cIiw5Olwiwqdiwqc3bWlsZXN0b25lIGZvciB0aGF0IGNyb3AuXCIsMTA6XCLCpzlIYXJ2ZXN0aW5nIFZJXCIsMTE6XCLCpzdHcmFudHMgwqdhKzc1IMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcsIHdoaWNoXCIsMTI6XCLCpzdpbmNyZWFzZXMgeW91ciBjaGFuY2UgZm9yIG11bHRpcGxlXCIsMTM6XCLCpzdjcm9wcy5cIiwxNDpcIsKnOVJlcGxlbmlzaCBJXCIsMTU6XCLCpzdVcG9uIGJyZWFraW5nIGNyb3BzLCBuZXRoZXIgd2FydCxcIiwxNjpcIsKnN29yIGNvY29hLCBhdXRvbWF0aWNhbGx5IHJlcGxhbnQgZnJvbVwiLDE3Olwiwqc3bWF0ZXJpYWxzIGluIHlvdXIgaW52ZW50b3J5LlwiLDE4Olwiwqc5VHVyYm8tUG90YXRvIFZcIiwxOTpcIsKnN0dyYW50cyDCpzYrMjXimJggUG90YXRvIEZvcnR1bmXCpzcuXCIsMjA6XCLCpzdSZXF1aXJlcyDCp2ZTaWx2ZXIgwqc3aW4gYSDCp2FQb3RhdG8gQ29udGVzdMKnNyFcIiwyMTpcIlwiLDIyOlwiwqc3R2FpbiDCpzYrMjXimJggUG90YXRvIEZvcnR1bmUgwqc3YW5kIMKnMysz4pivXCIsMjM6XCLCpzNGYXJtaW5nIFdpc2RvbSDCpzdmb3IgcG90YXRvZXMuXCIsMjQ6XCJcIiwyNTpcIsKnN0NvdW50ZXI6IMKnZTEsOTY1LDYwOSBQb3RhdG9lc1wiLDI2OlwiXCIsMjc6XCLCpzZMb2dhcml0aG1pYyBDb3VudGVyXCIsMjg6XCLCpzdHYWluIMKnNisxNuKYmCBQb3RhdG8gRm9ydHVuZSDCpzdwZXIgZGlnaXRzXCIsMjk6XCLCpzdvbiB0aGUgQ291bnRlciwgbWludXMgNCFcIiwzMDpcIsKnN1lvdSBoYXZlIMKnNis0OOKYmCBQb3RhdG8gRm9ydHVuZcKnNy5cIiwzMTpcIlwiLDMyOlwiwqc3wqc4Qm9udXMgcG90YXRvZXMgcGVyY2VudCBpbmNyZWFzZXNcIiwzMzpcIsKnOHlvdXIgRmFybWhhbmQgcGVyaydzIGNoYW5jZXMuXCIsMzQ6XCJcIiwzNTpcIsKnZVJlYWNoIDEwTSBDb3VudGVyIGZvciArMSBSYXJpdHkhXCIsMzY6XCJcIiwzNzpcIsKnZVJpZ2h0LWNsaWNrIHRvIHZpZXcgcmVjaXBlcyFcIiwzODpcIlwiLDM5Olwiwqc5Qmxlc3NlZCBCb251c1wiLDQwOlwiwqc3R3JhbnRzIMKnNis54piYIEZhcm1pbmcgRm9ydHVuZSDCpzdhbmRcIiw0MTpcIsKnN8KnMysz4pivIEZhcm1pbmcgV2lzZG9twqc3LlwiLDQyOlwiXCIsNDM6XCLCpznCp2xSQVJFIEhPRVwiXSxOYW1lOlwiwqc5Qmxlc3NlZCBQeXRoYWdvcmVhbiBQb3RhdG8gSG9lXCJ9LEV4dHJhQXR0cmlidXRlczp7Z2Vtczp7dW5sb2NrZWRfc2xvdHM6WzA6XCJQRVJJRE9UXzBcIl0sUEVSSURPVF8wOlwiRklORVwifSxtb2RpZmllcjpcImJsZXNzZWRcIixtaW5lZF9jcm9wczoxOTY1ODY5TCxpZDpcIlRIRU9SRVRJQ0FMX0hPRV9QT1RBVE9fMlwiLGVuY2hhbnRtZW50czp7aGFydmVzdGluZzo2LHR1cmJvX3BvdGF0bzo1LGRlZGljYXRpb246MyxyZXBsZW5pc2g6MX0sdXVpZDpcIjE4NzFlMGI1LTg3ZmQtNDA1MS1hZjk4LWJhZmJiY2RkNDMxYVwiLHRpbWVzdGFtcDoxNzI0MTg2MjM3MzI5TH19IiwiZGFtYWdlIjowLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
+                  "SLUG": "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnN1tMdmwgMV0gwqc1U2x1ZyIsIm5idHRhZyI6IntTa3VsbE93bmVyOntJZDpcIjhjMDA5MjBkLTE5NTUtNGNkNy04Nzg0LWNjY2VmZDg2NTZjZVwiLGh5cGl4ZWxQb3B1bGF0ZWQ6MWIsUHJvcGVydGllczp7dGV4dHVyZXM6WzA6e1ZhbHVlOlwiZXdvZ0lDSjBhVzFsYzNSaGJYQWlJRG9nTVRZNU56UTNNRFEwTXpBNE1pd0tJQ0FpY0hKdlptbHNaVWxrSWlBNklDSmtPR05rTVROalpHUm1OR1UwWTJJek9ESm1ZV1ppWVdJd09HSXlOelE0T1NJc0NpQWdJbkJ5YjJacGJHVk9ZVzFsSWlBNklDSmFZV05vZVZwaFkyZ2lMQW9nSUNKemFXZHVZWFIxY21WU1pYRjFhWEpsWkNJZ09pQjBjblZsTEFvZ0lDSjBaWGgwZFhKbGN5SWdPaUI3Q2lBZ0lDQWlVMHRKVGlJZ09pQjdDaUFnSUNBZ0lDSjFjbXdpSURvZ0ltaDBkSEE2THk5MFpYaDBkWEpsY3k1dGFXNWxZM0poWm5RdWJtVjBMM1JsZUhSMWNtVXZOMkUzT1dRd1ptUTJOemRpTlRRMU16QTVOakV4TVRkbFpqZzBZV1JqTWpBMlpUSmpZelV3TkRWak1UTTBOR1EyTVdRM056WmlaamhoWXpKbVpURmlZU0lLSUNBZ0lIMEtJQ0I5Q24wXCJ9XX0sTmFtZTpcIsKnOGMwMDkyMGQtMTk1NS00Y2Q3LTg3ODQtY2NjZWZkODY1NmNlXCJ9LGRpc3BsYXk6e0xvcmU6WzA6XCLCpzhGYXJtaW5nIFBldFwiLDE6XCJcIiwyOlwiwqc3RGVmZW5zZTogwqdhKzAuMlwiLDM6XCLCpzdJbnRlbGxpZ2VuY2U6IMKnYSswLjI1XCIsNDpcIlwiLDU6XCLCpzZTbG93IGFuZCBTdGVhZHlcIiw2Olwiwqc3wqc3V2hlbiBmaXNoaW5nIGluIHRoZSDCp2NDcmltc29uIElzbGXCpzcsXCIsNzpcIsKnN8KnYVNsdWdmaXNoIMKnN3Rha2UgwqdhMSUgwqc3bGVzcyB0aW1lIHRvIGNhdGNoLlwiLDg6XCJcIiw5Olwiwqc2UGVzdCBGcmllbmRzXCIsMTA6XCLCpzfCpzfCpzdHcmFudHMgwqcyKzAuNOC1oCBCb251cyBQZXN0IENoYW5jZcKnNy5cIiwxMTpcIlwiLDEyOlwiwqc3UHJvZ3Jlc3MgdG8gTGV2ZWwgMjogwqdlMCVcIiwxMzpcIsKnZsKnbMKnbSAgICAgICAgICAgICAgICAgICAgICAgICDCp3IgwqdlMMKnNi/Cp2U0NDBcIiwxNDpcIlwiLDE1Olwiwqc3wqdlTGVmdC1jbGljayB0byBzdW1tb24hXCIsMTY6XCLCpzfCp2VTaGlmdCBMZWZ0LWNsaWNrIHRvIHRvZ2dsZSBhcyBmYXZvcml0ZSFcIiwxNzpcIsKnZVJpZ2h0LWNsaWNrIHRvIGNvbnZlcnQgdG8gYW4gaXRlbSFcIl0sTmFtZTpcIsKnN1tMdmwgMV0gwqc1U2x1Z1wifSxFeHRyYUF0dHJpYnV0ZXM6e3BldEluZm86XCJ7XFxcInR5cGVcXFwiOlxcXCJTTFVHXFxcIixcXFwiYWN0aXZlXFxcIjpmYWxzZSxcXFwiZXhwXFxcIjowLjAsXFxcInRpZXJcXFwiOlxcXCJFUElDXFxcIixcXFwiaGlkZUluZm9cXFwiOmZhbHNlLFxcXCJjYW5keVVzZWRcXFwiOjAsXFxcInV1aWRcXFwiOlxcXCJjMGFmYjA0MS1lNTRjLTQzMzktOTcyNS1iZjhiODYyOTE3NWFcXFwiLFxcXCJ1bmlxdWVJZFxcXCI6XFxcImVmNTYyOGExLTBiNWItNDdhYi05YWVkLTFmOTc5YWJhZDhkM1xcXCIsXFxcImhpZGVSaWdodENsaWNrXFxcIjpmYWxzZSxcXFwibm9Nb3ZlXFxcIjpmYWxzZX1cIixpZDpcIlBFVFwiLHV1aWQ6XCJjMGFmYjA0MS1lNTRjLTQzMzktOTcyNS1iZjhiODYyOTE3NWFcIn19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d"
                 }
               },
               "composterEmptyTime": 0,
@@ -4802,11 +5006,11 @@
                   }
                 }
               },
-              "activeVinyl": "PRETTY_FLY"
+              "activeVinyl": "DYNAMITES"
             },
             "ghostCounter": {
               "data": {
-                "SCAVENGERCOINS": 10.0,
+                "SCAVENGERCOINS": 40.0,
                 "KILLCOMBOCOINS": 0.0,
                 "KILLCOMBO": 0.0
               },
@@ -5207,27 +5411,27 @@
               },
               "powder": {
                 "GLACITE": {
-                  "available": 74438,
-                  "total": 1901897
+                  "available": 91877,
+                  "total": 1919336
                 },
                 "GEMSTONE": {
-                  "available": 83616,
-                  "total": 11293108
+                  "available": 201347,
+                  "total": 11410839
                 },
                 "MITHRIL": {
-                  "available": 46460,
-                  "total": 13255468
+                  "available": 67056,
+                  "total": 13276064
                 }
               },
               "tokens": 23,
               "availableTokens": 0,
               "mineshaft": {
-                "mineshaftTotalBlocks": 22489,
-                "mineshaftTotalCount": 73,
+                "mineshaftTotalBlocks": 26740,
+                "mineshaftTotalCount": 93,
                 "blocksBroken": [
                   {
                     "pityBlock": "GEMSTONE",
-                    "blocksBroken": 238,
+                    "blocksBroken": 74,
                     "efficientMiner": 0
                   }
                 ]
@@ -5256,6 +5460,10 @@
                 "F7": 24
               },
               "runs": [
+                {
+                  "floor": "M1",
+                  "openState": "UNOPENED"
+                },
                 {
                   "floor": "F7",
                   "openState": "UNOPENED"
@@ -5326,11 +5534,11 @@
             },
             "fishing": {
               "fishingProfitTracker": {
-                "totalCatchAmount": 40,
+                "totalCatchAmount": 78,
                 "items": {
                   "SKYBLOCK_COIN": {
-                    "timesGained": 40,
-                    "totalAmount": 3430787,
+                    "timesGained": 78,
+                    "totalAmount": 7159813,
                     "hidden": false
                   }
                 }
@@ -5365,60 +5573,60 @@
             "skillData": {
               "COMBAT": {
                 "level": 60,
-                "totalXp": 12558219,
-                "currentXp": 12558219,
+                "totalXp": 13701255,
+                "currentXp": 13701255,
                 "currentXpMax": 0,
                 "overflowLevel": 61,
-                "overflowCurrentXp": 4958219,
-                "overflowTotalXp": 12558219,
+                "overflowCurrentXp": 6101255,
+                "overflowTotalXp": 13701255,
                 "overflowCurrentXpMax": 8200000,
-                "lastGain": "12.3",
+                "lastGain": "11.1",
                 "customGoalLevel": 0
               },
               "CARPENTRY": {
                 "level": 50,
-                "totalXp": 26706016,
-                "currentXp": 26706016,
+                "totalXp": 29466495,
+                "currentXp": 29466495,
                 "currentXpMax": 0,
                 "overflowLevel": 55,
-                "overflowCurrentXp": 2206016,
-                "overflowTotalXp": 26706016,
+                "overflowCurrentXp": 4966495,
+                "overflowTotalXp": 29466495,
                 "overflowCurrentXpMax": 5800000,
-                "lastGain": "146,160",
+                "lastGain": "57,600",
                 "customGoalLevel": 0
               },
               "FARMING": {
                 "level": 60,
-                "totalXp": 55764111,
-                "currentXp": 55764111,
+                "totalXp": 56525420,
+                "currentXp": 56525420,
                 "currentXpMax": 0,
                 "overflowLevel": 66,
-                "overflowCurrentXp": 1164111,
-                "overflowTotalXp": 55764111,
+                "overflowCurrentXp": 1925420,
+                "overflowTotalXp": 56525420,
                 "overflowCurrentXpMax": 11200000,
-                "lastGain": "2,190",
+                "lastGain": "3.5",
                 "customGoalLevel": 0
               },
               "MINING": {
                 "level": 60,
-                "totalXp": 189166146,
-                "currentXp": 189166146,
+                "totalXp": 191292246,
+                "currentXp": 191292246,
                 "currentXpMax": 0,
                 "overflowLevel": 75,
-                "overflowCurrentXp": 6166146,
-                "overflowTotalXp": 189166146,
+                "overflowCurrentXp": 8292246,
+                "overflowTotalXp": 191292246,
                 "overflowCurrentXpMax": 19600000,
-                "lastGain": "123.2",
+                "lastGain": "218.4",
                 "customGoalLevel": 0
               },
               "FISHING": {
                 "level": 36,
-                "totalXp": 17376575,
-                "currentXp": 54150,
+                "totalXp": 18533454,
+                "currentXp": 1211029,
                 "currentXpMax": 1900000,
                 "overflowLevel": 36,
-                "overflowCurrentXp": 54150,
-                "overflowTotalXp": 17376575,
+                "overflowCurrentXp": 1211029,
+                "overflowTotalXp": 18533454,
                 "overflowCurrentXpMax": 1900000,
                 "lastGain": "172.2",
                 "customGoalLevel": 0
@@ -5437,12 +5645,12 @@
               },
               "ENCHANTING": {
                 "level": 60,
-                "totalXp": 299377364,
-                "currentXp": 299377364,
+                "totalXp": 304320436,
+                "currentXp": 304320436,
                 "currentXpMax": 0,
                 "overflowLevel": 80,
-                "overflowCurrentXp": 6377364,
-                "overflowTotalXp": 299377364,
+                "overflowCurrentXp": 11320436,
+                "overflowTotalXp": 304320436,
                 "overflowCurrentXpMax": 25600000,
                 "lastGain": "188,500",
                 "customGoalLevel": 0
@@ -5461,12 +5669,12 @@
               },
               "TAMING": {
                 "level": 53,
-                "totalXp": 306713465,
-                "currentXp": 237741040,
+                "totalXp": 311855108,
+                "currentXp": 242882683,
                 "currentXpMax": 5200000,
                 "overflowLevel": 53,
-                "overflowCurrentXp": 237741040,
-                "overflowTotalXp": 306713465,
+                "overflowCurrentXp": 242882683,
+                "overflowTotalXp": 311855108,
                 "overflowCurrentXpMax": 5200000,
                 "lastGain": "",
                 "customGoalLevel": 0
@@ -5478,9 +5686,9 @@
                   "id": 1,
                   "armor": [
                     "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6c2t1bGwiLCJkaXNwbGF5bmFtZSI6IsKnNk5lY3JvdGljIFdpdGhlciBHb2dnbGVzIMKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqiIsIm5idHRhZyI6IntlbmNoOlswOntsdmw6M3MsaWQ6NXN9LDE6e2x2bDoxcyxpZDo2c31dLEhpZGVGbGFnczoyNTQsU2t1bGxPd25lcjp7SWQ6XCJhNGJhYWJmZC01NjVhLTMzZjEtYTUyYi1iMTIwY2I3Yzc0OWJcIixQcm9wZXJ0aWVzOnt0ZXh0dXJlczpbMDp7VmFsdWU6XCJld29nSUNKMGFXMWxjM1JoYlhBaUlEb2dNVFl3TlRVME16TTBNVGc0TVN3S0lDQWljSEp2Wm1sc1pVbGtJaUE2SUNKaU1HUTBZakk0WW1NeFpEYzBPRGc1WVdZd1pUZzJOakZqWldVNU5tRmhZaUlzQ2lBZ0luQnliMlpwYkdWT1lXMWxJaUE2SUNKTmFXNWxVMnRwYmw5dmNtY2lMQW9nSUNKemFXZHVZWFIxY21WU1pYRjFhWEpsWkNJZ09pQjBjblZsTEFvZ0lDSjBaWGgwZFhKbGN5SWdPaUI3Q2lBZ0lDQWlVMHRKVGlJZ09pQjdDaUFnSUNBZ0lDSjFjbXdpSURvZ0ltaDBkSEE2THk5MFpYaDBkWEpsY3k1dGFXNWxZM0poWm5RdWJtVjBMM1JsZUhSMWNtVXZNemRqWldJNFpqQTNOVGhsTW1RNFlXTTBPV1JsTm1ZNU56YzJNRE5qTjJKbVl6SXpabVE0TW1FNE5UYzBPREV3WVRRMVpqVmxPVGRqTmpRek5tUTNPU0lLSUNBZ0lIMEtJQ0I5Q24wPVwifV19fSxkaXNwbGF5OntMb3JlOlswOlwiwqc3R2VhciBTY29yZTogwqdkNTY3IMKnOCgxNzQxKVwiLDE6XCLCpzdBYmlsaXR5IERhbWFnZTogwqdjKzQ5LjUlIMKnOCgrNjkuMyUpXCIsMjpcIsKnN0hlYWx0aDogwqdhKzEzMCDCp2UoKzQwKSDCpzgoKzQ3OS43KVwiLDM6XCLCpzdEZWZlbnNlOiDCp2ErNDAgwqdlKCsyMCkgwqc4KCsxNDcuNilcIiw0Olwiwqc3SW50ZWxsaWdlbmNlOiDCp2ErNDgwIMKnOSgrMTUwKSDCpzgoKzEsNjYwLjUpXCIsNTpcIsKnN0hlYWx0aCBSZWdlbjogwqdhKzEwIMKnOCgrMzYuOSlcIiw2OlwiXCIsNzpcIsKnZMKnbMKnZMKnbFdpc2RvbSBWwqc5LCDCpzlBcXVhIEFmZmluaXR5IEnCpzksIMKnOUdyb3d0aCBWXCIsODpcIsKnOUhlY2F0b21iIFbCpzksIMKnOVByb3RlY3Rpb24gVsKnOSwgwqc5UmVqdXZlbmF0ZSBWXCIsOTpcIsKnOVJlc3BpcmF0aW9uIElJScKnOSwgwqc5VGhvcm5zIElJSVwiLDEwOlwiXCIsMTE6XCLCpzbCp2zCp2thwqdyIMKnNsKnbMKnNsKnbExFR0VOREFSWSBEVU5HRU9OIEhFTE1FVCDCpzbCp2zCp2thXCJdLE5hbWU6XCLCpzZOZWNyb3RpYyBXaXRoZXIgR29nZ2xlcyDCpzbinKrCpzbinKrCpzbinKrCpzbinKrCpzbinKpcIn0sRXh0cmFBdHRyaWJ1dGVzOntyYXJpdHlfdXBncmFkZXM6MSxob3RfcG90YXRvX2NvdW50OjEwLGhlY2F0b21iX3NfcnVuczoyNyxtb2RpZmllcjpcIm5lY3JvdGljXCIsdXBncmFkZV9sZXZlbDo1LGlkOlwiV0lUSEVSX0dPR0dMRVNcIixlbmNoYW50bWVudHM6e3VsdGltYXRlX3dpc2RvbTo1LHRob3JuczozLGhlY2F0b21iOjUscmVqdXZlbmF0ZTo1LHJlc3BpcmF0aW9uOjMsZ3Jvd3RoOjUscHJvdGVjdGlvbjo1LGFxdWFfYWZmaW5pdHk6MX0sdXVpZDpcImQyZWQ3MjcxLWZlOGEtNDM3Yi04MDY1LTQ5NjExMTc2ZTM1MVwiLHRpbWVzdGFtcDoxNjc0Mjg1NzIwMDAwTH19IiwiZGFtYWdlIjozLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
-                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6bGVhdGhlcl9jaGVzdHBsYXRlIiwiZGlzcGxheW5hbWUiOiLCp2RMb3ZpbmcgU3Rvcm0ncyBDaGVzdHBsYXRlIMKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqiIsIm5idHRhZyI6IntVbmJyZWFrYWJsZToxYixIaWRlRmxhZ3M6MjU0LGRpc3BsYXk6e0xvcmU6WzA6XCLCpzdHZWFyIFNjb3JlOiDCp2QxMDMwIMKnOCgzNDgxKVwiLDE6XCLCpzdIZWFsdGg6IMKnYSs0MTUgwqdlKCs0MCkgwqc5KCsxNCkgwqc4KCsxLDQzNS40MSlcIiwyOlwiwqc3RGVmZW5zZTogwqdhKzE4NiDCp2UoKzIwKSDCpzkoKzE0KSDCpzgoKzY0Mi4wNilcIiwzOlwiwqc3SW50ZWxsaWdlbmNlOiDCp2ErNDE5IMKnOSgrMTIwKSDCp2QoKzI0KSDCpzgoKzEsNDUzLjg2KVwiLDQ6XCLCpzdUcnVlIERlZmVuc2U6IMKnYSs1IMKnOCgrNy43KVwiLDU6XCLCpzdIZWFsdGggUmVnZW46IMKnYSsxMCDCpzgoKzM2LjkpXCIsNjpcIiDCpzlbwqdi4pyOwqc5XSDCpzlbwqdi4pqUwqc5XVwiLDc6XCJcIiw4OlwiwqdkwqdswqdkwqdsV2lzZG9tIFbCpzksIMKnOUdyb3d0aCBWwqc5LCDCpzlQcm90ZWN0aW9uIFZcIiw5Olwiwqc5UmVqdXZlbmF0ZSBWwqc5LCDCpzlUaG9ybnMgSUlJwqc5LCDCpzlUcnVlIFByb3RlY3Rpb24gSVwiLDEwOlwiXCIsMTE6XCLCpzdSZWR1Y2VzIHRoZSBkYW1hZ2UgeW91IHRha2UgZnJvbVwiLDEyOlwiwqc3d2l0aGVycyBieSDCp2MxMCXCpzcuXCIsMTM6XCJcIiwxNDpcIsKnNkZ1bGwgU2V0IEJvbnVzOiBXaXRoZXJib3JuIMKnNygyLzQpXCIsMTU6XCLCpzdTcGF3bnMgYSB3aXRoZXIgbWluaW9uIGV2ZXJ5IMKnZTMwXCIsMTY6XCLCp2XCpzdzZWNvbmRzIHVwIHRvIGEgbWF4aW11bSDCp2ExIMKnN3dpdGhlci5cIiwxNzpcIsKnN1lvdXIgd2l0aGVycyB3aWxsIHRyYXZlbCB0byBhbmRcIiwxODpcIsKnN2V4cGxvZGUgb24gbmVhcmJ5IGVuZW1pZXMuXCIsMTk6XCJcIiwyMDpcIsKnOUxvdmluZyBCb251c1wiLDIxOlwiwqc3SW5jcmVhc2VzIGFiaWxpdHkgZGFtYWdlIGJ5IMKnYTUlwqc3LlwiLDIyOlwiXCIsMjM6XCLCp2TCp2zCp2thwqdyIMKnZMKnbMKnZMKnbE1ZVEhJQyBEVU5HRU9OIENIRVNUUExBVEUgwqdkwqdswqdrYVwiXSxjb2xvcjoxNTQ1MTU2LE5hbWU6XCLCp2RMb3ZpbmcgU3Rvcm0ncyBDaGVzdHBsYXRlIMKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqlwifSxFeHRyYUF0dHJpYnV0ZXM6e3Jhcml0eV91cGdyYWRlczoxLGhvdF9wb3RhdG9fY291bnQ6MTAsZ2Vtczp7SkFTUEVSXzA6XCJGSU5FXCIsQ09NQkFUXzA6XCJGSU5FXCIsQ09NQkFUXzBfZ2VtOlwiU0FQUEhJUkVcIixTQVBQSElSRV8wOlwiRklORVwifSxtb2RpZmllcjpcImxvdmluZ1wiLGR1bmdlb25faXRlbV9sZXZlbDo1LG9yaWdpblRhZzpcIlBPV0VSX1dJVEhFUl9DSEVTVFBMQVRFXCIsaWQ6XCJXSVNFX1dJVEhFUl9DSEVTVFBMQVRFXCIsZW5jaGFudG1lbnRzOnt1bHRpbWF0ZV93aXNkb206NSx0aG9ybnM6Myx0cnVlX3Byb3RlY3Rpb246MSxyZWp1dmVuYXRlOjUscHJvdGVjdGlvbjo1LGdyb3d0aDo1fSx1dWlkOlwiZGYxYTk3NWYtMWY2ZS00MjFiLTkwMjItNzZiMjNiMTZhNGMyXCIsdGltZXN0YW1wOjE2MTk3MjIyMDAwMDBMfX0iLCJkYW1hZ2UiOjAsImludGVybmFsbmFtZSI6Il8ifQ\u003d\u003d",
-                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6bGVhdGhlcl9sZWdnaW5ncyIsImRpc3BsYXluYW1lIjoiwqdkTmVjcm90aWMgU3Rvcm0ncyBMZWdnaW5ncyDCpzbinKrCpzbinKrCpzbinKrCpzbinKrCpzbinKoiLCJuYnR0YWciOiJ7VW5icmVha2FibGU6MWIsSGlkZUZsYWdzOjI1NCxkaXNwbGF5OntMb3JlOlswOlwiwqc3R2VhciBTY29yZTogwqdkOTYwIMKnOCgzMjQ5KVwiLDE6XCLCpzdIZWFsdGg6IMKnYSszNjggwqdlKCs0MCkgwqc4KCsxLDI3My4wNSlcIiwyOlwiwqc3RGVmZW5zZTogwqdhKzE1NS41IMKnZSgrMjApIMKnOCgrNTM1LjA1KVwiLDM6XCLCpzdJbnRlbGxpZ2VuY2U6IMKnYSs0OTkgwqc5KCsyMDApIMKnZCgrMjQpIMKnOCgrMSw3NDkuMDYpXCIsNDpcIsKnN0hlYWx0aCBSZWdlbjogwqdhKzEwIMKnOCgrMzYuOSlcIiw1OlwiIMKnOVvCp2LinI7CpzldIMKnOVvCp2LimpTCpzldXCIsNjpcIlwiLDc6XCLCp2TCp2zCp2TCp2xXaXNkb20gVsKnOSwgwqc5R3Jvd3RoIFbCpzksIMKnOVByb3RlY3Rpb24gVlwiLDg6XCLCpzlSZWp1dmVuYXRlIFbCpzksIMKnOVRob3JucyBJSUlcIiw5OlwiXCIsMTA6XCLCpzdSZWR1Y2VzIHRoZSBkYW1hZ2UgeW91IHRha2UgZnJvbVwiLDExOlwiwqc3d2l0aGVycyBieSDCp2MxMCXCpzcuXCIsMTI6XCJcIiwxMzpcIsKnNkZ1bGwgU2V0IEJvbnVzOiBXaXRoZXJib3JuIMKnNygyLzQpXCIsMTQ6XCLCpzdTcGF3bnMgYSB3aXRoZXIgbWluaW9uIGV2ZXJ5IMKnZTMwXCIsMTU6XCLCp2XCpzdzZWNvbmRzIHVwIHRvIGEgbWF4aW11bSDCp2ExIMKnN3dpdGhlci5cIiwxNjpcIsKnN1lvdXIgd2l0aGVycyB3aWxsIHRyYXZlbCB0byBhbmRcIiwxNzpcIsKnN2V4cGxvZGUgb24gbmVhcmJ5IGVuZW1pZXMuXCIsMTg6XCJcIiwxOTpcIsKnZMKnbMKna2HCp3IgwqdkwqdswqdkwqdsTVlUSElDIERVTkdFT04gTEVHR0lOR1MgwqdkwqdswqdrYVwiXSxjb2xvcjoxNTUwNTMyLE5hbWU6XCLCp2ROZWNyb3RpYyBTdG9ybSdzIExlZ2dpbmdzIMKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqlwifSxFeHRyYUF0dHJpYnV0ZXM6e3Jhcml0eV91cGdyYWRlczoxLGhvdF9wb3RhdG9fY291bnQ6MTAsZ2Vtczp7Q09NQkFUXzA6XCJGSU5FXCIsQ09NQkFUXzBfZ2VtOlwiU0FQUEhJUkVcIixTQVBQSElSRV8wOlwiRklORVwifSxtb2RpZmllcjpcIm5lY3JvdGljXCIsZHVuZ2Vvbl9pdGVtX2xldmVsOjUsb3JpZ2luVGFnOlwiUE9XRVJfV0lUSEVSX0xFR0dJTkdTXCIsaWQ6XCJXSVNFX1dJVEhFUl9MRUdHSU5HU1wiLGVuY2hhbnRtZW50czp7dWx0aW1hdGVfd2lzZG9tOjUsdGhvcm5zOjMscmVqdXZlbmF0ZTo1LGdyb3d0aDo1LHByb3RlY3Rpb246NX0sdXVpZDpcImU3MDFlZGNhLWZmYWQtNGJjYi1hMWZkLTc5Yzk2MDY4NDkwNlwiLHRpbWVzdGFtcDoxNjE4NjgzNTQwMDAwTH19IiwiZGFtYWdlIjowLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
-                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6bGVhdGhlcl9ib290cyIsImRpc3BsYXluYW1lIjoiwqdkTmVjcm90aWMgTWF4b3IncyBCb290cyDCpzbinKrCpzbinKrCpzbinKrCpzbinKrCpzbinKoiLCJuYnR0YWciOiJ7ZW5jaDpbMDp7bHZsOjNzLGlkOjhzfV0sVW5icmVha2FibGU6MWIsSGlkZUZsYWdzOjI1NCxkaXNwbGF5OntMb3JlOlswOlwiwqc3R2VhciBTY29yZTogwqdkNzQ3IMKnOCgyNDk5KVwiLDE6XCLCpzdDcml0IERhbWFnZTogwqdjKzQ5LjUlIMKnOCgrMTY2LjA1JSlcIiwyOlwiwqc3SGVhbHRoOiDCp2ErMjk0LjUgwqdlKCs2MCkgwqc4KCsxLDAzMy4yKVwiLDM6XCLCpzdEZWZlbnNlOiDCp2ErMTIxLjUgwqdlKCszMCkgwqc4KCs0MjQuMzUpXCIsNDpcIsKnN1NwZWVkOiDCp2ErMzkgwqc4KCsxMzIuODQpXCIsNTpcIsKnN0ludGVsbGlnZW5jZTogwqdhKzIzNSDCpzkoKzIwMCkgwqdkKCsyNCkgwqc4KCs4NjMuNDYpXCIsNjpcIsKnN0hlYWx0aCBSZWdlbjogwqdhKzEwIMKnOCgrMzYuOSlcIiw3OlwiIMKnOVvCp2LimpTCpzldIMKnOVvCp2LimpTCpzldXCIsODpcIlwiLDk6XCLCp2TCp2zCp2TCp2xXaXNkb20gVsKnOSwgwqc5RGVwdGggU3RyaWRlciBJSUnCpzksIMKnOUZlYXRoZXIgRmFsbGluZyBYXCIsMTA6XCLCpzlHcm93dGggVsKnOSwgwqc5UHJvdGVjdGlvbiBWwqc5LCDCpzlSZWp1dmVuYXRlIFZcIiwxMTpcIsKnOVN1Z2FyIFJ1c2ggSUlJwqc5LCDCpzlUaG9ybnMgSUlJXCIsMTI6XCJcIiwxMzpcIsKnN1JlZHVjZXMgdGhlIGRhbWFnZSB5b3UgdGFrZSBmcm9tXCIsMTQ6XCLCpzd3aXRoZXJzIGJ5IMKnYzEwJSDCpzdhbmQgaW5jcmVhc2VzIHlvdXJcIiwxNTpcIsKnN2Fycm93IGRhbWFnZSBieSDCp2M1JcKnNy5cIiwxNjpcIlwiLDE3Olwiwqc2RnVsbCBTZXQgQm9udXM6IFdpdGhlcmJvcm4gwqc3KDEvNClcIiwxODpcIsKnN1NwYXducyBhIHdpdGhlciBtaW5pb24gZXZlcnkgwqdlMzBcIiwxOTpcIsKnZcKnN3NlY29uZHMgdXAgdG8gYSBtYXhpbXVtIMKnYTEgwqc3d2l0aGVyLlwiLDIwOlwiwqc3WW91ciB3aXRoZXJzIHdpbGwgdHJhdmVsIHRvIGFuZFwiLDIxOlwiwqc3ZXhwbG9kZSBvbiBuZWFyYnkgZW5lbWllcy5cIiwyMjpcIlwiLDIzOlwiwqdkwqdswqdrYcKnciDCp2TCp2zCp2TCp2xNWVRISUMgRFVOR0VPTiBCT09UUyDCp2TCp2zCp2thXCJdLGNvbG9yOjkwMDU1MTIsTmFtZTpcIsKnZE5lY3JvdGljIE1heG9yJ3MgQm9vdHMgwqc24pyqwqc24pyqwqc24pyqwqc24pyqwqc24pyqXCJ9LEV4dHJhQXR0cmlidXRlczp7cmFyaXR5X3VwZ3JhZGVzOjEsaG90X3BvdGF0b19jb3VudDoxNSxnZW1zOntDT01CQVRfMDpcIkZJTkVcIixDT01CQVRfMV9nZW06XCJTQVBQSElSRVwiLENPTUJBVF8wX2dlbTpcIlNBUFBISVJFXCIsQ09NQkFUXzE6XCJGSU5FXCJ9LG1vZGlmaWVyOlwibmVjcm90aWNcIixkdW5nZW9uX2l0ZW1fbGV2ZWw6NSxvcmlnaW5UYWc6XCJQT1dFUl9XSVRIRVJfQk9PVFNcIixpZDpcIlNQRUVEX1dJVEhFUl9CT09UU1wiLGVuY2hhbnRtZW50czp7ZGVwdGhfc3RyaWRlcjozLHVsdGltYXRlX3dpc2RvbTo1LHN1Z2FyX3J1c2g6Myx0aG9ybnM6MyxyZWp1dmVuYXRlOjUsZmVhdGhlcl9mYWxsaW5nOjEwLGdyb3d0aDo1LHByb3RlY3Rpb246NX0sdXVpZDpcIjc5YzQyNGJiLTJmMzgtNDdjZS1hMjIxLTM4OGQxZmM5NDNmY1wiLHRpbWVzdGFtcDoxNjIxNzExNjgwMDAwTH19IiwiZGFtYWdlIjowLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d"
+                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6bGVhdGhlcl9jaGVzdHBsYXRlIiwiZGlzcGxheW5hbWUiOiLCp2RMb3ZpbmcgU3Rvcm0ncyBDaGVzdHBsYXRlIMKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqiIsIm5idHRhZyI6IntVbmJyZWFrYWJsZToxYixIaWRlRmxhZ3M6MjU0LGRpc3BsYXk6e0xvcmU6WzA6XCLCpzdHZWFyIFNjb3JlOiDCp2QxMDMwIMKnOCgzNDgxKVwiLDE6XCLCpzdIZWFsdGg6IMKnYSs0MTUgwqdlKCs0MCkgwqc5KCsxNCkgwqc4KCsxLDQzNS40MSlcIiwyOlwiwqc3RGVmZW5zZTogwqdhKzE4NiDCp2UoKzIwKSDCpzkoKzE0KSDCpzgoKzY0Mi4wNilcIiwzOlwiwqc3SW50ZWxsaWdlbmNlOiDCp2ErNDE5IMKnOSgrMTIwKSDCp2QoKzI0KSDCpzgoKzEsNDUzLjg2KVwiLDQ6XCLCpzdUcnVlIERlZmVuc2U6IMKnYSs1IMKnOCgrNy43KVwiLDU6XCLCpzdIZWFsdGggUmVnZW46IMKnYSsxMCDCpzgoKzM2LjkpXCIsNjpcIiDCpzlbwqdi4pyOwqc5XSDCpzlbwqdi4pqUwqc5XVwiLDc6XCJcIiw4OlwiwqdkwqdswqdkwqdsV2lzZG9tIFbCpzksIMKnOUdyb3d0aCBWwqc5LCDCpzlQcm90ZWN0aW9uIFZcIiw5Olwiwqc5UmVqdXZlbmF0ZSBWwqc5LCDCpzlUaG9ybnMgSUlJwqc5LCDCpzlUcnVlIFByb3RlY3Rpb24gSVwiLDEwOlwiXCIsMTE6XCLCpzdSZWR1Y2VzIHRoZSBkYW1hZ2UgeW91IHRha2UgZnJvbVwiLDEyOlwiwqc3d2l0aGVycyBieSDCp2MxMCXCpzcuXCIsMTM6XCJcIiwxNDpcIsKnNkZ1bGwgU2V0IEJvbnVzOiBXaXRoZXJib3JuIMKnNygzLzQpXCIsMTU6XCLCpzdTcGF3bnMgYSB3aXRoZXIgbWluaW9uIGV2ZXJ5IMKnZTMwXCIsMTY6XCLCp2XCpzdzZWNvbmRzIHVwIHRvIGEgbWF4aW11bSDCp2ExIMKnN3dpdGhlci5cIiwxNzpcIsKnN1lvdXIgd2l0aGVycyB3aWxsIHRyYXZlbCB0byBhbmRcIiwxODpcIsKnN2V4cGxvZGUgb24gbmVhcmJ5IGVuZW1pZXMuXCIsMTk6XCJcIiwyMDpcIsKnOUxvdmluZyBCb251c1wiLDIxOlwiwqc3SW5jcmVhc2VzIGFiaWxpdHkgZGFtYWdlIGJ5IMKnYTUlwqc3LlwiLDIyOlwiXCIsMjM6XCLCp2TCp2zCp2thwqdyIMKnZMKnbMKnZMKnbE1ZVEhJQyBEVU5HRU9OIENIRVNUUExBVEUgwqdkwqdswqdrYVwiXSxjb2xvcjoxNTQ1MTU2LE5hbWU6XCLCp2RMb3ZpbmcgU3Rvcm0ncyBDaGVzdHBsYXRlIMKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqlwifSxFeHRyYUF0dHJpYnV0ZXM6e3Jhcml0eV91cGdyYWRlczoxLGhvdF9wb3RhdG9fY291bnQ6MTAsZ2Vtczp7SkFTUEVSXzA6XCJGSU5FXCIsQ09NQkFUXzA6XCJGSU5FXCIsQ09NQkFUXzBfZ2VtOlwiU0FQUEhJUkVcIixTQVBQSElSRV8wOlwiRklORVwifSxtb2RpZmllcjpcImxvdmluZ1wiLGR1bmdlb25faXRlbV9sZXZlbDo1LG9yaWdpblRhZzpcIlBPV0VSX1dJVEhFUl9DSEVTVFBMQVRFXCIsaWQ6XCJXSVNFX1dJVEhFUl9DSEVTVFBMQVRFXCIsZW5jaGFudG1lbnRzOnt1bHRpbWF0ZV93aXNkb206NSx0aG9ybnM6Myx0cnVlX3Byb3RlY3Rpb246MSxyZWp1dmVuYXRlOjUscHJvdGVjdGlvbjo1LGdyb3d0aDo1fSx1dWlkOlwiZGYxYTk3NWYtMWY2ZS00MjFiLTkwMjItNzZiMjNiMTZhNGMyXCIsdGltZXN0YW1wOjE2MTk3MjIyMDAwMDBMfX0iLCJkYW1hZ2UiOjAsImludGVybmFsbmFtZSI6Il8ifQ\u003d\u003d",
+                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6bGVhdGhlcl9sZWdnaW5ncyIsImRpc3BsYXluYW1lIjoiwqdkTmVjcm90aWMgU3Rvcm0ncyBMZWdnaW5ncyDCpzbinKrCpzbinKrCpzbinKrCpzbinKrCpzbinKoiLCJuYnR0YWciOiJ7VW5icmVha2FibGU6MWIsSGlkZUZsYWdzOjI1NCxkaXNwbGF5OntMb3JlOlswOlwiwqc3R2VhciBTY29yZTogwqdkOTYwIMKnOCgzMjQ5KVwiLDE6XCLCpzdIZWFsdGg6IMKnYSszNjggwqdlKCs0MCkgwqc4KCsxLDI3My4wNSlcIiwyOlwiwqc3RGVmZW5zZTogwqdhKzE1NS41IMKnZSgrMjApIMKnOCgrNTM1LjA1KVwiLDM6XCLCpzdJbnRlbGxpZ2VuY2U6IMKnYSs0OTkgwqc5KCsyMDApIMKnZCgrMjQpIMKnOCgrMSw3NDkuMDYpXCIsNDpcIsKnN0hlYWx0aCBSZWdlbjogwqdhKzEwIMKnOCgrMzYuOSlcIiw1OlwiIMKnOVvCp2LinI7CpzldIMKnOVvCp2LimpTCpzldXCIsNjpcIlwiLDc6XCLCp2TCp2zCp2TCp2xXaXNkb20gVsKnOSwgwqc5R3Jvd3RoIFbCpzksIMKnOVByb3RlY3Rpb24gVlwiLDg6XCLCpzlSZWp1dmVuYXRlIFbCpzksIMKnOVRob3JucyBJSUlcIiw5OlwiXCIsMTA6XCLCpzdSZWR1Y2VzIHRoZSBkYW1hZ2UgeW91IHRha2UgZnJvbVwiLDExOlwiwqc3d2l0aGVycyBieSDCp2MxMCXCpzcuXCIsMTI6XCJcIiwxMzpcIsKnNkZ1bGwgU2V0IEJvbnVzOiBXaXRoZXJib3JuIMKnNygzLzQpXCIsMTQ6XCLCpzdTcGF3bnMgYSB3aXRoZXIgbWluaW9uIGV2ZXJ5IMKnZTMwXCIsMTU6XCLCp2XCpzdzZWNvbmRzIHVwIHRvIGEgbWF4aW11bSDCp2ExIMKnN3dpdGhlci5cIiwxNjpcIsKnN1lvdXIgd2l0aGVycyB3aWxsIHRyYXZlbCB0byBhbmRcIiwxNzpcIsKnN2V4cGxvZGUgb24gbmVhcmJ5IGVuZW1pZXMuXCIsMTg6XCJcIiwxOTpcIsKnZMKnbMKna2HCp3IgwqdkwqdswqdkwqdsTVlUSElDIERVTkdFT04gTEVHR0lOR1MgwqdkwqdswqdrYVwiXSxjb2xvcjoxNTUwNTMyLE5hbWU6XCLCp2ROZWNyb3RpYyBTdG9ybSdzIExlZ2dpbmdzIMKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqlwifSxFeHRyYUF0dHJpYnV0ZXM6e3Jhcml0eV91cGdyYWRlczoxLGhvdF9wb3RhdG9fY291bnQ6MTAsZ2Vtczp7Q09NQkFUXzA6XCJGSU5FXCIsQ09NQkFUXzBfZ2VtOlwiU0FQUEhJUkVcIixTQVBQSElSRV8wOlwiRklORVwifSxtb2RpZmllcjpcIm5lY3JvdGljXCIsZHVuZ2Vvbl9pdGVtX2xldmVsOjUsb3JpZ2luVGFnOlwiUE9XRVJfV0lUSEVSX0xFR0dJTkdTXCIsaWQ6XCJXSVNFX1dJVEhFUl9MRUdHSU5HU1wiLGVuY2hhbnRtZW50czp7dWx0aW1hdGVfd2lzZG9tOjUsdGhvcm5zOjMscmVqdXZlbmF0ZTo1LGdyb3d0aDo1LHByb3RlY3Rpb246NX0sdXVpZDpcImU3MDFlZGNhLWZmYWQtNGJjYi1hMWZkLTc5Yzk2MDY4NDkwNlwiLHRpbWVzdGFtcDoxNjE4NjgzNTQwMDAwTH19IiwiZGFtYWdlIjowLCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
+                    "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6bGVhdGhlcl9ib290cyIsImRpc3BsYXluYW1lIjoiwqdkTmVjcm90aWMgU3Rvcm0ncyBCb290cyDCpzbinKrCpzbinKrCpzbinKrCpzbinKrCpzbinKoiLCJuYnR0YWciOiJ7ZW5jaDpbMDp7bHZsOjNzLGlkOjhzfV0sVW5icmVha2FibGU6MWIsSGlkZUZsYWdzOjI1NCxkaXNwbGF5OntMb3JlOlswOlwiwqc3R2VhciBTY29yZTogwqdkODQwIMKnOCgyODA5KVwiLDE6XCLCpzdIZWFsdGg6IMKnYSsyOTQuNSDCp2UoKzYwKSDCpzgoKzEsMDMzLjIpXCIsMjpcIsKnN0RlZmVuc2U6IMKnYSsxMjEuNSDCp2UoKzMwKSDCpzgoKzQyNC4zNSlcIiwzOlwiwqc3U3BlZWQ6IMKnYSs2IMKnOCgrMjIuMTQpXCIsNDpcIsKnN0ludGVsbGlnZW5jZTogwqdhKzQ5OSDCpzkoKzIwMCkgwqdkKCsyNCkgwqc4KCsxLDc0OS4wNilcIiw1Olwiwqc3SGVhbHRoIFJlZ2VuOiDCp2ErMTAgwqc4KCszNi45KVwiLDY6XCIgwqc5W8KnYuKcjsKnOV0gwqc5W8KnYuKalMKnOV1cIiw3OlwiXCIsODpcIsKnZMKnbMKnZMKnbFdpc2RvbSBWwqc5LCDCpzlEZXB0aCBTdHJpZGVyIElJScKnOSwgwqc5RmVhdGhlciBGYWxsaW5nIFhcIiw5Olwiwqc5R3Jvd3RoIFbCpzksIMKnOVByb3RlY3Rpb24gVsKnOSwgwqc5UmVqdXZlbmF0ZSBWXCIsMTA6XCLCpzlTdWdhciBSdXNoIElJScKnOSwgwqc5VGhvcm5zIElJSVwiLDExOlwiXCIsMTI6XCLCpzdSZWR1Y2VzIHRoZSBkYW1hZ2UgeW91IHRha2UgZnJvbVwiLDEzOlwiwqc3d2l0aGVycyBieSDCp2MxMCXCpzcuXCIsMTQ6XCJcIiwxNTpcIsKnNkZ1bGwgU2V0IEJvbnVzOiBXaXRoZXJib3JuIMKnNygzLzQpXCIsMTY6XCLCpzdTcGF3bnMgYSB3aXRoZXIgbWluaW9uIGV2ZXJ5IMKnZTMwXCIsMTc6XCLCp2XCpzdzZWNvbmRzIHVwIHRvIGEgbWF4aW11bSDCp2ExIMKnN3dpdGhlci5cIiwxODpcIsKnN1lvdXIgd2l0aGVycyB3aWxsIHRyYXZlbCB0byBhbmRcIiwxOTpcIsKnN2V4cGxvZGUgb24gbmVhcmJ5IGVuZW1pZXMuXCIsMjA6XCJcIiwyMTpcIsKnZMKnbMKna2HCp3IgwqdkwqdswqdkwqdsTVlUSElDIERVTkdFT04gQk9PVFMgwqdkwqdswqdrYVwiXSxjb2xvcjoxODg5NTA4LE5hbWU6XCLCp2ROZWNyb3RpYyBTdG9ybSdzIEJvb3RzIMKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqsKnNuKcqlwifSxFeHRyYUF0dHJpYnV0ZXM6e3Jhcml0eV91cGdyYWRlczoxLGhvdF9wb3RhdG9fY291bnQ6MTUsZ2Vtczp7Q09NQkFUXzA6XCJGSU5FXCIsQ09NQkFUXzFfZ2VtOlwiU0FQUEhJUkVcIixDT01CQVRfMTpcIkZJTkVcIixDT01CQVRfMF9nZW06XCJTQVBQSElSRVwiLFNBUFBISVJFXzA6XCJGSU5FXCJ9LG1vZGlmaWVyOlwibmVjcm90aWNcIixkdW5nZW9uX2l0ZW1fbGV2ZWw6NSxvcmlnaW5UYWc6XCJQT1dFUl9XSVRIRVJfQk9PVFNcIixpZDpcIldJU0VfV0lUSEVSX0JPT1RTXCIsZW5jaGFudG1lbnRzOntkZXB0aF9zdHJpZGVyOjMsdWx0aW1hdGVfd2lzZG9tOjUsc3VnYXJfcnVzaDozLHRob3JuczozLHJlanV2ZW5hdGU6NSxmZWF0aGVyX2ZhbGxpbmc6MTAsZ3Jvd3RoOjUscHJvdGVjdGlvbjo1fSx1dWlkOlwiNzljNDI0YmItMmYzOC00N2NlLWEyMjEtMzg4ZDFmYzk0M2ZjXCIsdGltZXN0YW1wOjE2MjE3MTE2ODAwMDBMfX0iLCJkYW1hZ2UiOjAsImludGVybmFsbmFtZSI6Il8ifQ\u003d\u003d"
                   ],
                   "locked": false,
                   "favorite": false
@@ -5719,6 +5927,40 @@
                 "dupeChocolateGained": 7266884,
                 "strayChocolateGained": 0,
                 "millisInCf": 146993,
+                "summarized": true
+              },
+              "373": {
+                "mealsFound": {
+                  "BREAKFAST": 26,
+                  "CHOCOLATE_SHOP_MILESTONE": 1,
+                  "LUNCH": 25,
+                  "DINNER": 28
+                },
+                "rabbitsFound": {
+                  "COMMON": {
+                    "uniques": 40,
+                    "dupes": 3,
+                    "strays": 0
+                  },
+                  "EPIC": {
+                    "uniques": 7,
+                    "dupes": 0,
+                    "strays": 0
+                  },
+                  "UNCOMMON": {
+                    "uniques": 15,
+                    "dupes": 5,
+                    "strays": 0
+                  },
+                  "RARE": {
+                    "uniques": 10,
+                    "dupes": 0,
+                    "strays": 0
+                  }
+                },
+                "dupeChocolateGained": 28073335,
+                "strayChocolateGained": 0,
+                "millisInCf": 4254975,
                 "summarized": true
               }
             }
@@ -6018,17 +6260,17 @@
         },
         "useRomanNumerals": true,
         "multipleProfiles": true,
-        "gardenCommunityUpgrade": 3,
+        "gardenCommunityUpgrade": 4,
         "nextCityProjectParticipationTime": 0,
         "communityShopAccountUpgrade": {
-          "name": "§dGarden Farming Fortune IV",
-          "completionTime": 1726488549990
+          "name": "§dGarden Farming Fortune V",
+          "completionTime": 1727526554545
         },
         "guildMembers": [],
         "winter": {
           "playersThatHaveBeenGifted": [],
           "amountGifted": 0,
-          "cakeCollectedYear": 371
+          "cakeCollectedYear": 372
         },
         "bingoSessions": {
           "1722470400": {
@@ -6419,7 +6661,7 @@
           }
         },
         "limbo": {
-          "playtime": 13840,
+          "playtime": 13845,
           "personalBest": 3141,
           "userLuck": 2.54
         }

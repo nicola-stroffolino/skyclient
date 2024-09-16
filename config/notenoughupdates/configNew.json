@@ -739,49 +739,46 @@
     "customTodos": [],
     "profileSpecific": {
       "Pineapple": {
-        "godPotionDuration": 86400000,
+        "godPotionDuration": 4320000,
         "puzzlerCompleted": 1725402754384,
-        "firstCakeAte": 1726208329807,
+        "firstCakeAte": 1726396992489,
         "fetchurCompleted": 1724364065725,
         "commissionsCompleted": 0,
-        "lastFreeRiftInfusionApplied": 1726090289474,
-        "experimentsCompleted": 1726227610375,
-        "cookieBuffRemaining": 1726572312869,
+        "lastFreeRiftInfusionApplied": 1726427900308,
+        "experimentsCompleted": 1726496471635,
+        "cookieBuffRemaining": 1727609118578,
         "forgeItems": [
           {
-            "itemName": "Drill Engine",
-            "finishTime": 1726302237655,
+            "itemName": "Sapphire-Polished Drill Engine",
+            "finishTime": 1726505646216,
             "status": 2,
             "forgeID": 0,
             "fromScoreBoard": false
           },
           {
-            "itemName": "Drill Engine",
-            "finishTime": 1726302239655,
+            "itemName": "Mithril-Plated Drill Engine",
+            "finishTime": 1726518920216,
             "status": 2,
             "forgeID": 1,
             "fromScoreBoard": false
           },
           {
-            "itemName": "Drill Engine",
-            "finishTime": 1726302243655,
-            "status": 2,
+            "finishTime": 0,
+            "status": 0,
             "forgeID": 2,
-            "fromScoreBoard": false
+            "fromScoreBoard": true
           },
           {
-            "itemName": "Drill Engine",
-            "finishTime": 1726298673274,
-            "status": 2,
+            "finishTime": 0,
+            "status": 0,
             "forgeID": 3,
             "fromScoreBoard": true
           },
           {
-            "itemName": "Mithril Plate",
-            "finishTime": 1726253657655,
-            "status": 2,
+            "finishTime": 0,
+            "status": 0,
             "forgeID": 4,
-            "fromScoreBoard": false
+            "fromScoreBoard": true
           }
         ],
         "hotmDesires": {
@@ -810,12 +807,12 @@
           "Sapphire": 0,
           "Jade": 0,
           "Amethyst": 0,
-          "Topaz": 1
+          "Topaz": 0
         },
-        "dailyGemstonePowderCompleted": 1726133143306,
-        "dailyMithrilPowerCompleted": 1726064050914,
+        "dailyGemstonePowderCompleted": 1726485253569,
+        "dailyMithrilPowerCompleted": 1726398875797,
         "nonUnlockedWarpScrolls": [],
-        "dailyHeavyPearlCompleted": 1726227288062,
+        "dailyHeavyPearlCompleted": 1726496539454,
         "questBoardCompleted": 1678721248174,
         "dailyShopLimitCompleted": 1723125845415,
         "savedEquipment": {
@@ -932,8 +929,8 @@
             "internalname": "_"
           }
         },
-        "magicalPower": 821,
-        "chestCount": 12202,
+        "magicalPower": 824,
+        "chestCount": 12204,
         "openedChestCount": 11037,
         "mithrilPowderFound": 2290167,
         "gemstonePowderFound": 2282889,
@@ -1563,26 +1560,26 @@
       "GOLDEN_DRAGON;4"
     ],
     "previousAuctionSearches": [
-      "Attribute Shard",
-      "Magma Rod",
-      "Pumpkin Dicer 3.0",
-      "Turing Sugar Cane Hoe",
-      "Newton Nether Warts Hoe"
+      "Horse",
+      "Skeleton Horse",
+      "hoe",
+      "Inferno Rod",
+      "DynaMITES Vinyl"
     ],
     "previousBazaarSearches": [
-      "Box of Seeds",
-      "Grand Experience Bottle",
       "Titanic Experience Bottle",
-      "Booster Cookie",
-      "White Gift"
+      "Glossy Gemstone",
+      "Gold Essence",
+      "✎ Fine Sapphire Gemstone",
+      "✧ Flawless Topaz Gemstone"
     ],
     "previousProfileSearches": [
-      "fischmeister",
-      "chiroki",
-      "infernaldye",
-      "genfede",
-      "refraction",
-      "messingwithstuff"
+      "jorjfloyd",
+      "drpancake86",
+      "slowestentree4",
+      "jamelinen",
+      "cycosmic_",
+      "mrm0th"
     ],
     "previousRecipeSearches": [
       "peridot",

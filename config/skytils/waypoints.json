@@ -1,411 +1,231 @@
 {
     "categories": [
         {
-            "name": "Wyld Sword (Threebrothers)",
+            "name": "Mirrorverse (Tubulator)",
             "waypoints": [
                 {
-                    "name": "Wyld Sword #03",
-                    "x": -99,
-                    "y": 76,
-                    "z": 153,
-                    "enabled": false,
-                    "addedAt": 1687447497262
-                },
-                {
-                    "name": "Wyld Sword #01",
-                    "x": -93,
-                    "y": 76,
-                    "z": 108,
-                    "enabled": false,
-                    "addedAt": 1687447392118
-                },
-                {
-                    "name": "Wyld Sword #02",
-                    "x": -136,
-                    "y": 75,
-                    "z": 113,
-                    "enabled": false,
-                    "addedAt": 1687447474412
-                }
-            ],
-            "isExpanded": false,
-            "island": "rift"
-        },
-        {
-            "name": "Sorcerer Okron Quest (Glyphs)",
-            "waypoints": [
-                {
-                    "name": "Glyph #02-1 (windmill)",
-                    "x": -78,
-                    "y": 71,
-                    "z": -149,
-                    "enabled": false,
-                    "addedAt": 1683329491331
-                },
-                {
-                    "name": "Glyph #01-2",
-                    "x": -71,
-                    "y": 70,
+                    "name": "03",
+                    "x": -308,
+                    "y": 6,
                     "z": -105,
                     "enabled": false,
-                    "addedAt": 1683329148580
+                    "addedAt": 1687295408275
                 },
                 {
-                    "name": "Glyph #08-2",
-                    "x": -64,
-                    "y": 70,
-                    "z": -108,
+                    "name": "08",
+                    "x": -306,
+                    "y": 16,
+                    "z": -107,
                     "enabled": false,
-                    "addedAt": 1683331277629
+                    "addedAt": 1687294193675
                 },
                 {
-                    "name": "Glyph #07-2",
-                    "x": -53,
-                    "y": 70,
+                    "name": "11",
+                    "x": -304,
+                    "y": 22,
                     "z": -111,
                     "enabled": false,
-                    "addedAt": 1683331054537
+                    "addedAt": 1687294569227
                 },
                 {
-                    "name": "Glyph #02-2",
-                    "x": -60,
-                    "y": 70,
+                    "name": "13",
+                    "x": -302,
+                    "y": 26,
+                    "z": -111,
+                    "enabled": false,
+                    "addedAt": 1687294645224
+                },
+                {
+                    "name": "04",
+                    "x": -304,
+                    "y": 8,
                     "z": -109,
                     "enabled": false,
-                    "addedAt": 1683329596880
+                    "addedAt": 1687294396275
                 },
                 {
-                    "name": "Sorcerer Okron",
-                    "x": -71,
-                    "y": 81,
+                    "name": "12",
+                    "x": -306,
+                    "y": 24,
+                    "z": -109,
+                    "enabled": false,
+                    "addedAt": 1687294619223
+                },
+                {
+                    "name": "22",
+                    "x": -302,
+                    "y": 44,
+                    "z": -107,
+                    "enabled": false,
+                    "addedAt": 1687295105177
+                },
+                {
+                    "name": "07",
+                    "x": -308,
+                    "y": 14,
+                    "z": -103,
+                    "enabled": false,
+                    "addedAt": 1687294126172
+                },
+                {
+                    "name": "21",
+                    "x": -306,
+                    "y": 42,
                     "z": -111,
                     "enabled": false,
-                    "addedAt": 1687459363806
+                    "addedAt": 1687295067127
                 },
                 {
-                    "name": "Glyph #03-2",
-                    "x": -53,
-                    "y": 70,
-                    "z": -115,
+                    "name": "19",
+                    "x": -302,
+                    "y": 38,
+                    "z": -105,
                     "enabled": false,
-                    "addedAt": 1683329803836
+                    "addedAt": 1687295008523
                 },
                 {
-                    "name": "Glyph #01-1 (pond)",
-                    "x": -58,
-                    "y": 70,
-                    "z": -96,
-                    "enabled": false,
-                    "addedAt": 1683329066282
-                },
-                {
-                    "name": "Glyph #05-1 (glutton)",
-                    "x": -109,
-                    "y": 72,
-                    "z": -100,
-                    "enabled": false,
-                    "addedAt": 1683330226730
-                },
-                {
-                    "name": "Glyph #05-2",
-                    "x": -74,
-                    "y": 71,
-                    "z": -123,
-                    "enabled": false,
-                    "addedAt": 1683330269284
-                },
-                {
-                    "name": "Glyph #04-1 (barn)",
-                    "x": -52,
-                    "y": 73,
-                    "z": -169,
-                    "enabled": false,
-                    "addedAt": 1683329979380
-                },
-                {
-                    "name": "Glyph #07-1 (cake)",
-                    "x": -95,
-                    "y": 77,
-                    "z": -86,
-                    "enabled": false,
-                    "addedAt": 1683330959181
-                },
-                {
-                    "name": "Glyph #04-2",
-                    "x": -60,
-                    "y": 71,
-                    "z": -123,
-                    "enabled": false,
-                    "addedAt": 1683330018329
-                },
-                {
-                    "name": "Glyph #03-1 (water tower)",
-                    "x": -28,
-                    "y": 73,
-                    "z": -136,
-                    "enabled": false,
-                    "addedAt": 1683329745831
-                },
-                {
-                    "name": "Glyph #06-2",
-                    "x": -77,
-                    "y": 71,
+                    "name": "05",
+                    "x": -300,
+                    "y": 10,
                     "z": -111,
                     "enabled": false,
-                    "addedAt": 1683330764779
+                    "addedAt": 1687294037072
                 },
                 {
-                    "name": "Glyph #06-1 (infested house's chimney)",
-                    "x": -34,
-                    "y": 87,
-                    "z": -94,
+                    "name": "25",
+                    "x": -308,
+                    "y": 50,
+                    "z": -105,
                     "enabled": false,
-                    "addedAt": 1683330651929
+                    "addedAt": 1687295209925
                 },
                 {
-                    "name": "Glyph #08-1 (server room)",
-                    "x": -58,
-                    "y": 80,
-                    "z": -15,
+                    "name": "17",
+                    "x": -302,
+                    "y": 34,
+                    "z": -107,
                     "enabled": false,
-                    "addedAt": 1683331169132
-                }
-            ],
-            "isExpanded": false,
-            "island": "rift"
-        },
-        {
-            "name": "Montezuma Pet (Jacquellse)",
-            "waypoints": [
-                {
-                    "name": "Montezuma Pet #02",
-                    "x": -94,
-                    "y": 70,
-                    "z": 112,
-                    "enabled": false,
-                    "addedAt": 1687276364235
+                    "addedAt": 1687294891273
                 },
                 {
-                    "name": "Montezuma Pet #01, #03",
-                    "x": -122,
-                    "y": 120,
-                    "z": 136,
+                    "name": "02",
+                    "x": -306,
+                    "y": 4,
+                    "z": -103,
                     "enabled": false,
-                    "addedAt": 1683464494664
+                    "addedAt": 1687295370373
                 },
                 {
-                    "name": "Cat Detector #01",
-                    "x": -129,
-                    "y": 118,
-                    "z": 126,
+                    "name": "09",
+                    "x": -302,
+                    "y": 18,
+                    "z": -111,
                     "enabled": false,
-                    "addedAt": 1687276164739
+                    "addedAt": 1687294473824
                 },
                 {
-                    "name": "Cat Detector #03",
-                    "x": -121,
-                    "y": 120,
-                    "z": 134,
+                    "name": "27",
+                    "x": -306,
+                    "y": 54,
+                    "z": -111,
                     "enabled": false,
-                    "addedAt": 1687276280393
+                    "addedAt": 1687295295821
                 },
                 {
-                    "name": "Cat Detector #02",
-                    "x": -126,
-                    "y": 119,
-                    "z": 129,
+                    "name": "23",
+                    "x": -300,
+                    "y": 46,
+                    "z": -103,
                     "enabled": false,
-                    "addedAt": 1687276191690
-                }
-            ],
-            "isExpanded": false,
-            "island": "rift"
-        },
-        {
-            "name": "Wyld Armor (Argofay Trafficker)",
-            "waypoints": [
-                {
-                    "name": "Wyld Boots (50 Motes)",
-                    "x": -138,
-                    "y": 84,
-                    "z": 111,
-                    "enabled": false,
-                    "addedAt": 1683274808984
+                    "addedAt": 1687295143122
                 },
                 {
-                    "name": "Wyld Helmet (1000 Motes)",
-                    "x": -151,
-                    "y": 112,
-                    "z": 114,
+                    "name": "14",
+                    "x": -300,
+                    "y": 28,
+                    "z": -107,
                     "enabled": false,
-                    "addedAt": 1683256877512
+                    "addedAt": 1687294731825
                 },
                 {
-                    "name": "Wyld Leggings (1000 Motes)",
-                    "x": -89,
-                    "y": 90,
-                    "z": 106,
+                    "name": "10",
+                    "x": -300,
+                    "y": 20,
+                    "z": -107,
                     "enabled": false,
-                    "addedAt": 1687277749191
+                    "addedAt": 1687294537877
                 },
                 {
-                    "name": "Wyld Chestplate (2000 Motes)",
-                    "x": -140,
-                    "y": 97,
-                    "z": 114,
+                    "name": "06",
+                    "x": -304,
+                    "y": 12,
+                    "z": -107,
                     "enabled": false,
-                    "addedAt": 1683274424188
-                }
-            ],
-            "isExpanded": false,
-            "island": "rift"
-        },
-        {
-            "name": "Enigma Soul #04 (Dreadfarm)",
-            "waypoints": [
-                {
-                    "name": "Soul #02-05",
-                    "x": -116,
-                    "y": 110,
-                    "z": -161,
-                    "enabled": false,
-                    "addedAt": 1687592998121
+                    "addedAt": 1687294084523
                 },
                 {
-                    "name": "Soul #02-12",
-                    "x": -115,
-                    "y": 210,
-                    "z": -159,
+                    "name": "16",
+                    "x": -306,
+                    "y": 32,
+                    "z": -105,
                     "enabled": false,
-                    "addedAt": 1687593373164
+                    "addedAt": 1687294841027
                 },
                 {
-                    "name": "Soul #02-03",
-                    "x": -93,
-                    "y": 85,
-                    "z": -164,
+                    "name": "01",
+                    "x": -304,
+                    "y": 2,
+                    "z": -107,
                     "enabled": false,
-                    "addedAt": 1687589429039
+                    "addedAt": 1687295326172
                 },
                 {
-                    "name": "Soul #02-13",
-                    "x": -93,
-                    "y": 222,
-                    "z": -155,
+                    "name": "15",
+                    "x": -304,
+                    "y": 30,
+                    "z": -103,
                     "enabled": false,
-                    "addedAt": 1687593418826
+                    "addedAt": 1687294772575
                 },
                 {
-                    "name": "Soul #02-04",
-                    "x": -117,
-                    "y": 95,
-                    "z": -139,
+                    "name": "20",
+                    "x": -304,
+                    "y": 40,
+                    "z": -107,
                     "enabled": false,
-                    "addedAt": 1687592911221
+                    "addedAt": 1687295038174
                 },
                 {
-                    "name": "Soul #01-1",
-                    "x": -57,
-                    "y": 70,
-                    "z": -126,
+                    "name": "Emmett Pointer",
+                    "x": -299,
+                    "y": 1,
+                    "z": -111,
                     "enabled": false,
-                    "addedAt": 1683335195826
+                    "addedAt": 1687542531480
                 },
                 {
-                    "name": "Soul #02-11",
-                    "x": -86,
-                    "y": 190,
-                    "z": -156,
+                    "name": "24",
+                    "x": -304,
+                    "y": 48,
+                    "z": -107,
                     "enabled": false,
-                    "addedAt": 1687593327823
+                    "addedAt": 1687295176224
                 },
                 {
-                    "name": "Soul #02-10",
-                    "x": -101,
-                    "y": 176,
-                    "z": -163,
+                    "name": "26",
+                    "x": -304,
+                    "y": 52,
+                    "z": -109,
                     "enabled": false,
-                    "addedAt": 1687593240423
+                    "addedAt": 1687295246478
                 },
                 {
-                    "name": "Soul #01-2",
-                    "x": -76,
-                    "y": 90,
-                    "z": -149,
+                    "name": "18",
+                    "x": -300,
+                    "y": 36,
+                    "z": -109,
                     "enabled": false,
-                    "addedAt": 1683335498331
-                },
-                {
-                    "name": "Soul #02-02",
-                    "x": -87,
-                    "y": 71,
-                    "z": -137,
-                    "enabled": false,
-                    "addedAt": 1687589284568
-                },
-                {
-                    "name": "Soul #02-15",
-                    "x": -106,
-                    "y": 249,
-                    "z": -149,
-                    "enabled": false,
-                    "addedAt": 1683366826489
-                },
-                {
-                    "name": "Soul #02-07",
-                    "x": -117,
-                    "y": 142,
-                    "z": -142,
-                    "enabled": false,
-                    "addedAt": 1687593100417
-                },
-                {
-                    "name": "Soul #02-14",
-                    "x": -119,
-                    "y": 235,
-                    "z": -152,
-                    "enabled": false,
-                    "addedAt": 1687593482427
-                },
-                {
-                    "name": "Soul #04 (Berberis Blowgun)",
-                    "x": -77,
-                    "y": 72,
-                    "z": -176,
-                    "enabled": false,
-                    "addedAt": 1683385489829
-                },
-                {
-                    "name": "Soul #02-01 (Plumber's Bucket)",
-                    "x": -97,
-                    "y": 72,
-                    "z": -150,
-                    "enabled": false,
-                    "addedAt": 1683367821333
-                },
-                {
-                    "name": "Soul #02-06",
-                    "x": -92,
-                    "y": 130,
-                    "z": -159,
-                    "enabled": false,
-                    "addedAt": 1687593051718
-                },
-                {
-                    "name": "Soul #02-09",
-                    "x": -95,
-                    "y": 162,
-                    "z": -145,
-                    "enabled": false,
-                    "addedAt": 1687593205816
-                },
-                {
-                    "name": "Soul #02-08",
-                    "x": -102,
-                    "y": 151,
-                    "z": -164,
-                    "enabled": false,
-                    "addedAt": 1687593156217
+                    "addedAt": 1687294947173
                 }
             ],
             "isExpanded": false,
@@ -714,236 +534,458 @@
             "island": "rift"
         },
         {
-            "name": "Enigma Soul #07 (Colosseum)",
+            "name": "Detective Amog Quest (NPC)",
             "waypoints": [
                 {
-                    "name": "Soul #01-2",
-                    "x": -160,
-                    "y": 97,
-                    "z": -76,
+                    "name": "#06 Joliet",
+                    "x": -32,
+                    "y": 64,
+                    "z": -44,
                     "enabled": false,
-                    "addedAt": 1683412858679
+                    "addedAt": 1683398992928
                 },
                 {
-                    "name": "Soul #01-1",
-                    "x": -168,
-                    "y": 76,
-                    "z": -74,
-                    "enabled": false,
-                    "addedAt": 1683412963931
-                },
-                {
-                    "name": "Soul #01-3",
-                    "x": -161,
-                    "y": 98,
-                    "z": -72,
-                    "enabled": false,
-                    "addedAt": 1683413001236
-                }
-            ],
-            "isExpanded": false,
-            "island": "rift"
-        },
-        {
-            "name": "",
-            "waypoints": [
-                {
-                    "name": "26",
-                    "x": 757,
-                    "y": 54,
-                    "z": 624,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                },
-                {
-                    "name": "29",
-                    "x": 782,
-                    "y": 50,
-                    "z": 613,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                },
-                {
-                    "name": "n24",
-                    "x": 774,
-                    "y": 61,
-                    "z": 623,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                },
-                {
-                    "name": "20",
-                    "x": 777,
-                    "y": 51,
-                    "z": 639,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                },
-                {
-                    "name": "21",
-                    "x": 776,
-                    "y": 46,
-                    "z": 631,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                },
-                {
-                    "name": "22",
-                    "x": 776,
-                    "y": 41,
-                    "z": 627,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                },
-                {
-                    "name": "28",
-                    "x": 778,
-                    "y": 54,
-                    "z": 614,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                },
-                {
-                    "name": "17",
-                    "x": 782,
-                    "y": 34,
-                    "z": 663,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                },
-                {
-                    "name": "16",
-                    "x": 784,
-                    "y": 33,
-                    "z": 655,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                },
-                {
-                    "name": "25",
-                    "x": 765,
-                    "y": 58,
-                    "z": 621,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                },
-                {
-                    "name": "18",
-                    "x": 777,
-                    "y": 36,
-                    "z": 666,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                },
-                {
-                    "name": "19",
-                    "x": 778,
-                    "y": 34,
-                    "z": 670,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                },
-                {
-                    "name": "27",
-                    "x": 775,
-                    "y": 50,
-                    "z": 612,
-                    "enabled": false,
-                    "addedAt": 1723067861861
-                }
-            ],
-            "isExpanded": false,
-            "island": "crystal_hollows"
-        },
-        {
-            "name": "Porhtal Eye (Teleporter)",
-            "waypoints": [
-                {
-                    "name": "#07 Stillgore Château Eye",
-                    "x": 157,
-                    "y": 74,
-                    "z": 79,
-                    "enabled": true,
-                    "addedAt": 1683453549633
-                },
-                {
-                    "name": "#03 Lagoon Hut Eye",
-                    "x": -206,
-                    "y": 65,
-                    "z": 50,
-                    "enabled": true,
-                    "addedAt": 1683338500778
-                },
-                {
-                    "name": "#01 Porhtal (Enable Teleporter)",
-                    "x": -158,
-                    "y": 70,
-                    "z": 162,
-                    "enabled": true,
-                    "addedAt": 1687275913789
-                },
-                {
-                    "name": "#02 Wizard Tower Eye",
+                    "name": "#01, #05, #07 Detective Amog",
                     "x": -50,
-                    "y": 104,
-                    "z": 71,
-                    "enabled": true,
-                    "addedAt": 1683338474576
+                    "y": 68,
+                    "z": -38,
+                    "enabled": false,
+                    "addedAt": 1683398753570
                 },
                 {
-                    "name": "#04 Dreadfarm Eye",
-                    "x": -15,
+                    "name": "#02 Marcia",
+                    "x": 2,
                     "y": 71,
-                    "z": -174,
-                    "enabled": true,
-                    "addedAt": 1683337786476
+                    "z": -11,
+                    "enabled": false,
+                    "addedAt": 1684515190458
                 },
                 {
-                    "name": "#05 Village Plaza Eye",
-                    "x": 32,
-                    "y": 69,
-                    "z": -37,
-                    "enabled": true,
-                    "addedAt": 1683385067429
+                    "name": "#03 Fink",
+                    "x": -193,
+                    "y": 72,
+                    "z": -58,
+                    "enabled": false,
+                    "addedAt": 1683398145071
                 },
                 {
-                    "name": "#06 Colosseum Eye",
-                    "x": -167,
-                    "y": 77,
-                    "z": -55,
-                    "enabled": true,
-                    "addedAt": 1683453598978
+                    "name": "#04 Blacksmith",
+                    "x": -2,
+                    "y": 68,
+                    "z": -143,
+                    "enabled": false,
+                    "addedAt": 1683398498222
                 }
             ],
             "isExpanded": false,
             "island": "rift"
         },
         {
-            "name": "Enigma Soul #06 (Living Cave)",
+            "name": "Wyld Armor (Argofay Trafficker)",
             "waypoints": [
                 {
-                    "name": "Soul #01 (Horsezooka)",
-                    "x": 43,
-                    "y": 62,
-                    "z": -198,
+                    "name": "Wyld Boots (50 Motes)",
+                    "x": -138,
+                    "y": 84,
+                    "z": 111,
                     "enabled": false,
-                    "addedAt": 1683404733564
+                    "addedAt": 1683274808984
                 },
                 {
-                    "name": "Soul #02-1",
-                    "x": 3,
-                    "y": 68,
-                    "z": -204,
+                    "name": "Wyld Helmet (1000 Motes)",
+                    "x": -151,
+                    "y": 112,
+                    "z": 114,
                     "enabled": false,
-                    "addedAt": 1683402551407
+                    "addedAt": 1683256877512
                 },
                 {
-                    "name": "Soul #02-2(Say Hi)",
-                    "x": 16,
+                    "name": "Wyld Leggings (1000 Motes)",
+                    "x": -89,
+                    "y": 90,
+                    "z": 106,
+                    "enabled": false,
+                    "addedAt": 1687277749191
+                },
+                {
+                    "name": "Wyld Chestplate (2000 Motes)",
+                    "x": -140,
+                    "y": 97,
+                    "z": 114,
+                    "enabled": false,
+                    "addedAt": 1683274424188
+                }
+            ],
+            "isExpanded": false,
+            "island": "rift"
+        },
+        {
+            "name": "Montezuma Pet (Jacquellse)",
+            "waypoints": [
+                {
+                    "name": "Montezuma Pet #02",
+                    "x": -94,
+                    "y": 70,
+                    "z": 112,
+                    "enabled": false,
+                    "addedAt": 1687276364235
+                },
+                {
+                    "name": "Montezuma Pet #01, #03",
+                    "x": -122,
+                    "y": 120,
+                    "z": 136,
+                    "enabled": false,
+                    "addedAt": 1683464494664
+                },
+                {
+                    "name": "Cat Detector #01",
+                    "x": -129,
+                    "y": 118,
+                    "z": 126,
+                    "enabled": false,
+                    "addedAt": 1687276164739
+                },
+                {
+                    "name": "Cat Detector #03",
+                    "x": -121,
+                    "y": 120,
+                    "z": 134,
+                    "enabled": false,
+                    "addedAt": 1687276280393
+                },
+                {
+                    "name": "Cat Detector #02",
+                    "x": -126,
+                    "y": 119,
+                    "z": 129,
+                    "enabled": false,
+                    "addedAt": 1687276191690
+                }
+            ],
+            "isExpanded": false,
+            "island": "rift"
+        },
+        {
+            "name": "Unhiged Kloon Quest (Computer)",
+            "waypoints": [
+                {
+                    "name": "Computer #05 (Aqua)",
+                    "x": -33,
+                    "y": 70,
+                    "z": -135,
+                    "enabled": false,
+                    "addedAt": 1683363106183
+                },
+                {
+                    "name": "Computer #08 (Pink)",
+                    "x": -110,
+                    "y": 73,
+                    "z": -107,
+                    "enabled": false,
+                    "addedAt": 1683363300785
+                },
+                {
+                    "name": "Computer #02 (Orange)",
+                    "x": -44,
                     "y": 71,
-                    "z": -162,
+                    "z": -62,
                     "enabled": false,
-                    "addedAt": 1683402680513
+                    "addedAt": 1683362703092
+                },
+                {
+                    "name": "Computer #01 (Red)",
+                    "x": -69,
+                    "y": 65,
+                    "z": -63,
+                    "enabled": false,
+                    "addedAt": 1683362600441
+                },
+                {
+                    "name": "Computer #07 (Purple)",
+                    "x": -89,
+                    "y": 73,
+                    "z": -115,
+                    "enabled": false,
+                    "addedAt": 1683363236392
+                },
+                {
+                    "name": "Computer #03 (Yellow)",
+                    "x": -39,
+                    "y": 71,
+                    "z": -95,
+                    "enabled": false,
+                    "addedAt": 1683362759941
+                },
+                {
+                    "name": "Computer #06 (Blue)",
+                    "x": -66,
+                    "y": 72,
+                    "z": -119,
+                    "enabled": false,
+                    "addedAt": 1683363177940
+                },
+                {
+                    "name": "Computer #04 (Green)",
+                    "x": -62,
+                    "y": 71,
+                    "z": -83,
+                    "enabled": false,
+                    "addedAt": 1683363026443
+                },
+                {
+                    "name": "Unhiged Kloon (Server Room)",
+                    "x": -57,
+                    "y": 79,
+                    "z": -14,
+                    "enabled": false,
+                    "addedAt": 1684496620020
+                }
+            ],
+            "isExpanded": false,
+            "island": "rift"
+        },
+        {
+            "name": "Wizard Quest (Unlock Rift Guide)",
+            "waypoints": [
+                {
+                    "name": "Wizard's Breadcrumbs #09",
+                    "x": -63,
+                    "y": 68,
+                    "z": 134,
+                    "enabled": false,
+                    "addedAt": 1684459926833
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #16",
+                    "x": -54,
+                    "y": 81,
+                    "z": 81,
+                    "enabled": false,
+                    "addedAt": 1684460034684
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #10",
+                    "x": -57,
+                    "y": 69,
+                    "z": 126,
+                    "enabled": false,
+                    "addedAt": 1684459939932
+                },
+                {
+                    "name": "Wizard (Unlock Rift Guide)",
+                    "x": -48,
+                    "y": 123,
+                    "z": 77,
+                    "enabled": false,
+                    "addedAt": 1687587995666
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #04",
+                    "x": -83,
+                    "y": 71,
+                    "z": 174,
+                    "enabled": false,
+                    "addedAt": 1684459868183
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #13",
+                    "x": -44,
+                    "y": 71,
+                    "z": 99,
+                    "enabled": false,
+                    "addedAt": 1684459985282
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #18",
+                    "x": -46,
+                    "y": 82,
+                    "z": 73,
+                    "enabled": false,
+                    "addedAt": 1684460059035
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #07",
+                    "x": -80,
+                    "y": 66,
+                    "z": 149,
+                    "enabled": false,
+                    "addedAt": 1684459902882
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #05",
+                    "x": -80,
+                    "y": 66,
+                    "z": 169,
+                    "enabled": false,
+                    "addedAt": 1684459879235
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #12",
+                    "x": -47,
+                    "y": 71,
+                    "z": 111,
+                    "enabled": false,
+                    "addedAt": 1684459963133
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #06",
+                    "x": -82,
+                    "y": 64,
+                    "z": 158,
+                    "enabled": false,
+                    "addedAt": 1684459890533
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #02",
+                    "x": -87,
+                    "y": 74,
+                    "z": 183,
+                    "enabled": false,
+                    "addedAt": 1684459848987
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #03",
+                    "x": -85,
+                    "y": 73,
+                    "z": 177,
+                    "enabled": false,
+                    "addedAt": 1684459859033
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #17",
+                    "x": -42,
+                    "y": 81,
+                    "z": 80,
+                    "enabled": false,
+                    "addedAt": 1684460047690
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #01 (Right click)",
+                    "x": -90,
+                    "y": 74,
+                    "z": 189,
+                    "enabled": false,
+                    "addedAt": 1684459811892
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #08",
+                    "x": -69,
+                    "y": 66,
+                    "z": 142,
+                    "enabled": false,
+                    "addedAt": 1684459915537
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #14",
+                    "x": -47,
+                    "y": 74,
+                    "z": 86,
+                    "enabled": false,
+                    "addedAt": 1684460007188
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #15",
+                    "x": -51,
+                    "y": 78,
+                    "z": 83,
+                    "enabled": false,
+                    "addedAt": 1684460023782
+                },
+                {
+                    "name": "Wizard's Breadcrumbs #11",
+                    "x": -52,
+                    "y": 71,
+                    "z": 121,
+                    "enabled": false,
+                    "addedAt": 1684459953436
+                }
+            ],
+            "isExpanded": false,
+            "island": "rift"
+        },
+        {
+            "name": "Mirrorverse (Lava Maze)",
+            "waypoints": [
+                {
+                    "name": "01-1",
+                    "x": -86,
+                    "y": 52,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1687568298842
+                },
+                {
+                    "name": "01-2, 02-1",
+                    "x": -88,
+                    "y": 52,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1687568328849
+                },
+                {
+                    "name": "02-2",
+                    "x": -90,
+                    "y": 52,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1687568359395
+                },
+                {
+                    "name": "03-2",
+                    "x": -96,
+                    "y": 52,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1687568387757
+                },
+                {
+                    "name": "05-2",
+                    "x": -104,
+                    "y": 52,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1687568448363
+                },
+                {
+                    "name": "03-1",
+                    "x": -92,
+                    "y": 52,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1687568370046
+                },
+                {
+                    "name": "05-1",
+                    "x": -102,
+                    "y": 52,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1687568435803
+                },
+                {
+                    "name": "04-1",
+                    "x": -98,
+                    "y": 52,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1687568397742
+                },
+                {
+                    "name": "04-2",
+                    "x": -100,
+                    "y": 52,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1687568425695
+                },
+                {
+                    "name": "Lever",
+                    "x": -105,
+                    "y": 52,
+                    "z": -113,
+                    "enabled": false,
+                    "addedAt": 1687568459747
                 }
             ],
             "isExpanded": false,
@@ -1493,159 +1535,389 @@
             "island": "rift"
         },
         {
-            "name": "Wizard Quest (Unlock Rift Guide)",
+            "name": "Sorcerer Okron Quest (Glyphs)",
             "waypoints": [
                 {
-                    "name": "Wizard's Breadcrumbs #09",
-                    "x": -63,
-                    "y": 68,
-                    "z": 134,
+                    "name": "Glyph #02-1 (windmill)",
+                    "x": -78,
+                    "y": 71,
+                    "z": -149,
                     "enabled": false,
-                    "addedAt": 1684459926833
+                    "addedAt": 1683329491331
                 },
                 {
-                    "name": "Wizard's Breadcrumbs #16",
-                    "x": -54,
+                    "name": "Glyph #01-2",
+                    "x": -71,
+                    "y": 70,
+                    "z": -105,
+                    "enabled": false,
+                    "addedAt": 1683329148580
+                },
+                {
+                    "name": "Glyph #08-2",
+                    "x": -64,
+                    "y": 70,
+                    "z": -108,
+                    "enabled": false,
+                    "addedAt": 1683331277629
+                },
+                {
+                    "name": "Glyph #07-2",
+                    "x": -53,
+                    "y": 70,
+                    "z": -111,
+                    "enabled": false,
+                    "addedAt": 1683331054537
+                },
+                {
+                    "name": "Glyph #02-2",
+                    "x": -60,
+                    "y": 70,
+                    "z": -109,
+                    "enabled": false,
+                    "addedAt": 1683329596880
+                },
+                {
+                    "name": "Sorcerer Okron",
+                    "x": -71,
                     "y": 81,
-                    "z": 81,
+                    "z": -111,
                     "enabled": false,
-                    "addedAt": 1684460034684
+                    "addedAt": 1687459363806
                 },
                 {
-                    "name": "Wizard's Breadcrumbs #10",
-                    "x": -57,
-                    "y": 69,
-                    "z": 126,
+                    "name": "Glyph #03-2",
+                    "x": -53,
+                    "y": 70,
+                    "z": -115,
                     "enabled": false,
-                    "addedAt": 1684459939932
+                    "addedAt": 1683329803836
                 },
                 {
-                    "name": "Wizard (Unlock Rift Guide)",
-                    "x": -48,
-                    "y": 123,
-                    "z": 77,
+                    "name": "Glyph #01-1 (pond)",
+                    "x": -58,
+                    "y": 70,
+                    "z": -96,
                     "enabled": false,
-                    "addedAt": 1687587995666
+                    "addedAt": 1683329066282
                 },
                 {
-                    "name": "Wizard's Breadcrumbs #04",
-                    "x": -83,
+                    "name": "Glyph #05-1 (glutton)",
+                    "x": -109,
+                    "y": 72,
+                    "z": -100,
+                    "enabled": false,
+                    "addedAt": 1683330226730
+                },
+                {
+                    "name": "Glyph #05-2",
+                    "x": -74,
                     "y": 71,
-                    "z": 174,
+                    "z": -123,
                     "enabled": false,
-                    "addedAt": 1684459868183
+                    "addedAt": 1683330269284
                 },
                 {
-                    "name": "Wizard's Breadcrumbs #13",
-                    "x": -44,
-                    "y": 71,
-                    "z": 99,
-                    "enabled": false,
-                    "addedAt": 1684459985282
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #18",
-                    "x": -46,
-                    "y": 82,
-                    "z": 73,
-                    "enabled": false,
-                    "addedAt": 1684460059035
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #07",
-                    "x": -80,
-                    "y": 66,
-                    "z": 149,
-                    "enabled": false,
-                    "addedAt": 1684459902882
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #05",
-                    "x": -80,
-                    "y": 66,
-                    "z": 169,
-                    "enabled": false,
-                    "addedAt": 1684459879235
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #12",
-                    "x": -47,
-                    "y": 71,
-                    "z": 111,
-                    "enabled": false,
-                    "addedAt": 1684459963133
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #06",
-                    "x": -82,
-                    "y": 64,
-                    "z": 158,
-                    "enabled": false,
-                    "addedAt": 1684459890533
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #02",
-                    "x": -87,
-                    "y": 74,
-                    "z": 183,
-                    "enabled": false,
-                    "addedAt": 1684459848987
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #03",
-                    "x": -85,
-                    "y": 73,
-                    "z": 177,
-                    "enabled": false,
-                    "addedAt": 1684459859033
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #17",
-                    "x": -42,
-                    "y": 81,
-                    "z": 80,
-                    "enabled": false,
-                    "addedAt": 1684460047690
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #01 (Right click)",
-                    "x": -90,
-                    "y": 74,
-                    "z": 189,
-                    "enabled": false,
-                    "addedAt": 1684459811892
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #08",
-                    "x": -69,
-                    "y": 66,
-                    "z": 142,
-                    "enabled": false,
-                    "addedAt": 1684459915537
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #14",
-                    "x": -47,
-                    "y": 74,
-                    "z": 86,
-                    "enabled": false,
-                    "addedAt": 1684460007188
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #15",
-                    "x": -51,
-                    "y": 78,
-                    "z": 83,
-                    "enabled": false,
-                    "addedAt": 1684460023782
-                },
-                {
-                    "name": "Wizard's Breadcrumbs #11",
+                    "name": "Glyph #04-1 (barn)",
                     "x": -52,
-                    "y": 71,
-                    "z": 121,
+                    "y": 73,
+                    "z": -169,
                     "enabled": false,
-                    "addedAt": 1684459953436
+                    "addedAt": 1683329979380
+                },
+                {
+                    "name": "Glyph #07-1 (cake)",
+                    "x": -95,
+                    "y": 77,
+                    "z": -86,
+                    "enabled": false,
+                    "addedAt": 1683330959181
+                },
+                {
+                    "name": "Glyph #04-2",
+                    "x": -60,
+                    "y": 71,
+                    "z": -123,
+                    "enabled": false,
+                    "addedAt": 1683330018329
+                },
+                {
+                    "name": "Glyph #03-1 (water tower)",
+                    "x": -28,
+                    "y": 73,
+                    "z": -136,
+                    "enabled": false,
+                    "addedAt": 1683329745831
+                },
+                {
+                    "name": "Glyph #06-2",
+                    "x": -77,
+                    "y": 71,
+                    "z": -111,
+                    "enabled": false,
+                    "addedAt": 1683330764779
+                },
+                {
+                    "name": "Glyph #06-1 (infested house's chimney)",
+                    "x": -34,
+                    "y": 87,
+                    "z": -94,
+                    "enabled": false,
+                    "addedAt": 1683330651929
+                },
+                {
+                    "name": "Glyph #08-1 (server room)",
+                    "x": -58,
+                    "y": 80,
+                    "z": -15,
+                    "enabled": false,
+                    "addedAt": 1683331169132
+                }
+            ],
+            "isExpanded": false,
+            "island": "rift"
+        },
+        {
+            "name": "NPC, etc",
+            "waypoints": [
+                {
+                    "name": "Argofay Bughunter (Silkwire Stick, Leech Belt)",
+                    "x": -85,
+                    "y": 108,
+                    "z": 96,
+                    "enabled": false,
+                    "addedAt": 1687275807191
+                },
+                {
+                    "name": "Dr. Hibble (Leech Supreme)",
+                    "x": -80,
+                    "y": 73,
+                    "z": 9,
+                    "enabled": false,
+                    "addedAt": 1684461785987
+                },
+                {
+                    "name": "Enigma (Enigma Cloak)",
+                    "x": -41,
+                    "y": 71,
+                    "z": 91,
+                    "enabled": false,
+                    "addedAt": 1687583655722
+                },
+                {
+                    "name": "Alchemist",
+                    "x": -50,
+                    "y": 70,
+                    "z": -66,
+                    "enabled": false,
+                    "addedAt": 1687464202597
+                },
+                {
+                    "name": "Mirrorverse",
+                    "x": -88,
+                    "y": 72,
+                    "z": -125,
+                    "enabled": false,
+                    "addedAt": 1683359682691
+                },
+                {
+                    "name": "Riftwart Roots",
+                    "x": -39,
+                    "y": 68,
+                    "z": -69,
+                    "enabled": false,
+                    "addedAt": 1687461065556
+                },
+                {
+                    "name": "Election Box (SkyBlock Citzen Timecharm)",
+                    "x": -69,
+                    "y": 56,
+                    "z": -151,
+                    "enabled": false,
+                    "addedAt": 1687541086535
+                },
+                {
+                    "name": "Kay (Enter the pond, defeat the enemy, place the Lil' Pad, and cross the pond.)",
+                    "x": -192,
+                    "y": 68,
+                    "z": 58,
+                    "enabled": false,
+                    "addedAt": 1687276824885
+                },
+                {
+                    "name": "Deer (Rift Boat required)",
+                    "x": 139,
+                    "y": 70,
+                    "z": -12,
+                    "enabled": false,
+                    "addedAt": 1687585248818
+                },
+                {
+                    "name": "Plumber Joe (Plumber's Bucket)",
+                    "x": -62,
+                    "y": 70,
+                    "z": -78,
+                    "enabled": false,
+                    "addedAt": 1687449325163
+                },
+                {
+                    "name": "Barry (Barry's Montgray Pen)",
+                    "x": -10,
+                    "y": 73,
+                    "z": -113,
+                    "enabled": false,
+                    "addedAt": 1687541460786
+                },
+                {
+                    "name": "Shania (Hoe) (Check Rift Collections (chicken can be killed with Berberis Blowgun))",
+                    "x": -48,
+                    "y": 72,
+                    "z": -162,
+                    "enabled": false,
+                    "addedAt": 1687446649360
+                },
+                {
+                    "name": "Roger (Travel Scroll)",
+                    "x": -3,
+                    "y": 70,
+                    "z": -44,
+                    "enabled": false,
+                    "addedAt": 1687465404854
+                },
+                {
+                    "name": "Argofay Bugshopper",
+                    "x": -96,
+                    "y": 110,
+                    "z": 94,
+                    "enabled": false,
+                    "addedAt": 1683251537465
+                },
+                {
+                    "name": "Cowboy Nick (Horsezokka, Rift Storage +1 Page)",
+                    "x": -14,
+                    "y": 70,
+                    "z": -7,
+                    "enabled": false,
+                    "addedAt": 1687465219598
+                },
+                {
+                    "name": "Unbound Explorer",
+                    "x": -29,
+                    "y": 72,
+                    "z": 315,
+                    "enabled": false,
+                    "addedAt": 1689568820745
+                },
+                {
+                    "name": "Seymour (Gunther's Sneakers Upgrade)",
+                    "x": -27,
+                    "y": 71,
+                    "z": -45,
+                    "enabled": false,
+                    "addedAt": 1687465302704
+                },
+                {
+                    "name": "Reed (Rift Boat)",
+                    "x": -213,
+                    "y": 72,
+                    "z": 60,
+                    "enabled": false,
+                    "addedAt": 1687276806987
+                },
+                {
+                    "name": "Rift Transfer Chest",
+                    "x": -96,
+                    "y": 76,
+                    "z": 192,
+                    "enabled": false,
+                    "addedAt": 1687275540045
+                },
+                {
+                    "name": "Gunther (Wyld Boots Upgrade)",
+                    "x": -69,
+                    "y": 71,
+                    "z": -62,
+                    "enabled": false,
+                    "addedAt": 1687449203966
+                },
+                {
+                    "name": "Seraphine (Agaricus Cap Cap Upgrade)",
+                    "x": -17,
+                    "y": 71,
+                    "z": -102,
+                    "enabled": false,
+                    "addedAt": 1687464257250
+                },
+                {
+                    "name": "Kat (Disinfestor Gloves, Leech Belt Upgrade)",
+                    "x": -35,
+                    "y": 70,
+                    "z": -91,
+                    "enabled": false,
+                    "addedAt": 1687459975054
+                },
+                {
+                    "name": "Maddox the Slayer",
+                    "x": 204,
+                    "y": 77,
+                    "z": 44,
+                    "enabled": false,
+                    "addedAt": 1683551180554
+                },
+                {
+                    "name": "Finplex (Zoop the Fish)",
+                    "x": -58,
+                    "y": 68,
+                    "z": -83,
+                    "enabled": false,
+                    "addedAt": 1687465480553
+                }
+            ],
+            "isExpanded": false,
+            "island": "rift"
+        },
+        {
+            "name": "Fairy Soul (Stillgore Château)",
+            "waypoints": [
+                {
+                    "name": "Fairy Soul #01-3",
+                    "x": 256,
+                    "y": 123,
+                    "z": 87,
+                    "enabled": true,
+                    "addedAt": 1687455912602
+                },
+                {
+                    "name": "Fairy Soul #01-4",
+                    "x": 250,
+                    "y": 123,
+                    "z": 88,
+                    "enabled": true,
+                    "addedAt": 1687455928459
+                },
+                {
+                    "name": "Fairy Soul #01-1",
+                    "x": 256,
+                    "y": 123,
+                    "z": 84,
+                    "enabled": true,
+                    "addedAt": 1687455883362
+                },
+                {
+                    "name": "Fairy Soul #01-2",
+                    "x": 250,
+                    "y": 123,
+                    "z": 85,
+                    "enabled": true,
+                    "addedAt": 1687454273506
+                },
+                {
+                    "name": "Fairy Soul #01-5",
+                    "x": 253,
+                    "y": 123,
+                    "z": 90,
+                    "enabled": true,
+                    "addedAt": 1687456423659
                 }
             ],
             "isExpanded": false,
@@ -2195,166 +2467,142 @@
             "island": "rift"
         },
         {
-            "name": "Mirrorverse (Lava Maze)",
+            "name": "",
             "waypoints": [
                 {
-                    "name": "01-1",
-                    "x": -86,
-                    "y": 52,
-                    "z": -112,
+                    "name": "26",
+                    "x": 757,
+                    "y": 54,
+                    "z": 624,
                     "enabled": false,
-                    "addedAt": 1687568298842
+                    "addedAt": 1723067861861
                 },
                 {
-                    "name": "01-2, 02-1",
-                    "x": -88,
-                    "y": 52,
-                    "z": -112,
+                    "name": "29",
+                    "x": 782,
+                    "y": 50,
+                    "z": 613,
                     "enabled": false,
-                    "addedAt": 1687568328849
+                    "addedAt": 1723067861861
                 },
                 {
-                    "name": "02-2",
-                    "x": -90,
-                    "y": 52,
-                    "z": -112,
+                    "name": "n24",
+                    "x": 774,
+                    "y": 61,
+                    "z": 623,
                     "enabled": false,
-                    "addedAt": 1687568359395
+                    "addedAt": 1723067861861
                 },
                 {
-                    "name": "03-2",
-                    "x": -96,
-                    "y": 52,
-                    "z": -112,
+                    "name": "20",
+                    "x": 777,
+                    "y": 51,
+                    "z": 639,
                     "enabled": false,
-                    "addedAt": 1687568387757
+                    "addedAt": 1723067861861
                 },
                 {
-                    "name": "05-2",
-                    "x": -104,
-                    "y": 52,
-                    "z": -112,
+                    "name": "21",
+                    "x": 776,
+                    "y": 46,
+                    "z": 631,
                     "enabled": false,
-                    "addedAt": 1687568448363
+                    "addedAt": 1723067861861
                 },
                 {
-                    "name": "03-1",
-                    "x": -92,
-                    "y": 52,
-                    "z": -112,
+                    "name": "22",
+                    "x": 776,
+                    "y": 41,
+                    "z": 627,
                     "enabled": false,
-                    "addedAt": 1687568370046
+                    "addedAt": 1723067861861
                 },
                 {
-                    "name": "05-1",
-                    "x": -102,
-                    "y": 52,
-                    "z": -112,
+                    "name": "28",
+                    "x": 778,
+                    "y": 54,
+                    "z": 614,
                     "enabled": false,
-                    "addedAt": 1687568435803
+                    "addedAt": 1723067861861
                 },
                 {
-                    "name": "04-1",
-                    "x": -98,
-                    "y": 52,
-                    "z": -112,
+                    "name": "17",
+                    "x": 782,
+                    "y": 34,
+                    "z": 663,
                     "enabled": false,
-                    "addedAt": 1687568397742
+                    "addedAt": 1723067861861
                 },
                 {
-                    "name": "04-2",
-                    "x": -100,
-                    "y": 52,
-                    "z": -112,
+                    "name": "16",
+                    "x": 784,
+                    "y": 33,
+                    "z": 655,
                     "enabled": false,
-                    "addedAt": 1687568425695
+                    "addedAt": 1723067861861
                 },
                 {
-                    "name": "Lever",
-                    "x": -105,
-                    "y": 52,
-                    "z": -113,
+                    "name": "25",
+                    "x": 765,
+                    "y": 58,
+                    "z": 621,
                     "enabled": false,
-                    "addedAt": 1687568459747
+                    "addedAt": 1723067861861
+                },
+                {
+                    "name": "18",
+                    "x": 777,
+                    "y": 36,
+                    "z": 666,
+                    "enabled": false,
+                    "addedAt": 1723067861861
+                },
+                {
+                    "name": "19",
+                    "x": 778,
+                    "y": 34,
+                    "z": 670,
+                    "enabled": false,
+                    "addedAt": 1723067861861
+                },
+                {
+                    "name": "27",
+                    "x": 775,
+                    "y": 50,
+                    "z": 612,
+                    "enabled": false,
+                    "addedAt": 1723067861861
                 }
             ],
             "isExpanded": false,
-            "island": "rift"
+            "island": "crystal_hollows"
         },
         {
-            "name": "Unhiged Kloon Quest (Computer)",
+            "name": "Wyld Sword (Threebrothers)",
             "waypoints": [
                 {
-                    "name": "Computer #05 (Aqua)",
-                    "x": -33,
-                    "y": 70,
-                    "z": -135,
+                    "name": "Wyld Sword #03",
+                    "x": -99,
+                    "y": 76,
+                    "z": 153,
                     "enabled": false,
-                    "addedAt": 1683363106183
+                    "addedAt": 1687447497262
                 },
                 {
-                    "name": "Computer #08 (Pink)",
-                    "x": -110,
-                    "y": 73,
-                    "z": -107,
+                    "name": "Wyld Sword #01",
+                    "x": -93,
+                    "y": 76,
+                    "z": 108,
                     "enabled": false,
-                    "addedAt": 1683363300785
+                    "addedAt": 1687447392118
                 },
                 {
-                    "name": "Computer #02 (Orange)",
-                    "x": -44,
-                    "y": 71,
-                    "z": -62,
+                    "name": "Wyld Sword #02",
+                    "x": -136,
+                    "y": 75,
+                    "z": 113,
                     "enabled": false,
-                    "addedAt": 1683362703092
-                },
-                {
-                    "name": "Computer #01 (Red)",
-                    "x": -69,
-                    "y": 65,
-                    "z": -63,
-                    "enabled": false,
-                    "addedAt": 1683362600441
-                },
-                {
-                    "name": "Computer #07 (Purple)",
-                    "x": -89,
-                    "y": 73,
-                    "z": -115,
-                    "enabled": false,
-                    "addedAt": 1683363236392
-                },
-                {
-                    "name": "Computer #03 (Yellow)",
-                    "x": -39,
-                    "y": 71,
-                    "z": -95,
-                    "enabled": false,
-                    "addedAt": 1683362759941
-                },
-                {
-                    "name": "Computer #06 (Blue)",
-                    "x": -66,
-                    "y": 72,
-                    "z": -119,
-                    "enabled": false,
-                    "addedAt": 1683363177940
-                },
-                {
-                    "name": "Computer #04 (Green)",
-                    "x": -62,
-                    "y": 71,
-                    "z": -83,
-                    "enabled": false,
-                    "addedAt": 1683363026443
-                },
-                {
-                    "name": "Unhiged Kloon (Server Room)",
-                    "x": -57,
-                    "y": 79,
-                    "z": -14,
-                    "enabled": false,
-                    "addedAt": 1684496620020
+                    "addedAt": 1687447474412
                 }
             ],
             "isExpanded": false,
@@ -2464,457 +2712,35 @@
             "island": "rift"
         },
         {
-            "name": "NPC, etc",
+            "name": "Enigma Soul #07 (Colosseum)",
             "waypoints": [
                 {
-                    "name": "Argofay Bughunter (Silkwire Stick, Leech Belt)",
-                    "x": -85,
-                    "y": 108,
-                    "z": 96,
+                    "name": "Soul #01-2",
+                    "x": -160,
+                    "y": 97,
+                    "z": -76,
                     "enabled": false,
-                    "addedAt": 1687275807191
+                    "addedAt": 1683412858679
                 },
                 {
-                    "name": "Dr. Hibble (Leech Supreme)",
-                    "x": -80,
-                    "y": 73,
-                    "z": 9,
-                    "enabled": false,
-                    "addedAt": 1684461785987
-                },
-                {
-                    "name": "Enigma (Enigma Cloak)",
-                    "x": -41,
-                    "y": 71,
-                    "z": 91,
-                    "enabled": false,
-                    "addedAt": 1687583655722
-                },
-                {
-                    "name": "Alchemist",
-                    "x": -50,
-                    "y": 70,
-                    "z": -66,
-                    "enabled": false,
-                    "addedAt": 1687464202597
-                },
-                {
-                    "name": "Mirrorverse",
-                    "x": -88,
-                    "y": 72,
-                    "z": -125,
-                    "enabled": false,
-                    "addedAt": 1683359682691
-                },
-                {
-                    "name": "Riftwart Roots",
-                    "x": -39,
-                    "y": 68,
-                    "z": -69,
-                    "enabled": false,
-                    "addedAt": 1687461065556
-                },
-                {
-                    "name": "Election Box (SkyBlock Citzen Timecharm)",
-                    "x": -69,
-                    "y": 56,
-                    "z": -151,
-                    "enabled": false,
-                    "addedAt": 1687541086535
-                },
-                {
-                    "name": "Kay (Enter the pond, defeat the enemy, place the Lil' Pad, and cross the pond.)",
-                    "x": -192,
-                    "y": 68,
-                    "z": 58,
-                    "enabled": false,
-                    "addedAt": 1687276824885
-                },
-                {
-                    "name": "Deer (Rift Boat required)",
-                    "x": 139,
-                    "y": 70,
-                    "z": -12,
-                    "enabled": false,
-                    "addedAt": 1687585248818
-                },
-                {
-                    "name": "Plumber Joe (Plumber's Bucket)",
-                    "x": -62,
-                    "y": 70,
-                    "z": -78,
-                    "enabled": false,
-                    "addedAt": 1687449325163
-                },
-                {
-                    "name": "Barry (Barry's Montgray Pen)",
-                    "x": -10,
-                    "y": 73,
-                    "z": -113,
-                    "enabled": false,
-                    "addedAt": 1687541460786
-                },
-                {
-                    "name": "Shania (Hoe) (Check Rift Collections (chicken can be killed with Berberis Blowgun))",
-                    "x": -48,
-                    "y": 72,
-                    "z": -162,
-                    "enabled": false,
-                    "addedAt": 1687446649360
-                },
-                {
-                    "name": "Roger (Travel Scroll)",
-                    "x": -3,
-                    "y": 70,
-                    "z": -44,
-                    "enabled": false,
-                    "addedAt": 1687465404854
-                },
-                {
-                    "name": "Argofay Bugshopper",
-                    "x": -96,
-                    "y": 110,
-                    "z": 94,
-                    "enabled": false,
-                    "addedAt": 1683251537465
-                },
-                {
-                    "name": "Cowboy Nick (Horsezokka, Rift Storage +1 Page)",
-                    "x": -14,
-                    "y": 70,
-                    "z": -7,
-                    "enabled": false,
-                    "addedAt": 1687465219598
-                },
-                {
-                    "name": "Unbound Explorer",
-                    "x": -29,
-                    "y": 72,
-                    "z": 315,
-                    "enabled": false,
-                    "addedAt": 1689568820745
-                },
-                {
-                    "name": "Seymour (Gunther's Sneakers Upgrade)",
-                    "x": -27,
-                    "y": 71,
-                    "z": -45,
-                    "enabled": false,
-                    "addedAt": 1687465302704
-                },
-                {
-                    "name": "Reed (Rift Boat)",
-                    "x": -213,
-                    "y": 72,
-                    "z": 60,
-                    "enabled": false,
-                    "addedAt": 1687276806987
-                },
-                {
-                    "name": "Rift Transfer Chest",
-                    "x": -96,
+                    "name": "Soul #01-1",
+                    "x": -168,
                     "y": 76,
-                    "z": 192,
+                    "z": -74,
                     "enabled": false,
-                    "addedAt": 1687275540045
+                    "addedAt": 1683412963931
                 },
                 {
-                    "name": "Gunther (Wyld Boots Upgrade)",
-                    "x": -69,
-                    "y": 71,
-                    "z": -62,
+                    "name": "Soul #01-3",
+                    "x": -161,
+                    "y": 98,
+                    "z": -72,
                     "enabled": false,
-                    "addedAt": 1687449203966
-                },
-                {
-                    "name": "Seraphine (Agaricus Cap Cap Upgrade)",
-                    "x": -17,
-                    "y": 71,
-                    "z": -102,
-                    "enabled": false,
-                    "addedAt": 1687464257250
-                },
-                {
-                    "name": "Kat (Disinfestor Gloves, Leech Belt Upgrade)",
-                    "x": -35,
-                    "y": 70,
-                    "z": -91,
-                    "enabled": false,
-                    "addedAt": 1687459975054
-                },
-                {
-                    "name": "Maddox the Slayer",
-                    "x": 204,
-                    "y": 77,
-                    "z": 44,
-                    "enabled": false,
-                    "addedAt": 1683551180554
-                },
-                {
-                    "name": "Finplex (Zoop the Fish)",
-                    "x": -58,
-                    "y": 68,
-                    "z": -83,
-                    "enabled": false,
-                    "addedAt": 1687465480553
+                    "addedAt": 1683413001236
                 }
             ],
             "isExpanded": false,
             "island": "rift"
-        },
-        {
-            "name": "Buttons (Dreadfarm Soul #03)",
-            "waypoints": [
-                {
-                    "name": "Buttons #12",
-                    "x": -87,
-                    "y": 73,
-                    "z": -90,
-                    "enabled": false,
-                    "addedAt": 1683387496934
-                },
-                {
-                    "name": "Buttons #14",
-                    "x": -92,
-                    "y": 76,
-                    "z": -79,
-                    "enabled": false,
-                    "addedAt": 1683386407883
-                },
-                {
-                    "name": "Buttons #02",
-                    "x": -43,
-                    "y": 74,
-                    "z": -86,
-                    "enabled": false,
-                    "addedAt": 1683387744738
-                },
-                {
-                    "name": "Buttons #08",
-                    "x": -90,
-                    "y": 74,
-                    "z": -113,
-                    "enabled": false,
-                    "addedAt": 1683386247583
-                },
-                {
-                    "name": "Buttons #07",
-                    "x": -90,
-                    "y": 74,
-                    "z": -127,
-                    "enabled": false,
-                    "addedAt": 1687458191301
-                },
-                {
-                    "name": "Buttons #04",
-                    "x": -60,
-                    "y": 72,
-                    "z": -121,
-                    "enabled": false,
-                    "addedAt": 1687458040208
-                },
-                {
-                    "name": "Buttons #09",
-                    "x": -112,
-                    "y": 75,
-                    "z": -107,
-                    "enabled": false,
-                    "addedAt": 1683386344283
-                },
-                {
-                    "name": "Buttons #10",
-                    "x": -112,
-                    "y": 75,
-                    "z": -99,
-                    "enabled": false,
-                    "addedAt": 1683387537579
-                },
-                {
-                    "name": "Buttons #06",
-                    "x": -85,
-                    "y": 74,
-                    "z": -127,
-                    "enabled": false,
-                    "addedAt": 1687458114108
-                },
-                {
-                    "name": "Buttons #11",
-                    "x": -107,
-                    "y": 78,
-                    "z": -96,
-                    "enabled": false,
-                    "addedAt": 1683386366482
-                },
-                {
-                    "name": "Buttons #01",
-                    "x": -33,
-                    "y": 74,
-                    "z": -86,
-                    "enabled": false,
-                    "addedAt": 1683388110227
-                },
-                {
-                    "name": "Buttons #03",
-                    "x": -46,
-                    "y": 77,
-                    "z": -91,
-                    "enabled": false,
-                    "addedAt": 1683387722277
-                },
-                {
-                    "name": "Buttons #05",
-                    "x": -65,
-                    "y": 72,
-                    "z": -121,
-                    "enabled": false,
-                    "addedAt": 1687458069411
-                },
-                {
-                    "name": "Buttons #13",
-                    "x": -87,
-                    "y": 73,
-                    "z": -82,
-                    "enabled": false,
-                    "addedAt": 1683386422483
-                },
-                {
-                    "name": "Buttons #15 (Enigma Soul)",
-                    "x": -74,
-                    "y": 65,
-                    "z": -119,
-                    "enabled": false,
-                    "addedAt": 1687458884358
-                }
-            ],
-            "isExpanded": false,
-            "island": "rift"
-        },
-        {
-            "name": "",
-            "waypoints": [
-                {
-                    "name": "15",
-                    "x": 780,
-                    "y": 37,
-                    "z": 652,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "14",
-                    "x": 780,
-                    "y": 54,
-                    "z": 646,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "9",
-                    "x": 773,
-                    "y": 62,
-                    "z": 667,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "1",
-                    "x": 799,
-                    "y": 55,
-                    "z": 694,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "5",
-                    "x": 786,
-                    "y": 48,
-                    "z": 668,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "3",
-                    "x": 799,
-                    "y": 52,
-                    "z": 682,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "7",
-                    "x": 781,
-                    "y": 54,
-                    "z": 665,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "8",
-                    "x": 799,
-                    "y": 61,
-                    "z": 664,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "11",
-                    "x": 777,
-                    "y": 61,
-                    "z": 657,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "4",
-                    "x": 796,
-                    "y": 47,
-                    "z": 675,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "6",
-                    "x": 790,
-                    "y": 56,
-                    "z": 662,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "2",
-                    "x": 799,
-                    "y": 52,
-                    "z": 688,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "12",
-                    "x": 783,
-                    "y": 56,
-                    "z": 657,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "13",
-                    "x": 774,
-                    "y": 59,
-                    "z": 651,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                },
-                {
-                    "name": "10",
-                    "x": 770,
-                    "y": 62,
-                    "z": 662,
-                    "enabled": false,
-                    "addedAt": 1723067848314
-                }
-            ],
-            "isExpanded": false,
-            "island": "crystal_hollows"
         },
         {
             "name": "Enigma Soul #05 (Village Plaza)",
@@ -3092,26 +2918,478 @@
             "island": "rift"
         },
         {
-            "name": "Crimson Isle",
+            "name": "Enigma Soul #06 (Living Cave)",
             "waypoints": [
                 {
-                    "name": "Smoldering Tomb",
-                    "x": -283,
-                    "y": 108,
-                    "z": -1031,
-                    "enabled": true,
-                    "addedAt": 1672266464333
+                    "name": "Soul #01 (Horsezooka)",
+                    "x": 43,
+                    "y": 62,
+                    "z": -198,
+                    "enabled": false,
+                    "addedAt": 1683404733564
                 },
                 {
-                    "name": "Udel",
-                    "x": -79,
-                    "y": 101,
-                    "z": -789,
-                    "enabled": true,
-                    "addedAt": 1667345431035
+                    "name": "Soul #02-1",
+                    "x": 3,
+                    "y": 68,
+                    "z": -204,
+                    "enabled": false,
+                    "addedAt": 1683402551407
+                },
+                {
+                    "name": "Soul #02-2(Say Hi)",
+                    "x": 16,
+                    "y": 71,
+                    "z": -162,
+                    "enabled": false,
+                    "addedAt": 1683402680513
                 }
             ],
-            "island": "crimson_isle"
+            "isExpanded": false,
+            "island": "rift"
+        },
+        {
+            "name": "Motes Grubber",
+            "waypoints": [
+                {
+                    "name": "Motes Grubber #1",
+                    "x": -93,
+                    "y": 65,
+                    "z": 156,
+                    "enabled": false,
+                    "addedAt": 1684505600011
+                },
+                {
+                    "name": "Motes Grubber #2",
+                    "x": -94,
+                    "y": 70,
+                    "z": -74,
+                    "enabled": false,
+                    "addedAt": 1684505521166
+                },
+                {
+                    "name": "Motes Grubber #3",
+                    "x": 164,
+                    "y": 77,
+                    "z": 125,
+                    "enabled": false,
+                    "addedAt": 1684505156566
+                }
+            ],
+            "isExpanded": false,
+            "island": "rift"
+        },
+        {
+            "name": "Buttons (Dreadfarm Soul #03)",
+            "waypoints": [
+                {
+                    "name": "Buttons #12",
+                    "x": -87,
+                    "y": 73,
+                    "z": -90,
+                    "enabled": false,
+                    "addedAt": 1683387496934
+                },
+                {
+                    "name": "Buttons #14",
+                    "x": -92,
+                    "y": 76,
+                    "z": -79,
+                    "enabled": false,
+                    "addedAt": 1683386407883
+                },
+                {
+                    "name": "Buttons #02",
+                    "x": -43,
+                    "y": 74,
+                    "z": -86,
+                    "enabled": false,
+                    "addedAt": 1683387744738
+                },
+                {
+                    "name": "Buttons #08",
+                    "x": -90,
+                    "y": 74,
+                    "z": -113,
+                    "enabled": false,
+                    "addedAt": 1683386247583
+                },
+                {
+                    "name": "Buttons #07",
+                    "x": -90,
+                    "y": 74,
+                    "z": -127,
+                    "enabled": false,
+                    "addedAt": 1687458191301
+                },
+                {
+                    "name": "Buttons #04",
+                    "x": -60,
+                    "y": 72,
+                    "z": -121,
+                    "enabled": false,
+                    "addedAt": 1687458040208
+                },
+                {
+                    "name": "Buttons #09",
+                    "x": -112,
+                    "y": 75,
+                    "z": -107,
+                    "enabled": false,
+                    "addedAt": 1683386344283
+                },
+                {
+                    "name": "Buttons #10",
+                    "x": -112,
+                    "y": 75,
+                    "z": -99,
+                    "enabled": false,
+                    "addedAt": 1683387537579
+                },
+                {
+                    "name": "Buttons #06",
+                    "x": -85,
+                    "y": 74,
+                    "z": -127,
+                    "enabled": false,
+                    "addedAt": 1687458114108
+                },
+                {
+                    "name": "Buttons #11",
+                    "x": -107,
+                    "y": 78,
+                    "z": -96,
+                    "enabled": false,
+                    "addedAt": 1683386366482
+                },
+                {
+                    "name": "Buttons #01",
+                    "x": -33,
+                    "y": 74,
+                    "z": -86,
+                    "enabled": false,
+                    "addedAt": 1683388110227
+                },
+                {
+                    "name": "Buttons #03",
+                    "x": -46,
+                    "y": 77,
+                    "z": -91,
+                    "enabled": false,
+                    "addedAt": 1683387722277
+                },
+                {
+                    "name": "Buttons #05",
+                    "x": -65,
+                    "y": 72,
+                    "z": -121,
+                    "enabled": false,
+                    "addedAt": 1687458069411
+                },
+                {
+                    "name": "Buttons #13",
+                    "x": -87,
+                    "y": 73,
+                    "z": -82,
+                    "enabled": false,
+                    "addedAt": 1683386422483
+                },
+                {
+                    "name": "Buttons #15 (Enigma Soul)",
+                    "x": -74,
+                    "y": 65,
+                    "z": -119,
+                    "enabled": false,
+                    "addedAt": 1687458884358
+                }
+            ],
+            "isExpanded": false,
+            "island": "rift"
+        },
+        {
+            "name": "Porhtal Eye (Teleporter)",
+            "waypoints": [
+                {
+                    "name": "#07 Stillgore Château Eye",
+                    "x": 157,
+                    "y": 74,
+                    "z": 79,
+                    "enabled": true,
+                    "addedAt": 1683453549633
+                },
+                {
+                    "name": "#03 Lagoon Hut Eye",
+                    "x": -206,
+                    "y": 65,
+                    "z": 50,
+                    "enabled": true,
+                    "addedAt": 1683338500778
+                },
+                {
+                    "name": "#01 Porhtal (Enable Teleporter)",
+                    "x": -158,
+                    "y": 70,
+                    "z": 162,
+                    "enabled": true,
+                    "addedAt": 1687275913789
+                },
+                {
+                    "name": "#02 Wizard Tower Eye",
+                    "x": -50,
+                    "y": 104,
+                    "z": 71,
+                    "enabled": true,
+                    "addedAt": 1683338474576
+                },
+                {
+                    "name": "#04 Dreadfarm Eye",
+                    "x": -15,
+                    "y": 71,
+                    "z": -174,
+                    "enabled": true,
+                    "addedAt": 1683337786476
+                },
+                {
+                    "name": "#05 Village Plaza Eye",
+                    "x": 32,
+                    "y": 69,
+                    "z": -37,
+                    "enabled": true,
+                    "addedAt": 1683385067429
+                },
+                {
+                    "name": "#06 Colosseum Eye",
+                    "x": -167,
+                    "y": 77,
+                    "z": -55,
+                    "enabled": true,
+                    "addedAt": 1683453598978
+                }
+            ],
+            "isExpanded": false,
+            "island": "rift"
+        },
+        {
+            "name": "Enigma Soul #04 (Dreadfarm)",
+            "waypoints": [
+                {
+                    "name": "Soul #02-05",
+                    "x": -116,
+                    "y": 110,
+                    "z": -161,
+                    "enabled": false,
+                    "addedAt": 1687592998121
+                },
+                {
+                    "name": "Soul #02-12",
+                    "x": -115,
+                    "y": 210,
+                    "z": -159,
+                    "enabled": false,
+                    "addedAt": 1687593373164
+                },
+                {
+                    "name": "Soul #02-03",
+                    "x": -93,
+                    "y": 85,
+                    "z": -164,
+                    "enabled": false,
+                    "addedAt": 1687589429039
+                },
+                {
+                    "name": "Soul #02-13",
+                    "x": -93,
+                    "y": 222,
+                    "z": -155,
+                    "enabled": false,
+                    "addedAt": 1687593418826
+                },
+                {
+                    "name": "Soul #02-04",
+                    "x": -117,
+                    "y": 95,
+                    "z": -139,
+                    "enabled": false,
+                    "addedAt": 1687592911221
+                },
+                {
+                    "name": "Soul #01-1",
+                    "x": -57,
+                    "y": 70,
+                    "z": -126,
+                    "enabled": false,
+                    "addedAt": 1683335195826
+                },
+                {
+                    "name": "Soul #02-11",
+                    "x": -86,
+                    "y": 190,
+                    "z": -156,
+                    "enabled": false,
+                    "addedAt": 1687593327823
+                },
+                {
+                    "name": "Soul #02-10",
+                    "x": -101,
+                    "y": 176,
+                    "z": -163,
+                    "enabled": false,
+                    "addedAt": 1687593240423
+                },
+                {
+                    "name": "Soul #01-2",
+                    "x": -76,
+                    "y": 90,
+                    "z": -149,
+                    "enabled": false,
+                    "addedAt": 1683335498331
+                },
+                {
+                    "name": "Soul #02-02",
+                    "x": -87,
+                    "y": 71,
+                    "z": -137,
+                    "enabled": false,
+                    "addedAt": 1687589284568
+                },
+                {
+                    "name": "Soul #02-15",
+                    "x": -106,
+                    "y": 249,
+                    "z": -149,
+                    "enabled": false,
+                    "addedAt": 1683366826489
+                },
+                {
+                    "name": "Soul #02-07",
+                    "x": -117,
+                    "y": 142,
+                    "z": -142,
+                    "enabled": false,
+                    "addedAt": 1687593100417
+                },
+                {
+                    "name": "Soul #02-14",
+                    "x": -119,
+                    "y": 235,
+                    "z": -152,
+                    "enabled": false,
+                    "addedAt": 1687593482427
+                },
+                {
+                    "name": "Soul #04 (Berberis Blowgun)",
+                    "x": -77,
+                    "y": 72,
+                    "z": -176,
+                    "enabled": false,
+                    "addedAt": 1683385489829
+                },
+                {
+                    "name": "Soul #02-01 (Plumber's Bucket)",
+                    "x": -97,
+                    "y": 72,
+                    "z": -150,
+                    "enabled": false,
+                    "addedAt": 1683367821333
+                },
+                {
+                    "name": "Soul #02-06",
+                    "x": -92,
+                    "y": 130,
+                    "z": -159,
+                    "enabled": false,
+                    "addedAt": 1687593051718
+                },
+                {
+                    "name": "Soul #02-09",
+                    "x": -95,
+                    "y": 162,
+                    "z": -145,
+                    "enabled": false,
+                    "addedAt": 1687593205816
+                },
+                {
+                    "name": "Soul #02-08",
+                    "x": -102,
+                    "y": 151,
+                    "z": -164,
+                    "enabled": false,
+                    "addedAt": 1687593156217
+                }
+            ],
+            "isExpanded": false,
+            "island": "rift"
+        },
+        {
+            "name": "Blood Effigy",
+            "waypoints": [
+                {
+                    "name": "Blood Effigy #03-3",
+                    "x": 235,
+                    "y": 104,
+                    "z": 147,
+                    "enabled": false,
+                    "addedAt": 1683461236904
+                },
+                {
+                    "name": "Blood Effigy #03-1",
+                    "x": 270,
+                    "y": 106,
+                    "z": 107,
+                    "enabled": false,
+                    "addedAt": 1687455200964
+                },
+                {
+                    "name": "Blood Effigy #05",
+                    "x": 262,
+                    "y": 93,
+                    "z": 94,
+                    "enabled": false,
+                    "addedAt": 1683452903725
+                },
+                {
+                    "name": "Blood Effigy #01",
+                    "x": 150,
+                    "y": 73,
+                    "z": 95,
+                    "enabled": false,
+                    "addedAt": 1683453490826
+                },
+                {
+                    "name": "Blood Effigy #02",
+                    "x": 193,
+                    "y": 87,
+                    "z": 119,
+                    "enabled": false,
+                    "addedAt": 1683454463167
+                },
+                {
+                    "name": "Blood Effigy #04",
+                    "x": 293,
+                    "y": 90,
+                    "z": 134,
+                    "enabled": false,
+                    "addedAt": 1683462653751
+                },
+                {
+                    "name": "Blood Effigy #03-2",
+                    "x": 270,
+                    "y": 106,
+                    "z": 147,
+                    "enabled": false,
+                    "addedAt": 1687455226012
+                },
+                {
+                    "name": "Blood Effigy #06",
+                    "x": 240,
+                    "y": 123,
+                    "z": 118,
+                    "enabled": false,
+                    "addedAt": 1683452794582
+                }
+            ],
+            "isExpanded": false,
+            "island": "rift"
         },
         {
             "name": "Montezuma Soul",
@@ -3219,433 +3497,6 @@
                     "z": -118,
                     "enabled": false,
                     "addedAt": 1683395426779
-                }
-            ],
-            "isExpanded": false,
-            "island": "rift"
-        },
-        {
-            "name": "Blood Effigy",
-            "waypoints": [
-                {
-                    "name": "Blood Effigy #03-3",
-                    "x": 235,
-                    "y": 104,
-                    "z": 147,
-                    "enabled": false,
-                    "addedAt": 1683461236904
-                },
-                {
-                    "name": "Blood Effigy #03-1",
-                    "x": 270,
-                    "y": 106,
-                    "z": 107,
-                    "enabled": false,
-                    "addedAt": 1687455200964
-                },
-                {
-                    "name": "Blood Effigy #05",
-                    "x": 262,
-                    "y": 93,
-                    "z": 94,
-                    "enabled": false,
-                    "addedAt": 1683452903725
-                },
-                {
-                    "name": "Blood Effigy #01",
-                    "x": 150,
-                    "y": 73,
-                    "z": 95,
-                    "enabled": false,
-                    "addedAt": 1683453490826
-                },
-                {
-                    "name": "Blood Effigy #02",
-                    "x": 193,
-                    "y": 87,
-                    "z": 119,
-                    "enabled": false,
-                    "addedAt": 1683454463167
-                },
-                {
-                    "name": "Blood Effigy #04",
-                    "x": 293,
-                    "y": 90,
-                    "z": 134,
-                    "enabled": false,
-                    "addedAt": 1683462653751
-                },
-                {
-                    "name": "Blood Effigy #03-2",
-                    "x": 270,
-                    "y": 106,
-                    "z": 147,
-                    "enabled": false,
-                    "addedAt": 1687455226012
-                },
-                {
-                    "name": "Blood Effigy #06",
-                    "x": 240,
-                    "y": 123,
-                    "z": 118,
-                    "enabled": false,
-                    "addedAt": 1683452794582
-                }
-            ],
-            "isExpanded": false,
-            "island": "rift"
-        },
-        {
-            "name": "Fairy Soul (Stillgore Château)",
-            "waypoints": [
-                {
-                    "name": "Fairy Soul #01-4",
-                    "x": 250,
-                    "y": 123,
-                    "z": 88,
-                    "enabled": false,
-                    "addedAt": 1687455928459
-                },
-                {
-                    "name": "Fairy Soul #01-3",
-                    "x": 256,
-                    "y": 123,
-                    "z": 87,
-                    "enabled": false,
-                    "addedAt": 1687455912602
-                },
-                {
-                    "name": "Fairy Soul #01-5",
-                    "x": 253,
-                    "y": 123,
-                    "z": 90,
-                    "enabled": false,
-                    "addedAt": 1687456423659
-                },
-                {
-                    "name": "Fairy Soul #01-2",
-                    "x": 250,
-                    "y": 123,
-                    "z": 85,
-                    "enabled": false,
-                    "addedAt": 1687454273506
-                },
-                {
-                    "name": "Fairy Soul #01-1",
-                    "x": 256,
-                    "y": 123,
-                    "z": 84,
-                    "enabled": false,
-                    "addedAt": 1687455883362
-                }
-            ],
-            "isExpanded": false,
-            "island": "rift"
-        },
-        {
-            "name": "Detective Amog Quest (NPC)",
-            "waypoints": [
-                {
-                    "name": "#06 Joliet",
-                    "x": -32,
-                    "y": 64,
-                    "z": -44,
-                    "enabled": false,
-                    "addedAt": 1683398992928
-                },
-                {
-                    "name": "#01, #05, #07 Detective Amog",
-                    "x": -50,
-                    "y": 68,
-                    "z": -38,
-                    "enabled": false,
-                    "addedAt": 1683398753570
-                },
-                {
-                    "name": "#02 Marcia",
-                    "x": 2,
-                    "y": 71,
-                    "z": -11,
-                    "enabled": false,
-                    "addedAt": 1684515190458
-                },
-                {
-                    "name": "#03 Fink",
-                    "x": -193,
-                    "y": 72,
-                    "z": -58,
-                    "enabled": false,
-                    "addedAt": 1683398145071
-                },
-                {
-                    "name": "#04 Blacksmith",
-                    "x": -2,
-                    "y": 68,
-                    "z": -143,
-                    "enabled": false,
-                    "addedAt": 1683398498222
-                }
-            ],
-            "isExpanded": false,
-            "island": "rift"
-        },
-        {
-            "name": "Mirrorverse (Tubulator)",
-            "waypoints": [
-                {
-                    "name": "03",
-                    "x": -308,
-                    "y": 6,
-                    "z": -105,
-                    "enabled": false,
-                    "addedAt": 1687295408275
-                },
-                {
-                    "name": "08",
-                    "x": -306,
-                    "y": 16,
-                    "z": -107,
-                    "enabled": false,
-                    "addedAt": 1687294193675
-                },
-                {
-                    "name": "11",
-                    "x": -304,
-                    "y": 22,
-                    "z": -111,
-                    "enabled": false,
-                    "addedAt": 1687294569227
-                },
-                {
-                    "name": "13",
-                    "x": -302,
-                    "y": 26,
-                    "z": -111,
-                    "enabled": false,
-                    "addedAt": 1687294645224
-                },
-                {
-                    "name": "04",
-                    "x": -304,
-                    "y": 8,
-                    "z": -109,
-                    "enabled": false,
-                    "addedAt": 1687294396275
-                },
-                {
-                    "name": "12",
-                    "x": -306,
-                    "y": 24,
-                    "z": -109,
-                    "enabled": false,
-                    "addedAt": 1687294619223
-                },
-                {
-                    "name": "22",
-                    "x": -302,
-                    "y": 44,
-                    "z": -107,
-                    "enabled": false,
-                    "addedAt": 1687295105177
-                },
-                {
-                    "name": "07",
-                    "x": -308,
-                    "y": 14,
-                    "z": -103,
-                    "enabled": false,
-                    "addedAt": 1687294126172
-                },
-                {
-                    "name": "21",
-                    "x": -306,
-                    "y": 42,
-                    "z": -111,
-                    "enabled": false,
-                    "addedAt": 1687295067127
-                },
-                {
-                    "name": "19",
-                    "x": -302,
-                    "y": 38,
-                    "z": -105,
-                    "enabled": false,
-                    "addedAt": 1687295008523
-                },
-                {
-                    "name": "05",
-                    "x": -300,
-                    "y": 10,
-                    "z": -111,
-                    "enabled": false,
-                    "addedAt": 1687294037072
-                },
-                {
-                    "name": "25",
-                    "x": -308,
-                    "y": 50,
-                    "z": -105,
-                    "enabled": false,
-                    "addedAt": 1687295209925
-                },
-                {
-                    "name": "17",
-                    "x": -302,
-                    "y": 34,
-                    "z": -107,
-                    "enabled": false,
-                    "addedAt": 1687294891273
-                },
-                {
-                    "name": "02",
-                    "x": -306,
-                    "y": 4,
-                    "z": -103,
-                    "enabled": false,
-                    "addedAt": 1687295370373
-                },
-                {
-                    "name": "09",
-                    "x": -302,
-                    "y": 18,
-                    "z": -111,
-                    "enabled": false,
-                    "addedAt": 1687294473824
-                },
-                {
-                    "name": "27",
-                    "x": -306,
-                    "y": 54,
-                    "z": -111,
-                    "enabled": false,
-                    "addedAt": 1687295295821
-                },
-                {
-                    "name": "23",
-                    "x": -300,
-                    "y": 46,
-                    "z": -103,
-                    "enabled": false,
-                    "addedAt": 1687295143122
-                },
-                {
-                    "name": "14",
-                    "x": -300,
-                    "y": 28,
-                    "z": -107,
-                    "enabled": false,
-                    "addedAt": 1687294731825
-                },
-                {
-                    "name": "10",
-                    "x": -300,
-                    "y": 20,
-                    "z": -107,
-                    "enabled": false,
-                    "addedAt": 1687294537877
-                },
-                {
-                    "name": "06",
-                    "x": -304,
-                    "y": 12,
-                    "z": -107,
-                    "enabled": false,
-                    "addedAt": 1687294084523
-                },
-                {
-                    "name": "16",
-                    "x": -306,
-                    "y": 32,
-                    "z": -105,
-                    "enabled": false,
-                    "addedAt": 1687294841027
-                },
-                {
-                    "name": "01",
-                    "x": -304,
-                    "y": 2,
-                    "z": -107,
-                    "enabled": false,
-                    "addedAt": 1687295326172
-                },
-                {
-                    "name": "15",
-                    "x": -304,
-                    "y": 30,
-                    "z": -103,
-                    "enabled": false,
-                    "addedAt": 1687294772575
-                },
-                {
-                    "name": "20",
-                    "x": -304,
-                    "y": 40,
-                    "z": -107,
-                    "enabled": false,
-                    "addedAt": 1687295038174
-                },
-                {
-                    "name": "Emmett Pointer",
-                    "x": -299,
-                    "y": 1,
-                    "z": -111,
-                    "enabled": false,
-                    "addedAt": 1687542531480
-                },
-                {
-                    "name": "24",
-                    "x": -304,
-                    "y": 48,
-                    "z": -107,
-                    "enabled": false,
-                    "addedAt": 1687295176224
-                },
-                {
-                    "name": "26",
-                    "x": -304,
-                    "y": 52,
-                    "z": -109,
-                    "enabled": false,
-                    "addedAt": 1687295246478
-                },
-                {
-                    "name": "18",
-                    "x": -300,
-                    "y": 36,
-                    "z": -109,
-                    "enabled": false,
-                    "addedAt": 1687294947173
-                }
-            ],
-            "isExpanded": false,
-            "island": "rift"
-        },
-        {
-            "name": "Motes Grubber",
-            "waypoints": [
-                {
-                    "name": "Motes Grubber #1",
-                    "x": -93,
-                    "y": 65,
-                    "z": 156,
-                    "enabled": false,
-                    "addedAt": 1684505600011
-                },
-                {
-                    "name": "Motes Grubber #2",
-                    "x": -94,
-                    "y": 70,
-                    "z": -74,
-                    "enabled": false,
-                    "addedAt": 1684505521166
-                },
-                {
-                    "name": "Motes Grubber #3",
-                    "x": 164,
-                    "y": 77,
-                    "z": 125,
-                    "enabled": false,
-                    "addedAt": 1684505156566
                 }
             ],
             "isExpanded": false,
@@ -3849,6 +3700,155 @@
             ],
             "isExpanded": false,
             "island": "rift"
+        },
+        {
+            "name": "Crimson Isle",
+            "waypoints": [
+                {
+                    "name": "Smoldering Tomb",
+                    "x": -283,
+                    "y": 108,
+                    "z": -1031,
+                    "enabled": true,
+                    "addedAt": 1672266464333
+                },
+                {
+                    "name": "Udel",
+                    "x": -79,
+                    "y": 101,
+                    "z": -789,
+                    "enabled": true,
+                    "addedAt": 1667345431035
+                }
+            ],
+            "island": "crimson_isle"
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "15",
+                    "x": 780,
+                    "y": 37,
+                    "z": 652,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "14",
+                    "x": 780,
+                    "y": 54,
+                    "z": 646,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "9",
+                    "x": 773,
+                    "y": 62,
+                    "z": 667,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "1",
+                    "x": 799,
+                    "y": 55,
+                    "z": 694,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "5",
+                    "x": 786,
+                    "y": 48,
+                    "z": 668,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "3",
+                    "x": 799,
+                    "y": 52,
+                    "z": 682,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "7",
+                    "x": 781,
+                    "y": 54,
+                    "z": 665,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "8",
+                    "x": 799,
+                    "y": 61,
+                    "z": 664,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "11",
+                    "x": 777,
+                    "y": 61,
+                    "z": 657,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "4",
+                    "x": 796,
+                    "y": 47,
+                    "z": 675,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "6",
+                    "x": 790,
+                    "y": 56,
+                    "z": 662,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "2",
+                    "x": 799,
+                    "y": 52,
+                    "z": 688,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "12",
+                    "x": 783,
+                    "y": 56,
+                    "z": 657,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "13",
+                    "x": 774,
+                    "y": 59,
+                    "z": 651,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                },
+                {
+                    "name": "10",
+                    "x": 770,
+                    "y": 62,
+                    "z": 662,
+                    "enabled": false,
+                    "addedAt": 1723067848314
+                }
+            ],
+            "isExpanded": false,
+            "island": "crystal_hollows"
         },
         {
             "name": "Enigma Soul #03 (West Village)",

@@ -1,7 +1,40 @@
 {
   "players": {
     "e35e1563-c0a7-4696-9908-dc57289a69c1": {
-      "friends": {}
+      "friends": {
+        "39e867a2-7d59-41ae-a2b6-8af017a12b02": {
+          "name": "5kit",
+          "bestFriend": false
+        },
+        "b619fb1e-9128-49cd-bcce-111247bb0522": {
+          "name": "Neatif2",
+          "bestFriend": false
+        },
+        "0fe99083-a3d4-48d8-9ce1-7cbd43d10376": {
+          "name": "Sm5rtSam",
+          "bestFriend": false
+        },
+        "6b15929e-47ca-4357-87d6-876c07c210d6": {
+          "name": "3ndre",
+          "bestFriend": false
+        },
+        "3c1a6d41-8144-43a5-b40b-989be95c5371": {
+          "name": "4229",
+          "bestFriend": false
+        },
+        "0c24e5e8-6218-428f-8b15-329eae0372fc": {
+          "name": "__Audacity",
+          "bestFriend": false
+        },
+        "bde00037-df93-4d89-9e7d-83408ac06f95": {
+          "name": "BlueCommands",
+          "bestFriend": false
+        },
+        "cd895bbb-7996-4ca6-be1e-e80d27ba3e9c": {
+          "name": "Borf420",
+          "bestFriend": false
+        }
+      }
     }
   }
 }
