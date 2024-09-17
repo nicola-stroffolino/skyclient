@@ -1,4 +1,4 @@
 skyclientupdater/updates/*
-crash-reports/
-logs/
-config/skyhanni/logs
+crash-reports/*
+logs/*
+config/skyhanni/logs/*
