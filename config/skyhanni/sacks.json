@@ -175,7 +175,7 @@
               "status": "CORRECT"
             },
             "POISONOUS_POTATO": {
-              "amount": 15,
+              "amount": 16,
               "lastChange": 1,
               "status": "ALRIGHT"
             },
@@ -185,8 +185,8 @@
               "status": "ALRIGHT"
             },
             "ROTTEN_FLESH": {
-              "amount": 3488,
-              "lastChange": 9,
+              "amount": 3512,
+              "lastChange": 10,
               "status": "ALRIGHT"
             },
             "ENCHANTED_BROWN_MUSHROOM": {
@@ -305,8 +305,8 @@
               "status": "ALRIGHT"
             },
             "CARROT_ITEM": {
-              "amount": 91,
-              "lastChange": 0,
+              "amount": 92,
+              "lastChange": 1,
               "status": "ALRIGHT"
             },
             "COMPOST": {

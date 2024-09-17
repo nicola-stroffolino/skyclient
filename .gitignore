@@ -2,3 +2,8 @@ skyclientupdater/updates/*
 crash-reports/*
 logs/*
 config/skyhanni/logs/*
+essential/cosmetic-cache/*
+
+
+config/skyblockaddons_petCache.json
+OneConfig/profiles/Default Profile/polysprint.json

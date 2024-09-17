@@ -39,9 +39,9 @@
         "maxLevel": 200,
         "expRequiredForNextLevel": 1886700,
         "expRequiredForMaxLevel": 210255680,
-        "expInCurrentLevel": 1001356.0,
-        "expTotal": 1.62202736E8,
-        "percentageToNextLevel": 0.5307447
+        "expInCurrentLevel": 1001372.0,
+        "expTotal": 1.62202752E8,
+        "percentageToNextLevel": 0.5307532
       },
       "petXpType": "combat",
       "petItem": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
@@ -167,9 +167,9 @@
         "maxLevel": 100,
         "expRequiredForNextLevel": 1886700,
         "expRequiredForMaxLevel": 25353230,
-        "expInCurrentLevel": 1411486.0,
-        "expTotal": 2.6764716E7,
-        "percentageToNextLevel": 0.74812424
+        "expInCurrentLevel": 1411526.0,
+        "expTotal": 2.6764756E7,
+        "percentageToNextLevel": 0.74814546
       },
       "petXpType": "combat",
       "petItem": "DWARF_TURTLE_SHELMET",
@@ -641,8 +641,8 @@
       "candyUsed": 0
     }
   },
-  "selectedPet": 2,
-  "selectedPet2": 11,
+  "selectedPet": 11,
+  "selectedPet2": 2,
   "tamingLevel": 53,
   "beastMultiplier": 3.0
 }

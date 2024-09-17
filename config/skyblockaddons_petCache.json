@@ -1,22 +1,22 @@
 {
   "currentPet": {
-    "displayName": "§7[Lvl 174] §6Golden Dragon",
-    "petLevel": 174,
+    "displayName": "§7[Lvl 100] §6Rabbit",
+    "petLevel": 100,
     "petInfo": {
-      "type": "GOLDEN_DRAGON",
-      "active": true,
-      "exp": 1.6195807295486516E8,
+      "type": "RABBIT",
+      "active": false,
+      "exp": 3.807429504371892E7,
       "tier": "LEGENDARY",
       "hideInfo": false,
-      "heldItem": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
+      "heldItem": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
       "candyUsed": 0,
-      "uuid": "cda6c93d-7430-4d3b-9a77-5450f811c3ae",
-      "uniqueId": "0bba188c-f4a3-4d6f-8088-6c9cb9738879",
+      "uuid": "ead323b6-e444-47d6-9ea2-0e553f66974b",
+      "uniqueId": "1635343e-25e1-4b97-b339-c5ef38992f6f",
       "hideRightClick": false,
       "noMove": false
     },
-    "skullId": "1db9c74a-2473-4ddd-bd8e-7729689e0ef7",
-    "textureURL": "2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116"
+    "skullId": "5e389ad6-d6cd-48c5-9913-1ccb2a87efa1",
+    "textureURL": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b"
   },
   "petMap": {
     "10": {
@@ -62,7 +62,7 @@
       "petInfo": {
         "type": "GOLDEN_DRAGON",
         "active": true,
-        "exp": 1.6195807295486516E8,
+        "exp": 1.6220275444853014E8,
         "tier": "LEGENDARY",
         "hideInfo": false,
         "heldItem": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
@@ -72,7 +72,7 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "1db9c74a-2473-4ddd-bd8e-7729689e0ef7",
+      "skullId": "3358ac41-ffa0-45b3-a222-e9c2222c0506",
       "textureURL": "2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116"
     },
     "13": {
@@ -211,7 +211,7 @@
       "petInfo": {
         "type": "GRIFFIN",
         "active": false,
-        "exp": 2.6764715506615862E7,
+        "exp": 2.676475549823016E7,
         "tier": "LEGENDARY",
         "hideInfo": false,
         "heldItem": "DWARF_TURTLE_SHELMET",
@@ -220,7 +220,7 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "7a854f5a-9e55-4f47-87ab-7c4c5f2e8cf9",
+      "skullId": "2b1014f6-8627-4c61-bfbf-1e12b981e636",
       "textureURL": "4c27e3cb52a64968e60c861ef1ab84e0a0cb5f07be103ac78da67761731f00c8"
     },
     "23": {

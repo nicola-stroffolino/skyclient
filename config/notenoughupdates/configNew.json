@@ -739,14 +739,14 @@
     "customTodos": [],
     "profileSpecific": {
       "Pineapple": {
-        "godPotionDuration": 64800000,
+        "godPotionDuration": 61200000,
         "puzzlerCompleted": 1725402754384,
         "firstCakeAte": 1726576151193,
         "fetchurCompleted": 1724364065725,
         "commissionsCompleted": 0,
         "lastFreeRiftInfusionApplied": 1726427900308,
         "experimentsCompleted": 1726576919567,
-        "cookieBuffRemaining": 1727609115869,
+        "cookieBuffRemaining": 1727609115006,
         "forgeItems": [
           {
             "itemName": "Amber-Polished Drill Engine",
