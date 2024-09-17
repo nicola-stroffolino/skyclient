@@ -739,45 +739,49 @@
     "customTodos": [],
     "profileSpecific": {
       "Pineapple": {
-        "godPotionDuration": 3120000,
+        "godPotionDuration": 64800000,
         "puzzlerCompleted": 1725402754384,
-        "firstCakeAte": 1726396992489,
+        "firstCakeAte": 1726576151193,
         "fetchurCompleted": 1724364065725,
         "commissionsCompleted": 0,
         "lastFreeRiftInfusionApplied": 1726427900308,
-        "experimentsCompleted": 1726496471635,
-        "cookieBuffRemaining": 1727609118477,
+        "experimentsCompleted": 1726576919567,
+        "cookieBuffRemaining": 1727609115869,
         "forgeItems": [
           {
-            "finishTime": 0,
-            "status": 0,
+            "itemName": "Amber-Polished Drill Engine",
+            "finishTime": 1726702780588,
+            "status": 2,
             "forgeID": 0,
-            "fromScoreBoard": true
+            "fromScoreBoard": false
           },
           {
-            "itemName": "Mithril-Plated Drill Engine",
-            "finishTime": 1726518921497,
+            "itemName": "❁ Perfect Jasper Gemstone",
+            "finishTime": 1726582936588,
             "status": 2,
             "forgeID": 1,
             "fromScoreBoard": false
           },
           {
-            "finishTime": 0,
-            "status": 0,
+            "itemName": "❤ Perfect Ruby Gemstone",
+            "finishTime": 1726582939588,
+            "status": 2,
             "forgeID": 2,
-            "fromScoreBoard": true
+            "fromScoreBoard": false
           },
           {
-            "finishTime": 0,
-            "status": 0,
+            "itemName": "α Perfect Aquamarine Gemstone",
+            "finishTime": 1726582943588,
+            "status": 2,
             "forgeID": 3,
-            "fromScoreBoard": true
+            "fromScoreBoard": false
           },
           {
-            "finishTime": 0,
-            "status": 0,
+            "itemName": "☠ Perfect Onyx Gemstone",
+            "finishTime": 1726582982588,
+            "status": 2,
             "forgeID": 4,
-            "fromScoreBoard": true
+            "fromScoreBoard": false
           }
         ],
         "hotmDesires": {
@@ -808,8 +812,8 @@
           "Amethyst": 0,
           "Topaz": 0
         },
-        "dailyGemstonePowderCompleted": 1726485253569,
-        "dailyMithrilPowerCompleted": 1726398875797,
+        "dailyGemstonePowderCompleted": 1726531211821,
+        "dailyMithrilPowerCompleted": 1726566497764,
         "nonUnlockedWarpScrolls": [],
         "dailyHeavyPearlCompleted": 1726496539454,
         "questBoardCompleted": 1678721248174,
@@ -947,7 +951,7 @@
           "Lonesome Miner": 1,
           "Professional": 140,
           "Mole": 1,
-          "Fortunate": 19,
+          "Fortunate": 20,
           "Great Explorer": 1,
           "Mining Speed II": 50,
           "Mining Fortune II": 50,
@@ -1559,33 +1563,33 @@
       "GOLDEN_DRAGON;4"
     ],
     "previousAuctionSearches": [
+      "Titanium Belt",
+      "God Potion",
+      "Attribute Shard",
       "Horse",
-      "Skeleton Horse",
-      "hoe",
-      "Inferno Rod",
-      "DynaMITES Vinyl"
+      "Skeleton Horse"
     ],
     "previousBazaarSearches": [
-      "Jacob\u0027s Ticket",
-      "Titanic Experience Bottle",
-      "Glossy Gemstone",
-      "Gold Essence",
-      "✎ Fine Sapphire Gemstone"
+      "⸕ Flawless Amber Gemstone",
+      "Robotron Reflector",
+      "α Flawless Aquamarine Gemstone",
+      "☠ Flawless Onyx Gemstone",
+      "❁ Flawless Jasper Gemstone"
     ],
     "previousProfileSearches": [
+      "inspectypoo23",
+      "emeraldblockafk",
       "jorjfloyd",
       "drpancake86",
       "slowestentree4",
-      "jamelinen",
-      "cycosmic_",
-      "mrm0th"
+      "jamelinen"
     ],
     "previousRecipeSearches": [
+      "ruby",
       "peridot",
       "☘ Fine Peridot Gemstone",
       "Enchanted Mithril",
-      "Enchanted Titanium",
-      "Enchanted Hay Bale"
+      "Enchanted Titanium"
     ],
     "eventFavourites": [],
     "quickCommands": [

@@ -35,13 +35,13 @@
       "petType": "GOLDEN_DRAGON",
       "rarity": "LEGENDARY",
       "petLevel": {
-        "currentLevel": 172,
+        "currentLevel": 174,
         "maxLevel": 200,
         "expRequiredForNextLevel": 1886700,
         "expRequiredForMaxLevel": 210255680,
-        "expInCurrentLevel": 1591372.0,
-        "expTotal": 1.59019344E8,
-        "percentageToNextLevel": 0.8434685
+        "expInCurrentLevel": 1001356.0,
+        "expTotal": 1.62202736E8,
+        "percentageToNextLevel": 0.5307447
       },
       "petXpType": "combat",
       "petItem": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
@@ -215,9 +215,9 @@
         "maxLevel": 100,
         "expRequiredForNextLevel": 1886700,
         "expRequiredForMaxLevel": 25353230,
-        "expInCurrentLevel": 5.9968032E7,
-        "expTotal": 8.5321264E7,
-        "percentageToNextLevel": 31.784615
+        "expInCurrentLevel": 7.3972392E7,
+        "expTotal": 9.9325624E7,
+        "percentageToNextLevel": 39.20729
       },
       "petXpType": "mining",
       "petItem": "PET_ITEM_QUICK_CLAW",
@@ -642,7 +642,7 @@
     }
   },
   "selectedPet": 2,
-  "selectedPet2": 8,
+  "selectedPet2": 11,
   "tamingLevel": 53,
   "beastMultiplier": 3.0
 }

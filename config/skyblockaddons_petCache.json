@@ -1,11 +1,11 @@
 {
   "currentPet": {
-    "displayName": "§7[Lvl 172] §6Golden Dragon",
-    "petLevel": 172,
+    "displayName": "§7[Lvl 174] §6Golden Dragon",
+    "petLevel": 174,
     "petInfo": {
       "type": "GOLDEN_DRAGON",
       "active": true,
-      "exp": 1.590191536650185E8,
+      "exp": 1.6195807295486516E8,
       "tier": "LEGENDARY",
       "hideInfo": false,
       "heldItem": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
@@ -15,7 +15,7 @@
       "hideRightClick": false,
       "noMove": false
     },
-    "skullId": "18939ef9-64f3-4d71-8d63-e8cb96f4a256",
+    "skullId": "1db9c74a-2473-4ddd-bd8e-7729689e0ef7",
     "textureURL": "2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116"
   },
   "petMap": {
@@ -57,12 +57,12 @@
       "textureURL": "c1b2dfe8ed5dffc5b1687bc1c249c39de2d8a6c3d90305c95f6d1a1a330a0b1"
     },
     "12": {
-      "displayName": "§7[Lvl 172] §6Golden Dragon",
-      "petLevel": 172,
+      "displayName": "§7[Lvl 174] §6Golden Dragon",
+      "petLevel": 174,
       "petInfo": {
         "type": "GOLDEN_DRAGON",
         "active": true,
-        "exp": 1.590191536650185E8,
+        "exp": 1.6195807295486516E8,
         "tier": "LEGENDARY",
         "hideInfo": false,
         "heldItem": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
@@ -72,7 +72,7 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "18939ef9-64f3-4d71-8d63-e8cb96f4a256",
+      "skullId": "1db9c74a-2473-4ddd-bd8e-7729689e0ef7",
       "textureURL": "2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116"
     },
     "13": {
@@ -239,7 +239,7 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "08f4cbb2-f1eb-485a-8dd9-1360e005dc37",
+      "skullId": "5e389ad6-d6cd-48c5-9913-1ccb2a87efa1",
       "textureURL": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b"
     },
     "24": {
@@ -283,7 +283,7 @@
       "petInfo": {
         "type": "SCATHA",
         "active": false,
-        "exp": 8.532126261577475E7,
+        "exp": 9.932562461050431E7,
         "tier": "LEGENDARY",
         "hideInfo": false,
         "heldItem": "PET_ITEM_QUICK_CLAW",
@@ -293,7 +293,7 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "67df9400-12e8-4818-9647-c9d7adc15bfc",
+      "skullId": "f963cd1e-13f2-4cae-bdf8-fca68a11cc56",
       "textureURL": "df03ad96092f3f789902436709cdf69de6b727c121b3c2daef9ffa1ccaed186c"
     },
     "-26": {
