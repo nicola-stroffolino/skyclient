@@ -1,9 +1,9 @@
-#Wed Sep 04 15:52:42 CEST 2024
+#Thu Oct 03 23:40:17 CEST 2024
 shaderPack=(internal)
-antialiasingLevel=4
+antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
-renderResMul=1.5
+renderResMul=1.0
 shadowResMul=1.0
 handDepthMul=0.125
 cloudShadow=false

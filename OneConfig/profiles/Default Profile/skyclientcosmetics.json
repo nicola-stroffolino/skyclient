@@ -5,7 +5,7 @@
   "rpcLineTwo": "SBE bad",
   "rpcLineOne": "%player% is very cool",
   "rpcImgText": "SkyClient is cool",
-  "rpc": true,
+  "rpc": false,
   "joinMessage": false,
   "hasWipedOutPSS": false,
   "hasWipedOutReplayModAutoRecording": false,

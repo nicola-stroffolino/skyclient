@@ -81,7 +81,7 @@ this.featureMetas={};
 
 this.featureSettingsData={};
 
-let fetchD=fetch("https://soopy.dev/api/soopyv2/ping");
+let fetchD=fetch("https://soopy.dev/api/soopyv2/ping",{timeout:10000});
 fetchD.load().then(()=>{
 if(fetchD.responseCode()>=400||fetchD.responseCode()===-1){
 ChatLib.chat(this.messagePrefix+"&cError: Could not connect to Soopy's server. This may cause issues with some features but will (hopefully) be back soon.");
@@ -427,6 +427,8 @@ if(this.eventObjects[event])return;
 
 
 
+
+
 this.eventObjects[event]=register(event,(...args)=>{
 
 this.triggerEvent(event,args);
@@ -440,7 +442,7 @@ logger.logMessage("Registered "+event+" event",4);
 triggerEvent(event,args){
 if(this.events[event]){
 try{
-for(Event of Object.values(this.events[event])){
+for(let Event of Object.values(this.events[event])){
 if(Event.context.enabled){
 if(this.recordingPerformanceUsage)this.startRecordingPerformance(Event.context.getId(),event);
 let start=Date.now();
@@ -453,8 +455,8 @@ if(this.recordingPerformanceUsage)this.stopRecordingPerformance(Event.context.ge
 }
 }
 }catch(e){
-logger.logMessage("Error in "+event+" event: "+JSON.stringify(e,undefined,2),2);
-logger.logMessage(e.stack,1);
+logger.logMessage("Error in "+event+" event: "+JSON.stringify(e,undefined,2),1);
+logger.logMessage(e.stack,2);
 
 soopyV2Server.reportError(e,"Error in "+event+" event.");
 }
@@ -463,7 +465,7 @@ soopyV2Server.reportError(e,"Error in "+event+" event.");
 triggerSoopy(event,args){
 if(this.soopyEventHandlers[event]){
 try{
-for(Event of Object.values(this.soopyEventHandlers[event])){
+for(let Event of Object.values(this.soopyEventHandlers[event])){
 if(Event.context.enabled){
 if(this.recordingPerformanceUsage)this.startRecordingPerformance(Event.context.getId(),event);
 let start=Date.now();
@@ -476,8 +478,8 @@ if(this.recordingPerformanceUsage)this.stopRecordingPerformance(Event.context.ge
 }
 }
 }catch(e){
-logger.logMessage("Error in soopy "+event+" event: "+JSON.stringify(e,undefined,2),2);
-logger.logMessage(e.stack,1);
+logger.logMessage("Error in soopy "+event+" event: "+JSON.stringify(e,undefined,2),1);
+logger.logMessage(e.stack,2);
 soopyV2Server.reportError(e,"Error in soopy "+event+" event.");
 }
 }
@@ -581,7 +583,7 @@ if(this.customEvents[id]?.eventT&&!this.customEvents[id].eventT.enabled)return;
 if(context.enabled){
 if(this.recordingPerformanceUsage)this.startRecordingPerformance(context.getId(),type);
 let start=Date.now();
-func.call(context,...(args||[]));
+this.customEvents[id].func.call(context,...(args||[]));
 let time=Date.now()-start;
 if(time>this.longEventTime){
 logger.logMessage("Long event triggered ["+time+"ms] ("+context.getId()+"/"+type+")",3);

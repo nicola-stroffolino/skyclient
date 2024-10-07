@@ -128,31 +128,6 @@ this.initOldItemData();
 this.todoPickUpLog={};
 this.clearLog=false;
 
-let sendPpl=new Set;
-
-this.registerStep(false,10,()=>{
-if(!this.FeatureManager.features.dataLoader.class.isInSkyblock)return;
-if(Scoreboard.getLineByIndex(0).getName().includes("alpha"))return;
-
-let sendData=[];
-TabList.getNames().forEach((n)=>{
-let line=ChatLib.removeFormatting(n);
-
-let data=/\[(\d+)\] (\w{3,24})/.exec(line.replace("[YOUTUBE] ","").replace("[ADMIN] ",""));
-
-if(!data)return;
-
-let[_,lvl,name]=data;
-
-if(sendPpl.has(name))return;
-sendPpl.add(name);
-
-sendData.push([name,parseInt(lvl)]);
-});
-
-socketConnection.sendSbLvlData(sendData);
-});
-
 this.registerStep(true,5,this.step5Fps);
 
 this.registerChat("&r&c \u2620 ${info} and became a ghost&r&7.&r",(info,e)=>{
@@ -191,7 +166,7 @@ this.registerChat("&aYour new API key is &r&b${key}&r",this.newKey);
 const EntityFallingBlock=Java.type("net.minecraft.entity.item.EntityFallingBlock");
 
 this.registerEvent("renderEntity",(entity,posVec,partialTicks,event)=>{
-if(entity.getEntity()instanceof EntityFallingBlock){
+if(entity.getEntity&&entity.getEntity()instanceof EntityFallingBlock){
 cancel(event);
 }
 }).registeredWhen(()=>this.hideFallingBlocks.getValue());
@@ -393,6 +368,26 @@ new TextComponent(this.FeatureManager.messagePrefix+"Bin found "+numberWithComma
 
 
 this.registerCommand("price",()=>{return Promise.resolve().then(()=>{return(
+fetch("https://soopy.dev/api/soopyv2/itemPriceDetailedN",{
+postData:{
+item:Player.getHeldItem().getNBT().toObject()}}).
+
+json())}).then((_resp)=>{let item=_resp;
+
+ChatLib.chat(this.FeatureManager.messagePrefix+"PRICE ANALYSIS (Total: $"+numberWithCommas(Math.round(item.price))+")");
+
+new TextComponent("&dBase&7: $&6"+numberWithCommas(Math.round(item.base))).setHover("show_text","&f"+firstLetterCapital(item.id.toLowerCase().replace(/_/g," "))+(item.count>1?" x"+item.count:"")+"&7: $&6"+numberWithCommas(Math.round(item.base))).chat();
+
+parseNwDataThing(item.calculation).forEach((d)=>{
+let lore=[];
+d.calculation.forEach((d2)=>{
+lore.push("&f"+firstLetterCapital(d2.id.toLowerCase().replace(/_/g," "))+(d2.count>1?" x"+d2.count:"")+"&7: $&6"+numberWithCommas(Math.round(d2.price)));
+});
+new TextComponent("&d"+firstLetterCapital(d.type.toLowerCase().replace(/_/g," "))+"&7: $&6"+numberWithCommas(Math.round(d.price))).setHover("show_text",lore.join("\n")).chat();
+})})});
+
+
+this.registerCommand("priceoldsoopy",()=>{return Promise.resolve().then(()=>{return(
 fetch("https://soopy.dev/api/soopyv2/itemPriceDetailed",{
 postData:{
 item:Player.getHeldItem().getNBT().toObject()}}).
@@ -1026,4 +1021,28 @@ return null;
 }
 
 return new NBTTagCompound(CompressedStreamTools.func_74796_a(new ByteArrayInputStream(Base64.getDecoder().decode(compressed))));
+}
+
+
+
+function parseNwDataThing(data){
+let ret={};
+for(let calc of data){
+if(!ret[calc.type])ret[calc.type]=[];
+ret[calc.type].push(calc);
+}
+for(let k of Object.keys(ret)){
+ret[k]=ret[k].sort((a,b)=>b.price-a.price);
+let t=0;
+for(let d of ret[k])t+=d.price||0;
+
+ret[k]={
+price:t,
+type:k,
+calculation:ret[k]};
+
+}
+ret=Object.values(ret).sort((a,b)=>b.price-a.price);
+
+return ret;
 }

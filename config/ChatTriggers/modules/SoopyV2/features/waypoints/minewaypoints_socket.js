@@ -33,7 +33,7 @@ location:loc});
 }
 
 setServer(server,worldTime){
-if(this.hypixelServer===server&&Date.now()-this.lastSend<10000)return;
+if(this.hypixelServer===server&&Date.now()-this.lastSend<60000)return;
 
 this.lastSend=Date.now();
 this.hypixelServer=server;

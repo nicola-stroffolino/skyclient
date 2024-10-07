@@ -1,7 +1,7 @@
 
 
-import NonPooledThread from"./utils/nonPooledThread.js";
 
+import NonPooledThread from"./utils/nonPooledThread.js";
 
 if(net.minecraftforge.fml.common.Loader.isModLoaded("soopyv2forge")){
 new NonPooledThread(()=>{

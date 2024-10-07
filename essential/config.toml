@@ -22,7 +22,7 @@
 	previously_launched_with_container = 2
 
 	[hidden.hidden]
-		emote_perspective = 1
+		emote_perspective = 0
 		coinspurchasecreatorcode = "__default__"
 		screenshotbrowseritemsperrow = 3
 		spspinnedgamerules = ""

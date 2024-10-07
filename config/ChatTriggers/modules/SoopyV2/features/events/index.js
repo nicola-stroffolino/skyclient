@@ -125,7 +125,7 @@ this.registerEvent("tick",()=>{
 if(this.warpBind.isPressed()){
 
 if(!this.openedWarpsMenu){
-ChatLib.chat(this.FeatureManager.messagePrefix+"Please open the warps menu first (/warp)");
+ChatLib.chat(this.FeatureManager.messagePrefix+"Please open the warps menu first (/warp then click hub)");
 ChatLib.chat(this.FeatureManager.messagePrefix+"(So the mod knows what warps u have access to)");
 }
 let loc=this.getClosestWarp();
@@ -786,7 +786,8 @@ Date.now()]);
 }
 if(Math.abs(particle.getX()%1)===0.25&&
 basiclyEqual((particle.getY()-0.5)%1,0,0.2)&&
-basiclyEqual((particle.getZ()-0.5)%1,0,0.2)){
+basiclyEqual((particle.getZ()-0.5)%1,0,0.2)&&
+World.getBlockAt(Math.floor(particle.getX()),Math.floor(particle.getY()),Math.floor(particle.getZ())).getType().getID()!=90){
 
 this.shinyBlocks.push([[
 Math.floor(particle.getX())+1,
@@ -796,7 +797,8 @@ Date.now()]);
 }
 if(Math.abs(particle.getX()%1)===0.75&&
 basiclyEqual((particle.getY()-0.5)%1,0,0.2)&&
-basiclyEqual((particle.getZ()-0.5)%1,0,0.2)){
+basiclyEqual((particle.getZ()-0.5)%1,0,0.2)&&
+World.getBlockAt(Math.floor(particle.getX()),Math.floor(particle.getY()),Math.floor(particle.getZ())).getType().getID()!=90){
 
 this.shinyBlocks.push([[
 Math.floor(particle.getX())-1,
@@ -824,7 +826,6 @@ Math.floor(particle.getY()),
 Math.floor(particle.getZ())-1],
 Date.now()]);
 }
-
 }
 }
 if(this.showGlowingMushrooms.getValue()&&this.FeatureManager.features["dataLoader"].class.areaFine==="Glowing Mushroom Cave"){
@@ -1021,6 +1022,10 @@ this.abiSolverGuiOpen();
 return;
 }
 
+
+if(!this.abiSolverSolition){
+this.abiSolverGuiOpen();
+}
 
 if(this.abiSolverSolition.length>=4&&this.abiSolverSolition[3][1])return;
 

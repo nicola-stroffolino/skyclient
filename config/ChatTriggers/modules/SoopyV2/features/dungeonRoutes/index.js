@@ -5,6 +5,7 @@ import Feature from"../../featureClass/class";
 import{drawBoxAtBlock,drawBoxAtBlock2,drawFilledBox,drawLine,drawLinePoints}from"../../utils/renderUtils";
 import{calculateDistanceQuick}from"../../utils/utils";
 import SettingBase from"../settings/settingThings/settingBase";
+import ButtonSetting from "../settings/settingThings/button";
 
 const EntityItem=Java.type("net.minecraft.entity.item.EntityItem");
 
@@ -16,10 +17,13 @@ super();
 }
 
 onEnable(){
-if(Player.getUUID().toString()!=="dc8c3964-7b29-4e03-ae9e-d13ebd65dd29"){
-new SettingBase("Coming soontm","maby",undefined,"coming_soontm",this);
+//if(Player.getUUID().toString()!=="dc8c3964-7b29-4e03-ae9e-d13ebd65dd29"){
+		new ButtonSetting("Released in Badlion", "will NOT be coming to SoopyV2", "badlion_routes_button", this, "Download", () => {
+            java.awt.Desktop.getDesktop().browse(
+                new java.net.URI("https://www.badlion.net/?utm_source=SoopyIngame&utm_medium=web&utm_campaign=brand_awareness"));
+		}, false)
 return;
-}
+//}
 
 this.recordingData=[];
 this.currentActionIndex=0;

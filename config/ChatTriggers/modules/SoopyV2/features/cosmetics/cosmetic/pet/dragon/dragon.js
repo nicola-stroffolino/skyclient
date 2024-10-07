@@ -50,6 +50,10 @@ this.aiState=AI_STATE.STANDING;
 
 this.travelToPosition=undefined;
 
+this.following=undefined;
+this.followingCache=undefined;
+this.followingCacheUpdated=0;
+
 this.nextIsFlip=false;
 
 this.ticks=0;
@@ -57,6 +61,20 @@ this.ticks=0;
 if(!textures.has(this.settings.texture)&&!loadingTextures.has(this.settings.texture)){
 loadTexture(this.settings.texture);
 }
+}
+
+get followingPlayer(){
+if(Date.now()-this.followingCacheUpdated<1000)return this.followingCache;
+
+this.followingCache=this.player;
+
+if(this.following){
+let p=getPlayerFromName(this.following);
+if(p)this.followingCache=p;
+}
+this.followingCacheUpdated=Date.now();
+
+return this.followingCache;
 }
 
 onRenderEntity(ticks,isInGui){
@@ -77,14 +95,39 @@ this.aiState=AI_STATE.TRAVELING_TO_POSITION;
 ChatLib.chat("derg pet coming to current location!");
 return;
 }
+if(option==="tp"){
+this.x=Player.getX();
+this.y=Player.getY();
+this.z=Player.getZ();
+
+ChatLib.chat("derg pet tpiong to current location!");
+return;
+}
 if(option==="goto"){
 let[x,y,z]=args;
+
+if(!y){
+let p=getPlayerFromName(x);
+if(!p){
+ChatLib.chat("invalid username!");
+return;
+}
+x=p.getX();
+y=p.getY();
+z=p.getZ();
+}
 
 this.travelToPosition=[parseFloat(x),parseFloat(y),parseFloat(z)];
 this.aiState=AI_STATE.TRAVELING_TO_POSITION;
 
 
 ChatLib.chat("derg pet going to "+this.travelToPosition.join(", ")+"!");
+return;
+}
+if(option==="follow"){
+this.following=args[0];
+ChatLib.chat("Following "+args[0]+"!");
+return;
 }
 if(option==="flip"){
 this.nextIsFlip=true;
@@ -376,4 +419,10 @@ let field2=e.class.getDeclaredField(field);
 field2.setAccessible(true);
 
 return field2.get(e);
+}
+
+function getPlayerFromName(name){
+for(let player of World.getAllPlayers()){
+if(player.getName().toLowerCase()===name.toLowerCase())return player;
+}
 }

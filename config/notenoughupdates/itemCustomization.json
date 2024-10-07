@@ -1,5 +1,16 @@
 {
   "itemData": {
+    "debe4443-a295-48f1-b29c-af9fa298869c": {
+      "customName": "Bucket of Shit",
+      "customNamePrefix": "§9",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:80:34:6",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:skull",
+      "customItem": "skull"
+    },
     "6f1ec0b7-8396-493c-bc1a-fd2a790ebb42": {
       "customNamePrefix": "",
       "overrideEnchantGlint": true,
@@ -25,6 +36,36 @@
       "animatedDyeTicks": 2,
       "dyeMode": "CYCLING"
     },
+    "8c671215-36db-4692-93e3-cb3d9df4edc1": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:chainmail_chestplate",
+      "customItem": "iron_chestplate"
+    },
+    "37f5b250-a301-42af-bfb5-82fd89f01c91": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": true,
+      "enchantGlintValue": true,
+      "customGlintColour": "0:204:0:255:24",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:skull",
+      "customItem": "skull"
+    },
+    "5e100c46-769e-46f6-8beb-30b7d9e7486d": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:chainmail_leggings",
+      "customItem": "iron_leggings"
+    },
     "11dd898c-9625-4014-aa70-ca3fea524285": {
       "customNamePrefix": "",
       "overrideEnchantGlint": false,
@@ -32,6 +73,25 @@
       "customGlintColour": "0:255:255:212:0",
       "animatedDyeTicks": 2,
       "dyeMode": "CYCLING"
+    },
+    "f453d146-8d21-4845-8f3c-246d3d10a644": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:chainmail_boots",
+      "customItem": "iron_boots"
+    },
+    "38f340d8-c346-4c00-80ec-bbfbc4af22f7": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:fishing_rod"
     },
     "f1966866-1c57-4059-9d22-c1afbc05a70d": {
       "customName": "§dF*cking waste of inventory space",
@@ -41,6 +101,26 @@
       "customGlintColour": "0:204:100:25:255",
       "animatedDyeTicks": 2,
       "dyeMode": "CYCLING"
+    },
+    "bf3cd445-80d7-498e-816a-f96831a38c07": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:prismarine_shard",
+      "customItem": "prismarine_shard"
+    },
+    "049b735e-0ea5-48d8-b08c-f14e178e98cb": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:skull",
+      "customItem": "skull:TRUE_WARDEN"
     },
     "1f9e650f-fd00-4075-bbcc-b23e52ed10a7": {
       "customNamePrefix": "",

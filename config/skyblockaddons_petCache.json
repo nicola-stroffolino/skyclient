@@ -1,26 +1,64 @@
 {
   "currentPet": {
-    "displayName": "§7[Lvl 100] §6Rabbit",
-    "petLevel": 100,
+    "displayName": "§7[Lvl 96] §6Hound",
+    "petLevel": 96,
     "petInfo": {
-      "type": "RABBIT",
-      "active": false,
-      "exp": 3.807429504371892E7,
+      "type": "HOUND",
+      "active": true,
+      "exp": 1.905197739197078E7,
       "tier": "LEGENDARY",
       "hideInfo": false,
-      "heldItem": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
+      "heldItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
       "candyUsed": 0,
-      "uuid": "ead323b6-e444-47d6-9ea2-0e553f66974b",
-      "uniqueId": "1635343e-25e1-4b97-b339-c5ef38992f6f",
+      "uuid": "66e75f08-0ed0-4275-b6d2-5784aadfddeb",
+      "uniqueId": "8fcfc41b-780d-4093-ae86-661fc5e11ac5",
       "hideRightClick": false,
       "noMove": false
     },
-    "skullId": "5e389ad6-d6cd-48c5-9913-1ccb2a87efa1",
-    "textureURL": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b"
+    "skullId": "d1d2ad1d-dd99-4356-b972-87c74a5f9ddb",
+    "textureURL": "b7c8bef6beb77e29af8627ecdc38d86aa2fea7ccd163dc73c00f9f258f9a1457"
   },
   "petMap": {
     "10": {
-      "displayName": "§7[Lvl 100] §dGuardian",
+      "displayName": "§7[Lvl 100] §dBat",
+      "petLevel": 100,
+      "petInfo": {
+        "type": "BAT",
+        "active": false,
+        "exp": 2.5587000621417217E7,
+        "tier": "MYTHIC",
+        "hideInfo": false,
+        "heldItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+        "candyUsed": 0,
+        "uuid": "a33bfe99-73b1-4dea-8af7-9eb56b4010c4",
+        "uniqueId": "f145443b-6030-4903-8e09-e633a2a42af0",
+        "hideRightClick": false,
+        "noMove": false
+      },
+      "skullId": "271e41c6-6c5a-4844-b1d2-bdc51b6e1185",
+      "textureURL": "382fc3f71b41769376a9e92fe3adbaac3772b999b219c9d6b4680ba9983e527"
+    },
+    "11": {
+      "displayName": "§7[Lvl 100] §dEnderman§5 ✦",
+      "petLevel": 100,
+      "petInfo": {
+        "type": "ENDERMAN",
+        "active": false,
+        "exp": 3.388820389865521E7,
+        "tier": "MYTHIC",
+        "hideInfo": false,
+        "heldItem": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
+        "candyUsed": 0,
+        "uuid": "e85d9e08-9a87-4f9f-b2ca-9a1e7a769d66",
+        "uniqueId": "592e56f8-9973-4cfd-8642-151ba3b37d51",
+        "hideRightClick": false,
+        "noMove": false
+      },
+      "skullId": "6036fba1-f423-4435-9d15-5ba81efbd745",
+      "textureURL": "8fff41e1afc597b14f77b8e44e2a134dabe161a1526ade80e6290f2df331dc11"
+    },
+    "12": {
+      "displayName": "§7[Lvl 100] §dGuardian§5 ✦",
       "petLevel": 100,
       "petInfo": {
         "type": "GUARDIAN",
@@ -34,10 +72,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "a4c0453e-d6e0-4b11-bf79-fe407f51ab9b",
-      "textureURL": "221025434045bda7025b3e514b316a4b770c6faa4ba9adb4be3809526db77f9d"
+      "skullId": "7b5a9503-917d-4d46-97f8-d5344cd67d68",
+      "textureURL": "27a87aff28cdf80fe52ea74264ec0c93348b2d9ad8274ac8b76f25fcbff83bf2"
     },
-    "11": {
+    "13": {
       "displayName": "§7[Lvl 100] §dMithril Golem",
       "petLevel": 100,
       "petInfo": {
@@ -53,35 +91,54 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "ae33bf17-e5d4-4e4a-b115-c3c0c80bba52",
+      "skullId": "ca066e17-a86e-4afd-97b5-6e0cfe93c62a",
       "textureURL": "c1b2dfe8ed5dffc5b1687bc1c249c39de2d8a6c3d90305c95f6d1a1a330a0b1"
     },
-    "12": {
-      "displayName": "§7[Lvl 174] §6Golden Dragon",
-      "petLevel": 174,
+    "14": {
+      "displayName": "§7[Lvl 100] §dRabbit",
+      "petLevel": 100,
+      "petInfo": {
+        "type": "RABBIT",
+        "active": false,
+        "exp": 3.809138886276087E7,
+        "tier": "MYTHIC",
+        "hideInfo": false,
+        "heldItem": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
+        "candyUsed": 0,
+        "uuid": "ead323b6-e444-47d6-9ea2-0e553f66974b",
+        "uniqueId": "1635343e-25e1-4b97-b339-c5ef38992f6f",
+        "hideRightClick": false,
+        "noMove": false
+      },
+      "skullId": "ab1524c8-960d-4aaa-8a96-b805284b9724",
+      "textureURL": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b"
+    },
+    "15": {
+      "displayName": "§7[Lvl 200] §6Golden Dragon",
+      "petLevel": 200,
       "petInfo": {
         "type": "GOLDEN_DRAGON",
-        "active": true,
-        "exp": 1.6220275444853014E8,
+        "active": false,
+        "exp": 2.1388786311166954E8,
         "tier": "LEGENDARY",
         "hideInfo": false,
-        "heldItem": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
+        "heldItem": "DWARF_TURTLE_SHELMET",
         "candyUsed": 0,
         "uuid": "cda6c93d-7430-4d3b-9a77-5450f811c3ae",
         "uniqueId": "0bba188c-f4a3-4d6f-8088-6c9cb9738879",
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "3358ac41-ffa0-45b3-a222-e9c2222c0506",
+      "skullId": "99b24fe0-e4b9-4cdd-85e8-82140d0685de",
       "textureURL": "2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116"
     },
-    "13": {
+    "16": {
       "displayName": "§7[Lvl 100] §6Ammonite",
       "petLevel": 100,
       "petInfo": {
         "type": "AMMONITE",
         "active": false,
-        "exp": 2.7284113938186917E7,
+        "exp": 2.761696622705601E7,
         "tier": "LEGENDARY",
         "hideInfo": false,
         "heldItem": "WASHED_UP_SOUVENIR",
@@ -91,10 +148,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "f17946ad-3df7-4327-a68d-c50ec982e527",
+      "skullId": "f03f268e-d9b7-466f-8dd7-07859eaadf3a",
       "textureURL": "a074a7bd976fe6aba1624161793be547d54c835cf422243a851ba09d1e650553"
     },
-    "14": {
+    "19": {
       "displayName": "§7[Lvl 100] §6Bal",
       "petLevel": 100,
       "petInfo": {
@@ -110,28 +167,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "f8d80d38-c889-4ea9-bd01-099dde5a022a",
+      "skullId": "294234b4-d40c-40e0-818c-50cdb7c47314",
       "textureURL": "c469ba2047122e0a2de3c7437ad3dd5d31f1ac2d27abde9f8841e1d92a8c5b75"
     },
-    "15": {
-      "displayName": "§7[Lvl 100] §6Bat",
-      "petLevel": 100,
-      "petInfo": {
-        "type": "BAT",
-        "active": false,
-        "exp": 2.5587000621417217E7,
-        "tier": "LEGENDARY",
-        "hideInfo": false,
-        "heldItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
-        "candyUsed": 0,
-        "uniqueId": "f145443b-6030-4903-8e09-e633a2a42af0",
-        "hideRightClick": false,
-        "noMove": false
-      },
-      "skullId": "d2a2242a-c2bc-4de7-bd87-72f240d3fa0d",
-      "textureURL": "382fc3f71b41769376a9e92fe3adbaac3772b999b219c9d6b4680ba9983e527"
-    },
-    "16": {
+    "20": {
       "displayName": "§7[Lvl 100] §6Black Cat",
       "petLevel": 100,
       "petInfo": {
@@ -147,10 +186,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "3a70e141-d530-453a-a743-5d7dd78beb77",
+      "skullId": "739c4547-a43f-4672-ae6d-c63f5c5978ff",
       "textureURL": "e4b45cbaa19fe3d68c856cd3846c03b5f59de81a480eec921ab4fa3cd81317"
     },
-    "19": {
+    "21": {
       "displayName": "§7[Lvl 100] §6Blue Whale",
       "petLevel": 100,
       "petInfo": {
@@ -165,16 +204,16 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "27ced931-ec7b-487b-86ab-0c524922a615",
+      "skullId": "2da27d82-236e-4541-bcb1-2f18e239e5d5",
       "textureURL": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20"
     },
-    "20": {
+    "22": {
       "displayName": "§7[Lvl 100] §6Elephant",
       "petLevel": 100,
       "petInfo": {
         "type": "ELEPHANT",
         "active": false,
-        "exp": 6.2893224423951E7,
+        "exp": 6.4239198694933675E7,
         "tier": "LEGENDARY",
         "hideInfo": false,
         "heldItem": "GREEN_BANDANA",
@@ -184,10 +223,29 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "7efbeb00-f062-4630-8299-5d81b5c4aa6b",
+      "skullId": "e83d4575-74a3-4cef-9714-9fb50c8471e0",
       "textureURL": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514"
     },
-    "21": {
+    "23": {
+      "displayName": "§7[Lvl 100] §6Goblin",
+      "petLevel": 100,
+      "petInfo": {
+        "type": "GOBLIN",
+        "active": false,
+        "exp": 2.549304102434914E7,
+        "tier": "LEGENDARY",
+        "hideInfo": false,
+        "heldItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+        "candyUsed": 0,
+        "uuid": "c81be19c-8d98-4fda-a60c-6155bd9ee6fe",
+        "uniqueId": "e07b9ee2-a9ca-4511-8da1-fac819790e87",
+        "hideRightClick": false,
+        "noMove": false
+      },
+      "skullId": "ac1a88da-1352-4197-9dfe-c7e6ed380f18",
+      "textureURL": "7309d8dc35a638a04b915a3b15a1452ceeae0d7ea42bcdadb21b03046987515c"
+    },
+    "24": {
       "displayName": "§7[Lvl 100] §6Grandma Wolf",
       "petLevel": 100,
       "petInfo": {
@@ -202,64 +260,8 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "9f48239f-a00d-4930-82a2-8ca2c1d0768e",
+      "skullId": "98136f13-4567-438b-a044-eb0c01811b7a",
       "textureURL": "4e794274c1bb197ad306540286a7aa952974f5661bccf2b725424f6ed79c7884"
-    },
-    "22": {
-      "displayName": "§7[Lvl 100] §6Griffin",
-      "petLevel": 100,
-      "petInfo": {
-        "type": "GRIFFIN",
-        "active": false,
-        "exp": 2.676475549823016E7,
-        "tier": "LEGENDARY",
-        "hideInfo": false,
-        "heldItem": "DWARF_TURTLE_SHELMET",
-        "candyUsed": 0,
-        "uniqueId": "ddafe59d-ae73-41ff-ac57-7a532433da80",
-        "hideRightClick": false,
-        "noMove": false
-      },
-      "skullId": "2b1014f6-8627-4c61-bfbf-1e12b981e636",
-      "textureURL": "4c27e3cb52a64968e60c861ef1ab84e0a0cb5f07be103ac78da67761731f00c8"
-    },
-    "23": {
-      "displayName": "§7[Lvl 100] §6Rabbit",
-      "petLevel": 100,
-      "petInfo": {
-        "type": "RABBIT",
-        "active": false,
-        "exp": 3.807429504371892E7,
-        "tier": "LEGENDARY",
-        "hideInfo": false,
-        "heldItem": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
-        "candyUsed": 0,
-        "uuid": "ead323b6-e444-47d6-9ea2-0e553f66974b",
-        "uniqueId": "1635343e-25e1-4b97-b339-c5ef38992f6f",
-        "hideRightClick": false,
-        "noMove": false
-      },
-      "skullId": "5e389ad6-d6cd-48c5-9913-1ccb2a87efa1",
-      "textureURL": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b"
-    },
-    "24": {
-      "displayName": "§7[Lvl 100] §6Reindeer",
-      "petLevel": 100,
-      "petInfo": {
-        "type": "REINDEER",
-        "active": false,
-        "exp": 3.6565431152495146E7,
-        "tier": "LEGENDARY",
-        "hideInfo": false,
-        "heldItem": "DWARF_TURTLE_SHELMET",
-        "candyUsed": 0,
-        "uuid": "28b9ff3c-b623-4e1b-8f6a-daec871eff16",
-        "uniqueId": "84bc64b2-1084-4634-810e-cabb4dd93e69",
-        "hideRightClick": false,
-        "noMove": false
-      },
-      "skullId": "08601947-72fa-46ed-ae60-08e86a70db55",
-      "textureURL": "a2df65c6fd19a58bee38252192ac7ce2cf1dc8632c3547a9228b6b697240d098"
     },
     "-25": {
       "displayName": "§7[Lvl 1] §6Mammoth",
@@ -278,23 +280,22 @@
       "textureURL": "6b10715732cd1fd49fa1b6187947c307dd4687105cf033840607f9d6234743ad"
     },
     "25": {
-      "displayName": "§7[Lvl 100] §6Scatha",
+      "displayName": "§7[Lvl 100] §6Griffin",
       "petLevel": 100,
       "petInfo": {
-        "type": "SCATHA",
+        "type": "GRIFFIN",
         "active": false,
-        "exp": 9.932562461050431E7,
+        "exp": 2.676475549823016E7,
         "tier": "LEGENDARY",
         "hideInfo": false,
-        "heldItem": "PET_ITEM_QUICK_CLAW",
+        "heldItem": "DWARF_TURTLE_SHELMET",
         "candyUsed": 0,
-        "uuid": "cf2a5785-66fc-48ea-802a-3a00e9a912a7",
-        "uniqueId": "92c8ba36-d4a5-4167-89ad-9236e5b8814b",
+        "uniqueId": "ddafe59d-ae73-41ff-ac57-7a532433da80",
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "f963cd1e-13f2-4cae-bdf8-fca68a11cc56",
-      "textureURL": "df03ad96092f3f789902436709cdf69de6b727c121b3c2daef9ffa1ccaed186c"
+      "skullId": "ea797139-a5bd-4ce8-bb6f-62888eae5fd8",
+      "textureURL": "4c27e3cb52a64968e60c861ef1ab84e0a0cb5f07be103ac78da67761731f00c8"
     },
     "-26": {
       "displayName": "§7[Lvl 1] §6Ankylosaurus",
@@ -313,27 +314,27 @@
       "textureURL": "c1aa836b9096c417903299a6c5ab41738c19648ac439fed4bcbe6c32605338dc"
     },
     "28": {
-      "displayName": "§7[Lvl 100] §6Sheep",
+      "displayName": "§7[Lvl 100] §6Reindeer",
       "petLevel": 100,
       "petInfo": {
-        "type": "SHEEP",
+        "type": "REINDEER",
         "active": false,
-        "exp": 4.110238793565182E7,
+        "exp": 3.6565431152495146E7,
         "tier": "LEGENDARY",
         "hideInfo": false,
         "heldItem": "DWARF_TURTLE_SHELMET",
         "candyUsed": 0,
-        "uuid": "ee6e2e27-db07-405a-af7f-733061de6746",
-        "uniqueId": "16ee1961-3e0b-4965-abe8-cbf6c3bc5051",
+        "uuid": "28b9ff3c-b623-4e1b-8f6a-daec871eff16",
+        "uniqueId": "84bc64b2-1084-4634-810e-cabb4dd93e69",
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "446771dc-70a8-4db1-9be1-bd629edfc600",
-      "textureURL": "64e22a46047d272e89a1cfa13e9734b7e12827e235c2012c1a95962874da0"
+      "skullId": "2cedc8c2-d31b-429a-a6fc-1ebf66c5763b",
+      "textureURL": "a2df65c6fd19a58bee38252192ac7ce2cf1dc8632c3547a9228b6b697240d098"
     },
     "-29": {
-      "displayName": "§7[Lvl 23] §6Goblin",
-      "petLevel": 23,
+      "displayName": "§7[Lvl 1] §6Goblin",
+      "petLevel": 1,
       "petInfo": {
         "type": "GOBLIN",
         "active": false,
@@ -348,22 +349,23 @@
       "textureURL": "7309d8dc35a638a04b915a3b15a1452ceeae0d7ea42bcdadb21b03046987515c"
     },
     "29": {
-      "displayName": "§7[Lvl 100] §6Silverfish",
+      "displayName": "§7[Lvl 100] §6Scatha",
       "petLevel": 100,
       "petInfo": {
-        "type": "SILVERFISH",
+        "type": "SCATHA",
         "active": false,
-        "exp": 1.651221718946012E8,
+        "exp": 1.0767946552452187E8,
         "tier": "LEGENDARY",
         "hideInfo": false,
-        "heldItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+        "heldItem": "PET_ITEM_QUICK_CLAW",
         "candyUsed": 0,
-        "uniqueId": "42a074d2-1edb-431d-9e4d-d3ae85e51662",
+        "uuid": "cf2a5785-66fc-48ea-802a-3a00e9a912a7",
+        "uniqueId": "92c8ba36-d4a5-4167-89ad-9236e5b8814b",
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "84b3aa25-58a5-4e02-8300-7dc3a067fb11",
-      "textureURL": "da91dab8391af5fda54acd2c0b18fbd819b865e1a8f1d623813fa761e924540"
+      "skullId": "f6ffebef-ddb5-42f1-8209-172434d8239a",
+      "textureURL": "df03ad96092f3f789902436709cdf69de6b727c121b3c2daef9ffa1ccaed186c"
     },
     "-30": {
       "displayName": "§7[Lvl 1] §6Spinosaurus",
@@ -382,22 +384,23 @@
       "textureURL": "d3c9d479471a2f13f22548315159591720992e70c920fef83a901b7186720e3c"
     },
     "30": {
-      "displayName": "§7[Lvl 100] §6Squid",
+      "displayName": "§7[Lvl 100] §6Sheep",
       "petLevel": 100,
       "petInfo": {
-        "type": "SQUID",
+        "type": "SHEEP",
         "active": false,
-        "exp": 3.993030151401848E7,
+        "exp": 4.113047729660205E7,
         "tier": "LEGENDARY",
         "hideInfo": false,
-        "heldItem": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
+        "heldItem": "DWARF_TURTLE_SHELMET",
         "candyUsed": 0,
-        "uniqueId": "4b6d7df8-3b90-41d8-8187-d6afbd8ee254",
+        "uuid": "ee6e2e27-db07-405a-af7f-733061de6746",
+        "uniqueId": "16ee1961-3e0b-4965-abe8-cbf6c3bc5051",
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "eea2cbc7-1c01-4deb-97cd-d036218823df",
-      "textureURL": "01433be242366af126da434b8735df1eb5b3cb2cede39145974e9c483607bac"
+      "skullId": "4c092539-c416-4105-a43b-acc1937f545d",
+      "textureURL": "64e22a46047d272e89a1cfa13e9734b7e12827e235c2012c1a95962874da0"
     },
     "-31": {
       "displayName": "§7[Lvl 1] §6T-Rex",
@@ -416,22 +419,22 @@
       "textureURL": "93f28ec96df59c67e9d2fc2e7e3d055fa31646e4111add9fe26a692801964126"
     },
     "31": {
-      "displayName": "§7[Lvl 100] §6Wither Skeleton",
+      "displayName": "§7[Lvl 100] §6Silverfish",
       "petLevel": 100,
       "petInfo": {
-        "type": "WITHER_SKELETON",
+        "type": "SILVERFISH",
         "active": false,
-        "exp": 3.419092762863622E7,
+        "exp": 1.651221718946012E8,
         "tier": "LEGENDARY",
         "hideInfo": false,
-        "heldItem": "DWARF_TURTLE_SHELMET",
+        "heldItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
         "candyUsed": 0,
-        "uniqueId": "45607f07-bae6-4ad8-84b1-28d710ddaa3a",
+        "uniqueId": "42a074d2-1edb-431d-9e4d-d3ae85e51662",
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "cc81ad94-2a19-4ab7-bf5f-80886a4e68a3",
-      "textureURL": "f5ec964645a8efac76be2f160d7c9956362f32b6517390c59c3085034f050cff"
+      "skullId": "c1c30515-2827-47f1-93d7-793f09d9150b",
+      "textureURL": "da91dab8391af5fda54acd2c0b18fbd819b865e1a8f1d623813fa761e924540"
     },
     "-32": {
       "displayName": "§7[Lvl 1] §6Penguin",
@@ -450,23 +453,22 @@
       "textureURL": "37534e97f36e5a8335928e171ec99608bee7fb16e260afb301025b3b17eeefc4"
     },
     "32": {
-      "displayName": "§7[Lvl 100] §6Wolf",
+      "displayName": "§7[Lvl 100] §6Squid",
       "petLevel": 100,
       "petInfo": {
-        "type": "WOLF",
+        "type": "SQUID",
         "active": false,
-        "exp": 4.590072782966674E7,
+        "exp": 4.054459063146078E7,
         "tier": "LEGENDARY",
         "hideInfo": false,
-        "heldItem": "PET_ITEM_BUBBLEGUM",
-        "candyUsed": 6,
-        "uuid": "4f9bf50b-aa08-4d6b-9d97-487f31431906",
-        "uniqueId": "8fea2377-dd9b-4e36-a056-c0a2b4e51151",
+        "heldItem": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
+        "candyUsed": 0,
+        "uniqueId": "4b6d7df8-3b90-41d8-8187-d6afbd8ee254",
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "cd1a215b-b46c-4701-a44d-b80fac95c1a3",
-      "textureURL": "dc3dd984bb659849bd52994046964c22725f717e986b12d548fd169367d494"
+      "skullId": "5243d140-782c-4249-a234-2c478c6b6d8a",
+      "textureURL": "01433be242366af126da434b8735df1eb5b3cb2cede39145974e9c483607bac"
     },
     "-33": {
       "displayName": "§7[Lvl 1] §6Ammonite",
@@ -485,23 +487,22 @@
       "textureURL": "a074a7bd976fe6aba1624161793be547d54c835cf422243a851ba09d1e650553"
     },
     "33": {
-      "displayName": "§7[Lvl 90] §6Ocelot",
-      "petLevel": 90,
+      "displayName": "§7[Lvl 100] §6Wither Skeleton",
+      "petLevel": 100,
       "petInfo": {
-        "type": "OCELOT",
+        "type": "WITHER_SKELETON",
         "active": false,
-        "exp": 1.1843309237031171E7,
+        "exp": 3.4196104128015965E7,
         "tier": "LEGENDARY",
         "hideInfo": false,
-        "heldItem": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
+        "heldItem": "DWARF_TURTLE_SHELMET",
         "candyUsed": 0,
-        "uuid": "e863fc0a-6e45-4a34-994b-3a47b5f620a2",
-        "uniqueId": "a5caf93e-9a04-4569-892a-55991bcfc50b",
+        "uniqueId": "45607f07-bae6-4ad8-84b1-28d710ddaa3a",
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "200a0115-cc46-460b-aa25-cb34f2e09bf1",
-      "textureURL": "5657cd5c2989ff97570fec4ddcdc6926a68a3393250c1be1f0b114a1db1"
+      "skullId": "cacdf67a-da09-410e-86b4-08b4ead574fb",
+      "textureURL": "f5ec964645a8efac76be2f160d7c9956362f32b6517390c59c3085034f050cff"
     },
     "-34": {
       "displayName": "§7[Lvl 1] §6Mole",
@@ -520,12 +521,69 @@
       "textureURL": "727baaafc09978d4bda73e16afdde85ec13b0f95ad989524c5fcaa717cf06b4a"
     },
     "34": {
+      "displayName": "§7[Lvl 100] §6Wolf",
+      "petLevel": 100,
+      "petInfo": {
+        "type": "WOLF",
+        "active": false,
+        "exp": 4.9457075876243085E7,
+        "tier": "LEGENDARY",
+        "hideInfo": false,
+        "heldItem": "PET_ITEM_BUBBLEGUM",
+        "candyUsed": 6,
+        "uuid": "4f9bf50b-aa08-4d6b-9d97-487f31431906",
+        "uniqueId": "8fea2377-dd9b-4e36-a056-c0a2b4e51151",
+        "hideRightClick": false,
+        "noMove": false
+      },
+      "skullId": "4c0df466-7862-4f16-8a41-71a56de446c2",
+      "textureURL": "dc3dd984bb659849bd52994046964c22725f717e986b12d548fd169367d494"
+    },
+    "37": {
+      "displayName": "§7[Lvl 96] §6Hound",
+      "petLevel": 96,
+      "petInfo": {
+        "type": "HOUND",
+        "active": true,
+        "exp": 1.905197739197078E7,
+        "tier": "LEGENDARY",
+        "hideInfo": false,
+        "heldItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+        "candyUsed": 0,
+        "uuid": "66e75f08-0ed0-4275-b6d2-5784aadfddeb",
+        "uniqueId": "8fcfc41b-780d-4093-ae86-661fc5e11ac5",
+        "hideRightClick": false,
+        "noMove": false
+      },
+      "skullId": "d1d2ad1d-dd99-4356-b972-87c74a5f9ddb",
+      "textureURL": "b7c8bef6beb77e29af8627ecdc38d86aa2fea7ccd163dc73c00f9f258f9a1457"
+    },
+    "38": {
+      "displayName": "§7[Lvl 90] §6Ocelot",
+      "petLevel": 90,
+      "petInfo": {
+        "type": "OCELOT",
+        "active": false,
+        "exp": 1.1843309237031171E7,
+        "tier": "LEGENDARY",
+        "hideInfo": false,
+        "heldItem": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
+        "candyUsed": 0,
+        "uuid": "e863fc0a-6e45-4a34-994b-3a47b5f620a2",
+        "uniqueId": "a5caf93e-9a04-4569-892a-55991bcfc50b",
+        "hideRightClick": false,
+        "noMove": false
+      },
+      "skullId": "9bfbee7c-61aa-4919-9378-4dd5211bfc33",
+      "textureURL": "5657cd5c2989ff97570fec4ddcdc6926a68a3393250c1be1f0b114a1db1"
+    },
+    "39": {
       "displayName": "§7[Lvl 88] §6Armadillo",
       "petLevel": 88,
       "petInfo": {
         "type": "ARMADILLO",
         "active": false,
-        "exp": 1.0153550345516043E7,
+        "exp": 1.0183675547385257E7,
         "tier": "LEGENDARY",
         "hideInfo": false,
         "candyUsed": 0,
@@ -534,28 +592,29 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "9ab9bcd5-71b9-4a5e-9dda-375b5dfc65da",
+      "skullId": "de094b76-36a4-457f-b5a7-cdd80c94fde8",
       "textureURL": "c1eb6df4736ae24dd12a3d00f91e6e3aa7ade6bbefb0978afef2f0f92461018f"
     },
-    "37": {
-      "displayName": "§7[Lvl 78] §6Megalodon",
-      "petLevel": 78,
+    "40": {
+      "displayName": "§7[Lvl 84] §6Megalodon",
+      "petLevel": 84,
       "petInfo": {
         "type": "MEGALODON",
         "active": false,
-        "exp": 5149258.177969259,
+        "exp": 7477642.334035055,
         "tier": "LEGENDARY",
         "hideInfo": false,
+        "heldItem": "PET_ITEM_FISHING_SKILL_BOOST_RARE",
         "candyUsed": 0,
         "uuid": "f2c227ae-a827-43c5-ad43-1cb2b821bdb1",
         "uniqueId": "7f666b77-aa2a-4326-8fc7-c455790248e8",
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "63a0fc1e-4f5a-4bff-9bcb-f930c1930cb1",
+      "skullId": "1925df45-c3a2-4771-8bc5-8efd833933f1",
       "textureURL": "a94ae433b301c7fb7c68cba625b0bd36b0b14190f20e34a7c8ee0d9de06d53b9"
     },
-    "38": {
+    "41": {
       "displayName": "§7[Lvl 75] §6Spirit",
       "petLevel": 75,
       "petInfo": {
@@ -571,28 +630,29 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "3448888b-0d00-495e-92c6-d1719aaf2446",
+      "skullId": "f78e48f5-6ee0-40a7-9cd6-2412cc399d68",
       "textureURL": "8d9ccc670677d0cebaad4058d6aaf9acfab09abea5d86379a059902f2fe22655"
     },
-    "39": {
-      "displayName": "§7[Lvl 70] §6Goblin",
-      "petLevel": 70,
+    "42": {
+      "displayName": "§7[Lvl 74] §6Ghoul",
+      "petLevel": 74,
       "petInfo": {
-        "type": "GOBLIN",
+        "type": "GHOUL",
         "active": false,
-        "exp": 2755082.5979381995,
+        "exp": 3821214.591162279,
         "tier": "LEGENDARY",
         "hideInfo": false,
+        "heldItem": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
         "candyUsed": 0,
-        "uuid": "c81be19c-8d98-4fda-a60c-6155bd9ee6fe",
-        "uniqueId": "e07b9ee2-a9ca-4511-8da1-fac819790e87",
+        "uuid": "6acc2090-94a2-4964-a055-9b06a94fc853",
+        "uniqueId": "651e6beb-8da9-426e-b26a-12644a26bf8e",
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "a7ac4d25-dfe0-4e29-9117-c8788f3f1f6c",
-      "textureURL": "7309d8dc35a638a04b915a3b15a1452ceeae0d7ea42bcdadb21b03046987515c"
+      "skullId": "77e90b8e-4b03-4d4a-9bdf-5f65426d369b",
+      "textureURL": "87934565bf522f6f4726cdfe127137be11d37c310db34d8c70253392b5ff5b"
     },
-    "40": {
+    "43": {
       "displayName": "§7[Lvl 30] §6Skeleton",
       "petLevel": 30,
       "petInfo": {
@@ -607,34 +667,16 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "3e7857b1-507a-4438-b8ce-0fe70aa836da",
+      "skullId": "db92e8f7-8674-4541-9428-62645183a723",
       "textureURL": "fca445749251bdd898fb83f667844e38a1dff79a1529f79a42447a0599310ea4"
     },
-    "41": {
-      "displayName": "§7[Lvl 25] §6Ghoul",
-      "petLevel": 25,
-      "petInfo": {
-        "type": "GHOUL",
-        "active": false,
-        "exp": 53079.87232659832,
-        "tier": "LEGENDARY",
-        "hideInfo": false,
-        "candyUsed": 0,
-        "uuid": "6acc2090-94a2-4964-a055-9b06a94fc853",
-        "uniqueId": "651e6beb-8da9-426e-b26a-12644a26bf8e",
-        "hideRightClick": false,
-        "noMove": false
-      },
-      "skullId": "37cef2b4-4143-4084-99a9-bf109822868d",
-      "textureURL": "87934565bf522f6f4726cdfe127137be11d37c310db34d8c70253392b5ff5b"
-    },
-    "42": {
-      "displayName": "§7[Lvl 15] §6Rat",
-      "petLevel": 15,
+    "55": {
+      "displayName": "§7[Lvl 16] §6Rat§5 ✦",
+      "petLevel": 16,
       "petInfo": {
         "type": "RAT",
         "active": false,
-        "exp": 20205.694767840338,
+        "exp": 20986.676199840345,
         "tier": "LEGENDARY",
         "hideInfo": false,
         "candyUsed": 0,
@@ -642,10 +684,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "cfda3474-b94b-46cd-86c2-d5ab4007751d",
-      "textureURL": "a8abb471db0ab78703011979dc8b40798a941f3a4dec3ec61cbeec2af8cffe8"
+      "skullId": "e4c3a637-fab7-4de8-91a8-10ca4ea787db",
+      "textureURL": "c484a612ef0b1061478ddd7595abd612fb61de5a3cdc7d0e53c5f6915f0ebb8f"
     },
-    "43": {
+    "56": {
       "displayName": "§7[Lvl 4] §6Pig",
       "petLevel": 4,
       "petInfo": {
@@ -661,11 +703,11 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "cc2f81d4-4be3-4d11-a381-a1969edd2827",
+      "skullId": "94cc644e-6660-466a-9e74-f3b231c72b03",
       "textureURL": "621668ef7cb79dd9c22ce3d1f3f4cb6e2559893b6df4a469514e667c16aa4"
     },
-    "55": {
-      "displayName": "§7[Lvl 1] §6Bee",
+    "57": {
+      "displayName": "§7[Lvl 1] §6Bee§5 ✦",
       "petLevel": 1,
       "petInfo": {
         "type": "BEE",
@@ -679,10 +721,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "74020de4-d3a4-4ba1-948c-3440707c1bce",
-      "textureURL": "7e941987e825a24ea7baafab9819344b6c247c75c54a691987cd296bc163c263"
+      "skullId": "09c41a70-3d96-4b13-99e8-7b194f8f4324",
+      "textureURL": "f6e1ae93ad5e94a0904a0877ff14a9de56083242a5786ac7dc503e098ae37120"
     },
-    "56": {
+    "58": {
       "displayName": "§7[Lvl 1] §6Chicken",
       "petLevel": 1,
       "petInfo": {
@@ -697,10 +739,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "f87594a9-53be-4018-8a76-c7f316efe406",
+      "skullId": "031e51a9-7460-4f3b-9cdc-01c5845cbdf5",
       "textureURL": "7f37d524c3eed171ce149887ea1dee4ed399904727d521865688ece3bac75e"
     },
-    "57": {
+    "59": {
       "displayName": "§7[Lvl 1] §6Owl",
       "petLevel": 1,
       "petInfo": {
@@ -715,10 +757,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "d603f517-4f5c-46c5-9ca8-97f3c8090d2b",
+      "skullId": "74493d3a-2ea2-4562-b875-8a405c438e4b",
       "textureURL": "da3216da54e7368fb40b721239ad95e07ef4f97d93f1c42ff319bab9a53882af"
     },
-    "58": {
+    "60": {
       "displayName": "§7[Lvl 1] §6Tarantula",
       "petLevel": 1,
       "petInfo": {
@@ -733,10 +775,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "045ff80b-8a8d-4b95-b835-448828a45ec6",
+      "skullId": "c28c2f45-e374-437b-9d5f-f26bf14503fe",
       "textureURL": "8300986ed0a04ea79904f6ae53f49ed3a0ff5b1df62bba622ecbd3777f156df8"
     },
-    "59": {
+    "61": {
       "displayName": "§7[Lvl 100] §5Dolphin",
       "petLevel": 100,
       "petInfo": {
@@ -752,10 +794,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "25ec20c7-2fa0-4ffa-a455-a80ffe95ecfe",
+      "skullId": "1a18d4af-5896-4538-9a86-ea730a8dea98",
       "textureURL": "cefe7d803a45aa2af1993df2544a28df849a762663719bfefc58bf389ab7f5"
     },
-    "60": {
+    "64": {
       "displayName": "§7[Lvl 85] §5Tiger",
       "petLevel": 85,
       "petInfo": {
@@ -770,10 +812,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "0fb76f99-60b7-4116-af9a-40c68c8e1b70",
+      "skullId": "d52e82df-124e-4e9c-8527-1637c857028a",
       "textureURL": "fc42638744922b5fcf62cd9bf27eeab91b2e72d6c70e86cc5aa3883993e9d84"
     },
-    "61": {
+    "65": {
       "displayName": "§7[Lvl 47] §5Snail",
       "petLevel": 47,
       "petInfo": {
@@ -789,10 +831,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "f58c0d72-fbdb-4cf3-a92f-fe53b3e04e8a",
+      "skullId": "30620d96-ef7e-43f4-8891-8935d2cce59e",
       "textureURL": "50a9933a3b10489d38f6950c4e628bfcf9f7a27f8d84666f04f14d5374252972"
     },
-    "64": {
+    "66": {
       "displayName": "§7[Lvl 44] §5Horse",
       "petLevel": 44,
       "petInfo": {
@@ -807,10 +849,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "498c8b9e-78eb-4b6b-9371-21e4b7531494",
+      "skullId": "4a5c0676-d69b-4682-868e-d7acd48affc6",
       "textureURL": "36fcd3ec3bc84bafb4123ea479471f9d2f42d8fb9c5f11cf5f4e0d93226"
     },
-    "65": {
+    "67": {
       "displayName": "§7[Lvl 1] §5Slug",
       "petLevel": 1,
       "petInfo": {
@@ -825,10 +867,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "bdaaa9c3-b3ec-4385-9e22-5fde85df3e3d",
+      "skullId": "f81d3fcc-87b4-4bd3-b6b1-b90d019e7e4c",
       "textureURL": "7a79d0fd677b54530961117ef84adc206e2cc5045c1344d61d776bf8ac2fe1ba"
     },
-    "66": {
+    "68": {
       "displayName": "§7[Lvl 63] §9Monkey",
       "petLevel": 63,
       "petInfo": {
@@ -843,10 +885,10 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "d5b6e1dd-e769-4830-8943-4dc183944ae4",
+      "skullId": "4faea041-b892-4909-af69-abd51b82fc93",
       "textureURL": "13cf8db84807c471d7c6922302261ac1b5a179f96d1191156ecf3e1b1d3ca"
     },
-    "67": {
+    "69": {
       "displayName": "§7[Lvl 1] §9Rock",
       "petLevel": 1,
       "petInfo": {
@@ -860,16 +902,16 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "65315e24-249d-4639-86d5-fe4d62d835d3",
+      "skullId": "c6824fcd-8bcc-402c-a678-0ecb62c95c57",
       "textureURL": "cb2b5d48e57577563aca31735519cb622219bc058b1f34648b67b8e71bc0fa"
     },
-    "68": {
+    "70": {
       "displayName": "§7[Lvl 100] §fKuudra",
       "petLevel": 100,
       "petInfo": {
         "type": "KUUDRA",
         "active": false,
-        "exp": 6293921.880666518,
+        "exp": 7079133.358838421,
         "tier": "COMMON",
         "hideInfo": false,
         "candyUsed": 0,
@@ -877,42 +919,8 @@
         "hideRightClick": false,
         "noMove": false
       },
-      "skullId": "9b1555da-d4f9-42cc-8588-21e7f3e5d023",
+      "skullId": "e0161e24-c904-419b-a83a-2037b40476ac",
       "textureURL": "1f0239fb498e5907ede12ab32629ee95f0064574a9ffdff9fc3a1c8e2ec17587"
-    },
-    "69": {
-      "displayName": "§7[Lvl 5] §fJerry",
-      "petLevel": 5,
-      "petInfo": {
-        "type": "JERRY",
-        "active": false,
-        "exp": 485.5650399065682,
-        "tier": "COMMON",
-        "hideInfo": false,
-        "candyUsed": 0,
-        "uniqueId": "8149a0f2-fa67-4ed8-b4bd-9c3491576480",
-        "hideRightClick": false,
-        "noMove": false
-      },
-      "skullId": "d9c509d7-f137-495d-9475-1d1bf900b152",
-      "textureURL": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b"
-    },
-    "70": {
-      "displayName": "§7[Lvl 5] §fJerry",
-      "petLevel": 5,
-      "petInfo": {
-        "type": "JERRY",
-        "active": false,
-        "exp": 485.5650399065682,
-        "tier": "COMMON",
-        "hideInfo": false,
-        "candyUsed": 0,
-        "uniqueId": "8149a0f2-fa67-4ed8-b4bd-9c3491576480",
-        "hideRightClick": false,
-        "noMove": false
-      },
-      "skullId": "d9c509d7-f137-495d-9475-1d1bf900b152",
-      "textureURL": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b"
     },
     "73": {
       "displayName": "§7[Lvl 5] §fJerry",

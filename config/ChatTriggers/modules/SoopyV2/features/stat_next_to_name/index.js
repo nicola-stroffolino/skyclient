@@ -52,10 +52,12 @@ let key=this.FeatureManager.features["globalSettings"].class.apiKeySetting.getVa
 if(!!key){return Promise.resolve().then(()=>{return(
 
 fetch(`https://api.hypixel.net/skyblock/profiles?key=${key}&uuid=${uuid}`).text())}).then((_resp)=>{let t=_resp;
-soopyV2Server.respondQueue(packetId,t)})}})()}).then(()=>{})};
+soopyV2Server.respondQueue(packetId,t);
+inQAtm=false})}})()}).then(()=>{})};
 
 
-this.registerStep(false,1,this.loadPlayerStatsTick);
+
+this.registerStep(false,3,this.loadPlayerStatsTick).registeredWhen(()=>this.FeatureManager.features["dataLoader"].class.isInSkyblock);
 this.registerEvent("worldLoad",this.worldLoad);
 
 this.registerEvent("playerJoined",this.playerJoined);
@@ -72,9 +74,16 @@ this.worldLoad();
 
 
 this.registerStep(false,5,()=>{
-if(keyValid&&this.apiKeyThing.getValue())soopyV2Server.joinApiQ();
+if(keyValid&&this.apiKeyThing.getValue()&&(!inQAtm||Date.now()-this.lastJoinedQueue>60000*3)){
+
+soopyV2Server.joinApiQ();
+inQAtm=true;
+this.lastJoinedQueue=Date.now();
+}
 });
 
+this.lastJoinedQueue=0;
+let inQAtm=false;
 let keyValid=false;
 let key=undefined;
 new NonPooledThread(()=>{
@@ -92,6 +101,8 @@ keyValid=true;
 }
 
 loadPlayerStatsTick(){
+
+if(!this.FeatureManager.features["dataLoader"].class.isInSkyblock)return;
 
 if(this.lastWorldLoad&&Date.now()-this.lastWorldLoad>1000){
 World.getAllPlayers().forEach((player)=>{
@@ -128,6 +139,8 @@ this.loadPlayerStats(nearestPlayer,nearestPlayerName);
 }
 
 worldLoad(){
+if(!this.FeatureManager.features["dataLoader"].class.isInSkyblock)return;
+
 let playerStats=this.userStats[Player.getUUID().toString().replace(/-/g,"")];
 this.userStats={};
 this.loadingStats=[];
@@ -141,6 +154,8 @@ this.loadPlayerStatsCache(Player.getUUID().toString().replace(/-/g,""),Player.ge
 }
 
 playerJoined(player){
+if(!this.FeatureManager.features["dataLoader"].class.isInSkyblock)return;
+
 if(player.getUUID().toString().replace(/-/g,"")===Player.getUUID().toString().replace(/-/g,""))return;
 if(this.userStats[player.getUUID().toString().replace(/-/g,"")])return;
 if(Player.getUUID().replace(/-/g,"").toString().substr(12,1)!=="4")return;

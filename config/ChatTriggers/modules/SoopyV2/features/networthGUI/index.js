@@ -17,6 +17,15 @@ import ButtonWithArrow from"../../../guimanager/GuiElement/ButtonWithArrow";
 import Dropdown from"../../../guimanager/GuiElement/Dropdown";
 import SoopyContentChangeEvent from"../../../guimanager/EventListener/SoopyContentChangeEvent";
 
+let petTierColor={
+"COMMON":"\xA7f",
+"UNCOMMON":"\xA7a",
+"RARE":"\xA79",
+"EPIC":"\xA75",
+"LEGENDARY":"\xA76",
+"MYTHIC":"\xA7d"};
+
+
 class NetworthGui extends Feature{
 constructor(){
 super();
@@ -131,7 +140,7 @@ this.errorElm.setDesc("\xA70"+playerData.error.description);
 
 }else{return Promise.resolve().then(()=>{return(
 
-fetch("https://soopy.dev/api/v2/player_skyblock/"+playerData.data.uuid).json())}).then((_resp)=>{let skyblockData=_resp;return(()=>{
+fetch("https://soopy.dev/api/v2/player_skyblock/"+playerData.data.uuid+"?networth=true").json())}).then((_resp)=>{let skyblockData=_resp;return(()=>{
 
 if(!(player!==this.playerLoad)){return(()=>{
 
@@ -146,7 +155,7 @@ this.errorElm.setDesc("\xA70"+skyblockData.error.description);
 
 let selectedProf=profIn||skyblockData.data.stats.bestProfileId;
 
-let nwData=skyblockData.data.profiles[selectedProf].members[playerData.data.uuid].soopyNetworth;
+let nwData=skyblockData.data.profiles[selectedProf].members[playerData.data.uuid].nwDetailed;
 let nameElm=new SoopyTextElement().setText(playerData.data.stats.nameWithPrefix.replace(/§f/g,"\xA77")).setMaxTextScale(2).setLocation(0.1,0.05,0.8,0.1);
 this.statArea.addChild(nameElm);
 
@@ -160,18 +169,23 @@ this.updateData(player,newval);
 }));
 this.statArea.addChild(profileSelect);
 this.statArea.addChild(new SoopyTextElement().setText("\xA70Networth: \xA72$"+numberWithCommas(Math.round(nwData.networth)).replace(/,/g,"\xA77,\xA72")).setMaxTextScale(1.5).setLocation(0.45,0.15,0.4,0.1));
-this.statArea.addChild(new SoopyTextElement().setText("\xA70Purse: \xA72$"+numberWithCommas(Math.round(nwData.purse)).replace(/,/g,"\xA77,\xA72")+"\xA70 | Bank: \xA72$"+numberWithCommas(Math.round(nwData.bank)).replace(/,/g,"\xA77,\xA72")+"\xA70 | Sack: \xA72$"+numberWithCommas(Math.round(nwData.sack)).replace(/,/g,"\xA77,\xA72")).setMaxTextScale(1.5).setLocation(0.1,0.25,0.8,0.1));
+this.statArea.addChild(new SoopyTextElement().setText("\xA70Purse: \xA72$"+numberWithCommas(Math.round(nwData.purse)).replace(/,/g,"\xA77,\xA72")+"\xA70 | Bank: \xA72$"+numberWithCommas(Math.round(nwData.bank)).replace(/,/g,"\xA77,\xA72")).setMaxTextScale(1.5).setLocation(0.1,0.25,0.8,0.1));
 
-Object.keys(nwData.categories).sort((a,b)=>nwData.categories[b].total-nwData.categories[a].total).forEach((name,i)=>{
+Object.keys(nwData.types).sort((a,b)=>nwData.types[b].total-nwData.types[a].total).forEach((name,i)=>{
 let renderName=firstLetterWordCapital(name.replace(/_/g," "));
 
-let data=nwData.categories[name];
+let data=nwData.types[name];
 
 let box=new SoopyBoxElement().setLocation(i%2===0?0:0.525,0.45+Math.floor(i/2)*0.35,0.475,0.25);
 
 box.addChild(new SoopyMarkdownElement().setLocation(0,0,1,1).setText(data.items.filter((i)=>i.name).splice(0,5).map((a)=>{
-let name=a.name.startsWith("\xA7f")||a.name.startsWith("\xA77[Lvl ")?a.name.replace("\xA7f","\xA77"):a.name;
-return"\xA70"+name+"\xA70: \xA72$"+numberWithCommas(Math.round(a.p)).replace(/,/g,"\xA77,\xA72");
+let rName=a.loreName||a.name;
+let name=rName.startsWith("\xA7f")||rName.startsWith("\xA77[Lvl ")?rName.replace("\xA7f","\xA77"):rName;
+if(a.count&&a.count>1)name+=" \xA77x"+a.count;
+if(a.type){
+name=`§7[${a.level}] ${petTierColor[a.tier]}${firstLetterWordCapital(a.type.replace(/_/g," ").toLowerCase())}`;
+}
+return"\xA7a"+name+"\xA70: \xA72$"+numberWithCommas(Math.round(a.price)).replace(/,/g,"\xA77,\xA72");
 }).join("\n")));
 
 let boxName=new SoopyTextElement().setLocation(i%2===0?0:0.525,0.4+Math.floor(i/2)*0.35,0.475,0.05).setText("\xA70"+renderName+"\xA70: \xA72$"+numberWithCommas(Math.round(data.total)).replace(/,/g,"\xA77,\xA72"));

@@ -124,7 +124,7 @@ return this.ping||0;
 }
 
 step_5min(){return Promise.resolve().then(()=>{return(
-fetch("https://soopy.dev/api/v2/mayor").json())}).then((_resp)=>{let data=_resp;
+fetch("https://api.soopy.dev/skyblock/mayor").json())}).then((_resp)=>{let data=_resp;
 
 if(!!data.success){
 this.mayorData=data.data;

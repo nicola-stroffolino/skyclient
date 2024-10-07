@@ -2509,6 +2509,9 @@
     ],
     "SCAVENGER_RING": [
       "SCAVENGER_ARTIFACT"
+    ],
+    "HASTE_RING": [
+      "HASTE_ARTIFACT"
     ]
   },
   "ignored_talisman": [
@@ -2771,7 +2774,6 @@
     "79d045e02bce4dfea8bb9086e660ee57",
     "544e2bd9eed34074841858191c4e91e9",
     "0d07261103ba4f14bda7e950919d4ee9",
-    "111f80896d8f43bc83c60a81dc20738c",
     "33ee38b6d98f4782ac6f485d59aaa4c2",
     "4ac989a544f64186963f76d5cb437bfe",
     "7eb1c438337242909e496369913d9d0f",
@@ -2784,7 +2786,6 @@
     "7645bbd186844d208b582c39420fdad3",
     "b50fe4eb16d446e79d4b05b38de8b27b",
     "b07c9d106b234e18b010c4468de250be",
-    "e73e79dbc4eb4b0fbe2c5f51a6693185",
     "95c95143985c45b2b9937f469ed68dcf",
     "d330ae3ca47f4db08d934eb3f2562ab5",
     "f409bb11293b4aa792829e032ce0b386",
@@ -2815,7 +2816,12 @@
     "93860729a681425688eeef0e24e3b271",
     "e8a20d35b48b4fa1bd924df9049ae76f",
     "d11361954976483cb502031a7cfcf39e",
-    "b7a15bf501f045fba682800028fca545"
+    "b7a15bf501f045fba682800028fca545",
+    "d75c8b212b8a4a778db3d1c2c750af3c",
+    "e6a818977f2248ec9b0a1b1d0f87c97f",
+    "b8e7ae63e7f04bc186e6b8819b646141",
+    "486edbfaa1b84e108382a9c02b71f25f",
+    "e37e84d154974265942249c20f601538"
   ],
   "ranks": {
     "OWNER": {

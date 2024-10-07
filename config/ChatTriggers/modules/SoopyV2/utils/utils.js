@@ -1,4 +1,4 @@
-
+import fetch from"../../SoopyV2/utils/networkUtils";import Promise from"../../PromiseV2";
 const NBTTagString=Java.type("net.minecraft.nbt.NBTTagString");
 
 let utils={
@@ -162,7 +162,15 @@ let seconds=Math.floor(time/1000);
 time-=seconds*1000;
 
 return`${days?days+"d ":""}${hours+days?hours+"h ":""}${minuites+hours+days?minuites+"m ":""}${seconds+minuites+hours+days?seconds+"s ":""}`.trim();
-}};
+},
+uuidFromUsername:function(name){return Promise.resolve().then(()=>{return Promise.resolve().then(()=>{return(
+
+fetch(`https://api.mojang.com/users/profiles/minecraft/${name}`).json())}).then((_resp)=>{let{id}=_resp;
+return id}).catch((
+e)=>{return(()=>{
+return null})()})}).then(()=>{})}};
+
+
 
 
 module.exports=utils;

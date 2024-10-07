@@ -140,7 +140,7 @@ this.loadChangeLog();
 }
 
 loadChangeLog(){return Promise.resolve().then(()=>{return(
-fetch("https://soopy.dev/api/soopyv2/changelog.json").json())}).then((_resp)=>{let data=_resp;
+fetch("https://api.soopy.dev/soopyv2/changelog.json").json())}).then((_resp)=>{let data=_resp;
 
 this.changelogData=data.changelog.reverse();
 

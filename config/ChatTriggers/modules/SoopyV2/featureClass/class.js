@@ -308,9 +308,6 @@ this.parent.unregisterForge(this.data);
 
 class CustomEvent extends Event{
 
-constructor(...args){
-super(...args);
-}
 actuallyRegister(){
 if(this.data.type==="step")return;
 this.trigger.register();

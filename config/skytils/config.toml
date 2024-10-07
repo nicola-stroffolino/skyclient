@@ -21,7 +21,7 @@
 		config_button_on_pause = true
 		reopen_options_menu = true
 		first_launch = false
-		last_launched_skytils_version = "1.10.6"
+		last_launched_skytils_version = "1.10.7-RC1"
 
 	[general.reparty]
 		override_other_reparty_commands = true
@@ -33,6 +33,7 @@
 		local_api_password = ""
 
 	[general.command_aliases]
+		command_alias_subcommands = false
 		command_alias_mode = 1
 
 	[general.api]
@@ -176,7 +177,7 @@
 		comma_damage = false
 		fishing_hook_age = false
 		find_rare_relics = false
-		hide_mob_death_particles = false
+		hide_mob_death_particles = true
 		hide_lightning = false
 		disable_night_vision = true
 		no_fire = false
@@ -244,7 +245,7 @@
 		low_soulflow_ping = 100
 		nukekebi_fixation_head_color = "128,65,102,245"
 		seraph_normal_phase_color = "255,0,0,0"
-		show_seraph_display = true
+		show_seraph_display = false
 		yang_glyph_ping_on_land = true
 		show_soulflow_display = false
 		recolor_seraph_boss = true
@@ -252,7 +253,7 @@
 
 	[slayer.quality_of_life]
 		show_slayer_display = false
-		slayer_miniboss_spawn_alert = false
+		slayer_miniboss_spawn_alert = true
 		slayer_boss_hitbox = false
 		show_slayer_armor_kills = false
 		click_to_open_maddox_menu = false
@@ -359,7 +360,7 @@
 		show_bat_hitboxes = true
 		auto-reparty_on_dungeon_ending = false
 		hide_damage_in_boss = false
-		hide_non-starred_mobs_nametags = false
+		hide_non-starred_mobs_nametags = true
 		highlight_door_opener = false
 		"change_hurt_color_on_the_wither_king's_dragons" = false
 		"show_sadan's_interest" = false
@@ -462,7 +463,7 @@
 		raffle_warning = false
 		dark_mode_mist = true
 		recolor_carpets = false
-		highlight_completed_commissions = false
+		highlight_completed_commissions = true
 		highlight_disabled_hotm_perks = true
 		more_visible_ghosts = true
 		raffle_waypoint = false
@@ -482,7 +483,7 @@
 		spirit_sceptre_hider = 0
 		giant_sword_hider = 0
 		livid_dagger_hider = 0
-		mana_use_hider = 0
+		mana_use_hider = 1
 
 	[spam.miscellaneous]
 		spook_message_hider = 0

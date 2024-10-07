@@ -48,13 +48,6 @@ this.itemPricesCache.clear();
 });
 }
 
-sendSbLvlData(data){
-this.sendData({
-type:"sbLvl",
-data});
-
-}
-
 requestItemPrice(json,uuid){
 this.sendData({
 type:"loadItemWorth",
@@ -248,14 +241,14 @@ sendSlayerSpawnData(data){
 this.sendData({
 type:"slayerSpawnData",
 data:data,
-name:ChatLib.removeFormatting(Player.getDisplayName().text)});
+name:ChatLib.removeFormatting(Player.getDisplayName().text.split("]")[1]?.trim?.()||Player.getDisplayName().text)});
 
 }
 sendInquisData(data){
 this.sendData({
 type:"inquisData",
 data:data,
-name:ChatLib.removeFormatting(Player.getDisplayName().text)});
+name:ChatLib.removeFormatting(Player.getDisplayName().text.split("]")[1]?.trim?.()||Player.getDisplayName().text)});
 
 }
 
@@ -263,7 +256,7 @@ sendVancData(data){
 this.sendData({
 type:"vancData",
 data:data,
-name:ChatLib.removeFormatting(Player.getDisplayName().text)});
+name:ChatLib.removeFormatting(Player.getDisplayName().text.split("]")[1]?.trim?.()||Player.getDisplayName().text)});
 
 }
 
