@@ -8,3 +8,8 @@ essential/cosmetic-cache/*
 config/skyblockaddons_petCache.json
 OneConfig/profiles/Default Profile/polysprint.json
 nulldebug/island_change.log
+
+# NEU
+config/notenoughupdates/repo/items
+config/notenoughupdates/repo/constants
+

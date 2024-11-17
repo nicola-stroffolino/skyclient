@@ -5,7 +5,7 @@
 	first_time = false
 	mod_mode = -1
 	notification_album_art_location = 1
-	music_service = "disabled"
+	music_service = "spotify"
 	announcement_message = "&aCraftify > &7Now Playing: &b${song} by ${artists}"
 
 [servers]

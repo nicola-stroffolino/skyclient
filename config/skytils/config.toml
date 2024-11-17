@@ -21,7 +21,7 @@
 		config_button_on_pause = true
 		reopen_options_menu = true
 		first_launch = false
-		last_launched_skytils_version = "1.10.7-RC1"
+		last_launched_skytils_version = "1.10.7"
 
 	[general.reparty]
 		override_other_reparty_commands = true
@@ -172,14 +172,14 @@
 		stop_hook_sinking_in_lava = true
 		restock_arrows_warning = 0
 		always_show_item_name_highlight = false
-		hide_air_display = true
+		hide_air_display = false
 		power_orb_lock_duration = 10
 		comma_damage = false
 		fishing_hook_age = false
 		find_rare_relics = false
 		hide_mob_death_particles = true
 		hide_lightning = false
-		disable_night_vision = true
+		disable_night_vision = false
 		no_fire = false
 		show_arachne_hp = false
 		tropy_fish_tracker = false
@@ -493,7 +493,7 @@
 		no_enemies_nearby_hider = 0
 		profile_message_hider = 0
 		cooldown_hider = 0
-		blocks_in_the_way_hider = 0
+		blocks_in_the_way_hider = 1
 		auto-recombobulator_hider = 0
 		out_of_mana_hider = 0
 		pristine_hider = 0

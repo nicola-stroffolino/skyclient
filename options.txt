@@ -3,7 +3,7 @@ mouseSensitivity:0.5
 fov:0.5
 gamma:1.0
 saturation:0.0
-renderDistance:8
+renderDistance:10
 guiScale:2
 particles:0
 bobView:false
@@ -14,7 +14,7 @@ difficulty:3
 fancyGraphics:false
 ao:0
 renderClouds:false
-resourcePacks:["! §fp§dri§bsm §8[§f16§3x§8]","§aFurfSky Reborn §8§lOVERLAY§8.zip"]
+resourcePacks:["! §fp§dri§bsm §8[§f16§3x§8]","§a§lFurf§b§lSky §5§lReborn §8§lOVERLAY.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_US
@@ -136,8 +136,7 @@ key_Dungeon Map Zoom Out:0
 key_Copy NBT:0
 key_WorldEdit Reference:38
 key_Warp to nearest location to burrial guess:0
-key_Choose the nearest eman boss as your boss.:0
-soundCategory_master:0.205298
+soundCategory_master:0.18874173
 soundCategory_music:0.0
 soundCategory_record:0.5070422
 soundCategory_weather:0.0
