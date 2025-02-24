@@ -1,16 +1,16 @@
 {
-  "enableHat": false,
-  "enableJacket": false,
-  "enableLeftSleeve": false,
-  "enableRightSleeve": false,
-  "enableLeftPants": false,
-  "enableRightPants": false,
+  "enableHat": true,
+  "enableJacket": true,
+  "enableLeftSleeve": true,
+  "enableRightSleeve": true,
+  "enableLeftPants": true,
+  "enableRightPants": true,
   "baseVoxelSize": 1.149,
   "bodyVoxelWidthSize": 1.05,
-  "headVoxelSize": 1.1810001,
+  "headVoxelSize": 1.179,
   "renderDistanceLOD": 14,
   "enableSkulls": true,
   "enableSkullsItems": true,
-  "skullVoxelSize": 1.1,
-  "fastRender": true
+  "skullVoxelSize": 1.2,
+  "fastRender": false
 }

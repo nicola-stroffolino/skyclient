@@ -1,5 +1,188 @@
 {
   "profileData": {
+    "Grapes": {
+      "slotLockData": [
+        {
+          "lockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          "riftLockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    "Watermelon": {
+      "slotLockData": [
+        {
+          "lockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "riftLockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
     "Pineapple": {
       "slotLockData": [
         {
@@ -13,6 +196,68 @@
               "boundTo": -1
             },
             {
+              "locked": true,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": true,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": 32
+            },
+            {
+              "locked": false,
+              "boundTo": 33
+            },
+            {
+              "locked": false,
+              "boundTo": 34
+            },
+            null,
+            null,
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
               "locked": false,
               "boundTo": -1
             },
@@ -63,71 +308,15 @@
             },
             {
               "locked": false,
-              "boundTo": -1
+              "boundTo": 5
             },
             {
               "locked": false,
-              "boundTo": -1
+              "boundTo": 6
             },
             {
               "locked": false,
-              "boundTo": -1
-            },
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            null,
-            null,
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            null,
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            null,
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            {
-              "locked": false,
-              "boundTo": -1
+              "boundTo": 7
             },
             {
               "locked": false,

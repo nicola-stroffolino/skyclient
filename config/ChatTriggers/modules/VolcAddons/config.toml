@@ -1,0 +1,175 @@
+
+[rift]
+
+	[rift.rift]
+		ddr_helper = false
+		enigma_soul_waypoints = 0
+		montezuma_soul_waypoints = false
+
+	[rift.vampire]
+		announce_mania_phase = 0
+		vampire_attack_display = false
+		effigy_waypoint = false
+		vampire_hitbox = false
+		enlarge_impel_message = false
+
+	[rift.awooga_v2]
+		weird_tuba_timer = false
+		weird_tuba_alert = false
+
+[general]
+
+	[general.skills]
+		skill_tracker = 0
+
+	[general.general]
+		custom_emotes = false
+		draw_waypoint = 0
+		abiphone_blocker = false
+		remove_selfie_mode = false
+		recent_server_alert = 0
+
+	[general.server]
+		server_status = false
+
+	[general.timer]
+		reminder_text = ""
+		reminder_time = 0
+
+	[general.party_commands]
+		"leave_command_(?leave)" = false
+		"limbo_command_(?<limbo,_lobby,_l>)" = false
+		"warp_command_(?warp)" = true
+		party_chat_commands = 0
+		leader_command_options = false
+		"transfer_command_(?transfer)" = true
+		leader_chat_commands = false
+		"demote_command_(?demote)" = true
+		"coords_command_(?coords)" = true
+		"rps_command_(?rps)" = true
+		party_command_options = false
+		"invite_command_(?invite)" = true
+		"stream_command_(?<streamopen,_stream>_[num])" = true
+		"help_command_(?help)" = true
+		"allinvite_command_(?<allinvite,_allinv>)" = true
+		"8ball_command_(?8ball)" = true
+		"dice_command_(?<dice,_roll>)" = true
+		"women_command_(?<w,_waifu,_women>)" = true
+		"slander_command_(?<racist,_gay,_cringe>)" = true
+		"promote_command_(?promote)" = true
+		"coinflip_command_(?<coin,_flip,_coinflip,_cf>)" = true
+
+	[general.party]
+		auto_transfer_back = false
+		auto_join_reparty = false
+		whitelist_rejoin = false
+
+	[general.essential]
+		api_key = ""
+
+[crimson_isles]
+
+	[crimson_isles.fishing]
+		golden_fish_timer = false
+		announce_mythic_creature_spawn = 0
+		mythic_lava_creature_detect = false
+
+	[crimson_isles.vanquisher_alert]
+		vanquisher_detection_sound = false
+		vanquisher_auto-warp = ""
+		vanquisher_detection = false
+		announce_vanquisher_chat = 0
+
+	[crimson_isles.vanquisher_counter]
+		vanquisher_counter = 0
+
+[hub]
+
+	[hub.inquisitor]
+		detect_inquisitor = false
+		announce_inquisitor_chat = 0
+		inquisitor_counter = 0
+
+	[hub.diana]
+		diana_warp = false
+		diana_waypoint = false
+
+	[hub.griffin_burrow]
+		burrow_chat_alert = false
+		burrow_amogus_alert = false
+		burrow_detection = false
+
+[kuudra]
+
+	[kuudra.kuudra]
+		kuudra_hp_display = true
+		show_supply_piles = true
+		"show_supply/fuel_waypoints" = true
+		kuudra_spawn = false
+		kuudra_splits = false
+
+	[kuudra.kuudra_profit]
+		"kuudra_profit_tracker_(wip)" = 0
+		kuudra_profit = false
+		tabasco_enjoyer = false
+
+	[kuudra.kuudra_alert]
+		mount_ballista_alert = true
+		kuudra_alerts = true
+		unready_alert = true
+		stunner_alert = ""
+		kuudra_alert_options = false
+		stun_alert = true
+		token_alert = 0
+		cannonear_alert = ""
+		fresh_tools_alert = true
+		no_key_alert = true
+		choose_route_alert = true
+		fuel_percent_alert = true
+		pickup_supply_alert = true
+		stunner_eaten_alert = true
+		building_alert = true
+		dropship_alert = true
+
+[combat]
+
+	[combat.slayer]
+		announce_boss_chat = 0
+		announce_miniboss_chat = 0
+
+	[combat.gyrokinetic_wand]
+		cells_alignment_timer = false
+		cells_alignment_alert = false
+
+	[combat.combat]
+		broken_hyperion = false
+		low_health_alert = 0.0
+		damage_tracker = false
+		ragnarok_detection = false
+
+	[combat.dungeon]
+		watcher_alert = false
+		dungeon_rejoin = 0
+
+[garden]
+
+	[garden.garden]
+		garden_tab_display = false
+		garden_warp_override = false
+		composter_alert = false
+		next_visitor_display = false
+
+[economy]
+
+	[economy.coins]
+		coin_tracker = 0
+
+	[economy.economy]
+		item_price = false
+		economy_refresh = 60
+
+[mining]
+
+	[mining.powder]
+		powder_tracker = 0
+

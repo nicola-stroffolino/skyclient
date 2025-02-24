@@ -1,9 +1,9 @@
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.5
+fov:1.0
 gamma:1.0
 saturation:0.0
-renderDistance:10
+renderDistance:8
 guiScale:2
 particles:0
 bobView:false
@@ -12,9 +12,9 @@ maxFps:260
 fboEnable:true
 difficulty:3
 fancyGraphics:false
-ao:0
+ao:2
 renderClouds:false
-resourcePacks:["! §fp§dri§bsm §8[§f16§3x§8]","§a§lFurf§b§lSky §5§lReborn §8§lOVERLAY.zip"]
+resourcePacks:["! §fp§dri§bsm §8[§f16§3x§8]"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_US
@@ -39,7 +39,7 @@ chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:0.92957747
 showInventoryAchievementHint:false
-mipmapLevels:1
+mipmapLevels:4
 streamBytesPerPixel:0.5
 streamMicVolume:1.0
 streamSystemVolume:1.0
@@ -94,7 +94,7 @@ key_of.key.zoom:46
 key_Open Friends Gui:0
 key_Open Cosmetic Studio:0
 key_keybind.name.SCREENSHOT_MANAGER:23
-key_Cosmetic Visibility Toggle:35
+key_Cosmetic Visibility Toggle:0
 key_Chat Peek:0
 key_Invite Friends:0
 key_keybind.name.EMOTE_WHEEL:21
@@ -107,7 +107,7 @@ key_keybind.name.EMOTE_SLOT_6:0
 key_keybind.name.EMOTE_SLOT_7:0
 key_keybind.name.EMOTE_SLOT_8:0
 key_Add item to inventory (Creative-only):43
-key_Set item as favourite:33
+key_Set item as favourite:0
 key_Show usages for item:22
 key_Show recipe for item:19
 key_Show previous recipe:26
@@ -116,10 +116,6 @@ key_Toggle NEU overlay:0
 key_Close NEU panes:0
 key_Select Item:0
 key_Screenshot Chat:0
-key_Skip Forward:0
-key_Skip Previous:0
-key_Toggle Playing:0
-key_Toggle Craftify HUD:0
 key_Open Room Images in DSG/SBP:24
 key_Open Waypoint Config Menu:25
 key_Show Waypoints in Practice Mode:0
@@ -127,20 +123,21 @@ key_Drop Stack Modifier:0
 key_Hide Screen:59
 key_Custom F3:61
 key_Clear Vanilla Shaders:62
-key_Settings:0
-key_Edit GUI Locations:0
-key_Lock Slot:0
-key_Freeze Backpack Preview:0
-key_Dungeon Map Zoom In:0
-key_Dungeon Map Zoom Out:0
-key_Copy NBT:0
-key_WorldEdit Reference:38
-key_Warp to nearest location to burrial guess:0
-soundCategory_master:0.18874173
+key_key.skyblockaddons.open_settings:0
+key_key.skyblockaddons.open_edit_gui:0
+key_key.skyblockaddons.lock_slot:0
+key_key.skyblockaddons.freeze_backpack:0
+key_key.skyblockaddons.increase_dungeon_map_zoom:0
+key_key.skyblockaddons.decrease_dungeon_map_zoom:0
+key_key.skyblockaddons.answer_abiphone_or_option:0
+key_key.skyblockaddons.developer_copy_nbt:157
+key_Pause Trackers:0
+key_Diana Warp:0
+soundCategory_master:0.307947
 soundCategory_music:0.0
 soundCategory_record:0.5070422
 soundCategory_weather:0.0
-soundCategory_block:0.5070422
+soundCategory_block:0.5140845
 soundCategory_hostile:0.5
 soundCategory_neutral:0.5
 soundCategory_player:0.5070422

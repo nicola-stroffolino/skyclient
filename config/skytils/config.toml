@@ -14,6 +14,11 @@
 		hide_pet_nametags = false
 		pet_item_confirmation = false
 
+[rift]
+
+	[rift.solvers]
+		quad_link_legacy_solver = false
+
 [general]
 
 	[general.other]
@@ -21,7 +26,7 @@
 		config_button_on_pause = true
 		reopen_options_menu = true
 		first_launch = false
-		last_launched_skytils_version = "1.10.7"
+		last_launched_skytils_version = "1.10.9"
 
 	[general.reparty]
 		override_other_reparty_commands = true
@@ -34,7 +39,7 @@
 
 	[general.command_aliases]
 		command_alias_subcommands = false
-		command_alias_mode = 1
+		command_alias_mode = 0
 
 	[general.api]
 		hypixel_api_key = "76aabe20-3c96-4638-8aae-bf372c24603b"
@@ -109,7 +114,7 @@
 		block_zapper_fatigue_timer = false
 		combine_helper = false
 		show_enchanted_book_abbreviation = false
-		held_item_scale = 1.0
+		held_item_scale = 0.5
 		item_cooldown_display = false
 		head_display_size = 1.0
 		show_potion_tier = false
@@ -201,7 +206,7 @@
 		moveable_item_name_highlight = false
 		prevent_moving_on_death = false
 		custom_damage_splash = false
-		enchant_glint_fix = true
+		enchant_glint_fix = false
 		hide_players_in_spawn = false
 		better_stash = false
 		hide_potion_effects_in_inventory = false
@@ -264,7 +269,7 @@
 [sounds]
 
 	[sounds.abilities]
-		disable_cooldown_sounds = false
+		disable_cooldown_sounds = true
 		disable_jerry-chine_gun_sounds = false
 		disable_flower_of_truth_sounds = false
 
@@ -344,7 +349,7 @@
 		message_for_300_score = ""
 		receive_score_calculation_party_assist = true
 		create_title_on_270_score = false
-		"allow_mimic_dead!_from_other_mods" = false
+		"allow_mimic_dead!_from_other_mods" = true
 		show_dungeon_score_estimate = true
 		create_title_on_300_score = false
 		minimized_dungeon_score_estimate = true
@@ -452,6 +457,7 @@
 		crystal_hollows_chat_coordinates_grabber = true
 		crystal_hollows_death_waypoints = false
 		crystal_hollows_waypoints = true
+		crystal_hollows_map_player_arrow_scale = 2.25
 		king_yolkar_waypoint = true
 		crystal_hollows_map_special_places = true
 		crystal_hollows_treasure_helper = false

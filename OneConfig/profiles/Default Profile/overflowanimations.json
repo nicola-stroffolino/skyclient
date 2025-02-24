@@ -66,12 +66,12 @@
   "fakeBlockHit": false,
   "globalPositions": true,
   "itemPositionX": 0.0,
-  "itemPositionY": 0.0,
+  "itemPositionY": 0.20507812,
   "itemPositionZ": 0.0,
   "itemRotationYaw": 0.0,
   "itemRotationPitch": 0.0,
   "itemRotationRoll": 0.0,
-  "itemScale": 0.0,
+  "itemScale": -0.5097656,
   "itemSwingSpeed": 0.0,
   "itemSwingSpeedHaste": 0.0,
   "itemSwingSpeedFatigue": 0.0,
@@ -126,6 +126,6 @@
     "fishingLinePositionZ": 0.35
   },
   "didTheFunnyDulkirThingElectricBoogaloo": false,
-  "enabled": false,
+  "enabled": true,
   "canToggle": true
 }

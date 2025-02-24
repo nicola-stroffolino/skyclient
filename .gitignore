@@ -1,15 +1,26 @@
 skyclientupdater/updates/*
-crash-reports/*
-logs/*
+logs
+*.log
 config/skyhanni/logs/*
 essential/cosmetic-cache/*
 
-
 config/skyblockaddons_petCache.json
 OneConfig/profiles/Default Profile/polysprint.json
-nulldebug/island_change.log
 
 # NEU
 config/notenoughupdates/repo/items
 config/notenoughupdates/repo/constants
 
+# Heavy MC Stuff
+screenshots
+saves
+libraries
+crash-reports
+
+# Idk
+.mixin.out
+nulldebug
+DEBUG
+options.txt
+optionsof.txt
+optionsshaders.txt

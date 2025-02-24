@@ -1,0 +1,1783 @@
+{
+  "about": {
+    "autoUpdates": true,
+    "updateStream": "PRE",
+    "licenses": {}
+  },
+  "misc": {
+    "onlyShowOnSkyblock": false,
+    "hidePotionEffect": true,
+    "streamerMode": false,
+    "fixSteveSkulls": true,
+    "trackFairySouls": true,
+    "fariySoul": true,
+    "fairySoulWaypointDistance": false,
+    "fariySoulClear": false,
+    "fariySoulUnclear": false,
+    "guiButtonClicks": true,
+    "replaceSocialOptions1": 1,
+    "damageIndicatorStyle2": false,
+    "openPV": true,
+    "editEnchantColoursButton": true,
+    "chromaSpeed": 100,
+    "cacheItemEnchant": false,
+    "disableSkullRetexturing": false,
+    "disableNPCRetexturing": false,
+    "wiki": 1,
+    "keybindWaypoint": 37,
+    "untrackCloseWaypoints": true,
+    "warpTwice": true,
+    "calculationMode": 2,
+    "calculationPrecision": 5,
+    "abiphoneWarning": true,
+    "coopWarning": true,
+    "filterChatLevel": 0,
+    "textFieldTweaksEnabled": true,
+    "abiphoneFavourites": true,
+    "dungeonGroupsPV": true,
+    "oldSkyBlockMenu": false,
+    "defaultArmorColour": false,
+    "openAHKeybind": 50,
+    "openSkyBlockRecipeKeybind": 0,
+    "showWhenCountdownEnds": 1,
+    "useEnglishCountdown": false,
+    "hideRegenBounce": false,
+    "neuCustomizeKeybind": 0
+  },
+  "locationedit": {
+    "guiScale": 2
+  },
+  "notifications": {
+    "outdatedRepo": true,
+    "doRamNotif": false,
+    "doOamNotif": true,
+    "doFastRenderNotif": true,
+    "doBoosterNotif": false,
+    "boosterCookieWarningMins": 1440,
+    "enderNodeAccordion": true,
+    "endermiteAlert": true,
+    "endermiteAlertColor": "0:255:194:0:174",
+    "endermiteAlertTicks": 20
+  },
+  "itemlist": {
+    "showVanillaItems": true,
+    "tabOpen": true,
+    "keepopen": false,
+    "openWhenSearching": true,
+    "itemStyle": 0,
+    "paneGuiScale": 0,
+    "bgBlurFactor": 5,
+    "paneWidthMult": 1.0,
+    "panePadding": 10,
+    "foregroundColour": "00:255:100:100:100",
+    "favouriteColour": "00:255:200:150:50",
+    "backgroundColour": "15:6:0:0:255",
+    "alwaysShowMonsters": true,
+    "wikiInBrowser": false
+  },
+  "toolbar": {
+    "positionButton": true,
+    "searchBar": true,
+    "enableSettingsButton": true,
+    "enableSearchModeButton": true,
+    "ctrlF": true,
+    "copyToClipboardWhenGettingResult": true,
+    "searchBarWidth": 200,
+    "searchBarHeight": 40,
+    "autoTurnOffSearchMode": true,
+    "quickCommands": false,
+    "quickCommandsClickType": 0
+  },
+  "inventoryButtons": {
+    "enableInventoryButtons": true,
+    "openEditorButton": true,
+    "hideCrafting": false,
+    "hideInDungeonMenus": false,
+    "clickType": 0,
+    "tooltipDelay": 600
+  },
+  "slotLocking": {
+    "slotLockWarning": false,
+    "enableSlotLocking": true,
+    "enableSlotBinding": true,
+    "bindingAlsoLocks": true,
+    "slotLockKey": 38,
+    "lockSlotsInTrade": true,
+    "disableInStorage": false,
+    "slotLockSwapDelay": 100,
+    "slotLockSound": true,
+    "slotLockSoundVol": 20.0,
+    "resetSlotLocking": 39.0
+  },
+  "tooltipTweaks": {
+    "priceInfoAuc": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "priceInfoBaz": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "rawCraft": true,
+    "npcSellPrice": false,
+    "museumDonationStatus": false,
+    "shortNumberFormatPrices": false,
+    "showPriceInfoInvItem": true,
+    "showPriceInfoAucItem": true,
+    "disablePriceKey": false,
+    "disablePriceKeyKeybind": 0,
+    "alwaysShowRequiredItems": false,
+    "showReforgeStats": true,
+    "showGemstoneStats": true,
+    "hideDefaultReforgeStats": true,
+    "missingEnchantList": true,
+    "guiScale": 0,
+    "customTooltips": false,
+    "scrollableTooltips": false,
+    "petExtendExp": false,
+    "tooltipBorderColours": true,
+    "tooltipBorderOpacity": 200,
+    "powerStoneStats": true,
+    "rngMeterFractionDisplay": true,
+    "rngMeterProfitPerUnit": true,
+    "rngMeterRunsNeeded": true,
+    "abiphoneContactRequirements": true,
+    "abiphoneContactMarker": true,
+    "essencePriceInEssenceShop": true,
+    "gardenNpcPrice": true,
+    "copperCoins": true,
+    "AHPriceIgnoreThreshold": 0.0,
+    "ignoreAllAHItems": true
+  },
+  "itemOverlays": {
+    "enableTreecapOverlay": true,
+    "enableCooldownInItemDurability": false,
+    "treecapOverlayColour": "00:50:64:224:208",
+    "enableMonkeyCheck": true,
+    "enableWandOverlay": true,
+    "wandBlockCount": true,
+    "wandOverlayColour": "00:50:64:224:208",
+    "enableZapperOverlay": true,
+    "zapperOverlayColour": "0:102:171:5:0",
+    "enableSmoothAOTE": true,
+    "enableSmoothHyperion": true,
+    "smoothTpMillis": 150,
+    "smoothTpMillisEtherwarp": 50,
+    "disableHyperionParticles": true,
+    "etherwarpZoom": true,
+    "enableEtherwarpHelperOverlay": true,
+    "enableEtherwarpBlockOverlay": true,
+    "disableOverlayWhenFailed": false,
+    "hideEtherwarpFailText": false,
+    "changeEtherwarpColourWhenFailed": false,
+    "etherwarpHighlightColour": "00:70:156:8:96",
+    "etherwarpFailHighlightColour": "00:70:220:40:40",
+    "enableBonemerangOverlay": true,
+    "highlightTargeted": true,
+    "bonemerangPosition": {
+      "x": -258,
+      "y": -16,
+      "centerX": false,
+      "centerY": false
+    },
+    "bonemerangOverlayText": [
+      0,
+      1
+    ],
+    "bonemerangOverlayStyle": 0,
+    "bonemerangFastUpdate": false,
+    "enableCrystalOverlay": true,
+    "alwaysShowCrystal": false,
+    "enablePrismapumpOverlay": true,
+    "enableHoeOverlay": true,
+    "enableDirtWandOverlay": true,
+    "enableScytheOverlay": true,
+    "customWitherCloakToggle": true,
+    "customWitherCloakCount": 6,
+    "customWitherCloakSpeed": 2.0,
+    "customWitherCloakDistance": 1.2,
+    "customWitherCloakCredit": false,
+    "enableGrappleOverlay": true,
+    "oldCooldowns": false,
+    "pickaxeAbility": true,
+    "bonzoAbility": true,
+    "spiritAbility": true
+  },
+  "skillOverlays": {
+    "farmingOverlay": false,
+    "farmingText": [
+      9,
+      10,
+      1,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "useBZPrice": true,
+    "farmingPauseTimer": 3,
+    "farmingCropsPerSecondTimeFrame": 5,
+    "farmingCropRateUnit": 0,
+    "farmingCoinRateUnit": 0,
+    "farmingResetCPS": 5,
+    "farmingPosition": {
+      "x": 139,
+      "y": -184,
+      "centerX": false,
+      "centerY": false
+    },
+    "farmingStyle": 2,
+    "miningSkillOverlay": false,
+    "miningText": [
+      0,
+      8,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "miningPauseTimer": 3,
+    "miningPosition": {
+      "x": -127,
+      "y": 128,
+      "centerX": false,
+      "centerY": false
+    },
+    "miningStyle": 0,
+    "FishingSkillOverlay": false,
+    "fishingText": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "fishingPauseTimer": 3,
+    "fishingPosition": {
+      "x": -429,
+      "y": 194,
+      "centerX": false,
+      "centerY": false
+    },
+    "fishingStyle": 0,
+    "fishKey": 207,
+    "customFishTimer": 300,
+    "combatInfo": false,
+    "combatSkillOverlay": false,
+    "combatText": [
+      0,
+      6,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "combatPauseTimer": 3,
+    "combatPosition": {
+      "x": -547,
+      "y": 177,
+      "centerX": false,
+      "centerY": false
+    },
+    "combatStyle": 0,
+    "alwaysShowCombatOverlay": false
+  },
+  "miscOverlays": {
+    "todoOverlay2": true,
+    "todoOverlayOnlyShowTab": false,
+    "todoOverlayHideAtBingo": true,
+    "todoText2": [
+      2,
+      0,
+      1
+    ],
+    "experimentationDisplay": 0,
+    "puzzlerDisplay": 0,
+    "fetchurDisplay": 0,
+    "commissionDisplay": 0,
+    "cakesDisplay": 0,
+    "cookieBuffDisplay": 0,
+    "godpotDisplay": 0,
+    "dailyMithrilPowderDisplay": 0,
+    "dailyGemstonePowderDisplay": 0,
+    "dailyHeavyPearlDisplay": 0,
+    "questBoardDisplay": 0,
+    "shopLimitDisplay": 0,
+    "freeRiftInfusionDisplay": 0,
+    "readyColour": 10,
+    "goneColour": 12,
+    "verySoonColour": 11,
+    "soonColour": 9,
+    "kindaSoonColour": 1,
+    "defaultColour": 15,
+    "todoPosition": {
+      "x": -4,
+      "y": -145,
+      "centerX": false,
+      "centerY": false
+    },
+    "todoStyle": 0,
+    "todoIcons": true
+  },
+  "slayerOverlay": {
+    "slayerWarning": false,
+    "slayerOverlay": false,
+    "onlyShowWhenRelevant": true,
+    "slayerText": [
+      0,
+      1,
+      4,
+      5,
+      3,
+      6
+    ],
+    "slayerPosition": {
+      "x": -224,
+      "y": -216,
+      "centerX": false,
+      "centerY": false
+    },
+    "slayerStyle": 0
+  },
+  "storageGUI": {
+    "selectedIndex": 0,
+    "enableStorageGUI3": true,
+    "storageHeight": 320,
+    "displayStyle": 0,
+    "enderchestPreview": true,
+    "backpackPreview": true,
+    "masonryMode": false,
+    "fancyPanes": 0,
+    "searchBarAutofocus": true,
+    "showEnchantGlint": false,
+    "selectedStorageColour": "0:255:255:223:0",
+    "useCustomTextColour": false,
+    "customTextColour": "0:255:144:144:144",
+    "cancelScrollKey": 0,
+    "disableCIT": false,
+    "showInvBackpack": false,
+    "scrollToBackpack2": 0,
+    "backpackHotbarSide": 0,
+    "showInvBackpackPreview": true,
+    "backpackOpacity": 50,
+    "backpackScrollKey": 42,
+    "backpackHotkey": 41,
+    "arrowKeyBackpacks": false,
+    "arrowLeftKey": 203,
+    "arrowRightKey": 205,
+    "arrowDownKey": 208
+  },
+  "dungeons": {
+    "editDungeonMap": 0,
+    "showOwnHeadAsMarker": false,
+    "profitType": 0,
+    "profitDisplayLoc": 0,
+    "useKismetOnDungeonProfit": false,
+    "useEssenceCostFromBazaar": true,
+    "useChestKeyCost": true,
+    "shouldWarningDerpy": true,
+    "enableDungeonWin": true,
+    "dungeonWinMillis": 8000,
+    "enableDungBlockOverlay": true,
+    "dungeonBlocksEverywhere": false,
+    "slowDungeonBlocks": false,
+    "dungCrackedColour": "0:255:7:255:217",
+    "dungDispenserColour": "0:255:255:76:0",
+    "dungLeverColour": "0:252:24:249:255",
+    "dungTripWireColour": "0:255:255:0:0",
+    "dungChestColour": "0:255:0:163:36",
+    "dungTrappedChestColour": "0:255:0:163:36",
+    "dungBatColour": "0:255:12:255:0",
+    "croesusProfitOverlay": true,
+    "croesusSortByProfit": true,
+    "croesusHighlightHighestProfit": true
+  },
+  "enchantingSolvers": {
+    "enableTableGUI": false,
+    "enableHexGUI": false,
+    "enchantSorting": 0,
+    "enchantOrdering": 0,
+    "maxEnchLevel": false,
+    "enableEnchantingSolvers": true,
+    "preventMisclicks1": true,
+    "hideTooltips": true,
+    "seqNumbers": false,
+    "showNextClick": false,
+    "hideButtons": false,
+    "seqNext": 6,
+    "seqUpcoming": 5,
+    "supMatched": 6,
+    "supPossible": 2,
+    "supUnmatched": 5,
+    "supPower": 11,
+    "hexOverpayWarning": 1.0E7
+  },
+  "mining": {
+    "locWaypoints": 1,
+    "hideWaypointIfAtLocation": true,
+    "emissaryWaypoints": 0,
+    "hideEmissaryWaypointInTunnels": true,
+    "powderGhastWaypoint": true,
+    "fallenStarWaypoint": true,
+    "tunnelWaypoints": "NONE",
+    "alwaysShowTunnelWaypoints": false,
+    "drillFuelBar": false,
+    "drillFuelBarWidth": 180,
+    "drillFuelBarPosition": {
+      "x": -2,
+      "y": -97,
+      "centerX": true,
+      "centerY": false
+    },
+    "dwarvenOverlay": false,
+    "dwarvenText2": [
+      1,
+      2,
+      7,
+      3
+    ],
+    "overlayPosition": {
+      "x": 2,
+      "y": 3,
+      "centerX": false,
+      "centerY": false
+    },
+    "overlayStyle": 2,
+    "dwarvenOverlayIcons": true,
+    "forgeDisplay": 2,
+    "forgeDisplayEnabledLocations": 0,
+    "forgeDisplayOnlyShowTab": false,
+    "starCultDisplayEnabledLocations": 0,
+    "starCultDisplayOnlyShowTab": false,
+    "skyMallDisplayEnabledLocations": 0,
+    "skyMallDisplayOnlyShowTab": false,
+    "commissionTaskTips": 0,
+    "commissionTaskTipNewLine": true,
+    "metalDetectorEnabled": false,
+    "metalDetectorLineToSolution": true,
+    "metalDetectorShowPossible": false,
+    "metalDetectorTitle": false,
+    "metalDetectorFoundColor": "0:255:255:255:85",
+    "metalDetectorFailedColor": "0:255:255:85:85",
+    "metalDetectorMoveColor": "0:255:255:255:85",
+    "metalDetectorTicks": 20,
+    "crystalHollowOverlay": false,
+    "crystalHollowOverlayPosition": {
+      "x": 0,
+      "y": 55,
+      "centerX": false,
+      "centerY": false
+    },
+    "crystalHollowText": [
+      5,
+      9
+    ],
+    "crystalHollowOverlayStyle": 2,
+    "crystalHollowIcons": true,
+    "crystalHollowHideDone": false,
+    "crystalHollowAutomatonLocation": 2,
+    "crystalHollowDivanLocation": 2,
+    "crystalHollowCrystalLocation": 0,
+    "crystalHollowPartColor": 3,
+    "crystalHollowDoneColor": 10,
+    "crystalHollowInventoryColor": 14,
+    "crystalHollowStorageColor": 14,
+    "crystalHollowMissingColor": 12,
+    "crystalHollowPlacedColor": 10,
+    "crystalHollowCollectedColor": 14,
+    "crystalHollowAllColor": 10,
+    "crystalHollowMiddleColor": 14,
+    "crystalHollowNoneColor": 12,
+    "wishingCompassSolver": true,
+    "wishingCompassAutocreateKnownWaypoints": true,
+    "wishingCompassWaypointNames": 0,
+    "powderGrindingTrackerEnabled": false,
+    "powderGrindingTrackerText": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "powderGrindingTrackerPosition": {
+      "x": 269,
+      "y": 245,
+      "centerX": false,
+      "centerY": false
+    },
+    "powderGrindingTrackerOverlayStyle": 0,
+    "powderGrindingTrackerResetMode": 2,
+    "resetPowderGrindingTracker": 0,
+    "puzzlerSolver": true,
+    "titaniumAlert": false,
+    "titaniumAlertMustBeVisible": false,
+    "dwarvenTextures": false,
+    "crystalHollowTextures": true,
+    "gemstoneSounds": true,
+    "mithrilSounds": true,
+    "mineshaftExitWaypoint": true,
+    "powderTodo": true
+  },
+  "fishing": {
+    "hideOtherPlayerAll": false,
+    "incomingFishWarningR": true,
+    "incomingFishWarning": true,
+    "incomingFishHookedSounds": true,
+    "incomingFishIncSounds": true,
+    "incomingFishHookedSoundsVol": 81.0,
+    "incomingFishIncSoundsVol": 39.0,
+    "enableCustomParticles": false,
+    "yourParticleType": 0,
+    "yourParticleColour": "0:255:255:255:255",
+    "otherParticleType": 0,
+    "otherParticleColour": "0:255:255:255:255",
+    "enableRodColours": true,
+    "ownRodColour": "0:255:0:0:0",
+    "otherRodColour": "0:255:0:0:0",
+    "fishingTimer": true,
+    "fishingTimerColor": "0:255:241:241:241",
+    "fishingTimerColor30SecPlus": "0:255:0:0:0",
+    "fishingSound30Sec": true,
+    "enableSlugCheck": true,
+    "trophyRewardOverlay": true,
+    "trophyRewardTooltips": true
+  },
+  "garden": {
+    "muteComposterSounds": false,
+    "presetDeleteWarning": true,
+    "sprayonatorCooldown": false
+  },
+  "improvedSBMenu": {
+    "enableSbMenus": false,
+    "backgroundStyle": 0,
+    "buttonStyle": 0,
+    "hideEmptyPanes": true
+  },
+  "customArmour": {
+    "enableArmourHud": true,
+    "sendWardrobeCommand": true,
+    "colourStyle": 0
+  },
+  "calendar": {
+    "eventNotifications": true,
+    "startingSoonTime": 300,
+    "showEventTimerInInventory": true,
+    "eventNotificationSounds": true,
+    "spookyNightNotification": true
+  },
+  "tradeMenu": {
+    "enableCustomTrade": true,
+    "customTradePrices": true,
+    "customTradePriceStyle": true
+  },
+  "petOverlay": {
+    "enablePetInfo": true,
+    "petInfoPosition": {
+      "x": 4,
+      "y": 236,
+      "centerX": false,
+      "centerY": false
+    },
+    "petOverlayText": [
+      0,
+      2,
+      4
+    ],
+    "petOverlayIcon": true,
+    "petItemIcon": false,
+    "petInfoOverlayStyle": 2,
+    "dualPets": false,
+    "petInvDisplay": false,
+    "colourStyle": 0,
+    "sendPetsCommand": false,
+    "hidePetTooltip": false,
+    "showKatSitting": true,
+    "hidePetLevelProgress": false
+  },
+  "world": {
+    "glowingMushroomAccordion": true,
+    "highlightGlowingMushrooms": true,
+    "glowingMushroomColor2": "0:100:142:88:36",
+    "enderNodeAccordion": true,
+    "highlightEnderNodes": false,
+    "enderNodeColor2": "0:100:0:255:0",
+    "frozenTreasuresAccordion": true,
+    "highlightFrozenTreasures": true,
+    "frozenTreasuresColor2": "0:100:0:255:0",
+    "crystalHollowChestsAccordion": true,
+    "highlightCrystalHollowChests": true,
+    "crystalHollowChestColor": "0:66:255:0:41"
+  },
+  "ahTweaks": {
+    "enableSearchOverlay": true,
+    "keepPreviousSearch": false,
+    "showPastSearches": true,
+    "escFullClose": true,
+    "ahSearchHistorySize": 5,
+    "underCutWarning": true,
+    "overCutWarning": true,
+    "warningThreshold": 10.0,
+    "overcutWarningThreshold": 50.0,
+    "enableSortWarning": true,
+    "enableAhSellValue": true,
+    "ctrlFSearch": true,
+    "convertSearchCommand": true
+  },
+  "bazaarTweaks": {
+    "enableSearchOverlay": true,
+    "keepPreviousSearch": false,
+    "showPastSearches": true,
+    "escFullClose": true,
+    "bzSearchHistorySize": 5,
+    "bazaarOverpayWarning": 1.0E7,
+    "ctrlFSearch": true
+  },
+  "recipeTweaks": {
+    "enableSearchOverlay": true,
+    "addPickaxeStack": true,
+    "keepPreviousSearch": false,
+    "showPastSearches": true,
+    "escFullClose": true,
+    "recipeSearchHistorySize": 5
+  },
+  "ahGraph": {
+    "graphEnabled": true,
+    "graphKey": 25,
+    "graphStyle": 0,
+    "defaultMode": 1,
+    "graphColor": "0:255:0:255:0",
+    "graphColor2": "0:255:255:255:0",
+    "movingAverages": false,
+    "movingAveragePercent": 0.2,
+    "movingAverageColor": "0:255:0:255:171",
+    "movingAverageColor2": "0:255:255:109:0",
+    "dataSource": 0,
+    "serverUrl": "pricehistory.notenoughupdates.org",
+    "dataRetention": 7,
+    "graphZones": 175
+  },
+  "wardrobeKeybinds": {
+    "enableWardrobeKeybinds": false,
+    "wardrobeSlot1": 2,
+    "wardrobeSlot2": 3,
+    "wardrobeSlot3": 4,
+    "wardrobeSlot4": 5,
+    "wardrobeSlot5": 6,
+    "wardrobeSlot6": 7,
+    "wardrobeSlot7": 8,
+    "wardrobeSlot8": 9,
+    "wardrobeSlot9": 10,
+    "wardrobePageUnequip": 11,
+    "wardrobePagePrevious": 12,
+    "wardrobePageNext": 13
+  },
+  "accessoryBag": {
+    "enableOverlay": true
+  },
+  "museum": {
+    "museumItemShow": false,
+    "museumItemColor": "0:255:0:255:0",
+    "museumCheapestItemOverlay": true,
+    "museumCheapestItemOverlayValueSource": 1,
+    "museumCheapestItemOverlayUseXp": 0
+  },
+  "profileViewer": {
+    "openPV": true,
+    "pageLayout": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "alwaysShowBingoTab": false,
+    "showPronounsInPv": false,
+    "useSoopyNetworth": true,
+    "displayWeight": false
+  },
+  "minionHelper": {
+    "gui": true,
+    "tooltip": true
+  },
+  "apiData": {
+    "apiDataUnlocked": true,
+    "autoupdate_new": true,
+    "repoUser": "NotEnoughUpdates",
+    "repoName": "NotEnoughUpdates-REPO",
+    "repoBranch": "master",
+    "repositoryEditing": false,
+    "repositoryEditingKeybind": 37,
+    "instantEditKeybind": 0,
+    "moulberryCodesApi": "moulberry.codes",
+    "ursaApi": ""
+  },
+  "hidden": {
+    "customTodos": [],
+    "profileSpecific": {
+      "Grapes": {
+        "godPotionDuration": 0,
+        "puzzlerCompleted": 1735858957718,
+        "firstCakeAte": 1735856205424,
+        "fetchurCompleted": 1735871167442,
+        "commissionsCompleted": 1735920228741,
+        "lastFreeRiftInfusionApplied": 0,
+        "experimentsCompleted": 0,
+        "cookieBuffRemaining": 0,
+        "forgeItems": [
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 0,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 1,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 2,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 3,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 4,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 5,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 6,
+            "fromScoreBoard": true
+          }
+        ],
+        "hotmDesires": {},
+        "commissionMilestone": 1,
+        "automatonParts": {
+          "Electron Transmitter": false,
+          "Robotron Reflector": false,
+          "Superlite Motor": false,
+          "Synthetic Heart": false,
+          "Control Switch": false,
+          "FTX 3070": false
+        },
+        "divanMinesParts": {
+          "Scavenged Lapis Sword": false,
+          "Scavenged Diamond Axe": false,
+          "Scavenged Golden Hammer": false,
+          "Scavenged Emerald Hammer": false
+        },
+        "crystals": {
+          "Amber": 0,
+          "Sapphire": 0,
+          "Jade": 0,
+          "Amethyst": 0,
+          "Topaz": 0
+        },
+        "dailyGemstonePowderCompleted": 0,
+        "dailyMithrilPowerCompleted": 0,
+        "nonUnlockedWarpScrolls": [],
+        "dailyHeavyPearlCompleted": 0,
+        "questBoardCompleted": 0,
+        "dailyShopLimitCompleted": 1735923762668,
+        "savedEquipment": {
+          "19": {
+            "itemid": "minecraft:stained_glass_pane",
+            "displayname": "§7Empty Equipment Slot",
+            "nbttag": "{display:{Lore:[0:\" §8\u003e Cloak\"],Name:\"§7Empty Equipment Slot\"}}",
+            "damage": 8,
+            "lore": [
+              " §8\u003e Cloak"
+            ],
+            "internalname": "_"
+          },
+          "37": {
+            "itemid": "minecraft:stained_glass_pane",
+            "displayname": "§7Empty Equipment Slot",
+            "nbttag": "{display:{Lore:[0:\" §8\u003e Gloves\",1:\" §8\u003e Bracelet\"],Name:\"§7Empty Equipment Slot\"}}",
+            "damage": 8,
+            "lore": [
+              " §8\u003e Gloves",
+              " §8\u003e Bracelet"
+            ],
+            "internalname": "_"
+          },
+          "10": {
+            "itemid": "minecraft:stained_glass_pane",
+            "displayname": "§7Empty Equipment Slot",
+            "nbttag": "{display:{Lore:[0:\" §8\u003e Necklace\"],Name:\"§7Empty Equipment Slot\"}}",
+            "damage": 8,
+            "lore": [
+              " §8\u003e Necklace"
+            ],
+            "internalname": "_"
+          },
+          "28": {
+            "itemid": "minecraft:stained_glass_pane",
+            "displayname": "§7Empty Equipment Slot",
+            "nbttag": "{display:{Lore:[0:\" §8\u003e Belt\"],Name:\"§7Empty Equipment Slot\"}}",
+            "damage": 8,
+            "lore": [
+              " §8\u003e Belt"
+            ],
+            "internalname": "_"
+          }
+        },
+        "magicalPower": 21,
+        "chestCount": 0,
+        "openedChestCount": 0,
+        "mithrilPowderFound": 0,
+        "gemstonePowderFound": 0,
+        "abiphoneFavouriteContacts": [],
+        "abiphoneShowOnlyFavourites": false,
+        "hotmTree": {
+          "Efficient Miner": 9,
+          "Titanium Insanium": 1,
+          "Precision Mining": 1,
+          "Mining Speed": 13,
+          "Mining Fortune": 7
+        },
+        "hasConsumedRiftPrism": false,
+        "abiphoneMagicPower": 19
+      },
+      "Pineapple": {
+        "godPotionDuration": 0,
+        "puzzlerCompleted": 1725402754384,
+        "firstCakeAte": 1735810071365,
+        "fetchurCompleted": 1724364065725,
+        "commissionsCompleted": 1733666284436,
+        "lastFreeRiftInfusionApplied": 1735812265983,
+        "experimentsCompleted": 1735810270297,
+        "cookieBuffRemaining": 1736070954219,
+        "forgeItems": [
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 0,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 1,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 2,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 3,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 4,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 5,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 6,
+            "fromScoreBoard": true
+          }
+        ],
+        "hotmDesires": {},
+        "commissionMilestone": 5,
+        "automatonParts": {
+          "Electron Transmitter": false,
+          "Robotron Reflector": false,
+          "Superlite Motor": false,
+          "Synthetic Heart": false,
+          "Control Switch": false,
+          "FTX 3070": false
+        },
+        "divanMinesParts": {
+          "Scavenged Lapis Sword": false,
+          "Scavenged Diamond Axe": false,
+          "Scavenged Golden Hammer": false,
+          "Scavenged Emerald Hammer": false
+        },
+        "crystals": {
+          "Amber": 0,
+          "Sapphire": 0,
+          "Jade": 0,
+          "Amethyst": 0,
+          "Topaz": 0
+        },
+        "dailyGemstonePowderCompleted": 1728134112498,
+        "dailyMithrilPowerCompleted": 1728134108311,
+        "nonUnlockedWarpScrolls": [],
+        "dailyHeavyPearlCompleted": 1735812175122,
+        "questBoardCompleted": 1678721248174,
+        "dailyShopLimitCompleted": 1735599678425,
+        "savedEquipment": {
+          "19": {
+            "itemid": "minecraft:skull",
+            "displayname": "§9Blazing Titanium Cloak",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"fcc18098-ba03-33b6-b1dd-110c64da3992\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"wlwlN3YQtn6u3OVBalvFCatKFBGXPi5RHrwd6jP7o7TDX0o4eHqiRXMkEoEfuuAi54Qopmnz9GK7uA7ikbyDrLeW0zE7Jb8YNqRU0gT+eEw2NLEmuFYDJiYAuCd1TvBIVgkon39WODZNPrr0OxJqfyV+KBHIB3yVqC/W15DLKfwD6H/Enfv6RjiF5qQRXcvmq4VikBUIQAhtR4IhKYNcbuOdr190DkpwG9ULHFMV0VZWVDboQmVgxU9/chZf39SWM07vBbH6MYwk662StYU4gb9YKd4YJRjk7P1dDgOk9WWjr/PgEppY6NhXtPwKWO3PHw+DarVSAnMD2rUanLDtlUafMnaZd2Qp4bZsleX//7C34S2ZkUdYrfxi4VRr6HUoze9aSs6nL+B9HyG0E2E23tZReUey8WQX0aweV0tN0eCyX0BRHrz9Nj+Pu724TltTZ2t/hP1yTwE2cJ+PdA8l66W4NGmcivDgbAi7FmPT6kEinD/Fy8XpOIX0DsbOLj6wBRUrp5i/ZWJGpYdiFngULqbCkD7U7aFdg43f187SiodQegdCT+kLX5GGBYb+fQVxEaueYbPdYD6ulOGSFuBvugKSkzcp5D3tysXrIfC6uiMOpJgLzxw9bUrdHg9mAeNiQQmURerWGiuwi6ah/38NhfBDWM9ps//mUHqNNBVudkg\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjkyNzU1NywKICAicHJvZmlsZUlkIiA6ICIxNDU1MDNhNDRjZmI0NzcwYmM3NWNjMTRjYjUwMDE4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWtlbHlFcmljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ5ODIxNDEwNjMxMTg2YzZmM2ZiYmFlNWYwZWY1Yjk0N2Y0NzVlYjMyMDI3YThhYWQwYTQ1NjUxMjU0N2MyMDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7Heat Resistance: §a+2 §9(+2)\",1:\"§7Mining Speed: §a+30\",2:\"§7Mining Fortune: §a+15 §9(+5)\",3:\"\",4:\"§7Grants §6+10☘ Mining Fortune §7while\",5:\"§7mining §2Mithril §7and §fTitanium§7.\",6:\"§7\",7:\"§6Full Set Bonus: True Dwarf §7(3/4)\",8:\"§7Grants §6+50⸕ Mining Speed §7and §6+40☘\",9:\"§6Mining Fortune §7while in the §2Dwarven\",10:\"§2Mines§7.\",11:\"\",12:\"§9Blazing Bonus\",13:\"§7For every §c§c1§c♨ Heat §7you have, gain a\",14:\"§7§a+0.05% §7chance to dig up §9Worms§7.\",15:\"\",16:\"§8§l* §8Co-op Soulbound §8§l*\",17:\"§9§lRARE CLOAK\"],Name:\"§9Blazing Titanium Cloak\"},ExtraAttributes:{modifier:\"blazing\",id:\"TITANIUM_CLOAK\",uuid:\"87cdfe28-d722-4d9d-851a-6decb4437437\",donated_museum:1b,timestamp:1726531975044L}}",
+            "damage": 3,
+            "lore": [
+              "§7Heat Resistance: §a+2 §9(+2)",
+              "§7Mining Speed: §a+30",
+              "§7Mining Fortune: §a+15 §9(+5)",
+              "",
+              "§7Grants §6+10☘ Mining Fortune §7while",
+              "§7mining §2Mithril §7and §fTitanium§7.",
+              "§7",
+              "§6Full Set Bonus: True Dwarf §7(3/4)",
+              "§7Grants §6+50⸕ Mining Speed §7and §6+40☘",
+              "§6Mining Fortune §7while in the §2Dwarven",
+              "§2Mines§7.",
+              "",
+              "§9Blazing Bonus",
+              "§7For every §c§c1§c♨ Heat §7you have, gain a",
+              "§7§a+0.05% §7chance to dig up §9Worms§7.",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§9§lRARE CLOAK"
+            ],
+            "internalname": "_"
+          },
+          "37": {
+            "itemid": "minecraft:skull",
+            "displayname": "§5Blazing Dwarven Handwarmers",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"7832fa38-404c-3f31-a749-66fe3422bf4e\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"qrE6sT7y5+VtWG/pWsUoxoTxp/aPXrpbbF5H6alxNRai2y3Syi1VvG380XLBqo5Pvsd/RAHq8AvkNYAJyFL0M4tkIdjmy4nCpIF0PC4vqf1Yph0opY55laeAhdbAzXBz9Bgx+yZDmVvqbIUWO30RwsHFlOPnqOH8VOOOEOdnYhdBcaRXhLlAY+yH1Hn5p9B2IfbZ9VEiAX5oXSuAxWvPbqumLtw+aQ21IF3Didu+RCM6OOmgbyxOL7HDQaKib8xeWzUGbHoX4K3I9c5cdbBFziOumh01droAULCptleJ/YX9hP3Gx9KBxtIZZNjB6ECN3QIX3i3ubYjzDiCNij5wJ8ZfuXuMv0b3BiaiQVcaQOTxFoygB/XD6bwidMxQxCTqZngCxK/oWyZ/KRuWNHJR+wcCM2UUpWcnrl4+vOvPjkWLCenZY1i5qYh3TfnUuFdKTvLFhNcDNZTcHxx99YugL4Bk8dDKbTvV//1iEQKHmAwqpEOTYBPo0XzQCZgB8dq1N9C7usRwoTvPtSzXR5yjnFMNQt6WGIElAva8JGSwXmpZiNNBgWVKzHSoT054yWp4AfMRw7dwXE1UCXQIuZ4Da+DL7SOEcLm0NiJiN6spAxxYkwIW2/jfdJ4SPcWYfy3CorkMSJsrXSczf16ugrFuAdoeRVTUNZIORAPkjae8PRc\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTI0Njg1MywKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMwMWQ5ZjliNmYxOGRkZWVjYzU3YjUyMjkxNmNjNzU2NmMzOTdkNjQ5ZjIzYzMxOGUzZjVlZjY3Y2JjZjI2NiIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Heat Resistance: §a+2 §9(+2)\",1:\"§7Cold Resistance: §a+5\",2:\"§7Mining Speed: §a+45\",3:\"§7Mining Fortune: §a+36 §9(+6)\",4:\"\",5:\"§9Blazing Bonus\",6:\"§7For every §c§c1§c♨ Heat §7you have, gain a\",7:\"§7§a+0.05% §7chance to dig up §9Worms§7.\",8:\"\",9:\"§5§lEPIC GLOVES\"],Name:\"§5Blazing Dwarven Handwarmers\"},ExtraAttributes:{modifier:\"blazing\",id:\"DWARVEN_HANDWARMERS\",uuid:\"659a7299-67e6-4caf-8306-028cfcb118cd\",timestamp:1728528587523L}}",
+            "damage": 3,
+            "lore": [
+              "§7Heat Resistance: §a+2 §9(+2)",
+              "§7Cold Resistance: §a+5",
+              "§7Mining Speed: §a+45",
+              "§7Mining Fortune: §a+36 §9(+6)",
+              "",
+              "§9Blazing Bonus",
+              "§7For every §c§c1§c♨ Heat §7you have, gain a",
+              "§7§a+0.05% §7chance to dig up §9Worms§7.",
+              "",
+              "§5§lEPIC GLOVES"
+            ],
+            "internalname": "_"
+          },
+          "10": {
+            "itemid": "minecraft:skull",
+            "displayname": "§9Blazing Titanium Necklace",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"76c2d18b-6cba-36a8-bd27-787014c91604\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"oODHpPsVhDyPjRXl2OKTSUPBzjxUuU+u8o7Nu+ezlGDolA0FuQGK4E1s5CHxoCd0SPw8ayj9uTgMmQNGqiJ2kHTpVE4XA2s2dEmX1FK3q3UtveT7bA3B5t7j/IUO+jaKaEQq/czBRoHFeSvx2UShchGG71/M6U4mNYwEgzCj7qCIQr2nD8Sf+oZNnkRNVz4C3c5Wg3he+Ngs6unbCNkYPTBZySHPs/9RXGNka39hMZCQO0bo9nwjusyZ1ThJ5bYCCFpAKyilDcW8Oi0TFSJjf2UcghZq1BzBtsIYRJe4ap8EMUiZKoOCCVJJ053ArHmD27qA5MEUmFXGKmx2eDfmJQljxe5z4MKu0UxCmhNIFdorL8yhCuBL+xD54tFtjjuP1UusxwZbglCi+PPVy1JlO536HLEaEh+8TJhI803pTRYqGRGWs749NTW0QWvSdoWLqW9c1rP07J+UBw5dBKhndYdBoI0M1Z0YF4aaxCkpThVgK8ic3AVC8itWnKuSMH/f5064a+A8CnPCaqNYkYRBgue2r2SYxHhYgZgymaX2jw5syW5aJP+x7LVqXZmbSfvL+LfE3JEV10KpC4yNi2ykBdA2+epUDQDZ/jvXM7CsZMDRSPx/HCa9rtT717mbCYsvzt4KIhSCSnqi+eqCmRBr9B18QeK+x3CU1+WsqOOYkNA\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjQ5NzEwMiwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjNiOTFiNmFhNzEyNGYzMGVkNGFkMWIyYmIwMTJhODI5ODVhMzM2NDA1NTVlMThlNzkyZjk2YWY4ZjU4ZWM2IgogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7Heat Resistance: §a+2 §9(+2)\",1:\"§7Mining Speed: §a+30\",2:\"§7Mining Fortune: §a+15 §9(+5)\",3:\"\",4:\"§7Grants §6+10☘ Mining Fortune §7while\",5:\"§7mining §2Mithril §7and §fTitanium§7.\",6:\"§7\",7:\"§6Full Set Bonus: True Dwarf §7(3/4)\",8:\"§7Grants §6+50⸕ Mining Speed §7and §6+40☘\",9:\"§6Mining Fortune §7while in the §2Dwarven\",10:\"§2Mines§7.\",11:\"\",12:\"§9Blazing Bonus\",13:\"§7For every §c§c1§c♨ Heat §7you have, gain a\",14:\"§7§a+0.05% §7chance to dig up §9Worms§7.\",15:\"\",16:\"§8§l* §8Co-op Soulbound §8§l*\",17:\"§9§lRARE NECKLACE\"],Name:\"§9Blazing Titanium Necklace\"},ExtraAttributes:{modifier:\"blazing\",id:\"TITANIUM_NECKLACE\",uuid:\"04266b42-9f1d-4c86-bef5-9f7387c2f99d\",donated_museum:1b,timestamp:1726531975999L}}",
+            "damage": 3,
+            "lore": [
+              "§7Heat Resistance: §a+2 §9(+2)",
+              "§7Mining Speed: §a+30",
+              "§7Mining Fortune: §a+15 §9(+5)",
+              "",
+              "§7Grants §6+10☘ Mining Fortune §7while",
+              "§7mining §2Mithril §7and §fTitanium§7.",
+              "§7",
+              "§6Full Set Bonus: True Dwarf §7(3/4)",
+              "§7Grants §6+50⸕ Mining Speed §7and §6+40☘",
+              "§6Mining Fortune §7while in the §2Dwarven",
+              "§2Mines§7.",
+              "",
+              "§9Blazing Bonus",
+              "§7For every §c§c1§c♨ Heat §7you have, gain a",
+              "§7§a+0.05% §7chance to dig up §9Worms§7.",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§9§lRARE NECKLACE"
+            ],
+            "internalname": "_"
+          },
+          "28": {
+            "itemid": "minecraft:skull",
+            "displayname": "§9Blazing Titanium Belt",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"cf36dddd-8738-3b10-81e4-dde502d1c0bc\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"rUoZSDXACzJhBV7GMsdvG/BvdEn4D3aSXsOpj2KKIG+OqeFtftWYcBaQtWjzQhRCi6nxr/a/Vvx8X4FdGlpBj/bnfERnCztknqu/hbOJDqlw1EzPUjTHqQzK0V24/Vude7sofOkKRXDT9n6+4Fj9mT/74QRQlWlKwtp8lOI3q6t2+HPtUAWQpBCPsSOt5+MQM/eHRFxDBYnyeGAuid1zD9LV3lufMd+5yyr1WTkUZOxvkKl+qBAtlGqC0kOkrkD3obYTmwqZq7cIeDHKDOghfXQIVGwZJmaMy22ucocgIXF2udB78qVhW86+UAXvkRdTmDlLmPj8X5WwwTLrtDRl2ZaiZ12/Q5LCDgJs9gUK4JZvwMQGMAJyeNkpdH326YBg7DSLdu6pdsautXXVspKfs+MGe89/W2HNDDytjukSoyh10cOjHwlt9ap3hTlLZRXP8N33dDl8WnrSoyoy4zug28EkON0/f8yO7mf7P9uoh2YqnNFnSli8+dcCBzE65w2uqgSl6jCfriIpIdQZnD1DTPCbrBqqtBFsbI4WlKuHAJnUGRy2NpRQxPXFBn46Frxb8opv2yL5rMkYHFPXD6amW0b2P2OTUqtGxmyIYMZjRkKoEQ+78E1MPOspl/KCYDv5k9S4uAcHHDcyb5sHQp3/0hRCJpq2amlixmVFov3eixg\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU2MDkxNywKICAicHJvZmlsZUlkIiA6ICIyMDJiZWVlYWY4NTk0MmQ0ODI3NGJjNzYwM2VhYWZhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSaWtvcjk4NiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MTYyMzAzYmNkZDc3MGFlYmU3ZmQxOWZhMjYzNzEzOTBhNzUxNTE0MDM1ODU0ODA4NDM2MWI1MDU2Y2RjNGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Heat Resistance: §a+2 §9(+2)\",1:\"§7Mining Speed: §a+30\",2:\"§7Mining Fortune: §a+15 §9(+5)\",3:\"\",4:\"§7Grants §6+10☘ Mining Fortune §7while\",5:\"§7mining §2Mithril §7and §fTitanium§7.\",6:\"§7\",7:\"§6Full Set Bonus: True Dwarf §7(3/4)\",8:\"§7Grants §6+50⸕ Mining Speed §7and §6+40☘\",9:\"§6Mining Fortune §7while in the §2Dwarven\",10:\"§2Mines§7.\",11:\"\",12:\"§9Blazing Bonus\",13:\"§7For every §c§c1§c♨ Heat §7you have, gain a\",14:\"§7§a+0.05% §7chance to dig up §9Worms§7.\",15:\"\",16:\"§8§l* §8Co-op Soulbound §8§l*\",17:\"§9§lRARE BELT\"],Name:\"§9Blazing Titanium Belt\"},ExtraAttributes:{modifier:\"blazing\",id:\"TITANIUM_BELT\",uuid:\"27dc08b0-765f-4c39-a891-fa4b4c50f6c2\",donated_museum:1b,timestamp:1726531974691L}}",
+            "damage": 3,
+            "lore": [
+              "§7Heat Resistance: §a+2 §9(+2)",
+              "§7Mining Speed: §a+30",
+              "§7Mining Fortune: §a+15 §9(+5)",
+              "",
+              "§7Grants §6+10☘ Mining Fortune §7while",
+              "§7mining §2Mithril §7and §fTitanium§7.",
+              "§7",
+              "§6Full Set Bonus: True Dwarf §7(3/4)",
+              "§7Grants §6+50⸕ Mining Speed §7and §6+40☘",
+              "§6Mining Fortune §7while in the §2Dwarven",
+              "§2Mines§7.",
+              "",
+              "§9Blazing Bonus",
+              "§7For every §c§c1§c♨ Heat §7you have, gain a",
+              "§7§a+0.05% §7chance to dig up §9Worms§7.",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§9§lRARE BELT"
+            ],
+            "internalname": "_"
+          }
+        },
+        "magicalPower": 1175,
+        "chestCount": 20235,
+        "openedChestCount": 18381,
+        "mithrilPowderFound": 2290167,
+        "gemstonePowderFound": 5377215,
+        "abiphoneFavouriteContacts": [
+          "Jax",
+          "Maxwell",
+          "Maddox the Slayer",
+          "Fred",
+          "Jotraeline Greatforge",
+          "Builder"
+        ],
+        "abiphoneShowOnlyFavourites": false,
+        "hotmTree": {
+          "Mining Madness": 1,
+          "Seasoned Mineman": 100,
+          "Efficient Miner": 100,
+          "Daily Powder": 1,
+          "Titanium Insanium": 50,
+          "Mining Fortune": 50,
+          "Quick Forge": 20,
+          "Mining Speed": 50,
+          "Lonesome Miner": 1,
+          "Professional": 27,
+          "Mole": 200,
+          "Fortunate": 20,
+          "Great Explorer": 1,
+          "Mining Speed II": 50,
+          "Mining Fortune II": 50,
+          "Powder Buff": 50,
+          "Sky Mall": 1,
+          "Old-School": 20,
+          "Gem Lover": 11,
+          "Daily Grind": 1,
+          "Blockhead": 20,
+          "Subterranean Fisher": 1,
+          "Keep It Cool": 1,
+          "Speedy Mineman": 50,
+          "Fortune Mineman": 50,
+          "Steady Hand": 1,
+          "Rags to Riches": 23,
+          "Mining Master": 1,
+          "Surveyor": 1,
+          "Dead Man\u0027s Chest": 50,
+          "Warm Heart": 30,
+          "Eager Adventurer": 43,
+          "Vanguard Seeker": 1,
+          "Precision Mining": 1,
+          "Warm Hearted": 46,
+          "Orbiter": 80,
+          "Front Loaded": 1,
+          "Strong Arm": 1,
+          "Fortunate Mineman": 50,
+          "No Stone Unturned": 1,
+          "Excavator": 1,
+          "Metal Head": 20,
+          "Crystalline": 1,
+          "Miner\u0027s Blessing": 1,
+          "Gifts from the Departed": 40
+        },
+        "hasConsumedRiftPrism": false,
+        "abiphoneMagicPower": 0
+      },
+      "Banana": {
+        "godPotionDuration": 86400000,
+        "puzzlerCompleted": 0,
+        "firstCakeAte": 0,
+        "fetchurCompleted": 0,
+        "commissionsCompleted": 0,
+        "lastFreeRiftInfusionApplied": 0,
+        "experimentsCompleted": 0,
+        "cookieBuffRemaining": 0,
+        "forgeItems": [],
+        "hotmDesires": {},
+        "commissionMilestone": 0,
+        "automatonParts": {
+          "Electron Transmitter": false,
+          "Robotron Reflector": false,
+          "Superlite Motor": false,
+          "Synthetic Heart": false,
+          "Control Switch": false,
+          "FTX 3070": false
+        },
+        "divanMinesParts": {
+          "Scavenged Lapis Sword": false,
+          "Scavenged Diamond Axe": false,
+          "Scavenged Golden Hammer": false,
+          "Scavenged Emerald Hammer": false
+        },
+        "crystals": {
+          "Amber": 0,
+          "Sapphire": 0,
+          "Jade": 0,
+          "Amethyst": 0,
+          "Topaz": 0
+        },
+        "dailyGemstonePowderCompleted": 0,
+        "dailyMithrilPowerCompleted": 0,
+        "nonUnlockedWarpScrolls": [],
+        "dailyHeavyPearlCompleted": 0,
+        "questBoardCompleted": 0,
+        "dailyShopLimitCompleted": 0,
+        "savedEquipment": {},
+        "magicalPower": 0,
+        "chestCount": 2,
+        "openedChestCount": 1,
+        "mithrilPowderFound": 4478,
+        "gemstonePowderFound": 3734,
+        "abiphoneFavouriteContacts": [],
+        "abiphoneShowOnlyFavourites": false,
+        "hotmTree": {},
+        "hasConsumedRiftPrism": false,
+        "abiphoneMagicPower": 0
+      }
+    },
+    "locationSpecific": {
+      "crystal_hollows": {
+        "commissionMaxes": {
+          "Yog Slayer": 13,
+          "Sludge Slayer": 25,
+          "Boss Corleone Slayer": 1,
+          "Thyst Slayer": 5,
+          "Topaz Gemstone Collector": 1000,
+          "Goblin Slayer": 13,
+          "Jade Gemstone Collector": 1000,
+          "Amethyst Gemstone Collector": 1000,
+          "Automaton Slayer": 13,
+          "Hard Stone Miner": 1000,
+          "Ruby Gemstone Collector": 1000,
+          "Team Treasurite Member Slayer": 13,
+          "Chest Looter": 3,
+          "Sapphire Gemstone Collector": 1000,
+          "Amber Gemstone Collector": 1000
+        }
+      },
+      "mining_3": {
+        "commissionMaxes": {
+          "Ice Walker Slayer": 50,
+          "Royal Mines Mithril": 250,
+          "Lucky Raffle": 20,
+          "Rampart\u0027s Quarry Titanium": 10,
+          "Lava Springs Titanium": 10,
+          "Goblin Raid Slayer": 20,
+          "Cliffside Veins Titanium": 10,
+          "Rampart\u0027s Quarry Mithril": 250
+        }
+      },
+      "mineshaft": {
+        "commissionMaxes": {
+          "Scrap Collector": 1,
+          "Aquamarine Gemstone Collector": 1500,
+          "Onyx Gemstone Collector": 1500,
+          "Tungsten Collector": 1500,
+          "Citrine Gemstone Collector": 1500,
+          "Peridot Gemstone Collector": 1500,
+          "Glacite Collector": 1500,
+          "Corpse Looter": 2,
+          "Mineshaft Explorer": 1,
+          "Umber Collector": 1500,
+          "Maniac Slayer": 10
+        }
+      }
+    },
+    "inventoryButtons": [
+      {
+        "x": 87,
+        "y": 63,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 3,
+        "command": "sacks",
+        "icon": "BRONZE_TROPHY_FISHING_SACK"
+      },
+      {
+        "x": 108,
+        "y": 63,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 3,
+        "command": "accessory",
+        "icon": "JERRY_TALISMAN_GOLDEN"
+      },
+      {
+        "x": 129,
+        "y": 63,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": "",
+        "icon": ""
+      },
+      {
+        "x": 150,
+        "y": 63,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": "",
+        "icon": ""
+      },
+      {
+        "x": 87,
+        "y": 5,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 108,
+        "y": 5,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 129,
+        "y": 5,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 150,
+        "y": 5,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 87,
+        "y": 25,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 3,
+        "command": "hex",
+        "icon": "REFORGE_ANVIL"
+      },
+      {
+        "x": 105,
+        "y": 25,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 3,
+        "command": "trades",
+        "icon": "PARK_JUNGLE_TRAVEL_SCROLL"
+      },
+      {
+        "x": 87,
+        "y": 43,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 3,
+        "command": "bz",
+        "icon": "skull:c232e3820897429157619b0ee099fec0628f602fff12b695de54aef11d923ad7"
+      },
+      {
+        "x": 105,
+        "y": 43,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 3,
+        "command": "ah",
+        "icon": "BAG_OF_CASH"
+      },
+      {
+        "x": 143,
+        "y": 35,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 3,
+        "command": "craft",
+        "icon": "WORKBENCH"
+      },
+      {
+        "x": 60,
+        "y": 8,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 2,
+        "command": "wardrobe",
+        "icon": "ARMOR_SHOWCASE"
+      },
+      {
+        "x": 60,
+        "y": 60,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 2,
+        "command": "pets",
+        "icon": "BONE"
+      },
+      {
+        "x": 26,
+        "y": 8,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": "",
+        "icon": "ARMOR_SHOWCASE"
+      },
+      {
+        "x": 26,
+        "y": 60,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": "",
+        "icon": "BONE"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": "",
+        "icon": "SPIDER_ARTIFACT"
+      },
+      {
+        "x": 2,
+        "y": 22,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": "",
+        "icon": "ENDER_ARTIFACT"
+      },
+      {
+        "x": 2,
+        "y": 42,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": "",
+        "icon": "NETHER_ARTIFACT"
+      },
+      {
+        "x": 2,
+        "y": 62,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 2,
+        "y": -84,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 2,
+        "y": -64,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": "",
+        "icon": ""
+      },
+      {
+        "x": 2,
+        "y": -44,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": "",
+        "icon": "extra:green_check"
+      },
+      {
+        "x": 2,
+        "y": -24,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": "",
+        "icon": "extra:cross"
+      },
+      {
+        "x": 4,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 25,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 46,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 67,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 88,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 109,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 130,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 151,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": 22,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": 42,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": 62,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": -84,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": -64,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": -44,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": -24,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 25,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 46,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 67,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 88,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 109,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 130,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 151,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      }
+    ],
+    "debugFlags": [],
+    "cacheRenderedItempane": true,
+    "overlaySearchBar": "",
+    "overlayQuickCommand": "",
+    "dev": false,
+    "loadedModBefore": true,
+    "compareMode": 2,
+    "sortMode": 0,
+    "compareAscending": [
+      true,
+      true,
+      true
+    ],
+    "favourites": [],
+    "previousAuctionSearches": [
+      "Green Bandana",
+      "Ice Spray Wand",
+      "Bouncy Chestplate",
+      "Skeleton Grunt Boots",
+      "Skeleton Grunt Chestplate"
+    ],
+    "previousBazaarSearches": [
+      "Grand Experience Bottle",
+      "Enchanted Bone Meal",
+      "Ultimate Carrot Candy",
+      "Great White Shark Tooth",
+      "Wither Shield"
+    ],
+    "previousProfileSearches": [
+      "kreetus",
+      "hermitmizuena",
+      "afriga",
+      "furinamage",
+      "shensational",
+      "yummymilkers"
+    ],
+    "previousRecipeSearches": [
+      "Enchanted Hard Stone",
+      "Enchanted Ice",
+      "ruby",
+      "peridot",
+      "☘ Fine Peridot Gemstone"
+    ],
+    "eventFavourites": [],
+    "quickCommands": [
+      "/warp home:Warp Home:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzljODg4MWU0MjkxNWE5ZDI5YmI2MWExNmZiMjZkMDU5OTEzMjA0ZDI2NWRmNWI0MzliM2Q3OTJhY2Q1NiJ9fX0\u003d",
+      "/warp hub:Warp Hub:eyJ0aW1lc3RhbXAiOjE1NTkyMTU0MTY5MDksInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q3Y2M2Njg3NDIzZDA1NzBkNTU2YWM1M2UwNjc2Y2I1NjNiYmRkOTcxN2NkODI2OWJkZWJlZDZmNmQ0ZTdiZjgifX19",
+      "/warp dungeon_hub:Dungeon Hub:eyJ0aW1lc3RhbXAiOjE1Nzg0MDk0MTMxNjksInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzliNTY4OTViOTY1OTg5NmFkNjQ3ZjU4NTk5MjM4YWY1MzJkNDZkYjljMWIwMzg5YjhiYmViNzA5OTlkYWIzM2QiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ\u003d\u003d",
+      "/craft:Crafting Table:CRAFTING_TABLE",
+      "/storage:Storage:CHEST",
+      "/wardrobe:Wardrobe:LEATHER_CHESTPLATE",
+      "/pets:Pets:BONE",
+      "neuah:NEU Auction House:GOLD_BLOCK",
+      "/bz:Bazaar:GOLD_BARDING"
+    ],
+    "enchantColours": [
+      "[a-zA-Z\\- ]+:\u003e:9:6:0",
+      "[a-zA-Z\\- ]+:\u003e:6:c:0",
+      "[a-zA-Z\\- ]+:\u003e:5:5:0"
+    ],
+    "dynamicLightItems": [],
+    "firstTimeSearchFocus": false,
+    "disableBrokenCapes": false,
+    "npcRetextureOnSelf": false,
+    "hasOpenedWaypointMenu": true,
+    "disableClientSideSearch": false
+  },
+  "dungeonMap": {
+    "dmBorderSize": 1.0,
+    "dmRoomSize": 1.0416666,
+    "dmIconScale": 1.0,
+    "dmBorderStyle": 2,
+    "dmEnable": false,
+    "dmCenterPlayer": false,
+    "dmRotatePlayer": false,
+    "dmOrientCheck": true,
+    "dmCenterCheck": true,
+    "dmPlayerHeads": 1,
+    "dmPlayerInterp": true,
+    "dmCompat": 0,
+    "dmBackgroundColour": "00:170:75:75:75",
+    "dmBorderColour": "00:0:0:0:0",
+    "dmChromaBorder": false,
+    "dmBackgroundBlur": 0.0,
+    "dmPosition": {
+      "x": 10,
+      "y": 10,
+      "centerX": false,
+      "centerY": false
+    }
+  }
+}

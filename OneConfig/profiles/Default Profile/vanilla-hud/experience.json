@@ -1,13 +1,13 @@
 {
   "hud": {
-    "expHeight": -1.5234375,
+    "expHeight": 0.0,
     "enabled": true,
     "locked": false,
     "ignoreCaching": false,
     "position": {
       "anchor": "7",
       "x": 0.0,
-      "y": -24.0
+      "y": -22.0
     },
     "scale": 1.0,
     "positionAlignment": 0,

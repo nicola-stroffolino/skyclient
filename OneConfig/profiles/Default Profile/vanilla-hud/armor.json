@@ -9,7 +9,7 @@
     "position": {
       "anchor": "7",
       "x": -50.5,
-      "y": -40.0
+      "y": -41.0
     },
     "scale": 1.0,
     "positionAlignment": 0,
@@ -17,6 +17,6 @@
     "showInDebug": true,
     "showInGuis": true
   },
-  "enabled": false,
+  "enabled": true,
   "canToggle": true
 }

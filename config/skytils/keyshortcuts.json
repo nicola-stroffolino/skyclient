@@ -1,5 +1,9 @@
 [
     {
+        "message": "/wd",
+        "keyCode": 35
+    },
+    {
         "message": "/storage",
         "keyCode": 48
     }

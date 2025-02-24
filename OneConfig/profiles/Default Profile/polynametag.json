@@ -21,6 +21,6 @@
   },
   "essentialOffset": true,
   "hasMigratedPatcher": true,
-  "enabled": true,
+  "enabled": false,
   "canToggle": true
 }

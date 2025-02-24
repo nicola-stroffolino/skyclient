@@ -2,22 +2,22 @@
   "hud": {
     "mode": true,
     "mountLink": false,
-    "animation": true,
+    "animation": false,
     "alignment": false,
     "enabled": true,
     "locked": false,
     "ignoreCaching": false,
     "position": {
-      "anchor": "7",
-      "x": -50.5,
-      "y": -30.0
+      "anchor": "8",
+      "x": -490.0,
+      "y": -27.0
     },
-    "scale": 1.0,
-    "positionAlignment": 0,
+    "scale": 1.0009766,
+    "positionAlignment": 3,
     "showInChat": true,
     "showInDebug": true,
     "showInGuis": true
   },
-  "enabled": false,
+  "enabled": true,
   "canToggle": true
 }

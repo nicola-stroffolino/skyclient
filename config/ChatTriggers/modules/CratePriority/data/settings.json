@@ -1,0 +1,17 @@
+[
+    {
+        "category": "Crates",
+        "settings": [
+            {
+                "type": 6,
+                "name": "crates",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "pro",
+                "value": false
+            }
+        ]
+    }
+]

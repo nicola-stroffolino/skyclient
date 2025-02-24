@@ -1,0 +1,410 @@
+{
+    "newUser": false,
+    "version": "2.7.0",
+    "world": "none",
+    "tier": 0,
+    "whitelist": [],
+    "blacklist": [],
+    "blocklist": [],
+    "warplist": [
+        "hub",
+        "da",
+        "castle",
+        "museum"
+    ],
+    "moblist": [],
+    "emotelist": {},
+    "files": [],
+    "y": 0,
+    "splits": {
+        "last": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "best": [
+            999,
+            999,
+            999,
+            999,
+            9999
+        ],
+        "worst": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "vanqSession": {
+        "vanqs": 0,
+        "kills": 0,
+        "last": 0,
+        "average": 0
+    },
+    "inqSession": {
+        "inqs": 0,
+        "burrows": 0,
+        "last": 0,
+        "average": 0
+    },
+    "kuudraSession": {
+        "profit": 0,
+        "chests": 0,
+        "average": 0,
+        "time": 0,
+        "rate": 0
+    },
+    "composterUpgrades": {
+        "Composter Speed": -1,
+        "Multi Drop": -1,
+        "Cost Reduction": -1
+    },
+    "apexPrice": 2000000000,
+    "QL": [
+        15,
+        200,
+        1
+    ],
+    "GL": [
+        15,
+        200,
+        1
+    ],
+    "SL": [
+        15,
+        250,
+        1
+    ],
+    "CL": [
+        15,
+        250,
+        1
+    ],
+    "VL": [
+        15,
+        250,
+        1
+    ],
+    "NL": [
+        15,
+        350,
+        1
+    ],
+    "TL": [
+        15,
+        300,
+        1
+    ],
+    "AL": [
+        15,
+        300,
+        1
+    ],
+    "BL": [
+        15,
+        400,
+        1
+    ],
+    "UL": [
+        15,
+        450,
+        1
+    ],
+    "ML": [
+        15,
+        450,
+        1
+    ],
+    "PL": [
+        15,
+        500,
+        1
+    ],
+    "IL": [
+        15,
+        500,
+        1
+    ],
+    "KL": [
+        100,
+        350,
+        1
+    ],
+    "ZL": [
+        100,
+        450,
+        1
+    ],
+    "LL": [
+        50,
+        350,
+        1
+    ],
+    "enigmaSouls": [
+        [
+            "Woods Flower Pot",
+            -6,
+            60,
+            226
+        ],
+        [
+            "Wither Cage",
+            -142,
+            68,
+            174
+        ],
+        [
+            "Pressurized",
+            -137,
+            51,
+            120
+        ],
+        [
+            "Two Plates",
+            -129,
+            72,
+            77
+        ],
+        [
+            "Up in the Sky",
+            -137,
+            133,
+            156
+        ],
+        [
+            "Between Branches",
+            -108,
+            117,
+            123
+        ],
+        [
+            "Tel Kar",
+            -115,
+            69,
+            61
+        ],
+        [
+            "Mushroom Guy",
+            -168,
+            81,
+            12
+        ],
+        [
+            "Roy",
+            -204,
+            75,
+            49
+        ],
+        [
+            "Spinning Runes",
+            -93,
+            73,
+            36
+        ],
+        [
+            "Hot Dog Contest",
+            -102,
+            72,
+            -103
+        ],
+        [
+            "Fake Neuroscience",
+            -34,
+            71,
+            -88
+        ],
+        [
+            "2 Players Soul",
+            -106,
+            78,
+            -101
+        ],
+        [
+            "Cake House #1",
+            -95,
+            76,
+            -82
+        ],
+        [
+            "Cake House #2",
+            -94,
+            70,
+            -84
+        ],
+        [
+            "Dolphin Parkour",
+            -38,
+            44,
+            130
+        ],
+        [
+            "Between Roofs",
+            -88,
+            79,
+            -102
+        ],
+        [
+            "Farm Flower Pot",
+            -76,
+            90,
+            -149
+        ],
+        [
+            "Beanstalk",
+            -106,
+            249,
+            -149
+        ],
+        [
+            "Buttons",
+            -74,
+            65,
+            -119
+        ],
+        [
+            "Farm Balloons",
+            -77,
+            72,
+            -176
+        ],
+        [
+            "Back to Basics",
+            -88,
+            20,
+            0
+        ],
+        [
+            "Buy BZT Today",
+            27,
+            71,
+            -77
+        ],
+        [
+            "Plaza Fleespook",
+            42,
+            88,
+            -91
+        ],
+        [
+            "Lonely Ävaeìkx",
+            -34,
+            66,
+            -25
+        ],
+        [
+            "Between Cooler Roofs",
+            -23,
+            84,
+            -92
+        ],
+        [
+            "Behind a Living Wall",
+            38,
+            63,
+            -198
+        ],
+        [
+            "Flowery Message",
+            3,
+            68,
+            -204
+        ],
+        [
+            "Standing there",
+            255,
+            74,
+            160
+        ],
+        [
+            "Between Towers",
+            262,
+            118,
+            94
+        ],
+        [
+            "Castle Fleespook",
+            182,
+            92,
+            124
+        ],
+        [
+            "Castle Flower Pot",
+            266,
+            60,
+            145
+        ],
+        [
+            "Castle Balloons",
+            232,
+            94,
+            168
+        ],
+        [
+            "Fairylosopher",
+            256,
+            130,
+            75
+        ]
+    ],
+    "catSouls": [
+        [
+            "Piece 1",
+            -93,
+            69,
+            112
+        ],
+        [
+            "Piece 2",
+            0,
+            56,
+            63
+        ],
+        [
+            "Piece 3",
+            -139,
+            45,
+            15
+        ],
+        [
+            "Piece 4",
+            -62,
+            88,
+            -81
+        ],
+        [
+            "Piece 5",
+            -24,
+            72,
+            -198
+        ],
+        [
+            "Piece 6",
+            38,
+            65,
+            -118
+        ],
+        [
+            "Piece 7",
+            8,
+            72,
+            -15
+        ],
+        [
+            "Piece 8",
+            22,
+            43,
+            -220
+        ],
+        [
+            "Piece 9",
+            152,
+            80,
+            -14
+        ]
+    ],
+    "profileId": "cbcbcaaa-4182-4d77-bab6-b1345770fa92"
+}

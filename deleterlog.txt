@@ -468,3 +468,152 @@ Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyPatch
 Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyPatcher-1.8.9-forge-1.10.1.jar"
 Successfully deleted "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyPatcher-1.8.9-forge-1.10.1.jar"!
 Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0-beta.21+403-for-MC-1.8.9.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0-beta.21+403-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0-beta.21+403-for-MC-1.8.9.jar"
+
+"C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0-beta.21+403-for-MC-1.8.9.jar" failed to delete, trying again in 1 seconds...
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0-beta.21+403-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0-beta.21+403-for-MC-1.8.9.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0-beta.21+403-for-MC-1.8.9.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0+422-for-MC-1.8.9.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0+422-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0+422-for-MC-1.8.9.jar"
+
+"C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0+422-for-MC-1.8.9.jar" failed to delete, trying again in 1 seconds...
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0+422-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0+422-for-MC-1.8.9.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.0+422-for-MC-1.8.9.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.7.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.7.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.7.jar"
+
+"C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.7.jar" failed to delete, trying again in 1 seconds...
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.7.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.7.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.7.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.1+424-for-MC-1.8.9.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.1+424-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.1+424-for-MC-1.8.9.jar"
+
+"C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.1+424-for-MC-1.8.9.jar" failed to delete, trying again in 1 seconds...
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.1+424-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.1+424-for-MC-1.8.9.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.1+424-for-MC-1.8.9.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\Skytils-1.10.7.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\Skytils-1.10.7.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\Skytils-1.10.7.jar"
+
+"C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\Skytils-1.10.7.jar" failed to delete, trying again in 1 seconds...
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\Skytils-1.10.7.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\Skytils-1.10.7.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\Skytils-1.10.7.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\NotEnoughUpdates-2.4.0.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\NotEnoughUpdates-2.4.0.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\NotEnoughUpdates-2.4.0.jar"
+
+"C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\NotEnoughUpdates-2.4.0.jar" failed to delete, trying again in 1 seconds...
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\NotEnoughUpdates-2.4.0.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\NotEnoughUpdates-2.4.0.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\NotEnoughUpdates-2.4.0.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.8.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.8.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.8.jar"
+
+"C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.8.jar" failed to delete, trying again in 1 seconds...
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.8.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.8.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\PolyNametag-1.8.9-forge-1.0.8.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.2+434-for-MC-1.8.9.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.2+434-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.2+434-for-MC-1.8.9.jar"
+
+"C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.2+434-for-MC-1.8.9.jar" failed to delete, trying again in 1 seconds...
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.2+434-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.2+434-for-MC-1.8.9.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.2+434-for-MC-1.8.9.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\CrashPatch-1.8.9-forge-2.0.1.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\CrashPatch-1.8.9-forge-2.0.1.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\CrashPatch-1.8.9-forge-2.0.1.jar"
+
+"C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\CrashPatch-1.8.9-forge-2.0.1.jar" failed to delete, trying again in 1 seconds...
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\CrashPatch-1.8.9-forge-2.0.1.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\CrashPatch-1.8.9-forge-2.0.1.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\CrashPatch-1.8.9-forge-2.0.1.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.3+449-for-MC-1.8.9.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.3+449-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.3+449-for-MC-1.8.9.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\.minecraft\skyclient\mods\SkyblockAddons-1.9.3+449-for-MC-1.8.9.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.9.5+458-for-MC-1.8.9.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.9.5+458-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.9.5+458-for-MC-1.8.9.jar"
+
+"C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.9.5+458-for-MC-1.8.9.jar" failed to delete, trying again in 1 seconds...
+Checking if "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.9.5+458-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.9.5+458-for-MC-1.8.9.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.9.5+458-for-MC-1.8.9.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.1+503-for-MC-1.8.9.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.1+503-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.1+503-for-MC-1.8.9.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.1+503-for-MC-1.8.9.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.2+509-for-MC-1.8.9.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.2+509-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.2+509-for-MC-1.8.9.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.2+509-for-MC-1.8.9.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.3+513-for-MC-1.8.9.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.3+513-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.3+513-for-MC-1.8.9.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.3+513-for-MC-1.8.9.jar"!
+Done! You can now close this window.
++++ ARGS
+    C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.5+517-for-MC-1.8.9.jar
+    C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\Skytils-1.10.8.jar
+--- ARGS
+Checking if "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.5+517-for-MC-1.8.9.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.5+517-for-MC-1.8.9.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\SkyblockAddons-1.10.5+517-for-MC-1.8.9.jar"!
+Checking if "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\Skytils-1.10.8.jar" exists
+Deleting file "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\Skytils-1.10.8.jar"
+Successfully deleted "C:\Users\Nicola\AppData\Roaming\PrismLauncher\instances\1.8.9\.minecraft\mods\Skytils-1.10.8.jar"!
+Done! You can now close this window.
